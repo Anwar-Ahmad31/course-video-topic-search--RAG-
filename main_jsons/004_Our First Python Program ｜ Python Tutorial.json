@@ -1,0 +1,253 @@
+{
+  "video_number": 4,
+  "title": "Our First Python Program ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 13.76,
+      "text": "Guys, we welcome you guys in 100 days of code In today's video, we will take our Python program We will take our first Python program Because this is a Python program In which we will take a line of understanding"
+    },
+    {
+      "chunk_number": 2,
+      "start": 13.76,
+      "end": 28.2,
+      "text": "We will understand what is happening in our Python program And we will write it from scratch In our videos, we will write very bad Python programs from scratch But this is going to be our first program Let's go to the computer screen and let's get started"
+    },
+    {
+      "chunk_number": 3,
+      "start": 30.0,
+      "end": 48.72,
+      "text": "So, I have already written in the day 4 And today we will write our first program Now, we have written our first program We have written it We have not written many programs"
+    },
+    {
+      "chunk_number": 4,
+      "start": 48.72,
+      "end": 57.24,
+      "text": "But this program is going to be Which is character by character, word by word I am going to write from scratch So, this is going to be our first problem So, what do you guys do first?"
+    },
+    {
+      "chunk_number": 5,
+      "start": 57.24,
+      "end": 63.72,
+      "text": "So, print Now, what is in the Python program? Let me tell you Print is a function What is the function?"
+    },
+    {
+      "chunk_number": 6,
+      "start": 63.72,
+      "end": 80.12,
+      "text": "Basically, you use some task to perform Print is a function to invoke any function We use some of these as our parentheses As you can see, I have written a PRA in the end After writing a parentheses"
+    },
+    {
+      "chunk_number": 7,
+      "start": 80.12,
+      "end": 88.68,
+      "text": "And after that, I can close it like this And I will write whatever I write in it I will get print in it I know I write 7 So, I will get 7 print"
+    },
+    {
+      "chunk_number": 8,
+      "start": 88.68,
+      "end": 100.68,
+      "text": "But, what will we do? We will write a Hello Word And you will have heard the Python programming In any programming language, when someone writes a code So, the first program is written"
+    },
+    {
+      "chunk_number": 9,
+      "start": 100.68,
+      "end": 107.68,
+      "text": "It is written as Hello Word You can see here As I have written print in the print I have written a line of red here And this is an invalid syntax"
+    },
+    {
+      "chunk_number": 10,
+      "start": 107.68,
+      "end": 115.08,
+      "text": "Let's run it and see it What is this? Start with error Yes, start with error When we eat, we will learn"
+    },
+    {
+      "chunk_number": 11,
+      "start": 115.08,
+      "end": 126.44,
+      "text": "So, here you can see, I have written print I have got a error Why did I get error in the name? Python, when you use the print You have to give an object to it"
+    },
+    {
+      "chunk_number": 12,
+      "start": 126.44,
+      "end": 138.92,
+      "text": "Hello Word is a valid object It is not Python's point Python says that I don't know the word Yes, but if you close a double code Then you are talking about a string in the name of Python programming"
+    },
+    {
+      "chunk_number": 13,
+      "start": 138.92,
+      "end": 148.20000000000002,
+      "text": "Hello Word is a string And we have written the first program Hello Word is looking at us You are looking at the output You are looking at the output"
+    },
+    {
+      "chunk_number": 14,
+      "start": 148.20000000000002,
+      "end": 156.84,
+      "text": "Let's save the talent Congratulations, write in the comment For me, this is the first program The character we have written in the name of Python It is very big"
+    },
+    {
+      "chunk_number": 15,
+      "start": 156.84,
+      "end": 165.48000000000002,
+      "text": "So far, so good If I write the PRA and T And then I write the five Then first I will write the first Hello Word, I will write the five"
+    },
+    {
+      "chunk_number": 16,
+      "start": 165.48000000000002,
+      "end": 177.16,
+      "text": "Then I will write the five We have run Python in the terminal We saw that when I write Python 3 And then I write the print Hello Word"
+    },
+    {
+      "chunk_number": 17,
+      "start": 177.16,
+      "end": 187.16,
+      "text": "I am getting the manual line by line I want to do it I am getting the manual You see, I have typed the first word After that, I have typed the print 5"
+    },
+    {
+      "chunk_number": 18,
+      "start": 187.16,
+      "end": 197.16,
+      "text": "Then I have typed the print 5 So, what do I do? No, I don't need to type it I can make a script So, I made a script"
+    },
+    {
+      "chunk_number": 19,
+      "start": 197.16,
+      "end": 208.12,
+      "text": "The name of the name mean.py script Means that the line by line execution If I write the first word in the code Then I will write the print 5 And then I will execute the print"
+    },
+    {
+      "chunk_number": 20,
+      "start": 208.12,
+      "end": 218.12,
+      "text": "And as I know I will write the print by I will write it like this Then I will write the first word Then I will write the five"
+    },
+    {
+      "chunk_number": 21,
+      "start": 218.12,
+      "end": 228.12,
+      "text": "Because the script is doing the line by line Now, how the print is written We don't want to go into this implementation If you want to know What other uses are"
+    },
+    {
+      "chunk_number": 22,
+      "start": 228.12,
+      "end": 238.12,
+      "text": "You see, this is the letter If you have taken the mouse here, then I will tell you Please give the values The object is there You can give multiple values"
+    },
+    {
+      "chunk_number": 23,
+      "start": 238.12,
+      "end": 248.12,
+      "text": "Like this You see, the space is 7 Then the next statement is executed Then the next execute And the line by line is the script"
+    },
+    {
+      "chunk_number": 24,
+      "start": 248.12,
+      "end": 258.12,
+      "text": "Will we only print the programming language From the side No, we can only print We can see many things And this is the score"
+    },
+    {
+      "chunk_number": 25,
+      "start": 258.12,
+      "end": 268.12,
+      "text": "We will tell you what we will do But we will start Our first Python program is What is the script And when we execute a command"
+    },
+    {
+      "chunk_number": 26,
+      "start": 268.12,
+      "end": 278.12,
+      "text": "We will give the line by line Python Interpreter In the Rappl When we write Python 3 Python 3"
+    },
+    {
+      "chunk_number": 27,
+      "start": 278.12,
+      "end": 288.12,
+      "text": "This is a read-evaluate print loop I will write it 8 plus 9 Then I will write it 17 But after that, I will write something else I will write it in the output"
+    },
+    {
+      "chunk_number": 28,
+      "start": 288.12,
+      "end": 300.12,
+      "text": "I will write it in the output Ideally, we don't want to do this Ideally, we want to process the sequence of instructions We want to say that Python is working"
+    },
+    {
+      "chunk_number": 29,
+      "start": 300.12,
+      "end": 310.12,
+      "text": "We want to execute this first Then execute this And I bought 10 rupees Kilo of Bindi And I bought 5 Kilo"
+    },
+    {
+      "chunk_number": 30,
+      "start": 310.12,
+      "end": 324.12,
+      "text": "Or I bought 17 rupees Kilo of Bindi So I will say that 5 Kilo of Bindi is 17 And I bought 13 Kilo of Bindi So how much will Python tell"
+    },
+    {
+      "chunk_number": 31,
+      "start": 324.12,
+      "end": 334.12,
+      "text": "You can do some computations in the App For multiplication, you have to write star Don't write x For the star, you have to write star It is the same for the divide"
+    },
+    {
+      "chunk_number": 32,
+      "start": 334.12,
+      "end": 344.12,
+      "text": "And then plus and minus If you try to do this But you can do it in 21 I bought it in the same way So by the way, you can do some computations"
+    },
+    {
+      "chunk_number": 33,
+      "start": 344.12,
+      "end": 354.12,
+      "text": "In the coming videos We will learn more things In this course, I want to tell you Which course is not for this If you can't do daily consistent"
+    },
+    {
+      "chunk_number": 34,
+      "start": 354.12,
+      "end": 364.12,
+      "text": "Or you want to do things in short cut Or this course is not for you Because this course is a demand Consistency Or you practice"
+    },
+    {
+      "chunk_number": 35,
+      "start": 364.12,
+      "end": 374.12,
+      "text": "And watch your time And come out of the day and come And complete the code challenge And go to the public comment And give your attendance in the comment"
+    },
+    {
+      "chunk_number": 36,
+      "start": 374.12,
+      "end": 384.12,
+      "text": "And I will show you in the present If you want to learn more And do not practice And do not practice Because it is not for you"
+    },
+    {
+      "chunk_number": 37,
+      "start": 384.12,
+      "end": 394.12,
+      "text": "Because it is for you And you have to take the stairs And this is the stairs And you have to walk for 100 days And trust me"
+    },
+    {
+      "chunk_number": 38,
+      "start": 394.12,
+      "end": 404.12,
+      "text": "It will be worth it at the end I will tell you the things And that I have been learning for a long time And coming out of the video We will do the actual coding"
+    },
+    {
+      "chunk_number": 39,
+      "start": 404.12,
+      "end": 414.12,
+      "text": "We will write all the codes over the next few videos And in fact, over the next A lot of videos Because we will do the challenge for 100 days And do not do this video in the future"
+    },
+    {
+      "chunk_number": 40,
+      "start": 414.12,
+      "end": 424.12,
+      "text": "If you do not do the playlist access Then do do it And save it Thank you so much for watching this video And I will see you"
+    },
+    {
+      "chunk_number": 41,
+      "start": 424.12,
+      "end": 430.12,
+      "text": "Next time See you"
+    }
+  ],
+  "text": "Guys, we welcome you guys in 100 days of code In today's video, we will take our Python program We will take our first Python program Because this is a Python program In which we will take a line of understanding We will understand what is happening in our Python program And we will write it from scratch In our videos, we will write very bad Python programs from scratch But this is going to be our first program Let's go to the computer screen and let's get started So, I have already written in the day 4 And today we will write our first program Now, we have written our first program We have written it We have not written many programs But this program is going to be Which is character by character, word by word I am going to write from scratch So, this is going to be our first problem So, what do you guys do first? So, print Now, what is in the Python program? Let me tell you Print is a function What is the function? Basically, you use some task to perform Print is a function to invoke any function We use some of these as our parentheses As you can see, I have written a PRA in the end After writing a parentheses And after that, I can close it like this And I will write whatever I write in it I will get print in it I know I write 7 So, I will get 7 print But, what will we do? We will write a Hello Word And you will have heard the Python programming In any programming language, when someone writes a code So, the first program is written It is written as Hello Word You can see here As I have written print in the print I have written a line of red here And this is an invalid syntax Let's run it and see it What is this? Start with error Yes, start with error When we eat, we will learn So, here you can see, I have written print I have got a error Why did I get error in the name? Python, when you use the print You have to give an object to it Hello Word is a valid object It is not Python's point Python says that I don't know the word Yes, but if you close a double code Then you are talking about a string in the name of Python programming Hello Word is a string And we have written the first program Hello Word is looking at us You are looking at the output You are looking at the output Let's save the talent Congratulations, write in the comment For me, this is the first program The character we have written in the name of Python It is very big So far, so good If I write the PRA and T And then I write the five Then first I will write the first Hello Word, I will write the five Then I will write the five We have run Python in the terminal We saw that when I write Python 3 And then I write the print Hello Word I am getting the manual line by line I want to do it I am getting the manual You see, I have typed the first word After that, I have typed the print 5 Then I have typed the print 5 So, what do I do? No, I don't need to type it I can make a script So, I made a script The name of the name mean.py script Means that the line by line execution If I write the first word in the code Then I will write the print 5 And then I will execute the print And as I know I will write the print by I will write it like this Then I will write the first word Then I will write the five Because the script is doing the line by line Now, how the print is written We don't want to go into this implementation If you want to know What other uses are You see, this is the letter If you have taken the mouse here, then I will tell you Please give the values The object is there You can give multiple values Like this You see, the space is 7 Then the next statement is executed Then the next execute And the line by line is the script Will we only print the programming language From the side No, we can only print We can see many things And this is the score We will tell you what we will do But we will start Our first Python program is What is the script And when we execute a command We will give the line by line Python Interpreter In the Rappl When we write Python 3 Python 3 This is a read-evaluate print loop I will write it 8 plus 9 Then I will write it 17 But after that, I will write something else I will write it in the output I will write it in the output Ideally, we don't want to do this Ideally, we want to process the sequence of instructions We want to say that Python is working We want to execute this first Then execute this And I bought 10 rupees Kilo of Bindi And I bought 5 Kilo Or I bought 17 rupees Kilo of Bindi So I will say that 5 Kilo of Bindi is 17 And I bought 13 Kilo of Bindi So how much will Python tell You can do some computations in the App For multiplication, you have to write star Don't write x For the star, you have to write star It is the same for the divide And then plus and minus If you try to do this But you can do it in 21 I bought it in the same way So by the way, you can do some computations In the coming videos We will learn more things In this course, I want to tell you Which course is not for this If you can't do daily consistent Or you want to do things in short cut Or this course is not for you Because this course is a demand Consistency Or you practice And watch your time And come out of the day and come And complete the code challenge And go to the public comment And give your attendance in the comment And I will show you in the present If you want to learn more And do not practice And do not practice Because it is not for you Because it is for you And you have to take the stairs And this is the stairs And you have to walk for 100 days And trust me It will be worth it at the end I will tell you the things And that I have been learning for a long time And coming out of the video We will do the actual coding We will write all the codes over the next few videos And in fact, over the next A lot of videos Because we will do the challenge for 100 days And do not do this video in the future If you do not do the playlist access Then do do it And save it Thank you so much for watching this video And I will see you Next time See you"
+}

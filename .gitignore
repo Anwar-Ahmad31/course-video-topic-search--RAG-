@@ -1,0 +1,39 @@
+# ─── Large binary / media files ───────────────────────────────────────────────
+videos/
+audios/
+
+# ─── Generated data (too large for Git — regenerate by running the notebooks) ─
+jsons/
+main_embedded_jsons/
+
+# ─── Prototype / archive folder ───────────────────────────────────────────────
+un_use_file/
+
+# ─── Jupyter internals ────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# ─── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ─── Virtual environments ─────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ─── Partially downloaded files ───────────────────────────────────────────────
+*.part
+
+# ─── OS files ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Editor / IDE ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo

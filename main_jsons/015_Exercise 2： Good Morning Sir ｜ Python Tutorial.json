@@ -1,0 +1,145 @@
+{
+  "video_number": 15,
+  "title": "Exercise 2： Good Morning Sir ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 20.0,
+      "text": "Today we will talk about how much we will take in 12 days. Because in today's video, you will need to use the EFL statements in one more exercise. You will know that exactly the EFL statements are practical used. We will use the time module. Let's go to the computer screen and I will show you the exercise."
+    },
+    {
+      "chunk_number": 2,
+      "start": 20.0,
+      "end": 45.0,
+      "text": "I have already seen the computer screen in this exercise. You can see the computer screen in this exercise. And this exercise is called Good Morning. You should make a Python program that will greet users with good morning, good afternoon and good evening. Depending upon the time."
+    },
+    {
+      "chunk_number": 3,
+      "start": 45.0,
+      "end": 57.0,
+      "text": "Now we are going to use the time module. I have given you a link. You should have seen it. It is very simple and you will feel that it is cheating. I am going to tell you that it will be a very big hint."
+    },
+    {
+      "chunk_number": 4,
+      "start": 57.0,
+      "end": 68.0,
+      "text": "I will tell you what you should do without it. I have given you a hint. I will show you this program. I will show you this program. I will challenge you not to see this program."
+    },
+    {
+      "chunk_number": 5,
+      "start": 68.0,
+      "end": 79.0,
+      "text": "I will not do this exercise. I will not post the exercise. You should not see it. You should not see it. I have solved it."
+    },
+    {
+      "chunk_number": 6,
+      "start": 79.0,
+      "end": 90.0,
+      "text": "I have solved it. I am confident. You should see the program. The question is to write a program. Good morning and good afternoon and good evening."
+    },
+    {
+      "chunk_number": 7,
+      "start": 90.0,
+      "end": 103.0,
+      "text": "Write it. Pause the video here and write. I will talk about it later. You will post the video and I will tell you what I have said. People who are in a problem and they are not able to make a module."
+    },
+    {
+      "chunk_number": 8,
+      "start": 103.0,
+      "end": 116.0,
+      "text": "They are not able to make a module. For those who do not know what they are doing. They need a hint. They need a problem solving the problem. I will tell you that you should run this sample program."
+    },
+    {
+      "chunk_number": 9,
+      "start": 116.0,
+      "end": 128.0,
+      "text": "The time module is not needed for building. Run this sample program. We have imported the time module. We have printed different times times. It is a function that gives us hour and minute."
+    },
+    {
+      "chunk_number": 10,
+      "start": 128.0,
+      "end": 139.0,
+      "text": "If you are running this program in rapid, you will be able to run it in US time zone. Because your Rapples are not in US. This is the issue. If you are running your local computer,"
+    },
+    {
+      "chunk_number": 11,
+      "start": 139.0,
+      "end": 150.0,
+      "text": "you will be able to run your local computer. You will get time to see what you are looking for. Good morning and good evening. You will get time to meet your local computer. If you are running your local computer."
+    },
+    {
+      "chunk_number": 12,
+      "start": 150.0,
+      "end": 161.0,
+      "text": "I will show you an example. If I am writing Python or sorry Python 3. I am in Mac. If I am writing Python 3 and run this program. If I come to VSCode,"
+    },
+    {
+      "chunk_number": 13,
+      "start": 161.0,
+      "end": 177.0,
+      "text": "I will control and press Ctrl and press Ctrl. I will save it from the main.py. I will paste it and copy it. I will use code runner extension. I will have to do something here."
+    },
+    {
+      "chunk_number": 14,
+      "start": 177.0,
+      "end": 194.0,
+      "text": "I will have to do something here. I will show you the way to do this. You can go to settings and you can go to code runner. You can go to code runner."
+    },
+    {
+      "chunk_number": 15,
+      "start": 194.0,
+      "end": 208.0,
+      "text": "You can go to code runner. You can go to edit settings. I will show you Python 3. I will show you Python 3. I will run this program."
+    },
+    {
+      "chunk_number": 16,
+      "start": 208.0,
+      "end": 220.0,
+      "text": "This is my local time. This is my local time. Now I will print our minutes and seconds. In this format, it will be in the right place."
+    },
+    {
+      "chunk_number": 17,
+      "start": 220.0,
+      "end": 234.0,
+      "text": "It will be in the right place. I will show you the power. I will show you the speed. I will show you the second time. I hope you understood the way"
+    },
+    {
+      "chunk_number": 18,
+      "start": 234.0,
+      "end": 246.0,
+      "text": "I will show you the second time. If you want to go to control click on the link and you will know about it. I am very simple. I am not a big rocket science."
+    },
+    {
+      "chunk_number": 19,
+      "start": 246.0,
+      "end": 260.0,
+      "text": "I am going to give you a big hint. I will solve it. If you want to listen to the start, or you can post it. I am going to use the hint."
+    },
+    {
+      "chunk_number": 20,
+      "start": 260.0,
+      "end": 278.0,
+      "text": "If you are not a great user, then you will be able to see the string. You will not be able to see the string. It will be problematic. You will have to convert it into an integer."
+    },
+    {
+      "chunk_number": 21,
+      "start": 278.0,
+      "end": 288.0,
+      "text": "You will have to convert it into an integer. It was a very big hint. It was a very big hint. I have given the hint. I am showing it in the integer."
+    },
+    {
+      "chunk_number": 22,
+      "start": 288.0,
+      "end": 300.0,
+      "text": "I am not disturbing you. If you have not done the playlists yet, then do try to do the playlists. Thank you so much for watching this video. I will see you next time."
+    },
+    {
+      "chunk_number": 23,
+      "start": 318.0,
+      "end": 320.0,
+      "text": "Bye."
+    }
+  ],
+  "text": "Today we will talk about how much we will take in 12 days. Because in today's video, you will need to use the EFL statements in one more exercise. You will know that exactly the EFL statements are practical used. We will use the time module. Let's go to the computer screen and I will show you the exercise. I have already seen the computer screen in this exercise. You can see the computer screen in this exercise. And this exercise is called Good Morning. You should make a Python program that will greet users with good morning, good afternoon and good evening. Depending upon the time. Now we are going to use the time module. I have given you a link. You should have seen it. It is very simple and you will feel that it is cheating. I am going to tell you that it will be a very big hint. I will tell you what you should do without it. I have given you a hint. I will show you this program. I will show you this program. I will challenge you not to see this program. I will not do this exercise. I will not post the exercise. You should not see it. You should not see it. I have solved it. I have solved it. I am confident. You should see the program. The question is to write a program. Good morning and good afternoon and good evening. Write it. Pause the video here and write. I will talk about it later. You will post the video and I will tell you what I have said. People who are in a problem and they are not able to make a module. They are not able to make a module. For those who do not know what they are doing. They need a hint. They need a problem solving the problem. I will tell you that you should run this sample program. The time module is not needed for building. Run this sample program. We have imported the time module. We have printed different times times. It is a function that gives us hour and minute. If you are running this program in rapid, you will be able to run it in US time zone. Because your Rapples are not in US. This is the issue. If you are running your local computer, you will be able to run your local computer. You will get time to see what you are looking for. Good morning and good evening. You will get time to meet your local computer. If you are running your local computer. I will show you an example. If I am writing Python or sorry Python 3. I am in Mac. If I am writing Python 3 and run this program. If I come to VSCode, I will control and press Ctrl and press Ctrl. I will save it from the main.py. I will paste it and copy it. I will use code runner extension. I will have to do something here. I will have to do something here. I will show you the way to do this. You can go to settings and you can go to code runner. You can go to code runner. You can go to code runner. You can go to edit settings. I will show you Python 3. I will show you Python 3. I will run this program. This is my local time. This is my local time. Now I will print our minutes and seconds. In this format, it will be in the right place. It will be in the right place. I will show you the power. I will show you the speed. I will show you the second time. I hope you understood the way I will show you the second time. If you want to go to control click on the link and you will know about it. I am very simple. I am not a big rocket science. I am going to give you a big hint. I will solve it. If you want to listen to the start, or you can post it. I am going to use the hint. If you are not a great user, then you will be able to see the string. You will not be able to see the string. It will be problematic. You will have to convert it into an integer. You will have to convert it into an integer. It was a very big hint. It was a very big hint. I have given the hint. I am showing it in the integer. I am not disturbing you. If you have not done the playlists yet, then do try to do the playlists. Thank you so much for watching this video. I will see you next time. Bye."
+}

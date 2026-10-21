@@ -1,0 +1,631 @@
+{
+  "video_number": 5,
+  "title": "Comments, Escape Sequences & Print Statement ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 13.32,
+      "text": "Welcome to the second half of your 200 days of code In today's video, we will see comments, escape sequence characters and print statement from a little bit Whenever we are coding, we want to write in Python programming language in any language"
+    },
+    {
+      "chunk_number": 2,
+      "start": 13.32,
+      "end": 22.900000000000002,
+      "text": "and we don't want to leave any text in that program whatever we write in our program, we execute Python interpreter but whenever we want, we write some lines in our program"
+    },
+    {
+      "chunk_number": 3,
+      "start": 22.900000000000002,
+      "end": 31.82,
+      "text": "which we don't execute For example, if I write a program then it can be said that after 6 months I will forget what is happening in this program For me, writing in my program"
+    },
+    {
+      "chunk_number": 4,
+      "start": 31.82,
+      "end": 41.82,
+      "text": "will be a little bit difficult I want to add some lines like this Because in future, Harry told me what kind of program he wrote or if I am working with a friend"
+    },
+    {
+      "chunk_number": 5,
+      "start": 41.82,
+      "end": 51.82,
+      "text": "with a friend with a friend with a friend with a friend or if I am working with a friend with a friend with a friend with a friend then both of them will have to tell me what I am doing in this program and how I am working"
+    },
+    {
+      "chunk_number": 6,
+      "start": 51.82,
+      "end": 61.82,
+      "text": "I will use it in this way and let's get started in this video let's go to computer screen and let's get started"
+    },
+    {
+      "chunk_number": 7,
+      "start": 69.82,
+      "end": 79.82,
+      "text": "So what I will do is that I am going to open my main.py I am going to open my main.py and I will open my main.py"
+    },
+    {
+      "chunk_number": 8,
+      "start": 79.82,
+      "end": 89.82,
+      "text": "and here my main.py will open it and I will show you So if I write a friend"
+    },
+    {
+      "chunk_number": 9,
+      "start": 89.82,
+      "end": 99.82,
+      "text": "I am a good boy then there is no doubt that I am a good boy so I will be a good boy In fact, in the statement in double quotes"
+    },
+    {
+      "chunk_number": 10,
+      "start": 99.82,
+      "end": 109.82,
+      "text": "you will see the same thing and I will see the same good boy and you will see if I write a good boy and I will enter"
+    },
+    {
+      "chunk_number": 11,
+      "start": 109.82,
+      "end": 119.82,
+      "text": "and this viewer is also a good boy slash girl so if I do this"
+    },
+    {
+      "chunk_number": 12,
+      "start": 119.82,
+      "end": 129.82,
+      "text": "then what is the red line that is the sign how it is I will tell you what is the name of this"
+    },
+    {
+      "chunk_number": 13,
+      "start": 129.82,
+      "end": 139.82,
+      "text": "you know what you wrote a print but you did not like I did not like it so I said"
+    },
+    {
+      "chunk_number": 14,
+      "start": 139.82,
+      "end": 149.82,
+      "text": "what should I do I need a new line Python says you should have a new line so you should do"
+    },
+    {
+      "chunk_number": 15,
+      "start": 149.82,
+      "end": 159.82,
+      "text": "escape sequence you have to write backslash and this I will not kill you just write backslash"
+    },
+    {
+      "chunk_number": 16,
+      "start": 159.82,
+      "end": 169.82,
+      "text": "Python will take care of it so you have to write backslash and you will see you will see I am a good boy"
+    },
+    {
+      "chunk_number": 17,
+      "start": 169.82,
+      "end": 179.82,
+      "text": "and this viewer is also a good boy slash girl so what was the backslash this is the escape sequence"
+    },
+    {
+      "chunk_number": 18,
+      "start": 179.82,
+      "end": 189.82,
+      "text": "and I will tell you what are the other and what are the other other but I need to tell you"
+    },
+    {
+      "chunk_number": 19,
+      "start": 189.82,
+      "end": 201.34,
+      "text": "I know I am doing this on code I need to tell you community you will be able to share your stuff"
+    },
+    {
+      "chunk_number": 20,
+      "start": 201.34,
+      "end": 211.01999999999998,
+      "text": "right now fa help I will also give it up if you find the blog"
+    },
+    {
+      "chunk_number": 21,
+      "start": 211.01999999999998,
+      "end": 225.22,
+      "text": "let me know it Harry please don't remove this line I want to say that Harry does not remove this line I am doing it in this"
+    },
+    {
+      "chunk_number": 22,
+      "start": 225.22,
+      "end": 241.14000000000001,
+      "text": "For this line I want to keep it in codeways But you guys are watching here, Python is already being destroyed If you are saying that what is going on here, where is the invalid syntax? I understand it, I understand both the syntax and all But Harry please don't remove this line"
+    },
+    {
+      "chunk_number": 23,
+      "start": 241.14000000000001,
+      "end": 253.68,
+      "text": "I didn't like it Python, he says from the time of time So we will run it, obviously we will get the error There is no doubt in it and you will also tell us what is going on here But I want to keep the line in codeways Please, I will say from Python"
+    },
+    {
+      "chunk_number": 24,
+      "start": 253.68,
+      "end": 264.98,
+      "text": "Python says ok, don't do it like kids Don't do it like kids, I want to tell you how to keep it Python says that you can write comments in me It means that you can keep any text in it It means no one"
+    },
+    {
+      "chunk_number": 25,
+      "start": 265.98,
+      "end": 277.82,
+      "text": "You are so good in Python Python says yes, I am so good What should I do? Python says you can write a character like this And this will become a comment"
+    },
+    {
+      "chunk_number": 26,
+      "start": 277.82,
+      "end": 287.34000000000003,
+      "text": "Ok, what will become? This will become a comment And if you have marked any line after this First of all, you can see for the sake of the replete You can write in some ID"
+    },
+    {
+      "chunk_number": 27,
+      "start": 287.34000000000003,
+      "end": 300.02,
+      "text": "You can write in the syntax In this case, the comment that has been shown from Harry color And here, this syntax is going on I have written that in yellow color After this, the string letter is shown in some orange color"
+    },
+    {
+      "chunk_number": 28,
+      "start": 300.02,
+      "end": 312.53999999999996,
+      "text": "And this brackets are also shown in different colors Ok, I am looking at the error in red This syntax is still in the writing Which gives you any ID or replete Ok, Harry please don't remove this line"
+    },
+    {
+      "chunk_number": 29,
+      "start": 312.53999999999996,
+      "end": 326.02,
+      "text": "Now let's go And now we have our program I can write in some text in my program I can add some information Like I want to mark this program's author Harry"
+    },
+    {
+      "chunk_number": 30,
+      "start": 326.02,
+      "end": 336.02,
+      "text": "And I want to mark this thing And also, this code is 100 days of code Ok I want to write this in my mind So I can write it"
+    },
+    {
+      "chunk_number": 31,
+      "start": 336.02,
+      "end": 344.02,
+      "text": "I can write it And I will tell you one thing Ok, what is the meaning of the meaning of the meaning? Because I have told you You can select multiple lines"
+    },
+    {
+      "chunk_number": 32,
+      "start": 344.02,
+      "end": 354.02,
+      "text": "And control Or if you are under the command Control plus forward slash Like you press You can comment any code"
+    },
+    {
+      "chunk_number": 33,
+      "start": 354.02,
+      "end": 365.02,
+      "text": "So in this way, I will comment on many lines And I will show you how to do it Because I will do it Control plus forward slash So control plus forward slash"
+    },
+    {
+      "chunk_number": 34,
+      "start": 365.02,
+      "end": 375.02,
+      "text": "You can use this Ok And I will talk about one line And this line And this line is not talking about the series"
+    },
+    {
+      "chunk_number": 35,
+      "start": 375.02,
+      "end": 385.02,
+      "text": "So I was telling you That these lines You can mark multiple lines As comments You can also comment"
+    },
+    {
+      "chunk_number": 36,
+      "start": 385.02,
+      "end": 395.02,
+      "text": "So this is a big thing So here I have written That a comment is a part of coding And the programmer does not want to execute Rather the programmer uses it to"
+    },
+    {
+      "chunk_number": 37,
+      "start": 395.02,
+      "end": 407.02,
+      "text": "Either explain a block of code Or avoid the execution of a specific part of code while testing The meaning of this thing Is that I write a comment I write the code"
+    },
+    {
+      "chunk_number": 38,
+      "start": 407.02,
+      "end": 415.02,
+      "text": "Ok I want to write this here Print Hello Word Now I will show you"
+    },
+    {
+      "chunk_number": 39,
+      "start": 415.02,
+      "end": 425.02,
+      "text": "I have written a lot of programs How to write this? And this is a big one I am not liking this I will say"
+    },
+    {
+      "chunk_number": 40,
+      "start": 425.02,
+      "end": 435.02,
+      "text": "I will slash Control And now I can delete this code Now I will say What is going on And how to write this word"
+    },
+    {
+      "chunk_number": 41,
+      "start": 435.02,
+      "end": 445.02,
+      "text": "I can do this again And it will be again Ok Hello Word, comment Or uncomment"
+    },
+    {
+      "chunk_number": 42,
+      "start": 445.02,
+      "end": 455.02,
+      "text": "Ok, I have written this You have given an example You will need to write a code And paste it And run it"
+    },
+    {
+      "chunk_number": 43,
+      "start": 455.02,
+      "end": 465.02,
+      "text": "Ok, as you will do You will see this is a single line comment And you will see this is a print statement I have given an example You can write a line"
+    },
+    {
+      "chunk_number": 44,
+      "start": 465.02,
+      "end": 475.02,
+      "text": "If you write something like this I am paste it And write it like this And then I can write a print And what can I do"
+    },
+    {
+      "chunk_number": 45,
+      "start": 475.02,
+      "end": 485.02,
+      "text": "Actually I have deleted this I should have written a book Now see, as you will see I write a print And then I write a word"
+    },
+    {
+      "chunk_number": 46,
+      "start": 485.02,
+      "end": 495.02,
+      "text": "And then I write a comment I can write it And my code is executed And as you will see this is a single line Ok, I have written everything"
+    },
+    {
+      "chunk_number": 47,
+      "start": 495.02,
+      "end": 505.02,
+      "text": "If I want to do it Then I will do Python interpreter Printing hello word You will ignore it What happens if it is not"
+    },
+    {
+      "chunk_number": 48,
+      "start": 505.02,
+      "end": 515.02,
+      "text": "Obviously it happens You will know What will happen if it is a print It is fine But you will see"
+    },
+    {
+      "chunk_number": 49,
+      "start": 515.02,
+      "end": 525.02,
+      "text": "You will see You will see You will see I will write a pound And then I will do it"
+    },
+    {
+      "chunk_number": 50,
+      "start": 525.02,
+      "end": 537.02,
+      "text": "And then I will do it Ok, you can see Now see what can I do I have already told you the code comment I want to tell you"
+    },
+    {
+      "chunk_number": 51,
+      "start": 537.02,
+      "end": 547.02,
+      "text": "How will you write the multi line comments I will tell you the story of multi line comments I told you That I will take an example of this"
+    },
+    {
+      "chunk_number": 52,
+      "start": 547.02,
+      "end": 557.02,
+      "text": "I told you to comment the three lines I have two lines Because I am living in modern world I have IDE I have a replicate"
+    },
+    {
+      "chunk_number": 53,
+      "start": 557.02,
+      "end": 567.02,
+      "text": "I have modern IDE So I select and select I will select the control forward It is used as a shortcut It is used as a shortcut"
+    },
+    {
+      "chunk_number": 54,
+      "start": 567.02,
+      "end": 577.02,
+      "text": "It is used as a shortcut It is used as a shortcut It is used as a shortcut The people who comment They do it in the comment"
+    },
+    {
+      "chunk_number": 55,
+      "start": 577.02,
+      "end": 587.02,
+      "text": "But if I do not do it Then what I do Then you can learn the shortcut Ok, all the shortcuts of the VS code In the replete, you will not be able to get the shortcut"
+    },
+    {
+      "chunk_number": 56,
+      "start": 587.02,
+      "end": 599.02,
+      "text": "If you learn the shortcut of the VS code You can google it I can also see the video of the VS code But now we will focus on python So I will close the video if I do it"
+    },
+    {
+      "chunk_number": 57,
+      "start": 599.02,
+      "end": 609.02,
+      "text": "In triple single code I will close the video if I do it The first thing that was written It was not a multi line comment So I wrote it"
+    },
+    {
+      "chunk_number": 58,
+      "start": 609.02,
+      "end": 619.02,
+      "text": "I can also use the same single But this is the triple single code You can also write it in the triple single code I will tell you the triple single code The triple single code program"
+    },
+    {
+      "chunk_number": 59,
+      "start": 619.02,
+      "end": 629.02,
+      "text": "It is our program But the triple double code I have added three triple double code I will do one more I will select the control"
+    },
+    {
+      "chunk_number": 60,
+      "start": 629.02,
+      "end": 639.02,
+      "text": "I will select the control forward And then I will go Ok, let's see This is very fun It is fun"
+    },
+    {
+      "chunk_number": 61,
+      "start": 639.02,
+      "end": 649.02,
+      "text": "Now we can comment We can comment If you have any line I will select the multiple lines And then I will go"
+    },
+    {
+      "chunk_number": 62,
+      "start": 649.02,
+      "end": 661.02,
+      "text": "In the command plus forward slash I can use it To comment this shortcut Ok, I hope you have understood Let's talk about the scape sequence characters"
+    },
+    {
+      "chunk_number": 63,
+      "start": 661.02,
+      "end": 673.02,
+      "text": "If you want to insert the characters For example, here I am a good boy And after that I have to insert a character I know how to insert a new line character"
+    },
+    {
+      "chunk_number": 64,
+      "start": 673.02,
+      "end": 685.02,
+      "text": "So I will do it I will do it So that you can see the output of this print statement I understood That you can focus on this print statement"
+    },
+    {
+      "chunk_number": 65,
+      "start": 685.02,
+      "end": 697.02,
+      "text": "Here I am a good boy And this viewer is also a good boy slash girl Now you can see that this tutorial I have written the number I have written that"
+    },
+    {
+      "chunk_number": 66,
+      "start": 697.02,
+      "end": 707.02,
+      "text": "To insert characters that cannot use the string Use the scape sequence It is a character So that you can use the string"
+    },
+    {
+      "chunk_number": 67,
+      "start": 707.02,
+      "end": 717.02,
+      "text": "For example If I enter the new line character I will do it Because the pattern won't be able to pass If you put the new line in the string"
+    },
+    {
+      "chunk_number": 68,
+      "start": 717.02,
+      "end": 727.02,
+      "text": "Then we will pass it So we will put the new line character These characters are looking at the same character But this character is This is called scape sequence character"
+    },
+    {
+      "chunk_number": 69,
+      "start": 727.02,
+      "end": 737.02,
+      "text": "Backslash is a character This is a scape sequence character You can put the string in the string So you will see the new line If I run it"
+    },
+    {
+      "chunk_number": 70,
+      "start": 737.02,
+      "end": 747.02,
+      "text": "Then I am a good boy This will be in the new line What about me I want to close the double code This is what you should do"
+    },
+    {
+      "chunk_number": 71,
+      "start": 747.02,
+      "end": 757.02,
+      "text": "You have to think about this If you think about this You will see the red line If you give the sign It will be done"
+    },
+    {
+      "chunk_number": 72,
+      "start": 757.02,
+      "end": 767.02,
+      "text": "So you will see the ID If you do not run it If you do it You will see the error What is the problem"
+    },
+    {
+      "chunk_number": 73,
+      "start": 767.02,
+      "end": 777.02,
+      "text": "What is the problem When you start the print statement And start the string from the double code Confusion is coming This string is starting"
+    },
+    {
+      "chunk_number": 74,
+      "start": 777.02,
+      "end": 787.02,
+      "text": "And the end is coming Now you will see that the end is not coming But the Python interpreter is confused It says You have put double code here"
+    },
+    {
+      "chunk_number": 75,
+      "start": 787.02,
+      "end": 797.02,
+      "text": "You have put the end Okay, the end is coming Then what is this? For this valid string text Because if you are making a string"
+    },
+    {
+      "chunk_number": 76,
+      "start": 797.02,
+      "end": 807.02,
+      "text": "Then what is the good boy You will see the error So we will not use the double code We will not use the double code We will use the backslash double code"
+    },
+    {
+      "chunk_number": 77,
+      "start": 807.02,
+      "end": 817.02,
+      "text": "Which is a double code escape sequence So this is a corrector This is a corrector Now I will do this So I will double-code"
+    },
+    {
+      "chunk_number": 78,
+      "start": 817.02,
+      "end": 835.02,
+      "text": "This is a good boy It is coming in the double code I will do this one But this is a corrector The backslash double code"
+    },
+    {
+      "chunk_number": 79,
+      "start": 835.02,
+      "end": 847.02,
+      "text": "Which is a single double code Which is a escape sequence And escape sequence Is a backslash followed by the corrector you want to insert An example of a corrector"
+    },
+    {
+      "chunk_number": 80,
+      "start": 847.02,
+      "end": 857.02,
+      "text": "That cannot be directly used in a string If you are in the print The string is in the single code It has been made in a few ways So you cannot use single code"
+    },
+    {
+      "chunk_number": 81,
+      "start": 857.02,
+      "end": 869.02,
+      "text": "Now we will read the string in more detail But if I put the single code in the middle I cannot put the single code I will have to put the backslash double code Okay?"
+    },
+    {
+      "chunk_number": 82,
+      "start": 869.02,
+      "end": 879.02,
+      "text": "If I put the backslash double code in the middle Then this single code will come And then the tick single code Okay? So the single code is in the strings So this is our escape sequence"
+    },
+    {
+      "chunk_number": 83,
+      "start": 879.02,
+      "end": 889.02,
+      "text": "The corrector I hope you understood Now I want to tell you About the print statement First of all, what I want to tell you Is that you can only give you"
+    },
+    {
+      "chunk_number": 84,
+      "start": 889.02,
+      "end": 899.02,
+      "text": "One value, you can also give you multiple values Like I can give you this 6 and 7, this is three values And if I run it, I will get three This is 6 and 7"
+    },
+    {
+      "chunk_number": 85,
+      "start": 899.02,
+      "end": 909.02,
+      "text": "As you can see here in your computer screen You can see After that, the parameter of this is separate I will give you this as a cp If you want to put this corrector in the middle"
+    },
+    {
+      "chunk_number": 86,
+      "start": 909.02,
+      "end": 919.02,
+      "text": "And I will run it So you will get this as a cp If I put cp is equal to this Then this will be separated from the tilde corrector As you can see here"
+    },
+    {
+      "chunk_number": 87,
+      "start": 919.02,
+      "end": 929.02,
+      "text": "After that, the tilde is here And then the tilde is here So you also want to join Three things, given separators So I have done this"
+    },
+    {
+      "chunk_number": 88,
+      "start": 929.02,
+      "end": 939.02,
+      "text": "Okay? So you can do this After that, one more parameter And is equal to I will write the end is equal to Double 0 9"
+    },
+    {
+      "chunk_number": 89,
+      "start": 939.02,
+      "end": 951.02,
+      "text": "What does it mean? If I write a next print statement And I will write print Harry And I will run it So you will see that"
+    },
+    {
+      "chunk_number": 90,
+      "start": 951.02,
+      "end": 961.02,
+      "text": "6 and 7 will come And then the next print statement It will come as 0 0 9 Ideally, we write the end is equal to We write the end is equal to 9"
+    },
+    {
+      "chunk_number": 91,
+      "start": 961.02,
+      "end": 971.02,
+      "text": "We write the end is equal to We can also put the end is equal to By default, the end is equal to We can also put the end is equal to You should also tell this"
+    },
+    {
+      "chunk_number": 92,
+      "start": 971.02,
+      "end": 981.02,
+      "text": "Now I have put 0 0 9 When I will run the next print statement Then 0 0 9 My print statement What difference does it have?"
+    },
+    {
+      "chunk_number": 93,
+      "start": 981.02,
+      "end": 991.02,
+      "text": "In the end, it means The only print statement You have given multiple values That will be separated from what The default operator is"
+    },
+    {
+      "chunk_number": 94,
+      "start": 991.02,
+      "end": 1001.02,
+      "text": "Space, as I have written The default operator is space Then the end means When this print statement Will be the end, then what do you have to do?"
+    },
+    {
+      "chunk_number": 95,
+      "start": 1001.02,
+      "end": 1011.02,
+      "text": "You can write something here By default, a new line If you want to write this behaviour If you want to write this behaviour Then you can write this new line"
+    },
+    {
+      "chunk_number": 96,
+      "start": 1011.02,
+      "end": 1021.02,
+      "text": "Like I have run this print statement Then a new line automatically Then a new line automatically The print goes away If I don't write this"
+    },
+    {
+      "chunk_number": 97,
+      "start": 1021.02,
+      "end": 1031.02,
+      "text": "Because I have written 0 0 9 And I have written 0 0 9 Then this print statement Will be separated And the separator is"
+    },
+    {
+      "chunk_number": 98,
+      "start": 1031.02,
+      "end": 1041.02,
+      "text": "If you have given multiple values Then what is in the middle of it? Now there is another argument And you have to keep it in your mind I have written this"
+    },
+    {
+      "chunk_number": 99,
+      "start": 1041.02,
+      "end": 1051.02,
+      "text": "Because I want you to know That you can write in the file And object with the right method Default is.std You will write on the std"
+    },
+    {
+      "chunk_number": 100,
+      "start": 1051.02,
+      "end": 1061.02,
+      "text": "You will see the console you are running All these four arguments Then we will talk about In detail In today's video"
+    },
+    {
+      "chunk_number": 101,
+      "start": 1061.02,
+      "end": 1071.02,
+      "text": "In this course I have written 2 and 4 And 2 and 4 These are the separators And"
+    },
+    {
+      "chunk_number": 102,
+      "start": 1071.02,
+      "end": 1085.02,
+      "text": "And do not write all these things You can write the files And we have written the separator And we have printed the same But multiple values will also be given."
+    },
+    {
+      "chunk_number": 103,
+      "start": 1085.02,
+      "end": 1098.02,
+      "text": "I hope you are enjoying. If you are not doing this code access, Please do do all the bookmarks. You will have to click all the videos on the playlist. Click here and bookmark the playlist."
+    },
+    {
+      "chunk_number": 104,
+      "start": 1098.02,
+      "end": 1121.02,
+      "text": "Click here and save it. Thank you so much for watching this video. And I will see you next time. Subscribe to our channel."
+    }
+  ],
+  "text": "Welcome to the second half of your 200 days of code In today's video, we will see comments, escape sequence characters and print statement from a little bit Whenever we are coding, we want to write in Python programming language in any language and we don't want to leave any text in that program whatever we write in our program, we execute Python interpreter but whenever we want, we write some lines in our program which we don't execute For example, if I write a program then it can be said that after 6 months I will forget what is happening in this program For me, writing in my program will be a little bit difficult I want to add some lines like this Because in future, Harry told me what kind of program he wrote or if I am working with a friend with a friend with a friend with a friend with a friend or if I am working with a friend with a friend with a friend with a friend then both of them will have to tell me what I am doing in this program and how I am working I will use it in this way and let's get started in this video let's go to computer screen and let's get started So what I will do is that I am going to open my main.py I am going to open my main.py and I will open my main.py and here my main.py will open it and I will show you So if I write a friend I am a good boy then there is no doubt that I am a good boy so I will be a good boy In fact, in the statement in double quotes you will see the same thing and I will see the same good boy and you will see if I write a good boy and I will enter and this viewer is also a good boy slash girl so if I do this then what is the red line that is the sign how it is I will tell you what is the name of this you know what you wrote a print but you did not like I did not like it so I said what should I do I need a new line Python says you should have a new line so you should do escape sequence you have to write backslash and this I will not kill you just write backslash Python will take care of it so you have to write backslash and you will see you will see I am a good boy and this viewer is also a good boy slash girl so what was the backslash this is the escape sequence and I will tell you what are the other and what are the other other but I need to tell you I know I am doing this on code I need to tell you community you will be able to share your stuff right now fa help I will also give it up if you find the blog let me know it Harry please don't remove this line I want to say that Harry does not remove this line I am doing it in this For this line I want to keep it in codeways But you guys are watching here, Python is already being destroyed If you are saying that what is going on here, where is the invalid syntax? I understand it, I understand both the syntax and all But Harry please don't remove this line I didn't like it Python, he says from the time of time So we will run it, obviously we will get the error There is no doubt in it and you will also tell us what is going on here But I want to keep the line in codeways Please, I will say from Python Python says ok, don't do it like kids Don't do it like kids, I want to tell you how to keep it Python says that you can write comments in me It means that you can keep any text in it It means no one You are so good in Python Python says yes, I am so good What should I do? Python says you can write a character like this And this will become a comment Ok, what will become? This will become a comment And if you have marked any line after this First of all, you can see for the sake of the replete You can write in some ID You can write in the syntax In this case, the comment that has been shown from Harry color And here, this syntax is going on I have written that in yellow color After this, the string letter is shown in some orange color And this brackets are also shown in different colors Ok, I am looking at the error in red This syntax is still in the writing Which gives you any ID or replete Ok, Harry please don't remove this line Now let's go And now we have our program I can write in some text in my program I can add some information Like I want to mark this program's author Harry And I want to mark this thing And also, this code is 100 days of code Ok I want to write this in my mind So I can write it I can write it And I will tell you one thing Ok, what is the meaning of the meaning of the meaning? Because I have told you You can select multiple lines And control Or if you are under the command Control plus forward slash Like you press You can comment any code So in this way, I will comment on many lines And I will show you how to do it Because I will do it Control plus forward slash So control plus forward slash You can use this Ok And I will talk about one line And this line And this line is not talking about the series So I was telling you That these lines You can mark multiple lines As comments You can also comment So this is a big thing So here I have written That a comment is a part of coding And the programmer does not want to execute Rather the programmer uses it to Either explain a block of code Or avoid the execution of a specific part of code while testing The meaning of this thing Is that I write a comment I write the code Ok I want to write this here Print Hello Word Now I will show you I have written a lot of programs How to write this? And this is a big one I am not liking this I will say I will slash Control And now I can delete this code Now I will say What is going on And how to write this word I can do this again And it will be again Ok Hello Word, comment Or uncomment Ok, I have written this You have given an example You will need to write a code And paste it And run it Ok, as you will do You will see this is a single line comment And you will see this is a print statement I have given an example You can write a line If you write something like this I am paste it And write it like this And then I can write a print And what can I do Actually I have deleted this I should have written a book Now see, as you will see I write a print And then I write a word And then I write a comment I can write it And my code is executed And as you will see this is a single line Ok, I have written everything If I want to do it Then I will do Python interpreter Printing hello word You will ignore it What happens if it is not Obviously it happens You will know What will happen if it is a print It is fine But you will see You will see You will see You will see I will write a pound And then I will do it And then I will do it Ok, you can see Now see what can I do I have already told you the code comment I want to tell you How will you write the multi line comments I will tell you the story of multi line comments I told you That I will take an example of this I told you to comment the three lines I have two lines Because I am living in modern world I have IDE I have a replicate I have modern IDE So I select and select I will select the control forward It is used as a shortcut It is used as a shortcut It is used as a shortcut It is used as a shortcut It is used as a shortcut The people who comment They do it in the comment But if I do not do it Then what I do Then you can learn the shortcut Ok, all the shortcuts of the VS code In the replete, you will not be able to get the shortcut If you learn the shortcut of the VS code You can google it I can also see the video of the VS code But now we will focus on python So I will close the video if I do it In triple single code I will close the video if I do it The first thing that was written It was not a multi line comment So I wrote it I can also use the same single But this is the triple single code You can also write it in the triple single code I will tell you the triple single code The triple single code program It is our program But the triple double code I have added three triple double code I will do one more I will select the control I will select the control forward And then I will go Ok, let's see This is very fun It is fun Now we can comment We can comment If you have any line I will select the multiple lines And then I will go In the command plus forward slash I can use it To comment this shortcut Ok, I hope you have understood Let's talk about the scape sequence characters If you want to insert the characters For example, here I am a good boy And after that I have to insert a character I know how to insert a new line character So I will do it I will do it So that you can see the output of this print statement I understood That you can focus on this print statement Here I am a good boy And this viewer is also a good boy slash girl Now you can see that this tutorial I have written the number I have written that To insert characters that cannot use the string Use the scape sequence It is a character So that you can use the string For example If I enter the new line character I will do it Because the pattern won't be able to pass If you put the new line in the string Then we will pass it So we will put the new line character These characters are looking at the same character But this character is This is called scape sequence character Backslash is a character This is a scape sequence character You can put the string in the string So you will see the new line If I run it Then I am a good boy This will be in the new line What about me I want to close the double code This is what you should do You have to think about this If you think about this You will see the red line If you give the sign It will be done So you will see the ID If you do not run it If you do it You will see the error What is the problem What is the problem When you start the print statement And start the string from the double code Confusion is coming This string is starting And the end is coming Now you will see that the end is not coming But the Python interpreter is confused It says You have put double code here You have put the end Okay, the end is coming Then what is this? For this valid string text Because if you are making a string Then what is the good boy You will see the error So we will not use the double code We will not use the double code We will use the backslash double code Which is a double code escape sequence So this is a corrector This is a corrector Now I will do this So I will double-code This is a good boy It is coming in the double code I will do this one But this is a corrector The backslash double code Which is a single double code Which is a escape sequence And escape sequence Is a backslash followed by the corrector you want to insert An example of a corrector That cannot be directly used in a string If you are in the print The string is in the single code It has been made in a few ways So you cannot use single code Now we will read the string in more detail But if I put the single code in the middle I cannot put the single code I will have to put the backslash double code Okay? If I put the backslash double code in the middle Then this single code will come And then the tick single code Okay? So the single code is in the strings So this is our escape sequence The corrector I hope you understood Now I want to tell you About the print statement First of all, what I want to tell you Is that you can only give you One value, you can also give you multiple values Like I can give you this 6 and 7, this is three values And if I run it, I will get three This is 6 and 7 As you can see here in your computer screen You can see After that, the parameter of this is separate I will give you this as a cp If you want to put this corrector in the middle And I will run it So you will get this as a cp If I put cp is equal to this Then this will be separated from the tilde corrector As you can see here After that, the tilde is here And then the tilde is here So you also want to join Three things, given separators So I have done this Okay? So you can do this After that, one more parameter And is equal to I will write the end is equal to Double 0 9 What does it mean? If I write a next print statement And I will write print Harry And I will run it So you will see that 6 and 7 will come And then the next print statement It will come as 0 0 9 Ideally, we write the end is equal to We write the end is equal to 9 We write the end is equal to We can also put the end is equal to By default, the end is equal to We can also put the end is equal to You should also tell this Now I have put 0 0 9 When I will run the next print statement Then 0 0 9 My print statement What difference does it have? In the end, it means The only print statement You have given multiple values That will be separated from what The default operator is Space, as I have written The default operator is space Then the end means When this print statement Will be the end, then what do you have to do? You can write something here By default, a new line If you want to write this behaviour If you want to write this behaviour Then you can write this new line Like I have run this print statement Then a new line automatically Then a new line automatically The print goes away If I don't write this Because I have written 0 0 9 And I have written 0 0 9 Then this print statement Will be separated And the separator is If you have given multiple values Then what is in the middle of it? Now there is another argument And you have to keep it in your mind I have written this Because I want you to know That you can write in the file And object with the right method Default is.std You will write on the std You will see the console you are running All these four arguments Then we will talk about In detail In today's video In this course I have written 2 and 4 And 2 and 4 These are the separators And And do not write all these things You can write the files And we have written the separator And we have printed the same But multiple values will also be given. I hope you are enjoying. If you are not doing this code access, Please do do all the bookmarks. You will have to click all the videos on the playlist. Click here and bookmark the playlist. Click here and save it. Thank you so much for watching this video. And I will see you next time. Subscribe to our channel."
+}

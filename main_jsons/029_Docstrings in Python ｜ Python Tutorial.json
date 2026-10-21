@@ -1,0 +1,187 @@
+{
+  "video_number": 29,
+  "title": "Docstrings in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 39.7,
+      "text": "In today's video, I will tell you about the dog strings and the top 8 of the video is a very good dog string. So I will take the computer screen and explore these topics. Let's get started. So today we are talking about dog strings. Dog strings are a special thing in life. You can just help dog strings. It is a good thing to understand a function. If you find a function with a description,"
+    },
+    {
+      "chunk_number": 2,
+      "start": 39.7,
+      "end": 87.7,
+      "text": "you can't talk about it. This is the dog string. We can write a class definition in the dog string. We will show you the dog string. I have taken a string and I have taken a text in the number and returns of a square of friends. I will tell you about the dog string and the output of this function."
+    },
+    {
+      "chunk_number": 3,
+      "start": 87.7,
+      "end": 133.7,
+      "text": "If you find a dog string, you can find a dog string. You can find a dog string with a description. You can find a dog string with a description. This dog string is a special thing in life. You can find a dog string with a description."
+    },
+    {
+      "chunk_number": 4,
+      "start": 133.7,
+      "end": 185.7,
+      "text": "If you find a dog string with a description, you can find a dog string with a description. You can write a first line in the dog string and then you can take the input. You can find a dog string with a description. You can change the output of this function. You can change the output of this function."
+    },
+    {
+      "chunk_number": 5,
+      "start": 185.7,
+      "end": 249.7,
+      "text": "If you print a dog string, you can find a dog string. You can find a dog string with a description. You can find a dog string with a description. You can access this function. If you find a dog string, you can access this function."
+    },
+    {
+      "chunk_number": 6,
+      "start": 249.7,
+      "end": 261.7,
+      "text": "I will do this in my knowledge So, is this print of the dog string? No, because we are not dog string Dog string is done now Dog string will be written after this line"
+    },
+    {
+      "chunk_number": 7,
+      "start": 261.7,
+      "end": 273.7,
+      "text": "And in this case, it is not So, what do you want to do? The dog string is to write it below the function name or write above the function body Okay, put it in this place"
+    },
+    {
+      "chunk_number": 8,
+      "start": 273.7,
+      "end": 285.7,
+      "text": "to make it a valid dog string I hope you understood Now, let me tell you about the PEP8 PEP8 is a guide line in the interviews"
+    },
+    {
+      "chunk_number": 9,
+      "start": 285.7,
+      "end": 297.7,
+      "text": "PEP8 provides the best practice for the python code In 2001, we did a video on Rasmberry Warsow and Nick Koglan wrote this and he focused on"
+    },
+    {
+      "chunk_number": 10,
+      "start": 297.7,
+      "end": 307.7,
+      "text": "making the python program consistent and made it readable and made it maintainable and made it full form So, we have a lot of PEP8"
+    },
+    {
+      "chunk_number": 11,
+      "start": 307.7,
+      "end": 317.7,
+      "text": "documents that can be read and will be written by the way, it is a good and maintainable Now, let me tell you about the Zen of Python If you write this in Python"
+    },
+    {
+      "chunk_number": 12,
+      "start": 317.7,
+      "end": 327.7,
+      "text": "I will show you something here I want to show you in Shell or we can do this here"
+    },
+    {
+      "chunk_number": 13,
+      "start": 327.7,
+      "end": 337.7,
+      "text": "in our terminal If you have a python installed I am writing in Python 3 You can see that"
+    },
+    {
+      "chunk_number": 14,
+      "start": 337.7,
+      "end": 347.7,
+      "text": "python RAPL-R-E-P-L read-evaluate print loop has started Now, don't confuse the RAPL RAPL"
+    },
+    {
+      "chunk_number": 15,
+      "start": 347.7,
+      "end": 357.7,
+      "text": "I told you what is the read-evaluate print loop I am using python 3.1.1 If I write this in the input I will enter it What print is it?"
+    },
+    {
+      "chunk_number": 16,
+      "start": 357.7,
+      "end": 367.7,
+      "text": "This is the Zen of python by tempeters This is a poem What is the poem written here It is better than a glee Explicit is better than implicit"
+    },
+    {
+      "chunk_number": 17,
+      "start": 367.7,
+      "end": 377.7,
+      "text": "Symbol is better than complex Complex is better than complicated Flat is better than nested Nessed is better than indiance Readability counts"
+    },
+    {
+      "chunk_number": 18,
+      "start": 377.7,
+      "end": 387.7,
+      "text": "If you read this one If you are a beginner you should not have the importance But if you have reached an intermediate level you will have to do this"
+    },
+    {
+      "chunk_number": 19,
+      "start": 387.7,
+      "end": 397.7,
+      "text": "If you have not done a big project then you will not know When you have completed a project then you will understand Why I do this"
+    },
+    {
+      "chunk_number": 20,
+      "start": 397.7,
+      "end": 407.7,
+      "text": "When you have not done it then you will not know What is the meaning of this When you have come back After doing one or two projects"
+    },
+    {
+      "chunk_number": 21,
+      "start": 407.7,
+      "end": 417.7,
+      "text": "you will read this Read the code I am telling you I am not telling you I am not telling you"
+    },
+    {
+      "chunk_number": 22,
+      "start": 417.7,
+      "end": 427.7,
+      "text": "I feel Once you have made two projects and then you will come back You will see You will see beautiful is better than ugly"
+    },
+    {
+      "chunk_number": 23,
+      "start": 427.7,
+      "end": 437.7,
+      "text": "You will see in your code Explicit is better than implicit I had done this Symbol is better than complex Complex is better than complicated"
+    },
+    {
+      "chunk_number": 24,
+      "start": 437.7,
+      "end": 447.7,
+      "text": "You will be able to relate to your project and read your mind If you are a beginner then you will understand Anyways"
+    },
+    {
+      "chunk_number": 25,
+      "start": 447.7,
+      "end": 457.7,
+      "text": "This is an Easter egg It is an important thing It is a little bit People are asking for some things But it is an Easter egg"
+    },
+    {
+      "chunk_number": 26,
+      "start": 457.7,
+      "end": 467.7,
+      "text": "It is intentionally It is not like It is used to use the It is not used It is an Easter egg"
+    },
+    {
+      "chunk_number": 27,
+      "start": 467.7,
+      "end": 477.7,
+      "text": "If you ask What is the purpose of this then you will say It is a very big one If you will be an intermediate"
+    },
+    {
+      "chunk_number": 28,
+      "start": 477.7,
+      "end": 487.7,
+      "text": "then read it and read it So that you will get to see such similarities If you have not done this then please click the book"
+    },
+    {
+      "chunk_number": 29,
+      "start": 487.7,
+      "end": 497.7,
+      "text": "and click the same video Thank you so much Thanks for watching this video I will see you Next time"
+    },
+    {
+      "chunk_number": 30,
+      "start": 503.7,
+      "end": 511.7,
+      "text": "I will see you Next time I will see you Next time"
+    }
+  ],
+  "text": "In today's video, I will tell you about the dog strings and the top 8 of the video is a very good dog string. So I will take the computer screen and explore these topics. Let's get started. So today we are talking about dog strings. Dog strings are a special thing in life. You can just help dog strings. It is a good thing to understand a function. If you find a function with a description, you can't talk about it. This is the dog string. We can write a class definition in the dog string. We will show you the dog string. I have taken a string and I have taken a text in the number and returns of a square of friends. I will tell you about the dog string and the output of this function. If you find a dog string, you can find a dog string. You can find a dog string with a description. You can find a dog string with a description. This dog string is a special thing in life. You can find a dog string with a description. If you find a dog string with a description, you can find a dog string with a description. You can write a first line in the dog string and then you can take the input. You can find a dog string with a description. You can change the output of this function. You can change the output of this function. If you print a dog string, you can find a dog string. You can find a dog string with a description. You can find a dog string with a description. You can access this function. If you find a dog string, you can access this function. I will do this in my knowledge So, is this print of the dog string? No, because we are not dog string Dog string is done now Dog string will be written after this line And in this case, it is not So, what do you want to do? The dog string is to write it below the function name or write above the function body Okay, put it in this place to make it a valid dog string I hope you understood Now, let me tell you about the PEP8 PEP8 is a guide line in the interviews PEP8 provides the best practice for the python code In 2001, we did a video on Rasmberry Warsow and Nick Koglan wrote this and he focused on making the python program consistent and made it readable and made it maintainable and made it full form So, we have a lot of PEP8 documents that can be read and will be written by the way, it is a good and maintainable Now, let me tell you about the Zen of Python If you write this in Python I will show you something here I want to show you in Shell or we can do this here in our terminal If you have a python installed I am writing in Python 3 You can see that python RAPL-R-E-P-L read-evaluate print loop has started Now, don't confuse the RAPL RAPL I told you what is the read-evaluate print loop I am using python 3.1.1 If I write this in the input I will enter it What print is it? This is the Zen of python by tempeters This is a poem What is the poem written here It is better than a glee Explicit is better than implicit Symbol is better than complex Complex is better than complicated Flat is better than nested Nessed is better than indiance Readability counts If you read this one If you are a beginner you should not have the importance But if you have reached an intermediate level you will have to do this If you have not done a big project then you will not know When you have completed a project then you will understand Why I do this When you have not done it then you will not know What is the meaning of this When you have come back After doing one or two projects you will read this Read the code I am telling you I am not telling you I am not telling you I feel Once you have made two projects and then you will come back You will see You will see beautiful is better than ugly You will see in your code Explicit is better than implicit I had done this Symbol is better than complex Complex is better than complicated You will be able to relate to your project and read your mind If you are a beginner then you will understand Anyways This is an Easter egg It is an important thing It is a little bit People are asking for some things But it is an Easter egg It is intentionally It is not like It is used to use the It is not used It is an Easter egg If you ask What is the purpose of this then you will say It is a very big one If you will be an intermediate then read it and read it So that you will get to see such similarities If you have not done this then please click the book and click the same video Thank you so much Thanks for watching this video I will see you Next time I will see you Next time I will see you Next time"
+}

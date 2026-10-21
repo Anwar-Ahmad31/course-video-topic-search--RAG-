@@ -1,0 +1,409 @@
+{
+  "video_number": 46,
+  "title": "os Module in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 15.6,
+      "text": "Today in this video I will tell you about OS module Now OS module is operating in many operations As you wish To execute a particular program Or you wish to copy a folder from another folder"
+    },
+    {
+      "chunk_number": 2,
+      "start": 15.6,
+      "end": 24.400000000000002,
+      "text": "So that many programs you can write in the future If you are working on a big project How will you write? Let's start in the video suite And let's get started"
+    },
+    {
+      "chunk_number": 3,
+      "start": 31.0,
+      "end": 49.0,
+      "text": "Now OS module is built in a built in module Which is a very low module You can automate it in an operating system As you wish You can automatically file a 1.py file in every folder"
+    },
+    {
+      "chunk_number": 4,
+      "start": 49.0,
+      "end": 59.0,
+      "text": "1.tsc file 1.jpg file You can do that If you want to file a file in every folder You can do that"
+    },
+    {
+      "chunk_number": 5,
+      "start": 59.0,
+      "end": 71.0,
+      "text": "In fact, personally I told you What I did? The folder structure was 100 days of code Which I probably didn't want to file in it I automated OS module"
+    },
+    {
+      "chunk_number": 6,
+      "start": 71.0,
+      "end": 85.0,
+      "text": "And I used an OS module of S.H.U.T.L.A.L But I want to tell you about OS module OS module is a documentation You will get all the functions This is it"
+    },
+    {
+      "chunk_number": 7,
+      "start": 85.0,
+      "end": 96.0,
+      "text": "You will get all the things you want to see I will do one thing I will show you OS module in Python Google and see"
+    },
+    {
+      "chunk_number": 8,
+      "start": 96.0,
+      "end": 110.0,
+      "text": "Why I am showing you Google? You can say that you are working in a way Like I show you a folder I have made a folder Like I have made an OS module"
+    },
+    {
+      "chunk_number": 9,
+      "start": 110.0,
+      "end": 118.0,
+      "text": "Introduction I will do one thing I will put it in the garbage I will put it in the garbage I will put it in the garbage"
+    },
+    {
+      "chunk_number": 10,
+      "start": 118.0,
+      "end": 128.0,
+      "text": "I will not maintain it The new garbage is in the garbage Python, VN, no I want to do OS module introduction I will do it rightly"
+    },
+    {
+      "chunk_number": 11,
+      "start": 128.0,
+      "end": 138.0,
+      "text": "I will do a new terminal I will do a simple work I will open it in VS code I will open it in VS code If you don't know"
+    },
+    {
+      "chunk_number": 12,
+      "start": 138.0,
+      "end": 149.0,
+      "text": "This is a code editor And you know what is in VS code I will make a file in VS code I will put it in main.p I will do import OS"
+    },
+    {
+      "chunk_number": 13,
+      "start": 149.0,
+      "end": 165.0,
+      "text": "I will write OS.MKDIR I will write data Now see what is a directory I will do it in main.pv I will do it in a directory"
+    },
+    {
+      "chunk_number": 14,
+      "start": 165.0,
+      "end": 180.0,
+      "text": "I made a folder automatically I want to make a folder in data I will write a code of 100 days I will write a code of 100 days I will write 100 days"
+    },
+    {
+      "chunk_number": 15,
+      "start": 180.0,
+      "end": 200.0,
+      "text": "For I in range 0 to 100 I will write a string I will write it in the link below. I will write it in the link below. I plus 1 because I zero is starting."
+    },
+    {
+      "chunk_number": 16,
+      "start": 200.0,
+      "end": 210.0,
+      "text": "You can do 1,2,1,1,1. You will have to do I plus 1. You have to do anything works. So, you have to do this in the data folder. You will do this in the data folder."
+    },
+    {
+      "chunk_number": 17,
+      "start": 210.0,
+      "end": 220.0,
+      "text": "You will get data from the data folder. Now, because our DIA is already made. You will get error through it. You will say that the data directory is already made. Why are you making it?"
+    },
+    {
+      "chunk_number": 18,
+      "start": 220.0,
+      "end": 230.0,
+      "text": "File exists data. You cannot make this data directory from the data name. You can check here. You can check here. If OS dot"
+    },
+    {
+      "chunk_number": 19,
+      "start": 230.0,
+      "end": 242.0,
+      "text": "OS dot part dot exist. Now, if the Harryway function is ready. You have to do this. Yes, you are ready. How did I get it?"
+    },
+    {
+      "chunk_number": 20,
+      "start": 242.0,
+      "end": 252.0,
+      "text": "I had taken a copy of this. I have learnt how to do it. Now, I have learnt how to do it. I do not refer people to you. I want to tell you about my experience."
+    },
+    {
+      "chunk_number": 21,
+      "start": 252.0,
+      "end": 262.0,
+      "text": "I want to tell you about my experience. I don't use it from any kind. Then, we will come to the documentation. I will see the details. I do not think that the model is very fast."
+    },
+    {
+      "chunk_number": 22,
+      "start": 262.0,
+      "end": 272.0,
+      "text": "It is not as easy as it is. I will search for something. I have learnt it. And it goes just fine. I will show you quickly."
+    },
+    {
+      "chunk_number": 23,
+      "start": 272.0,
+      "end": 291.0,
+      "text": "I told you that if the data exists, The data does not exist. If not, I will say if not, OS.part.exe, then you will make data fold. Because if we do not exist data, it will be true that there is a data folder here, so it will not go in. And what else will we do?"
+    },
+    {
+      "chunk_number": 24,
+      "start": 291.0,
+      "end": 307.0,
+      "text": "We have to make a fraction of a second of the data. We have to make a fold. I have to make a fold. We have to make a fold. I have to make a fold."
+    },
+    {
+      "chunk_number": 25,
+      "start": 307.0,
+      "end": 325.0,
+      "text": "I have a very time saving task. I do not want to make a main.pv in every folder. I am using this to maintain a folder structure. I am using it to teach Python. I am taking a Python course for a hundred days."
+    },
+    {
+      "chunk_number": 26,
+      "start": 325.0,
+      "end": 343.0,
+      "text": "In fact, every day I will read Python. I will have to make a main.pv file. I will have to make a main.pv file. I can say, see this. I will make a day folder for every day."
+    },
+    {
+      "chunk_number": 27,
+      "start": 343.0,
+      "end": 355.0,
+      "text": "What else to do? OS.mpkdir. In fact, you can create multiple directories with mkdir. And what else can you do? You can create a file."
+    },
+    {
+      "chunk_number": 28,
+      "start": 355.0,
+      "end": 369.0,
+      "text": "I will simply run this. I can create all folders. I can rename all the folders. I can rename all the folders. I can search for Google."
+    },
+    {
+      "chunk_number": 29,
+      "start": 369.0,
+      "end": 384.0,
+      "text": "OS.mpkdir. I can use OS.rnm. I can simply use OS.rnm. I will use OS.rnm. I will tell you the same thing."
+    },
+    {
+      "chunk_number": 30,
+      "start": 384.0,
+      "end": 399.0,
+      "text": "I will make a rename file. I have written a daily file. I should have written a tutorial. I want to rename all the folders. I want to manually run the software."
+    },
+    {
+      "chunk_number": 31,
+      "start": 399.0,
+      "end": 413.0,
+      "text": "What should I do? I will say OS.rnm. What is the method of the rename? First of all, what to do? I want to do a source."
+    },
+    {
+      "chunk_number": 32,
+      "start": 413.0,
+      "end": 425.0,
+      "text": "What is the destination? I want to write a tutorial. I will do this. I will run it. I have completed it."
+    },
+    {
+      "chunk_number": 33,
+      "start": 425.0,
+      "end": 439.0,
+      "text": "I realized that I should have given space after the tutorial. I will write a tutorial in the source. I will give space. I want to rename it. I will run it."
+    },
+    {
+      "chunk_number": 34,
+      "start": 439.0,
+      "end": 454.0,
+      "text": "I can do a bulk action. I will rename it. I want to create folders. I want to know how many tutorials are there. I want to know."
+    },
+    {
+      "chunk_number": 35,
+      "start": 454.0,
+      "end": 475.0,
+      "text": "I don't want to write a list of the files. I will write an OS.rnm. I will write an import OS. I will write folders. OS.list.dia is a very important method."
+    },
+    {
+      "chunk_number": 36,
+      "start": 475.0,
+      "end": 496.0,
+      "text": "It will be a list of the folders in the data. I will write folders for folders. I will write folders. I will write folders. I can do this in folders."
+    },
+    {
+      "chunk_number": 37,
+      "start": 496.0,
+      "end": 514.0,
+      "text": "I can take the files in the folder. For example, I have created a folder in the tutorial.md. I have written a manual. This is good. I have created a file in the folder."
+    },
+    {
+      "chunk_number": 38,
+      "start": 514.0,
+      "end": 526.0,
+      "text": "I can do this. I will write print. OS.list.dia is a folder. I will write folder in this folder. I will create a folder."
+    },
+    {
+      "chunk_number": 39,
+      "start": 526.0,
+      "end": 541.0,
+      "text": "I will do this in the tutorial. There is no such file in the tutorial. Sorry about that. This is why I have to do a data slash folder. The path for this, is written from here."
+    },
+    {
+      "chunk_number": 40,
+      "start": 541.0,
+      "end": 586.0,
+      "text": "There is a data slash folder. We will use data first. I will use the tutorial. Search for the program that will be created which will be created in our folders"
+    },
+    {
+      "chunk_number": 41,
+      "start": 586.0,
+      "end": 596.0,
+      "text": "in the folders If you are not happy with the videos or you are not happy with the Mac or you people do not know"
+    },
+    {
+      "chunk_number": 42,
+      "start": 596.0,
+      "end": 606.0,
+      "text": "why is the operating system not happy with the Inbuilt search you can make your search What OS module is so functional No, you people"
+    },
+    {
+      "chunk_number": 43,
+      "start": 606.0,
+      "end": 618.0,
+      "text": "have to explore the OS module You can see many methods You can not do anything You can use OS.system OS.system"
+    },
+    {
+      "chunk_number": 44,
+      "start": 618.0,
+      "end": 628.0,
+      "text": "OS.system OS.system You can use this OS.system You can do any program"
+    },
+    {
+      "chunk_number": 45,
+      "start": 628.0,
+      "end": 636.96,
+      "text": "You can do any program CMD and CMD CMD You can also use OS.system"
+    },
+    {
+      "chunk_number": 46,
+      "start": 636.96,
+      "end": 646.96,
+      "text": "and also many methods I want to explore OS.pipe pipe 2 as you will not be able to do the programming"
+    },
+    {
+      "chunk_number": 47,
+      "start": 646.96,
+      "end": 656.96,
+      "text": "you will be able to know what they do many methods are complex I don't want to go in the script but I want to know"
+    },
+    {
+      "chunk_number": 48,
+      "start": 656.96,
+      "end": 668.96,
+      "text": "what the basic methods are you should come You should come I told you OS.GetSeedLudy"
+    },
+    {
+      "chunk_number": 49,
+      "start": 668.96,
+      "end": 678.96,
+      "text": "GetCurrent Working Directory You can learn which directory is in it I am learning OS.GetCWD"
+    },
+    {
+      "chunk_number": 50,
+      "start": 678.96,
+      "end": 688.96,
+      "text": "I will come to know which directory I will come You can learn this directory"
+    },
+    {
+      "chunk_number": 51,
+      "start": 688.96,
+      "end": 698.96,
+      "text": "You can learn which are working This file you can see any file"
+    },
+    {
+      "chunk_number": 52,
+      "start": 698.96,
+      "end": 708.96,
+      "text": "You can do chain directory OS.CHD You can say change directory to users"
+    },
+    {
+      "chunk_number": 53,
+      "start": 708.96,
+      "end": 718.96,
+      "text": "then you can do same Now you are doing the same now you can do the same Now you can do the same now you will do the same"
+    },
+    {
+      "chunk_number": 54,
+      "start": 748.96,
+      "end": 781.96,
+      "text": "Soilated to Esiphon to OS to Duallessly share the data OS.remove. OS.rem directory. RMDIR removes and empty directory. If empty, then it will delete."
+    },
+    {
+      "chunk_number": 55,
+      "start": 781.96,
+      "end": 791.96,
+      "text": "As a chute module, like, and not very similar to similar, it is very similar to this module. I have used it."
+    },
+    {
+      "chunk_number": 56,
+      "start": 791.96,
+      "end": 801.96,
+      "text": "In fact, I have used it to make this course. So, this module can be used. All the content of the directory will delete. Mt directory."
+    },
+    {
+      "chunk_number": 57,
+      "start": 801.96,
+      "end": 811.96,
+      "text": "All the content of the OS module is very vast. Given module name is vast. But I have told you all the functions that you should have."
+    },
+    {
+      "chunk_number": 58,
+      "start": 811.96,
+      "end": 818.96,
+      "text": "List DIR. Get CWD. CHDIR. List DIR. Rename."
+    },
+    {
+      "chunk_number": 59,
+      "start": 818.96,
+      "end": 829.96,
+      "text": "MkDIR is very important function. Basically, it will be very useful. With that said, I will do work for you. These are three files."
+    },
+    {
+      "chunk_number": 60,
+      "start": 829.96,
+      "end": 834.96,
+      "text": "Where I have made it. Right-click. Show. Show. Open."
+    },
+    {
+      "chunk_number": 61,
+      "start": 834.96,
+      "end": 843.96,
+      "text": "Revenient. Find. I will put all these files in the template. I will put all these files in this file. So, this is main.py."
+    },
+    {
+      "chunk_number": 62,
+      "start": 843.96,
+      "end": 853.96,
+      "text": "Rename.py. And, what was the file? I will ask you. Main.py already exists. I want to override."
+    },
+    {
+      "chunk_number": 63,
+      "start": 853.96,
+      "end": 863.96,
+      "text": "So, you can open it. Now, you can open it. Make sure that the folders will be there. See how I have done this. I have to follow along."
+    },
+    {
+      "chunk_number": 64,
+      "start": 863.96,
+      "end": 872.96,
+      "text": "Don't try to run the code. I have written it for you. You have to check the spellings. Thank you so much guys for watching this video. I hope you all are enjoying this course."
+    },
+    {
+      "chunk_number": 65,
+      "start": 872.96,
+      "end": 883.96,
+      "text": "We have reached a very long point. And, at this point, I hope you have successfully made this. If you don't, then do it. And, first, go to the previous video. Put a review."
+    },
+    {
+      "chunk_number": 66,
+      "start": 883.96,
+      "end": 895.96,
+      "text": "Now, write down. How to write this course? How much you want to give in 5 to 5. And, if you do this, I will be very happy. And, those people who are going to watch this course,"
+    },
+    {
+      "chunk_number": 67,
+      "start": 895.96,
+      "end": 922.96,
+      "text": "will be very comfortable for those people. Thank you so much for watching this video. And, I will see you next time. Bye."
+    }
+  ],
+  "text": "Today in this video I will tell you about OS module Now OS module is operating in many operations As you wish To execute a particular program Or you wish to copy a folder from another folder So that many programs you can write in the future If you are working on a big project How will you write? Let's start in the video suite And let's get started Now OS module is built in a built in module Which is a very low module You can automate it in an operating system As you wish You can automatically file a 1.py file in every folder 1.tsc file 1.jpg file You can do that If you want to file a file in every folder You can do that In fact, personally I told you What I did? The folder structure was 100 days of code Which I probably didn't want to file in it I automated OS module And I used an OS module of S.H.U.T.L.A.L But I want to tell you about OS module OS module is a documentation You will get all the functions This is it You will get all the things you want to see I will do one thing I will show you OS module in Python Google and see Why I am showing you Google? You can say that you are working in a way Like I show you a folder I have made a folder Like I have made an OS module Introduction I will do one thing I will put it in the garbage I will put it in the garbage I will put it in the garbage I will not maintain it The new garbage is in the garbage Python, VN, no I want to do OS module introduction I will do it rightly I will do a new terminal I will do a simple work I will open it in VS code I will open it in VS code If you don't know This is a code editor And you know what is in VS code I will make a file in VS code I will put it in main.p I will do import OS I will write OS.MKDIR I will write data Now see what is a directory I will do it in main.pv I will do it in a directory I made a folder automatically I want to make a folder in data I will write a code of 100 days I will write a code of 100 days I will write 100 days For I in range 0 to 100 I will write a string I will write it in the link below. I will write it in the link below. I plus 1 because I zero is starting. You can do 1,2,1,1,1. You will have to do I plus 1. You have to do anything works. So, you have to do this in the data folder. You will do this in the data folder. You will get data from the data folder. Now, because our DIA is already made. You will get error through it. You will say that the data directory is already made. Why are you making it? File exists data. You cannot make this data directory from the data name. You can check here. You can check here. If OS dot OS dot part dot exist. Now, if the Harryway function is ready. You have to do this. Yes, you are ready. How did I get it? I had taken a copy of this. I have learnt how to do it. Now, I have learnt how to do it. I do not refer people to you. I want to tell you about my experience. I want to tell you about my experience. I don't use it from any kind. Then, we will come to the documentation. I will see the details. I do not think that the model is very fast. It is not as easy as it is. I will search for something. I have learnt it. And it goes just fine. I will show you quickly. I told you that if the data exists, The data does not exist. If not, I will say if not, OS.part.exe, then you will make data fold. Because if we do not exist data, it will be true that there is a data folder here, so it will not go in. And what else will we do? We have to make a fraction of a second of the data. We have to make a fold. I have to make a fold. We have to make a fold. I have to make a fold. I have a very time saving task. I do not want to make a main.pv in every folder. I am using this to maintain a folder structure. I am using it to teach Python. I am taking a Python course for a hundred days. In fact, every day I will read Python. I will have to make a main.pv file. I will have to make a main.pv file. I can say, see this. I will make a day folder for every day. What else to do? OS.mpkdir. In fact, you can create multiple directories with mkdir. And what else can you do? You can create a file. I will simply run this. I can create all folders. I can rename all the folders. I can rename all the folders. I can search for Google. OS.mpkdir. I can use OS.rnm. I can simply use OS.rnm. I will use OS.rnm. I will tell you the same thing. I will make a rename file. I have written a daily file. I should have written a tutorial. I want to rename all the folders. I want to manually run the software. What should I do? I will say OS.rnm. What is the method of the rename? First of all, what to do? I want to do a source. What is the destination? I want to write a tutorial. I will do this. I will run it. I have completed it. I realized that I should have given space after the tutorial. I will write a tutorial in the source. I will give space. I want to rename it. I will run it. I can do a bulk action. I will rename it. I want to create folders. I want to know how many tutorials are there. I want to know. I don't want to write a list of the files. I will write an OS.rnm. I will write an import OS. I will write folders. OS.list.dia is a very important method. It will be a list of the folders in the data. I will write folders for folders. I will write folders. I will write folders. I can do this in folders. I can take the files in the folder. For example, I have created a folder in the tutorial.md. I have written a manual. This is good. I have created a file in the folder. I can do this. I will write print. OS.list.dia is a folder. I will write folder in this folder. I will create a folder. I will do this in the tutorial. There is no such file in the tutorial. Sorry about that. This is why I have to do a data slash folder. The path for this, is written from here. There is a data slash folder. We will use data first. I will use the tutorial. Search for the program that will be created which will be created in our folders in the folders If you are not happy with the videos or you are not happy with the Mac or you people do not know why is the operating system not happy with the Inbuilt search you can make your search What OS module is so functional No, you people have to explore the OS module You can see many methods You can not do anything You can use OS.system OS.system OS.system OS.system You can use this OS.system You can do any program You can do any program CMD and CMD CMD You can also use OS.system and also many methods I want to explore OS.pipe pipe 2 as you will not be able to do the programming you will be able to know what they do many methods are complex I don't want to go in the script but I want to know what the basic methods are you should come You should come I told you OS.GetSeedLudy GetCurrent Working Directory You can learn which directory is in it I am learning OS.GetCWD I will come to know which directory I will come You can learn this directory You can learn which are working This file you can see any file You can do chain directory OS.CHD You can say change directory to users then you can do same Now you are doing the same now you can do the same Now you can do the same now you will do the same Soilated to Esiphon to OS to Duallessly share the data OS.remove. OS.rem directory. RMDIR removes and empty directory. If empty, then it will delete. As a chute module, like, and not very similar to similar, it is very similar to this module. I have used it. In fact, I have used it to make this course. So, this module can be used. All the content of the directory will delete. Mt directory. All the content of the OS module is very vast. Given module name is vast. But I have told you all the functions that you should have. List DIR. Get CWD. CHDIR. List DIR. Rename. MkDIR is very important function. Basically, it will be very useful. With that said, I will do work for you. These are three files. Where I have made it. Right-click. Show. Show. Open. Revenient. Find. I will put all these files in the template. I will put all these files in this file. So, this is main.py. Rename.py. And, what was the file? I will ask you. Main.py already exists. I want to override. So, you can open it. Now, you can open it. Make sure that the folders will be there. See how I have done this. I have to follow along. Don't try to run the code. I have written it for you. You have to check the spellings. Thank you so much guys for watching this video. I hope you all are enjoying this course. We have reached a very long point. And, at this point, I hope you have successfully made this. If you don't, then do it. And, first, go to the previous video. Put a review. Now, write down. How to write this course? How much you want to give in 5 to 5. And, if you do this, I will be very happy. And, those people who are going to watch this course, will be very comfortable for those people. Thank you so much for watching this video. And, I will see you next time. Bye."
+}

@@ -1,0 +1,265 @@
+{
+  "video_number": 1,
+  "title": "Introduction to Programming & Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "text": "Welcome to 100 days of code guys. In 100 days of code, we are going to learn Python programming from zero to job ready. And if you have given your own sawdust, then I will tell you in the bite size lesson. Python programming, we will take it as a warning. Starting, you will feel that it is easier to play with children and after that,"
+    },
+    {
+      "chunk_number": 2,
+      "start": 22.0,
+      "end": 34.0,
+      "text": "we will get videos like this and we will go to day 100. We will raise the bar like anything. We will work on complex projects. We will work on things that are used in the industry. So it will be fun to make a lot of excitement."
+    },
+    {
+      "chunk_number": 3,
+      "start": 34.0,
+      "end": 47.0,
+      "text": "Python is a dynamically typed object-oriented programming language. It was made in 1991 in Guida 1. Guida 1 was made in Monty Python. It is a show in the name of Python. When it was working on this language and they thought it was Python."
+    },
+    {
+      "chunk_number": 4,
+      "start": 47.0,
+      "end": 64.0,
+      "text": "And they gave Python and then it was named Python. In this course, we will practice a lot of exercises and quizzes. And you are waiting for a lot of challenges for you. So I will practice in my computer battle. And you will learn Python's tricks and skills."
+    },
+    {
+      "chunk_number": 5,
+      "start": 64.0,
+      "end": 77.0,
+      "text": "So now you like this video and subscribe to the notifications. So that you don't miss any day. And you will get notifications every day. Because there is a lot of fun in YouTube. So you will get 100 days of code challenge."
+    },
+    {
+      "chunk_number": 6,
+      "start": 77.0,
+      "end": 99.0,
+      "text": "You will get 100 days of code challenge. You will get 100 days of code challenge. Let's get started. So I have already told you about Google Chrome browser. And I will tell you how to install Python from Download and Install."
+    },
+    {
+      "chunk_number": 7,
+      "start": 99.0,
+      "end": 115.0,
+      "text": "So as soon as you get Python, you will get Python.org. And here you will get the latest download of Python. As you can see, I am in Mac OS. So I have 1.1 for Mac OS. So I will download it."
+    },
+    {
+      "chunk_number": 8,
+      "start": 115.0,
+      "end": 132.0,
+      "text": "You can download any of my ideas or ideas. I will use it in my computer. But I will use it for my app. You can use it for your app. I am using it for my collaborative browser based idea."
+    },
+    {
+      "chunk_number": 9,
+      "start": 132.0,
+      "end": 146.0,
+      "text": "Because I am using it for my app. And I will use it for my app. And I will use it for my app. So I will sign my Google account. And then I will redirect on screen."
+    },
+    {
+      "chunk_number": 10,
+      "start": 146.0,
+      "end": 163.0,
+      "text": "So as you can see, all my rapples are here. You can write a code in the app. If you are not a computer fast, you can see it. Compute wise means that your computer lacks a lot. So you need a browser tap."
+    },
+    {
+      "chunk_number": 11,
+      "start": 163.0,
+      "end": 175.0,
+      "text": "And you will be able to follow me. And because I will use it for my app. You will get easy to follow me. So I will go on my rapples. I have already made some rapples."
+    },
+    {
+      "chunk_number": 12,
+      "start": 175.0,
+      "end": 198.0,
+      "text": "And I will scroll down and go to the Python 0 to JobReady folder. And this is not my day 1 rapples. So you can see here that my video will be available in the floating pane. And we will keep our content here. So the console I will keep here."
+    },
+    {
+      "chunk_number": 13,
+      "start": 198.0,
+      "end": 215.0,
+      "text": "And with that, you will see the code I will close. I will write the code here. And the output of this code is going to be there. So I will make a new file soon. So I will click here and open the main.py."
+    },
+    {
+      "chunk_number": 14,
+      "start": 215.0,
+      "end": 226.0,
+      "text": "And I want to open it here. So you can see how easy to use it. Here is the tutorial. We will take the code here. Here is the output."
+    },
+    {
+      "chunk_number": 15,
+      "start": 226.0,
+      "end": 241.0,
+      "text": "You can watch our video. I have put a demo video here. You will see our day video. If you think how I did it, I will give you a link in the description. You will know how to do this."
+    },
+    {
+      "chunk_number": 16,
+      "start": 241.0,
+      "end": 257.0,
+      "text": "There is no teacher in this case. Python talks quickly. But before that, I want to talk about programming. So as you can see, programming is a way for us to tell computers what to do. And we do programming."
+    },
+    {
+      "chunk_number": 17,
+      "start": 257.0,
+      "end": 276.0,
+      "text": "If you have a calculator in your home, we can tell you how much we can do in the calculator. Now, 5 plus 9 is 14. I know why I am using a calculator. But how about 2, 3, 4, 5, 3, 4, 5, 3, 4, 5, 6, 4, 5, 6?"
+    },
+    {
+      "chunk_number": 18,
+      "start": 276.0,
+      "end": 290.0,
+      "text": "You can calculate it, but you can't do it. You can do it as much as you can. We use a very important communication with a computer. And we use programming for it. You can talk about it in English and Hindi."
+    },
+    {
+      "chunk_number": 19,
+      "start": 290.0,
+      "end": 306.0,
+      "text": "You can talk about Spanish and English. You can talk about any other language. We use programming languages for talking to computers. Python, C, C++, Java and many other languages in the market. But this is the course."
+    },
+    {
+      "chunk_number": 20,
+      "start": 306.0,
+      "end": 319.0,
+      "text": "Python is dedicated to us. And that is why Python is also easy. Python is the easiest to learn programming languages. Because when you learn Python, then you start to learn things on a different level."
+    },
+    {
+      "chunk_number": 21,
+      "start": 319.0,
+      "end": 335.0,
+      "text": "Python is dynamically typed as the general purpose programming language which supports object oriented paradigm. And it supports functional approach. If you don't know what it is, then we are going to learn this. Now, it is interpreted as high level programming language."
+    },
+    {
+      "chunk_number": 22,
+      "start": 335.0,
+      "end": 351.0,
+      "text": "And in the video 1, we started working on the 1989 Mace. Python was developed by Python. It was not a single day. It was made by 1989. It was created in 1991."
+    },
+    {
+      "chunk_number": 23,
+      "start": 351.0,
+      "end": 363.0,
+      "text": "It was made in 1992. But it is true that it started in 1989. It was made in the period of years. What are the features of Python? The first thing I will tell you."
+    },
+    {
+      "chunk_number": 24,
+      "start": 363.0,
+      "end": 378.0,
+      "text": "The simplest programming language is the biggest feature of Python. And you can do anything about it. The platform is independent. The platform is independent. And this means that if you write in Windows,"
+    },
+    {
+      "chunk_number": 25,
+      "start": 378.0,
+      "end": 388.0,
+      "text": "you can also go to Linux. And if you write in Mac, you can also go to Windows. You can also go to KCV platform. I am writing in my browser."
+    },
+    {
+      "chunk_number": 26,
+      "start": 388.0,
+      "end": 400.0,
+      "text": "I don't mean to write in Mac. Because I am using the Rapplite platform. But if I write in Mac, I give to you many things in your language. You are suffering from it very easily."
+    },
+    {
+      "chunk_number": 27,
+      "start": 400.0,
+      "end": 413.0,
+      "text": "For example, if a huge number of robots have programmed it to you, you do not have money and use things like Python. It is an amazing way to expand Python, and your Python provides a very special library. Why are we using the previous Department of global projects?"
+    },
+    {
+      "chunk_number": 28,
+      "start": 413.0,
+      "end": 426.76,
+      "text": "Do all the subjects of the learning and practicing programming? And in the end, how many hundreds of heads of jobs people economy and whateverible kinds of dayhow people are bouncing away? You can use it in a minute."
+    },
+    {
+      "chunk_number": 29,
+      "start": 426.76,
+      "end": 436.76,
+      "text": "It is a big thing. I will talk about the learning point of view. I will talk about the error point of view. Maybe the error you are using today is 10 years ago."
+    },
+    {
+      "chunk_number": 30,
+      "start": 436.76,
+      "end": 447.76,
+      "text": "He has broken it. He has put it on a website. You will be very easy for people. You will be very easy for people. It will be a solution to that problem."
+    },
+    {
+      "chunk_number": 31,
+      "start": 447.76,
+      "end": 461.76,
+      "text": "The problem is a very big library. It supports it. You can integrate it with other programming languages. You can link it with a lot of good things. After that, I have written some applications."
+    },
+    {
+      "chunk_number": 32,
+      "start": 461.76,
+      "end": 476.76,
+      "text": "You can do data based on data science. You can do machine learning. You can do web applications. You can do a lot of complicated applications. You can do a lot of complicated applications for your business."
+    },
+    {
+      "chunk_number": 33,
+      "start": 476.76,
+      "end": 488.14,
+      "text": "You can do a lot of complicated applications. I have computed it. shared code, state Rome You can explore loot Fighting If some screens were left for 5,,"
+    },
+    {
+      "chunk_number": 34,
+      "start": 488.14,
+      "end": 503.84,
+      "text": "you will be the Firebase marc, you will be the Firebase game owner. If there are sheer complaints about items, you cannot use intelligence Security. You can install them in a browser."
+    },
+    {
+      "chunk_number": 35,
+      "start": 503.84,
+      "end": 527.8399999999999,
+      "text": "If you are installing a computer, you can check the path variable at python 3. The option to path is to check the path option. If you do not check it, you may not be able to use the python using the terminal. If I open the terminal, I will write the python in the windows. I am writing here that python is not found."
+    },
+    {
+      "chunk_number": 36,
+      "start": 527.84,
+      "end": 557.84,
+      "text": "If you are installing a computer, you may not be able to see the path variable at python 3. If you are installing a python, you may not be able to see the path variable at python 3. You may use the python as a calculator. You may use the commands like this. We are going to read the print statement."
+    },
+    {
+      "chunk_number": 37,
+      "start": 557.84,
+      "end": 587.84,
+      "text": "But I want to digest slowly and slowly. If you want to come out from the rep, you can exit from the redevaluate print loop. I am going to use the name of the rep. In the rep, we use the name of the rep. The name of the rep is the name of the rep."
+    },
+    {
+      "chunk_number": 38,
+      "start": 587.84,
+      "end": 609.84,
+      "text": "There are many programming languages. If I write the word in the name of the rep, you can easily find it. I want to see the output of the print. I have already come out. I will write the print 7 or 5."
+    },
+    {
+      "chunk_number": 39,
+      "start": 609.84,
+      "end": 629.84,
+      "text": "I will run it. I am writing code here. I am writing the output of the rep. I can run the python as well. I can make new files here."
+    },
+    {
+      "chunk_number": 40,
+      "start": 629.84,
+      "end": 649.84,
+      "text": "I can open new files here. I can watch this video. If you are not watching this video, practice it. You can do this here. You can park it here."
+    },
+    {
+      "chunk_number": 41,
+      "start": 649.84,
+      "end": 667.84,
+      "text": "You will get a lot of good experience. I will request you to make the python's playlist. I will make the python's playlist for 100 days. Please like the video and subscribe to the channel. So that you don't miss any day."
+    },
+    {
+      "chunk_number": 42,
+      "start": 667.84,
+      "end": 679.84,
+      "text": "You can also miss the playlist of python's playlist. You can save it. I will meet you guys next time. We will talk about good things. And our date is going to be dedicated."
+    },
+    {
+      "chunk_number": 43,
+      "start": 679.84,
+      "end": 707.84,
+      "text": "We will wait for some interesting things. We will meet you guys next time. Thank you so much for watching this video. And I will see you next time. Bye."
+    }
+  ],
+  "text": "Welcome to 100 days of code guys. In 100 days of code, we are going to learn Python programming from zero to job ready. And if you have given your own sawdust, then I will tell you in the bite size lesson. Python programming, we will take it as a warning. Starting, you will feel that it is easier to play with children and after that, we will get videos like this and we will go to day 100. We will raise the bar like anything. We will work on complex projects. We will work on things that are used in the industry. So it will be fun to make a lot of excitement. Python is a dynamically typed object-oriented programming language. It was made in 1991 in Guida 1. Guida 1 was made in Monty Python. It is a show in the name of Python. When it was working on this language and they thought it was Python. And they gave Python and then it was named Python. In this course, we will practice a lot of exercises and quizzes. And you are waiting for a lot of challenges for you. So I will practice in my computer battle. And you will learn Python's tricks and skills. So now you like this video and subscribe to the notifications. So that you don't miss any day. And you will get notifications every day. Because there is a lot of fun in YouTube. So you will get 100 days of code challenge. You will get 100 days of code challenge. You will get 100 days of code challenge. Let's get started. So I have already told you about Google Chrome browser. And I will tell you how to install Python from Download and Install. So as soon as you get Python, you will get Python.org. And here you will get the latest download of Python. As you can see, I am in Mac OS. So I have 1.1 for Mac OS. So I will download it. You can download any of my ideas or ideas. I will use it in my computer. But I will use it for my app. You can use it for your app. I am using it for my collaborative browser based idea. Because I am using it for my app. And I will use it for my app. And I will use it for my app. So I will sign my Google account. And then I will redirect on screen. So as you can see, all my rapples are here. You can write a code in the app. If you are not a computer fast, you can see it. Compute wise means that your computer lacks a lot. So you need a browser tap. And you will be able to follow me. And because I will use it for my app. You will get easy to follow me. So I will go on my rapples. I have already made some rapples. And I will scroll down and go to the Python 0 to JobReady folder. And this is not my day 1 rapples. So you can see here that my video will be available in the floating pane. And we will keep our content here. So the console I will keep here. And with that, you will see the code I will close. I will write the code here. And the output of this code is going to be there. So I will make a new file soon. So I will click here and open the main.py. And I want to open it here. So you can see how easy to use it. Here is the tutorial. We will take the code here. Here is the output. You can watch our video. I have put a demo video here. You will see our day video. If you think how I did it, I will give you a link in the description. You will know how to do this. There is no teacher in this case. Python talks quickly. But before that, I want to talk about programming. So as you can see, programming is a way for us to tell computers what to do. And we do programming. If you have a calculator in your home, we can tell you how much we can do in the calculator. Now, 5 plus 9 is 14. I know why I am using a calculator. But how about 2, 3, 4, 5, 3, 4, 5, 3, 4, 5, 6, 4, 5, 6? You can calculate it, but you can't do it. You can do it as much as you can. We use a very important communication with a computer. And we use programming for it. You can talk about it in English and Hindi. You can talk about Spanish and English. You can talk about any other language. We use programming languages for talking to computers. Python, C, C++, Java and many other languages in the market. But this is the course. Python is dedicated to us. And that is why Python is also easy. Python is the easiest to learn programming languages. Because when you learn Python, then you start to learn things on a different level. Python is dynamically typed as the general purpose programming language which supports object oriented paradigm. And it supports functional approach. If you don't know what it is, then we are going to learn this. Now, it is interpreted as high level programming language. And in the video 1, we started working on the 1989 Mace. Python was developed by Python. It was not a single day. It was made by 1989. It was created in 1991. It was made in 1992. But it is true that it started in 1989. It was made in the period of years. What are the features of Python? The first thing I will tell you. The simplest programming language is the biggest feature of Python. And you can do anything about it. The platform is independent. The platform is independent. And this means that if you write in Windows, you can also go to Linux. And if you write in Mac, you can also go to Windows. You can also go to KCV platform. I am writing in my browser. I don't mean to write in Mac. Because I am using the Rapplite platform. But if I write in Mac, I give to you many things in your language. You are suffering from it very easily. For example, if a huge number of robots have programmed it to you, you do not have money and use things like Python. It is an amazing way to expand Python, and your Python provides a very special library. Why are we using the previous Department of global projects? Do all the subjects of the learning and practicing programming? And in the end, how many hundreds of heads of jobs people economy and whateverible kinds of dayhow people are bouncing away? You can use it in a minute. It is a big thing. I will talk about the learning point of view. I will talk about the error point of view. Maybe the error you are using today is 10 years ago. He has broken it. He has put it on a website. You will be very easy for people. You will be very easy for people. It will be a solution to that problem. The problem is a very big library. It supports it. You can integrate it with other programming languages. You can link it with a lot of good things. After that, I have written some applications. You can do data based on data science. You can do machine learning. You can do web applications. You can do a lot of complicated applications. You can do a lot of complicated applications for your business. You can do a lot of complicated applications. I have computed it. shared code, state Rome You can explore loot Fighting If some screens were left for 5,, you will be the Firebase marc, you will be the Firebase game owner. If there are sheer complaints about items, you cannot use intelligence Security. You can install them in a browser. If you are installing a computer, you can check the path variable at python 3. The option to path is to check the path option. If you do not check it, you may not be able to use the python using the terminal. If I open the terminal, I will write the python in the windows. I am writing here that python is not found. If you are installing a computer, you may not be able to see the path variable at python 3. If you are installing a python, you may not be able to see the path variable at python 3. You may use the python as a calculator. You may use the commands like this. We are going to read the print statement. But I want to digest slowly and slowly. If you want to come out from the rep, you can exit from the redevaluate print loop. I am going to use the name of the rep. In the rep, we use the name of the rep. The name of the rep is the name of the rep. There are many programming languages. If I write the word in the name of the rep, you can easily find it. I want to see the output of the print. I have already come out. I will write the print 7 or 5. I will run it. I am writing code here. I am writing the output of the rep. I can run the python as well. I can make new files here. I can open new files here. I can watch this video. If you are not watching this video, practice it. You can do this here. You can park it here. You will get a lot of good experience. I will request you to make the python's playlist. I will make the python's playlist for 100 days. Please like the video and subscribe to the channel. So that you don't miss any day. You can also miss the playlist of python's playlist. You can save it. I will meet you guys next time. We will talk about good things. And our date is going to be dedicated. We will wait for some interesting things. We will meet you guys next time. Thank you so much for watching this video. And I will see you next time. Bye."
+}

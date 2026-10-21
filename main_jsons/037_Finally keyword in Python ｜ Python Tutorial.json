@@ -1,0 +1,259 @@
+{
+  "video_number": 37,
+  "title": "Finally keyword in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 16.72,
+      "text": "The last video we told you that it is called error handling in Python. This is not going to be a problem for our program. But one more concept that I would like to tell you is finally closet. With dry accept, you can use it for cleanups. And how cleanups do this?"
+    },
+    {
+      "chunk_number": 2,
+      "start": 16.72,
+      "end": 26.44,
+      "text": "I will tell you all this. Finally, in the end, it is always executed. It is irrespective of whether error or not. Let's go to the computer screen and see the topic. And let's get started."
+    },
+    {
+      "chunk_number": 3,
+      "start": 30.0,
+      "end": 43.24,
+      "text": "Let's try it. What we do in dry accept is that we try any code. If it works, it is good. No, let's go. Our program will not crash."
+    },
+    {
+      "chunk_number": 4,
+      "start": 43.24,
+      "end": 54.0,
+      "text": "It will go in a sample lock. I want to send a specific error. Value error or memory error or index error. I can handle it. This faceted DV was with me."
+    },
+    {
+      "chunk_number": 5,
+      "start": 54.0,
+      "end": 70.0,
+      "text": "What happens here? Sometimes we have to clean up. And we sometimes want some code or respect to whatever happens. So I will try something. I wrote that L is equal to a list."
+    },
+    {
+      "chunk_number": 6,
+      "start": 70.0,
+      "end": 90.60000000000001,
+      "text": "And it is number. And I will ask you from the user that I is equal to int of input of enter the index. I am saying this from here. Tell me what you want. And I will print the index value here."
+    },
+    {
+      "chunk_number": 7,
+      "start": 90.60000000000001,
+      "end": 103.24000000000001,
+      "text": "I will write here except if error is here. So what happens here? Print I will do some error occurred. Okay, I have some error. Simple."
+    },
+    {
+      "chunk_number": 8,
+      "start": 103.24000000000001,
+      "end": 116.84,
+      "text": "Now if I run this, you see here that I am asking myself that enter the index will be asked. And what I do is I will put the index value. I will write here. Okay."
+    },
+    {
+      "chunk_number": 9,
+      "start": 116.84,
+      "end": 126.84,
+      "text": "And I will tell you what was the error. And this was the error. 1, 5, 6, 7, 4 values 0, 1, 2, 3, the index value will be valid. It will be added to the number of errors. It will be added to the number of errors."
+    },
+    {
+      "chunk_number": 10,
+      "start": 126.84,
+      "end": 140.84,
+      "text": "Where does this go? Finally, you can go to the desired track or in the except. I am always executed. Okay. This code always executes."
+    },
+    {
+      "chunk_number": 11,
+      "start": 140.84,
+      "end": 148.84,
+      "text": "Whether it goes in the track or in the except. So you are right. 0, I have added. I am always executed. This is my program."
+    },
+    {
+      "chunk_number": 12,
+      "start": 148.84,
+      "end": 158.84,
+      "text": "I have printed the LI which was closed. And I am always executed. And it goes in the content of the final. Okay. Now I will do the error producer."
+    },
+    {
+      "chunk_number": 13,
+      "start": 158.84,
+      "end": 166.84,
+      "text": "Okay. How I will produce the error? I will write my name here. When I ask the index from the enter, I will write the name here. Okay."
+    },
+    {
+      "chunk_number": 14,
+      "start": 166.84,
+      "end": 174.84,
+      "text": "I know I have given it here. All my records. And I am writing here. I am always executed. Now what is the question of people?"
+    },
+    {
+      "chunk_number": 15,
+      "start": 174.84,
+      "end": 186.84,
+      "text": "People say that you are fine. You have told me about the final. I am trying to tell you about the accept. Finally, you have told me that you always execute. So finally, why do I put this block?"
+    },
+    {
+      "chunk_number": 16,
+      "start": 186.84,
+      "end": 194.84,
+      "text": "This is the most word out of all people. They say, I am doing this. Why do I have to do this in the final. Why do I do this? See that?"
+    },
+    {
+      "chunk_number": 17,
+      "start": 194.84,
+      "end": 199.84,
+      "text": "Print time always executed. This is always executed. I will always execute. I will go in the track. I will execute."
+    },
+    {
+      "chunk_number": 18,
+      "start": 199.84,
+      "end": 209.84,
+      "text": "I will go in the except. So, I will write the error here. I will do the error here. You will see that. I am always executed."
+    },
+    {
+      "chunk_number": 19,
+      "start": 209.84,
+      "end": 219.84,
+      "text": "And if I do not produce error in this. I will do something like 0.2 index. I am always executed. So, what is the difference? Now I will tell you the difference."
+    },
+    {
+      "chunk_number": 20,
+      "start": 219.84,
+      "end": 232.84,
+      "text": "Where does the difference come from? When you wrap the same thing in a function. I will wrap the function in one name. I will do this. And what I am doing?"
+    },
+    {
+      "chunk_number": 21,
+      "start": 232.84,
+      "end": 247.84,
+      "text": "I am giving the value of i in the function of one. I am simply doing the function of one here. And I am saying that x is equal to one. And I write here print x. Now if I am trying."
+    },
+    {
+      "chunk_number": 22,
+      "start": 247.84,
+      "end": 261.84000000000003,
+      "text": "I will return the value 0. And I am going in the except. So what will happen? I want to return the value of one. I want to return the value of one."
+    },
+    {
+      "chunk_number": 23,
+      "start": 261.84000000000003,
+      "end": 271.84000000000003,
+      "text": "In fact, I want to return the value of one. I want to return the value of one. And I want to return the value of one. So, I will go in the except. So, it will be the same."
+    },
+    {
+      "chunk_number": 24,
+      "start": 271.84000000000003,
+      "end": 283.84000000000003,
+      "text": "You have expected that this will not come from the executed. If I am going to put 0 here. Now, if I am going to put 0 here. So, 1 is made from here. And this is the print x."
+    },
+    {
+      "chunk_number": 25,
+      "start": 283.84,
+      "end": 299.84,
+      "text": "I am not going to execute the null. So, if I am going to do a error here. You will see that I am not going to execute it. So, you can see here that if I write something like this. I am going to write a error here."
+    },
+    {
+      "chunk_number": 26,
+      "start": 299.84,
+      "end": 306.84,
+      "text": "So, I have drawn the error. And it is 0. Because this function is 0 written. So, this is 0. And this is the error."
+    },
+    {
+      "chunk_number": 27,
+      "start": 306.84,
+      "end": 316.84,
+      "text": "But now, I will tell you. If I do this. What happened? First of all, I will show you a valid index. I will show you 0."
+    },
+    {
+      "chunk_number": 28,
+      "start": 316.84,
+      "end": 326.84,
+      "text": "And I have shown you 0. So, you can see here that I am going to execute it. So, if the function is written, then it will execute it. So, you have written it."
+    },
+    {
+      "chunk_number": 29,
+      "start": 326.84,
+      "end": 333.84,
+      "text": "Try it inside. But it will not go. Finally, it means that if it is to be, it is to be. Okay. So, it will be okay."
+    },
+    {
+      "chunk_number": 30,
+      "start": 333.84,
+      "end": 342.84,
+      "text": "And in the except. You will see the same thing. If the error is produced, then it will say, If I have to be, then it will execute."
+    },
+    {
+      "chunk_number": 31,
+      "start": 342.84,
+      "end": 350.84,
+      "text": "Now, I cannot stop. But you have gone. But you have written. Here, the function used a rule. If you have to be written, then it will be executed."
+    },
+    {
+      "chunk_number": 32,
+      "start": 350.84,
+      "end": 358.84,
+      "text": "It will say, No, it means that it is to be. It is to be written by the function. Okay. If you are confused by this video,"
+    },
+    {
+      "chunk_number": 33,
+      "start": 358.84,
+      "end": 367.84,
+      "text": "you can see this again. Because this is a very, very important interview question. What is the use of the final? Look, let us ask, What is the use of the final?"
+    },
+    {
+      "chunk_number": 34,
+      "start": 367.84,
+      "end": 377.84,
+      "text": "If you have to be in the final, then it is always executed. I always execute. I do this, just write it like this. So, what is the need for me to finally do?"
+    },
+    {
+      "chunk_number": 35,
+      "start": 377.84,
+      "end": 387.84,
+      "text": "This is the need for finally. If you want to make a database connection, you want to break it. Because if you have an error, then in this way,"
+    },
+    {
+      "chunk_number": 36,
+      "start": 387.84,
+      "end": 400.84,
+      "text": "you want to make a database connection, which you have established, then do it. Or if you want to make a file greener. Or if you have a file, then you want to close it."
+    },
+    {
+      "chunk_number": 37,
+      "start": 400.84,
+      "end": 412.84,
+      "text": "So, if you want to do this work, then what will you do? That you have to enter the end of the file, and your work will be done. It is a respective of whether you are returning inside,"
+    },
+    {
+      "chunk_number": 38,
+      "start": 412.84,
+      "end": 424.84,
+      "text": "try irrespective of whether you are returning inside, except this work will be done. So, this example is written by me in main.py. It is very important. Believe me, it is very important."
+    },
+    {
+      "chunk_number": 39,
+      "start": 424.84,
+      "end": 437.84,
+      "text": "Try it. If you have not successfully successfully access this course, then do it. I want to request you to review this video that if you have not reviewed this course"
+    },
+    {
+      "chunk_number": 40,
+      "start": 437.84,
+      "end": 448.84,
+      "text": "in the previous video, then post your comment. Give your review to your review. I think about this course. And I recommend this course."
+    },
+    {
+      "chunk_number": 41,
+      "start": 448.84,
+      "end": 458.84,
+      "text": "This is a pros. It is written by everyone. I hope you will get good input. I hope you will leave your comment in the first video. Because you have seen this course"
+    },
+    {
+      "chunk_number": 42,
+      "start": 458.84,
+      "end": 484.84,
+      "text": "for the last few days. Thank you so much for watching this video. And I will see you next time. Bye."
+    }
+  ],
+  "text": "The last video we told you that it is called error handling in Python. This is not going to be a problem for our program. But one more concept that I would like to tell you is finally closet. With dry accept, you can use it for cleanups. And how cleanups do this? I will tell you all this. Finally, in the end, it is always executed. It is irrespective of whether error or not. Let's go to the computer screen and see the topic. And let's get started. Let's try it. What we do in dry accept is that we try any code. If it works, it is good. No, let's go. Our program will not crash. It will go in a sample lock. I want to send a specific error. Value error or memory error or index error. I can handle it. This faceted DV was with me. What happens here? Sometimes we have to clean up. And we sometimes want some code or respect to whatever happens. So I will try something. I wrote that L is equal to a list. And it is number. And I will ask you from the user that I is equal to int of input of enter the index. I am saying this from here. Tell me what you want. And I will print the index value here. I will write here except if error is here. So what happens here? Print I will do some error occurred. Okay, I have some error. Simple. Now if I run this, you see here that I am asking myself that enter the index will be asked. And what I do is I will put the index value. I will write here. Okay. And I will tell you what was the error. And this was the error. 1, 5, 6, 7, 4 values 0, 1, 2, 3, the index value will be valid. It will be added to the number of errors. It will be added to the number of errors. Where does this go? Finally, you can go to the desired track or in the except. I am always executed. Okay. This code always executes. Whether it goes in the track or in the except. So you are right. 0, I have added. I am always executed. This is my program. I have printed the LI which was closed. And I am always executed. And it goes in the content of the final. Okay. Now I will do the error producer. Okay. How I will produce the error? I will write my name here. When I ask the index from the enter, I will write the name here. Okay. I know I have given it here. All my records. And I am writing here. I am always executed. Now what is the question of people? People say that you are fine. You have told me about the final. I am trying to tell you about the accept. Finally, you have told me that you always execute. So finally, why do I put this block? This is the most word out of all people. They say, I am doing this. Why do I have to do this in the final. Why do I do this? See that? Print time always executed. This is always executed. I will always execute. I will go in the track. I will execute. I will go in the except. So, I will write the error here. I will do the error here. You will see that. I am always executed. And if I do not produce error in this. I will do something like 0.2 index. I am always executed. So, what is the difference? Now I will tell you the difference. Where does the difference come from? When you wrap the same thing in a function. I will wrap the function in one name. I will do this. And what I am doing? I am giving the value of i in the function of one. I am simply doing the function of one here. And I am saying that x is equal to one. And I write here print x. Now if I am trying. I will return the value 0. And I am going in the except. So what will happen? I want to return the value of one. I want to return the value of one. In fact, I want to return the value of one. I want to return the value of one. And I want to return the value of one. So, I will go in the except. So, it will be the same. You have expected that this will not come from the executed. If I am going to put 0 here. Now, if I am going to put 0 here. So, 1 is made from here. And this is the print x. I am not going to execute the null. So, if I am going to do a error here. You will see that I am not going to execute it. So, you can see here that if I write something like this. I am going to write a error here. So, I have drawn the error. And it is 0. Because this function is 0 written. So, this is 0. And this is the error. But now, I will tell you. If I do this. What happened? First of all, I will show you a valid index. I will show you 0. And I have shown you 0. So, you can see here that I am going to execute it. So, if the function is written, then it will execute it. So, you have written it. Try it inside. But it will not go. Finally, it means that if it is to be, it is to be. Okay. So, it will be okay. And in the except. You will see the same thing. If the error is produced, then it will say, If I have to be, then it will execute. Now, I cannot stop. But you have gone. But you have written. Here, the function used a rule. If you have to be written, then it will be executed. It will say, No, it means that it is to be. It is to be written by the function. Okay. If you are confused by this video, you can see this again. Because this is a very, very important interview question. What is the use of the final? Look, let us ask, What is the use of the final? If you have to be in the final, then it is always executed. I always execute. I do this, just write it like this. So, what is the need for me to finally do? This is the need for finally. If you want to make a database connection, you want to break it. Because if you have an error, then in this way, you want to make a database connection, which you have established, then do it. Or if you want to make a file greener. Or if you have a file, then you want to close it. So, if you want to do this work, then what will you do? That you have to enter the end of the file, and your work will be done. It is a respective of whether you are returning inside, try irrespective of whether you are returning inside, except this work will be done. So, this example is written by me in main.py. It is very important. Believe me, it is very important. Try it. If you have not successfully successfully access this course, then do it. I want to request you to review this video that if you have not reviewed this course in the previous video, then post your comment. Give your review to your review. I think about this course. And I recommend this course. This is a pros. It is written by everyone. I hope you will get good input. I hope you will leave your comment in the first video. Because you have seen this course for the last few days. Thank you so much for watching this video. And I will see you next time. Bye."
+}

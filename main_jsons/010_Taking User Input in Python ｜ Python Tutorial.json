@@ -1,0 +1,301 @@
+{
+  "video_number": 10,
+  "title": "Taking User Input in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 17.240000000000002,
+      "text": "You guys have been playing a lot in 100 days of code and all the people's tempos are very high so today I am going to tell you how we can get user input If you interact with some program and then you will enjoy the game"
+    },
+    {
+      "chunk_number": 2,
+      "start": 17.240000000000002,
+      "end": 28.46,
+      "text": "You know how many tips you play in games because all the inputs you play in computer are in the computer action and the inputs are in the computer and these things are very important"
+    },
+    {
+      "chunk_number": 3,
+      "start": 28.46,
+      "end": 43.06,
+      "text": "so we are giving you input and computer response You can also give your Python programs the same way I will tell you how these things are done by giving you Python program the input Let's go to the computer screen and let's get started"
+    },
+    {
+      "chunk_number": 4,
+      "start": 52.540000000000006,
+      "end": 66.46000000000001,
+      "text": "The user input is in Python programming it is taken from input function The input function is in Python programming it takes a string from you or you ask them what you want to give the input"
+    },
+    {
+      "chunk_number": 5,
+      "start": 66.46000000000001,
+      "end": 75.6,
+      "text": "and they can put a message in it I will show you exactly how to do it zoom out a little zoom out a little zoom out a little"
+    },
+    {
+      "chunk_number": 6,
+      "start": 75.6,
+      "end": 86.84,
+      "text": "I will zoom out a little I will zoom out a little and see how it works so we are going to take a very simple thing to take the user input"
+    },
+    {
+      "chunk_number": 7,
+      "start": 86.84,
+      "end": 96.84,
+      "text": "we use input function what is input function? it is very simple that you have to do it that is a variable is equal to input"
+    },
+    {
+      "chunk_number": 8,
+      "start": 96.84,
+      "end": 108.84,
+      "text": "in Python we can take user input directly using input function the input function gives a return value as string character hence we have to pass that into the variable I will tell you what it means"
+    },
+    {
+      "chunk_number": 9,
+      "start": 108.84,
+      "end": 117.84,
+      "text": "it is very simple just write it we have created this the basic program in Python"
+    },
+    {
+      "chunk_number": 10,
+      "start": 117.84,
+      "end": 128.84,
+      "text": "so if I write here and enter it has been printed I can do it like this that my name is"
+    },
+    {
+      "chunk_number": 11,
+      "start": 128.84,
+      "end": 137.84,
+      "text": "and after that I write my name is HarryBrent it is in 1 so this is very simple and you guys understood"
+    },
+    {
+      "chunk_number": 12,
+      "start": 137.84,
+      "end": 147.84,
+      "text": "I will write Harry and now my name is Harry this is very simple you can understand but what you can do"
+    },
+    {
+      "chunk_number": 13,
+      "start": 147.84,
+      "end": 157.84,
+      "text": "you can also do a string I can do it like this and your name and your colon space"
+    },
+    {
+      "chunk_number": 14,
+      "start": 157.84,
+      "end": 167.84,
+      "text": "so you have to write your name the string in the input I will show you and if I write Harry here then my name is Harry"
+    },
+    {
+      "chunk_number": 15,
+      "start": 167.84,
+      "end": 177.84,
+      "text": "it will show you now this is the input function that is the input like this is the input"
+    },
+    {
+      "chunk_number": 16,
+      "start": 177.84,
+      "end": 187.84,
+      "text": "so this is the one that is the one if you wait after the input the input is not given"
+    },
+    {
+      "chunk_number": 17,
+      "start": 187.84,
+      "end": 197.84,
+      "text": "and if you give the string then it shows and after that you will input my name is Harry"
+    },
+    {
+      "chunk_number": 18,
+      "start": 197.84,
+      "end": 207.84,
+      "text": "so this is the one so this is the one so people will make a program I will tell you that this is the biggest"
+    },
+    {
+      "chunk_number": 19,
+      "start": 207.84,
+      "end": 217.84,
+      "text": "doubt and I will tell you what is this this is the one that is the input"
+    },
+    {
+      "chunk_number": 20,
+      "start": 217.84,
+      "end": 229.84,
+      "text": "I will X and I will show you the input so first number will go in"
+    },
+    {
+      "chunk_number": 21,
+      "start": 229.84,
+      "end": 239.84,
+      "text": "and second number will go in and I have a comment I don't know who said it but I had a comment what was it"
+    },
+    {
+      "chunk_number": 22,
+      "start": 239.84,
+      "end": 249.84,
+      "text": "if you print the first number and you print the second number I will say I will write Harry and if you give the first number"
+    },
+    {
+      "chunk_number": 23,
+      "start": 249.84,
+      "end": 259.84000000000003,
+      "text": "I will give you the second number what should be done it is 121 but no it is 121"
+    },
+    {
+      "chunk_number": 24,
+      "start": 259.84000000000003,
+      "end": 269.84000000000003,
+      "text": "now people will say it is getting damaged and people will say they will get damaged but first"
+    },
+    {
+      "chunk_number": 25,
+      "start": 269.84000000000003,
+      "end": 279.84000000000003,
+      "text": "the first mistake it is getting damaged and people will say yes, things are getting damaged but it is getting damaged"
+    },
+    {
+      "chunk_number": 26,
+      "start": 279.84000000000003,
+      "end": 289.84,
+      "text": "and now what is happening when we write the first number what happens what happens what happens"
+    },
+    {
+      "chunk_number": 27,
+      "start": 289.84,
+      "end": 299.84,
+      "text": "what happens everything will go in and then the number will go in and if you have input Python's input function is not intelligent enough"
+    },
+    {
+      "chunk_number": 28,
+      "start": 299.84,
+      "end": 309.84,
+      "text": "you will get the number and you get the number so I will take the number as a string Python's input function"
+    },
+    {
+      "chunk_number": 29,
+      "start": 309.84,
+      "end": 319.84,
+      "text": "whatever you enter I will take the number like this if you enter a number then you have to type in the int"
+    },
+    {
+      "chunk_number": 30,
+      "start": 319.84,
+      "end": 329.84,
+      "text": "we read the type first you have to convert it so the x string and when the string is connected I don't have a string"
+    },
+    {
+      "chunk_number": 31,
+      "start": 329.84,
+      "end": 343.03999999999996,
+      "text": "but when you are explaining when x is connected then the string is literally connected I concatenate If you have a 12 and 100, then what will happen if you have a 12 and 100?"
+    },
+    {
+      "chunk_number": 32,
+      "start": 343.03999999999996,
+      "end": 358.64,
+      "text": "If you have an integer, then you will have a 12 and 100. This is the fourth class child. If you have a fourth class child, then comment below. If this is a string, 12 and 100, then what will happen? 12 and 100."
+    },
+    {
+      "chunk_number": 33,
+      "start": 358.64,
+      "end": 376.64,
+      "text": "It will be similar to that of a string. If we have a love wish in a hat, then we will have a love wish. The word has a string. It will be similar to that of a string. If you have a string, then you will have a string."
+    },
+    {
+      "chunk_number": 34,
+      "start": 376.64,
+      "end": 398.64,
+      "text": "If you have a 12 and 100, then what will happen? What will happen? If I want to have a 12 and 100, then what will happen? Let me see X but as an integer. Y but as an integer."
+    },
+    {
+      "chunk_number": 35,
+      "start": 398.64,
+      "end": 411.64,
+      "text": "Let me connect both of them. I will run this program. I have written Harry from my name. I have put the number of numbers. I will write the number of numbers."
+    },
+    {
+      "chunk_number": 36,
+      "start": 411.64,
+      "end": 426.64,
+      "text": "This is the one I have done the print express. It is 4.5 meters. It is kept in the form of 45. This is the actual arithmetic operation between two integers. So, if these are the arithmetic operations, then they will be the two integers."
+    },
+    {
+      "chunk_number": 37,
+      "start": 426.64,
+      "end": 436.64,
+      "text": "You can see both integers here. You can see X and Y. They were not the two integers. We have created them here. Let me tell you one more thing."
+    },
+    {
+      "chunk_number": 38,
+      "start": 436.64,
+      "end": 451.64,
+      "text": "I will tell you in this course of 100 days of code. I will not tell you the solution. I will give you a hint. If you want to see it, then I will give you the first number. I am giving the second number of Factors of behöver может блок."
+    },
+    {
+      "chunk_number": 39,
+      "start": 451.64,
+      "end": 465.64,
+      "text": "Let a backing box call or set a cell. We can go to remember this. First day of video it will be a hope. There is a probability that we call the numbers of Factors ofheld. Lets stop watching."
+    },
+    {
+      "chunk_number": 40,
+      "start": 465.64,
+      "end": 475.64,
+      "text": "Stop mistaking up. We do not forget. We are using the fourth letter. You end up with a guidand callriots. I have done this happening."
+    },
+    {
+      "chunk_number": 41,
+      "start": 475.64,
+      "end": 484.64,
+      "text": "Asked Mr. masking did everything. I am not getting angry. I am not getting angry. You see. I am not getting angry."
+    },
+    {
+      "chunk_number": 42,
+      "start": 484.64,
+      "end": 494.64,
+      "text": "I am not getting angry. I am not getting angry. You see. I am not getting angry. You see."
+    },
+    {
+      "chunk_number": 43,
+      "start": 494.64,
+      "end": 508.64,
+      "text": "Most recent call file min.py line 18 module I have converted the X to the int. How will I convert this into the int? I mean, how is the proverb? How is the given method possible?"
+    },
+    {
+      "chunk_number": 44,
+      "start": 508.64,
+      "end": 525.06,
+      "text": "over Ssovc, will see the variable, will see the result, Then say here prime cp data means discarding"
+    },
+    {
+      "chunk_number": 45,
+      "start": 525.06,
+      "end": 545.14,
+      "text": "Bvt be a cost increase. In this simplies. I can convert this We have seen that we can display text and convert it in float. So, you can also connect both the numbers to the arithmetic operation."
+    },
+    {
+      "chunk_number": 46,
+      "start": 545.14,
+      "end": 561.14,
+      "text": "So, what should you do? In the future, in float, you should convert it in the same number. So, we can import the Python programming. And now, I want you to create an arithmetic operation. We have done an arithmetic operation."
+    },
+    {
+      "chunk_number": 47,
+      "start": 561.14,
+      "end": 577.14,
+      "text": "We have done an exercise. Plus, minus, times, divide, exponent, all the operators. I am going to show you all the operators here. If we are taking a string, if we are directly applying it to X or Y, what is the problem? And if we are doing this, what is the problem?"
+    },
+    {
+      "chunk_number": 48,
+      "start": 577.14,
+      "end": 592.14,
+      "text": "I want you to do it. And show me. So, in this video, if you haven't done the Python, I will want you to do it. And if you are doing this, what is the problem? And if you are doing this, what is the problem?"
+    },
+    {
+      "chunk_number": 49,
+      "start": 592.14,
+      "end": 597.14,
+      "text": "Thank you so much for watching this video. And I will see you next time."
+    }
+  ],
+  "text": "You guys have been playing a lot in 100 days of code and all the people's tempos are very high so today I am going to tell you how we can get user input If you interact with some program and then you will enjoy the game You know how many tips you play in games because all the inputs you play in computer are in the computer action and the inputs are in the computer and these things are very important so we are giving you input and computer response You can also give your Python programs the same way I will tell you how these things are done by giving you Python program the input Let's go to the computer screen and let's get started The user input is in Python programming it is taken from input function The input function is in Python programming it takes a string from you or you ask them what you want to give the input and they can put a message in it I will show you exactly how to do it zoom out a little zoom out a little zoom out a little I will zoom out a little I will zoom out a little and see how it works so we are going to take a very simple thing to take the user input we use input function what is input function? it is very simple that you have to do it that is a variable is equal to input in Python we can take user input directly using input function the input function gives a return value as string character hence we have to pass that into the variable I will tell you what it means it is very simple just write it we have created this the basic program in Python so if I write here and enter it has been printed I can do it like this that my name is and after that I write my name is HarryBrent it is in 1 so this is very simple and you guys understood I will write Harry and now my name is Harry this is very simple you can understand but what you can do you can also do a string I can do it like this and your name and your colon space so you have to write your name the string in the input I will show you and if I write Harry here then my name is Harry it will show you now this is the input function that is the input like this is the input so this is the one that is the one if you wait after the input the input is not given and if you give the string then it shows and after that you will input my name is Harry so this is the one so this is the one so people will make a program I will tell you that this is the biggest doubt and I will tell you what is this this is the one that is the input I will X and I will show you the input so first number will go in and second number will go in and I have a comment I don't know who said it but I had a comment what was it if you print the first number and you print the second number I will say I will write Harry and if you give the first number I will give you the second number what should be done it is 121 but no it is 121 now people will say it is getting damaged and people will say they will get damaged but first the first mistake it is getting damaged and people will say yes, things are getting damaged but it is getting damaged and now what is happening when we write the first number what happens what happens what happens what happens everything will go in and then the number will go in and if you have input Python's input function is not intelligent enough you will get the number and you get the number so I will take the number as a string Python's input function whatever you enter I will take the number like this if you enter a number then you have to type in the int we read the type first you have to convert it so the x string and when the string is connected I don't have a string but when you are explaining when x is connected then the string is literally connected I concatenate If you have a 12 and 100, then what will happen if you have a 12 and 100? If you have an integer, then you will have a 12 and 100. This is the fourth class child. If you have a fourth class child, then comment below. If this is a string, 12 and 100, then what will happen? 12 and 100. It will be similar to that of a string. If we have a love wish in a hat, then we will have a love wish. The word has a string. It will be similar to that of a string. If you have a string, then you will have a string. If you have a 12 and 100, then what will happen? What will happen? If I want to have a 12 and 100, then what will happen? Let me see X but as an integer. Y but as an integer. Let me connect both of them. I will run this program. I have written Harry from my name. I have put the number of numbers. I will write the number of numbers. This is the one I have done the print express. It is 4.5 meters. It is kept in the form of 45. This is the actual arithmetic operation between two integers. So, if these are the arithmetic operations, then they will be the two integers. You can see both integers here. You can see X and Y. They were not the two integers. We have created them here. Let me tell you one more thing. I will tell you in this course of 100 days of code. I will not tell you the solution. I will give you a hint. If you want to see it, then I will give you the first number. I am giving the second number of Factors of behöver может блок. Let a backing box call or set a cell. We can go to remember this. First day of video it will be a hope. There is a probability that we call the numbers of Factors ofheld. Lets stop watching. Stop mistaking up. We do not forget. We are using the fourth letter. You end up with a guidand callriots. I have done this happening. Asked Mr. masking did everything. I am not getting angry. I am not getting angry. You see. I am not getting angry. I am not getting angry. I am not getting angry. You see. I am not getting angry. You see. Most recent call file min.py line 18 module I have converted the X to the int. How will I convert this into the int? I mean, how is the proverb? How is the given method possible? over Ssovc, will see the variable, will see the result, Then say here prime cp data means discarding Bvt be a cost increase. In this simplies. I can convert this We have seen that we can display text and convert it in float. So, you can also connect both the numbers to the arithmetic operation. So, what should you do? In the future, in float, you should convert it in the same number. So, we can import the Python programming. And now, I want you to create an arithmetic operation. We have done an arithmetic operation. We have done an exercise. Plus, minus, times, divide, exponent, all the operators. I am going to show you all the operators here. If we are taking a string, if we are directly applying it to X or Y, what is the problem? And if we are doing this, what is the problem? I want you to do it. And show me. So, in this video, if you haven't done the Python, I will want you to do it. And if you are doing this, what is the problem? And if you are doing this, what is the problem? Thank you so much for watching this video. And I will see you next time."
+}

@@ -1,0 +1,223 @@
+{
+  "video_number": 51,
+  "title": "seek(), tell() and other functions ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 10.92,
+      "text": "What's up guys, all the people are back in day 51. Our half-century journey has been completed. This is our 51st day. And we will talk about the tempo and the high-reality of our time. In the file handling, there are some SF functions."
+    },
+    {
+      "chunk_number": 2,
+      "start": 10.92,
+      "end": 20.54,
+      "text": "Because you guys will help us with some miscellaneous things. We will talk about the Seek, about the Tell, about the Tell. What is this? How to use it? Let's go to the Mood screen. And let's get started."
+    },
+    {
+      "chunk_number": 3,
+      "start": 30.0,
+      "end": 54.0,
+      "text": "If you are writing a simple program, you can use it as a simple file. But we are talking about some things that you can do. For example, if you want to edit a 6th character of a file, then you will not have to edit the entire file. You will not have to edit the 6th character of the file."
+    },
+    {
+      "chunk_number": 4,
+      "start": 54.0,
+      "end": 76.2,
+      "text": "We can use the F.Seek. You can see that Python, the Seek and Tell functions are used to work with file objects and their positions within a file. These functions are part of built-in IO model which provides a consistent interface for reading and writing to various file objects. Files, pipes and in-memory buffers. Now what we will do is see the Seek object."
+    },
+    {
+      "chunk_number": 5,
+      "start": 76.2,
+      "end": 89.2,
+      "text": "I will copy it. First, I want to tell you something. Before we move on, let's go to the front. And I will print the type. What type?"
+    },
+    {
+      "chunk_number": 6,
+      "start": 89.2,
+      "end": 101.2,
+      "text": "Type print F. And then I will run it. Actually, we don't have to make a file.TXT here. I will write file.TXT in it. I will just write a good boy."
+    },
+    {
+      "chunk_number": 7,
+      "start": 101.2,
+      "end": 110.2,
+      "text": "I will do this. I will copy it. I have written a good boy. So what I will do is, I will come to the main.Pi and run it. And when I will run it."
+    },
+    {
+      "chunk_number": 8,
+      "start": 110.2,
+      "end": 128.2,
+      "text": "You can see that this is called class I.TXT IO wrapper. Simply, I am telling you that this is built-in IO model. I will show you file.TXT in the file.TXT. In fact, I will do print data. I have read it."
+    },
+    {
+      "chunk_number": 9,
+      "start": 128.2,
+      "end": 139.2,
+      "text": "I will read it in the right mode. If I read it. So you can see what will happen to print data. This will print the next 5 bytes. So, the good will print it."
+    },
+    {
+      "chunk_number": 10,
+      "start": 139.2,
+      "end": 153.2,
+      "text": "First of all, it has read it. Then it will read the next 5 bytes. Now, the read function of our file is the argument of how many bytes and how many characters to read. If I read F. So, the first 5 characters will be read."
+    },
+    {
+      "chunk_number": 11,
+      "start": 153.2,
+      "end": 161.2,
+      "text": "Now, what does F. What does F. It says that you should read the starting file. Now read this character. I will show you."
+    },
+    {
+      "chunk_number": 12,
+      "start": 161.2,
+      "end": 176.2,
+      "text": "If I click on the control file.TXT, I will take it. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. In fact, I will do this. 1, 2, 3, 4, 5, 6, 7, 9, 10. I will write it in a way."
+    },
+    {
+      "chunk_number": 13,
+      "start": 176.2,
+      "end": 183.2,
+      "text": "I will write it in 10. I will write it in 11. I will write it in 11. I will write it in 12. I will write it in 12."
+    },
+    {
+      "chunk_number": 14,
+      "start": 183.2,
+      "end": 195.2,
+      "text": "Now, if I run it here. You will see that the 10th character will be read. And then, 5 bytes will be read from there. Now, what will happen to me? I will simply get E or T."
+    },
+    {
+      "chunk_number": 15,
+      "start": 195.2,
+      "end": 207.2,
+      "text": "E or T is coming. I will get this. I will learn 10 bytes till now. After that, I will read the next 5 bytes. Obviously, there were 5 bytes."
+    },
+    {
+      "chunk_number": 16,
+      "start": 207.2,
+      "end": 218.2,
+      "text": "So, I wrote the Harry is. So, I wrote the 5 bytes because I didn't write the Harry is. Now, you guys see what will happen to the Harry is. This is the complete read. It is read from the 5 bytes."
+    },
+    {
+      "chunk_number": 17,
+      "start": 218.2,
+      "end": 235.2,
+      "text": "It is read from the 5 bytes. Read it. So, I wrote that the Seek function allows you to move the current position within a file to a specific point. The position is specified in bytes and you can move by the forward or backward from the current position. So, here you can see that I opened the file.Txt."
+    },
+    {
+      "chunk_number": 18,
+      "start": 235.2,
+      "end": 256.2,
+      "text": "In read mode, read the data and before reading it, I have learnt 10 bytes. So, I have learnt 10 what will happen to the 10 bytes. So, I hope you guys understood. So, after reading the 10 bytes, you can read the app.seek 10. And after that, read the app.seek symbol."
+    },
+    {
+      "chunk_number": 19,
+      "start": 256.2,
+      "end": 273.2,
+      "text": "Now, what is the tell? I don't know if you guys know. You guys are in a long program. And you want to know in any function that the reading start will be from where. For example, after reading the 10 bytes, because the app.seek 10 is there."
+    },
+    {
+      "chunk_number": 20,
+      "start": 273.2,
+      "end": 292.2,
+      "text": "So, I want to know where the app.seek will be from. So, what I will do here, I will print app.txt. Okay, app.txt will not allow me to tell you that where we have learnt 10. So, where we have learnt 10, I will see what will happen to the 10. Now, about the tell, I have written something."
+    },
+    {
+      "chunk_number": 21,
+      "start": 292.2,
+      "end": 308.2,
+      "text": "Tell function returns the current position within the files. Within the file in bytes. This can be useful for tracking location within the file or for seeking to a specific position relative to the current position. So, what we can do here, we can find the app.txt."
+    },
+    {
+      "chunk_number": 22,
+      "start": 308.2,
+      "end": 318.2,
+      "text": "Where is the app? Okay, in the file, how many characters are we already? Now, what do we do in the track? We also take the track.txt and then we will wrap it up. So, I will do the first thing."
+    },
+    {
+      "chunk_number": 23,
+      "start": 318.2,
+      "end": 325.2,
+      "text": "I have written all the code here. And I will do the file.txt. And I will do the file.txt in the file.txt. Or I will do the work. Because I am writing."
+    },
+    {
+      "chunk_number": 24,
+      "start": 325.2,
+      "end": 334.2,
+      "text": "I am not doing the sample.txt. I can see it here. The sample.txt has been in the hello. Okay, so what I have done here. I have said that first of all, what should I do?"
+    },
+    {
+      "chunk_number": 25,
+      "start": 334.2,
+      "end": 346.2,
+      "text": "Write the hello world in the file. Then I have said f.tranquate5. What does this mean? This means that I have written in my file. But I want my file size 5 characters."
+    },
+    {
+      "chunk_number": 26,
+      "start": 346.2,
+      "end": 357.2,
+      "text": "So, I just want to do 5 characters in my file. I want to do the twonquate. I want to do twonquate. I want to do twonquate. I mean, the twonquate is 5 characters in my file."
+    },
+    {
+      "chunk_number": 27,
+      "start": 357.2,
+      "end": 363.2,
+      "text": "Which of the 5 characters are the first? Hello. So, if you click on the control and open the case, then it will be hello. You can see it here."
+    },
+    {
+      "chunk_number": 28,
+      "start": 363.2,
+      "end": 372.2,
+      "text": "But if I didn't do it, then obviously, we all know the world's hello world. Like you can see here. Okay. If I do this here,"
+    },
+    {
+      "chunk_number": 29,
+      "start": 372.2,
+      "end": 379.2,
+      "text": "I will do the hello world 3. So, the hello world 3 comes. Okay. I have seen the file in the file. So, there is no doubt about it."
+    },
+    {
+      "chunk_number": 30,
+      "start": 379.2,
+      "end": 387.2,
+      "text": "Okay. This is the hello world 3. But if I want to do twonquate.txt, I will do twonquate.txt. 3 characters will be H.E.L."
+    },
+    {
+      "chunk_number": 31,
+      "start": 387.2,
+      "end": 396.2,
+      "text": "Like you can see here. H.E.L.A.G.A.D.K. So, this is the way you all can do this. I hope you all enjoyed it. And you all understood that"
+    },
+    {
+      "chunk_number": 32,
+      "start": 396.2,
+      "end": 405.2,
+      "text": "we are doing this with the C.K.T.L. and the twonquate methods. Now, I would like to ask you to go to the first video on the playlist. If you haven't done the playlist,"
+    },
+    {
+      "chunk_number": 33,
+      "start": 405.2,
+      "end": 417.2,
+      "text": "then you can go to the playlist first. And then, you will all leave your review comments. I would like to ask you to give me 5 to start. Before, how many stars you want to give to this course."
+    },
+    {
+      "chunk_number": 34,
+      "start": 417.2,
+      "end": 429.2,
+      "text": "And after that, you can give me 5 to start. You can give me this rating. And any new person who wants to come here will start this course. He will tell you what he is doing."
+    },
+    {
+      "chunk_number": 35,
+      "start": 429.2,
+      "end": 437.2,
+      "text": "I have many questions. What is this course free? Is it written in it? Is it going to be taught? Is it going to be taught?"
+    },
+    {
+      "chunk_number": 36,
+      "start": 437.2,
+      "end": 445.2,
+      "text": "I would like to give you a review that you all like. Thank you so much for watching this video. And I will see you next time."
+    }
+  ],
+  "text": "What's up guys, all the people are back in day 51. Our half-century journey has been completed. This is our 51st day. And we will talk about the tempo and the high-reality of our time. In the file handling, there are some SF functions. Because you guys will help us with some miscellaneous things. We will talk about the Seek, about the Tell, about the Tell. What is this? How to use it? Let's go to the Mood screen. And let's get started. If you are writing a simple program, you can use it as a simple file. But we are talking about some things that you can do. For example, if you want to edit a 6th character of a file, then you will not have to edit the entire file. You will not have to edit the 6th character of the file. We can use the F.Seek. You can see that Python, the Seek and Tell functions are used to work with file objects and their positions within a file. These functions are part of built-in IO model which provides a consistent interface for reading and writing to various file objects. Files, pipes and in-memory buffers. Now what we will do is see the Seek object. I will copy it. First, I want to tell you something. Before we move on, let's go to the front. And I will print the type. What type? Type print F. And then I will run it. Actually, we don't have to make a file.TXT here. I will write file.TXT in it. I will just write a good boy. I will do this. I will copy it. I have written a good boy. So what I will do is, I will come to the main.Pi and run it. And when I will run it. You can see that this is called class I.TXT IO wrapper. Simply, I am telling you that this is built-in IO model. I will show you file.TXT in the file.TXT. In fact, I will do print data. I have read it. I will read it in the right mode. If I read it. So you can see what will happen to print data. This will print the next 5 bytes. So, the good will print it. First of all, it has read it. Then it will read the next 5 bytes. Now, the read function of our file is the argument of how many bytes and how many characters to read. If I read F. So, the first 5 characters will be read. Now, what does F. What does F. It says that you should read the starting file. Now read this character. I will show you. If I click on the control file.TXT, I will take it. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. In fact, I will do this. 1, 2, 3, 4, 5, 6, 7, 9, 10. I will write it in a way. I will write it in 10. I will write it in 11. I will write it in 11. I will write it in 12. I will write it in 12. Now, if I run it here. You will see that the 10th character will be read. And then, 5 bytes will be read from there. Now, what will happen to me? I will simply get E or T. E or T is coming. I will get this. I will learn 10 bytes till now. After that, I will read the next 5 bytes. Obviously, there were 5 bytes. So, I wrote the Harry is. So, I wrote the 5 bytes because I didn't write the Harry is. Now, you guys see what will happen to the Harry is. This is the complete read. It is read from the 5 bytes. It is read from the 5 bytes. Read it. So, I wrote that the Seek function allows you to move the current position within a file to a specific point. The position is specified in bytes and you can move by the forward or backward from the current position. So, here you can see that I opened the file.Txt. In read mode, read the data and before reading it, I have learnt 10 bytes. So, I have learnt 10 what will happen to the 10 bytes. So, I hope you guys understood. So, after reading the 10 bytes, you can read the app.seek 10. And after that, read the app.seek symbol. Now, what is the tell? I don't know if you guys know. You guys are in a long program. And you want to know in any function that the reading start will be from where. For example, after reading the 10 bytes, because the app.seek 10 is there. So, I want to know where the app.seek will be from. So, what I will do here, I will print app.txt. Okay, app.txt will not allow me to tell you that where we have learnt 10. So, where we have learnt 10, I will see what will happen to the 10. Now, about the tell, I have written something. Tell function returns the current position within the files. Within the file in bytes. This can be useful for tracking location within the file or for seeking to a specific position relative to the current position. So, what we can do here, we can find the app.txt. Where is the app? Okay, in the file, how many characters are we already? Now, what do we do in the track? We also take the track.txt and then we will wrap it up. So, I will do the first thing. I have written all the code here. And I will do the file.txt. And I will do the file.txt in the file.txt. Or I will do the work. Because I am writing. I am not doing the sample.txt. I can see it here. The sample.txt has been in the hello. Okay, so what I have done here. I have said that first of all, what should I do? Write the hello world in the file. Then I have said f.tranquate5. What does this mean? This means that I have written in my file. But I want my file size 5 characters. So, I just want to do 5 characters in my file. I want to do the twonquate. I want to do twonquate. I want to do twonquate. I mean, the twonquate is 5 characters in my file. Which of the 5 characters are the first? Hello. So, if you click on the control and open the case, then it will be hello. You can see it here. But if I didn't do it, then obviously, we all know the world's hello world. Like you can see here. Okay. If I do this here, I will do the hello world 3. So, the hello world 3 comes. Okay. I have seen the file in the file. So, there is no doubt about it. Okay. This is the hello world 3. But if I want to do twonquate.txt, I will do twonquate.txt. 3 characters will be H.E.L. Like you can see here. H.E.L.A.G.A.D.K. So, this is the way you all can do this. I hope you all enjoyed it. And you all understood that we are doing this with the C.K.T.L. and the twonquate methods. Now, I would like to ask you to go to the first video on the playlist. If you haven't done the playlist, then you can go to the playlist first. And then, you will all leave your review comments. I would like to ask you to give me 5 to start. Before, how many stars you want to give to this course. And after that, you can give me 5 to start. You can give me this rating. And any new person who wants to come here will start this course. He will tell you what he is doing. I have many questions. What is this course free? Is it written in it? Is it going to be taught? Is it going to be taught? I would like to give you a review that you all like. Thank you so much for watching this video. And I will see you next time."
+}

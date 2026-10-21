@@ -1,0 +1,607 @@
+{
+  "video_number": 43,
+  "title": "Virtual Environment in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 14.0,
+      "text": "Let's start with the Python program. You have to use a particular version of a package. When the package is updated, you are using a second version of your friend. You are using a second version. In this way, you use 50 packages in your project."
+    },
+    {
+      "chunk_number": 2,
+      "start": 14.0,
+      "end": 32.0,
+      "text": "How will you maintain the version? How will you ensure that the packages you are using are used exactly the same as yours. And how will you distribute your program? Let's go to the computer screen. In virtual environment, you can install a isolated environment in your project."
+    },
+    {
+      "chunk_number": 3,
+      "start": 32.0,
+      "end": 59.0,
+      "text": "You can install a single user in your project. Let's get started. First of all, let's talk about the exact use of virtual environment. After that, we will see how virtual environment will be more clear. What is the exact virtual environment and what it is all about."
+    },
+    {
+      "chunk_number": 4,
+      "start": 59.0,
+      "end": 81.0,
+      "text": "First of all, let's see what I have written here. Virtual environment is a tool used to isolate specific Python environments on a single machine. Allowing you to work on multiple projects with different dependencies and packages without conflicts. What is this? Basically, you are doing this to help virtual environment."
+    },
+    {
+      "chunk_number": 5,
+      "start": 81.0,
+      "end": 93.0,
+      "text": "To prevent your Python environment from changing. I am using the version of Pandas. My friend is using the one-jut tool. And I am using the one-jut tool in my computer because I am installing it. How will I run the project?"
+    },
+    {
+      "chunk_number": 6,
+      "start": 93.0,
+      "end": 106.0,
+      "text": "I will run my version and install it. What can I do? I will make a virtual environment for Pandas version 1. I will make a virtual environment for Pandas version 2. This was an example."
+    },
+    {
+      "chunk_number": 7,
+      "start": 106.0,
+      "end": 124.0,
+      "text": "You can see this can be useful when working on projects. That have conflicting package versions and packages that are not compatible with each other. This is also a very important point. Packages that are not compatible with each other. I have a package, package A, and it is a package B."
+    },
+    {
+      "chunk_number": 8,
+      "start": 124.0,
+      "end": 137.0,
+      "text": "It is a package B version 1. I update one package B and it is a package B version 2. What do I do? I have to do an environment. I can install the packages in the environment."
+    },
+    {
+      "chunk_number": 9,
+      "start": 137.0,
+      "end": 155.0,
+      "text": "And the versions of the packages are not compatible with any Python environment. If you have not understood, then I will tell you. How do I make a virtual environment for you? I will do a virtual environment with the package B and the package. I will install the packages B and the package will be installed."
+    },
+    {
+      "chunk_number": 10,
+      "start": 155.0,
+      "end": 169.0,
+      "text": "You can make a virtual environment. What do you do here? Copy. I will make a new folder for you. I will make a new folder for you."
+    },
+    {
+      "chunk_number": 11,
+      "start": 169.0,
+      "end": 187.0,
+      "text": "I will make a new folder for you. I will make a new terminal for you. I will make a new terminal for you. I will add it and paste it. And I will enter it."
+    },
+    {
+      "chunk_number": 12,
+      "start": 187.0,
+      "end": 200.0,
+      "text": "I will use Python 3 on the Mac. I will do Python 3. I have made a new terminal for you. What will I do? I want to tell you this."
+    },
+    {
+      "chunk_number": 13,
+      "start": 200.0,
+      "end": 213.0,
+      "text": "I have made a new folder for you. I have become a fullter of my name. You can understand this from one side. My computer's Python is copy-bonded. My computer's Python is copy-bonded."
+    },
+    {
+      "chunk_number": 14,
+      "start": 213.0,
+      "end": 226.0,
+      "text": "Now I can add one version of this package. I will show you another package. But if I write here, PIP 3 install pandas. So, this is a requirement already satisfied."
+    },
+    {
+      "chunk_number": 15,
+      "start": 226.0,
+      "end": 237.0,
+      "text": "What is the pandas install? My computer has a pandas install. I want to install pandas in this. Because in my global computer, I have a global environment."
+    },
+    {
+      "chunk_number": 16,
+      "start": 237.0,
+      "end": 248.0,
+      "text": "So, I have already satisfied. Okay. You should know this. Now, what I will do. Now, I want to activate this virtual environment."
+    },
+    {
+      "chunk_number": 17,
+      "start": 248.0,
+      "end": 257.0,
+      "text": "So, to activate this, I will write source, I will write my ENV, I will write bin, I will write activator."
+    },
+    {
+      "chunk_number": 18,
+      "start": 257.0,
+      "end": 267.0,
+      "text": "If you don't know how I have done it, I have already added this auto-complete. Then, I have added this auto-complete. Then, I have added AC-licu-tap auto-complete. Okay."
+    },
+    {
+      "chunk_number": 19,
+      "start": 267.0,
+      "end": 279.0,
+      "text": "I will enter this. Now, I will write my ENV here. So, this means that if you have run this app, then this virtual environment is installed. And if the Python program is running,"
+    },
+    {
+      "chunk_number": 20,
+      "start": 279.0,
+      "end": 296.0,
+      "text": "then this virtual environment will use it. This will use the Python installed in this. This way, I can make 10 Python virtual environments. This means that 10 different separate Python on a single computer. This is how much it takes."
+    },
+    {
+      "chunk_number": 21,
+      "start": 296.0,
+      "end": 309.0,
+      "text": "All these different environments will be in their packages. Now, as I will write Python program here, I will write Python 3 here. I will write import pandas as PD. No more do you name pandas?"
+    },
+    {
+      "chunk_number": 22,
+      "start": 309.0,
+      "end": 321.0,
+      "text": "Because I have not installed pandas in my ENV yet. This is my global computer installed. This requirement was already satisfied. I have installed pandas in my global computer. This virtual environment is not installed in pandas."
+    },
+    {
+      "chunk_number": 23,
+      "start": 321.0,
+      "end": 331.0,
+      "text": "So, what I will do? I will write the exit here. I will turn the Python interpreter on. I am also in this virtual environment. This virtual environment is in there."
+    },
+    {
+      "chunk_number": 24,
+      "start": 331.0,
+      "end": 340.0,
+      "text": "I will write here, PAPE 3 installed pandas. Now, pandas will be installed. See, you will be able to see the computer on your screen. How can you install?"
+    },
+    {
+      "chunk_number": 25,
+      "start": 340.0,
+      "end": 353.0,
+      "text": "Why do you need to install pandas? Because pandas were not installed here. Pandas was my global computer installed. You will be able to see the computer installed. Now, I will do import pandas."
+    },
+    {
+      "chunk_number": 26,
+      "start": 353.0,
+      "end": 371.0,
+      "text": "By the way, I will tell you that you can also install a particular version of package. I will show you. But, I will write pandas Python here. And I will show you the versions. I want to show you the versions."
+    },
+    {
+      "chunk_number": 27,
+      "start": 371.0,
+      "end": 381.0,
+      "text": "This is the version. I want to install 1.5.2 as a latest version. I want to install 1.4.4. How can I do this? I will write here."
+    },
+    {
+      "chunk_number": 28,
+      "start": 381.0,
+      "end": 388.0,
+      "text": "I will write here. What was the point? 4.4. Okay. 4.4."
+    },
+    {
+      "chunk_number": 29,
+      "start": 388.0,
+      "end": 394.0,
+      "text": "So, what will happen? 1.4.4. Pandas will be installed. So, I will download it. Okay."
+    },
+    {
+      "chunk_number": 30,
+      "start": 394.0,
+      "end": 403.0,
+      "text": "1.4.4. Pandas. And, see here. This is the install. And,"
+    },
+    {
+      "chunk_number": 31,
+      "start": 403.0,
+      "end": 415.0,
+      "text": "installing build dependencies. So, we will wait for this to be installed. So, finally, it has been installed for a long time. But, I want to show you one thing. And, I will write here."
+    },
+    {
+      "chunk_number": 32,
+      "start": 415.0,
+      "end": 427.0,
+      "text": "And, after that, I will write import pandas as PD. So, I write import pandas. I will use Pandas. I can use PD. So, I have written import pandas as PD."
+    },
+    {
+      "chunk_number": 33,
+      "start": 427.0,
+      "end": 439.0,
+      "text": "And, I have written import as PD. I don't know if you have problem with 1.4. I have installed a lot of time. I have also installed import. So, I will wait for it to be import."
+    },
+    {
+      "chunk_number": 34,
+      "start": 439.0,
+      "end": 446.0,
+      "text": "Not sure. What is wrong? And, it has been installed. Now, if you write here PD. Under score version."
+    },
+    {
+      "chunk_number": 35,
+      "start": 446.0,
+      "end": 455.0,
+      "text": "I will write here. Pandas version. Let's exit. Okay. The function of the exit is perfect."
+    },
+    {
+      "chunk_number": 36,
+      "start": 455.0,
+      "end": 468.0,
+      "text": "Now, if I want to deactivate this virtual environment. I mean, I want to use this folder. It is not used for the inside python installed. So, I can deactivate it. Deactivate."
+    },
+    {
+      "chunk_number": 37,
+      "start": 468.0,
+      "end": 475.0,
+      "text": "And, that's about it. You can see that my NV is written here. It has become a new one. Okay. Now, if I write here."
+    },
+    {
+      "chunk_number": 38,
+      "start": 475.0,
+      "end": 486.0,
+      "text": "And, after that, I will write import pandas as PD. And, I will do the same thing. PD. Under score. Now, it is 1.5.2."
+    },
+    {
+      "chunk_number": 39,
+      "start": 486.0,
+      "end": 500.0,
+      "text": "Why? Because, my computer was installed in python. And, the pandas in that version was 1.5.2. But, I have installed this python. Correct words."
+    },
+    {
+      "chunk_number": 40,
+      "start": 500.0,
+      "end": 512.0,
+      "text": "This one was installed in virtual environment. And, I have used another version of pandas. So, whenever I want 1.4.4. This version of pandas. I will deactivate this one."
+    },
+    {
+      "chunk_number": 41,
+      "start": 512.0,
+      "end": 525.0,
+      "text": "And, whenever I want to use this version. I will activate this virtual environment. And, whenever I want 1.5.2. This version of pandas. I will use my global python."
+    },
+    {
+      "chunk_number": 42,
+      "start": 525.0,
+      "end": 539.0,
+      "text": "And, I will deactivate this virtual environment. And, what if I need to install another version of pandas. I will do it in a new virtual environment. I will do it in a new virtual environment. I will do it."
+    },
+    {
+      "chunk_number": 43,
+      "start": 539.0,
+      "end": 551.0,
+      "text": "And, let me tell you how to make a virtual environment. Like, we have made the first one. Python. 3-MVN. And, this time, I will name it."
+    },
+    {
+      "chunk_number": 44,
+      "start": 551.0,
+      "end": 559.0,
+      "text": "Pandas. 1.5. I know it is 1-5. My name is Mymerzy. My name is Kujbe."
+    },
+    {
+      "chunk_number": 45,
+      "start": 559.0,
+      "end": 568.0,
+      "text": "My virtual environment. This way, you can name your folder. You can name your virtual environment. Mymerzy, I will name it Pandas. I will keep it as 1-5."
+    },
+    {
+      "chunk_number": 46,
+      "start": 568.0,
+      "end": 577.0,
+      "text": "I will keep it as a Harry. I will keep it as a Shubham. I will keep it as a Rohan. Okay. So what we will do here?"
+    },
+    {
+      "chunk_number": 47,
+      "start": 577.0,
+      "end": 587.0,
+      "text": "I have done 5-3 and I have activated it. Okay. I will write source. I will write P-A-N-Tab. I could have typed manually."
+    },
+    {
+      "chunk_number": 48,
+      "start": 587.0,
+      "end": 599.0,
+      "text": "But I can type the TAB and I will write auto. I will write pandas, 1-5. I will write bin. I will write pandas, 1-5. Virtual environment is active."
+    },
+    {
+      "chunk_number": 49,
+      "start": 599.0,
+      "end": 611.0,
+      "text": "Let's do one thing. I will write Python 3 and install pandas. I should not have to install pandas without Python 3. I should have to write paper install pandas. I did not have to write paper 3."
+    },
+    {
+      "chunk_number": 50,
+      "start": 611.0,
+      "end": 623.0,
+      "text": "I have to write paper 3. I have actually done one mistake. I have to write pandas equals to equals to 1.5. I have to install pandas 1.5 version. I will wait for it to be installed."
+    },
+    {
+      "chunk_number": 51,
+      "start": 623.0,
+      "end": 638.0,
+      "text": "I have installed 1.5. I have already installed 1.5. I will show you. I will write Python and then write import pandas as pd of 5 pd. I will write version and enter."
+    },
+    {
+      "chunk_number": 52,
+      "start": 638.0,
+      "end": 649.0,
+      "text": "I will wait for it to be installed. I will do both of them. You can see here 1.5 is installed. So you got the point. If we will install virtual environments."
+    },
+    {
+      "chunk_number": 53,
+      "start": 649.0,
+      "end": 661.0,
+      "text": "The package is used in this case. If it is activated, then it is activated in this case. Pandas 1.5 is activated. I will deactivate it. What will I do?"
+    },
+    {
+      "chunk_number": 54,
+      "start": 661.0,
+      "end": 673.0,
+      "text": "I will go to Python Global. I have installed this Macbook. I will write source. I will write source space. MyEnv was activated."
+    },
+    {
+      "chunk_number": 55,
+      "start": 673.0,
+      "end": 685.0,
+      "text": "I will enter. MyEnv is activated. I will write the folder. I will deactivate it. I will deactivate it."
+    },
+    {
+      "chunk_number": 56,
+      "start": 685.0,
+      "end": 695.0,
+      "text": "I will go to virtual environments. I will write source. Pandas is activated. I have also given the name. 1.5 will be in bin."
+    },
+    {
+      "chunk_number": 57,
+      "start": 695.0,
+      "end": 710.0,
+      "text": "I will activate pandas 1.5. I will activate it. I can do all kinds of virtual environments. I have explained in my apple. Now let's see what is the virtual environment."
+    },
+    {
+      "chunk_number": 58,
+      "start": 710.0,
+      "end": 724.0,
+      "text": "You have seen all these things. A virtual environment is a tool used to isolate specific python environments on a single machine. Allowing you to work on multiple projects. With different dependencies and packages without conflicts. All the different packages."
+    },
+    {
+      "chunk_number": 59,
+      "start": 724.0,
+      "end": 738.0,
+      "text": "All the different python virtual environments. Install and use them. This is the command you can create. This is the command you can activate. If you are in Windows,"
+    },
+    {
+      "chunk_number": 60,
+      "start": 738.0,
+      "end": 748.0,
+      "text": "this is important. I have not told you why. If you are in Windows, you have to activate it. Many people will think why you are not doing this. Tell me more about your experience."
+    },
+    {
+      "chunk_number": 61,
+      "start": 748.0,
+      "end": 758.0,
+      "text": "Activate.ts1 If you are in PowerShell, You will understand. MyEnv slash script slash Activate.ts1"
+    },
+    {
+      "chunk_number": 62,
+      "start": 758.0,
+      "end": 768.0,
+      "text": "If you are using PowerShell, Once the virtual environment is activated. Any packages that you install using. Pip will be installed in the virtual environment. When we activate myEnv,"
+    },
+    {
+      "chunk_number": 63,
+      "start": 768.0,
+      "end": 780.0,
+      "text": "We will install all the pips in myEnv. Python Interpreter will be responding to it. This virtual environment will be available. Pandas 1-5 is made in this computer. There is no problem with any python virtual environment."
+    },
+    {
+      "chunk_number": 64,
+      "start": 780.0,
+      "end": 790.0,
+      "text": "In fact, the python global. Which is installed in this computer. There is no problem with that. You install packages. Use them."
+    },
+    {
+      "chunk_number": 65,
+      "start": 790.0,
+      "end": 804.0,
+      "text": "When we create a particular project. We will create a virtual environment. All the packages of this project will be installed in the virtual environment. Finally, the virtual environment is used to run this project."
+    },
+    {
+      "chunk_number": 66,
+      "start": 804.0,
+      "end": 818.0,
+      "text": "This is why we will do this. If five people are working, They will create a virtual environment in their local computer. Or if they deploy it in the virtual environment. Then they will create the virtual environment."
+    },
+    {
+      "chunk_number": 67,
+      "start": 818.0,
+      "end": 836.0,
+      "text": "I know that I want to deploy it in AWS. Python Project. I will install all the packages that are used in this virtual environment. And I will deploy my project. Now, we will talk about the requirement.txt file."
+    },
+    {
+      "chunk_number": 68,
+      "start": 836.0,
+      "end": 846.0,
+      "text": "What is this? I know this is a big project. This is not a big project. I have written this. Let's do a main.py file."
+    },
+    {
+      "chunk_number": 69,
+      "start": 846.0,
+      "end": 856.0,
+      "text": "Tertmain.py. This is a main.py file. It is a new file. I will use this project as my ENV. I will delete this."
+    },
+    {
+      "chunk_number": 70,
+      "start": 856.0,
+      "end": 868.0,
+      "text": "I want to deactivate this file. I will delete it. I have just told you the example. I am using my ENV. I will do this."
+    },
+    {
+      "chunk_number": 71,
+      "start": 868.0,
+      "end": 878.0,
+      "text": "I will do this. I will do this. I will do this with open with. Python would like to access files. I will not do this."
+    },
+    {
+      "chunk_number": 72,
+      "start": 878.0,
+      "end": 890.0,
+      "text": "I will write it in a bit. Import. Pandas as PD. Undescore underscore. Undescore underscore."
+    },
+    {
+      "chunk_number": 73,
+      "start": 890.0,
+      "end": 900.0,
+      "text": "Okay. I will show you. I will do this. If I open a VSCode. Python."
+    },
+    {
+      "chunk_number": 74,
+      "start": 900.0,
+      "end": 910.0,
+      "text": "I will write it in a bit. Main.py. Python. Python. Python."
+    },
+    {
+      "chunk_number": 75,
+      "start": 910.0,
+      "end": 920.0,
+      "text": "Python. Python. Python. Python. Python."
+    },
+    {
+      "chunk_number": 76,
+      "start": 920.0,
+      "end": 930.0,
+      "text": "Python. Python. Python. Python. Python."
+    },
+    {
+      "chunk_number": 77,
+      "start": 930.0,
+      "end": 942.0,
+      "text": "Python. Python. Python. Python. Pythonth Osaka."
+    },
+    {
+      "chunk_number": 78,
+      "start": 942.0,
+      "end": 952.0,
+      "text": "Python. Python. Python. Python. Python."
+    },
+    {
+      "chunk_number": 79,
+      "start": 952.0,
+      "end": 965.92,
+      "text": "Python. Python. Now let's install the package. Now let's install the package. Now don't worry about it."
+    },
+    {
+      "chunk_number": 80,
+      "start": 965.92,
+      "end": 994.92,
+      "text": "Now the package is installed using the legacy setup.pv install method. Now let's install the package. Now let's install the package. Now let's install the package. Now let's install."
+    },
+    {
+      "chunk_number": 81,
+      "start": 994.92,
+      "end": 1010.92,
+      "text": "Now let's install. Now let's delete the package. Open Excel. Open Excel. Open Excel."
+    },
+    {
+      "chunk_number": 82,
+      "start": 1010.92,
+      "end": 1016.92,
+      "text": "Paper Install. Open Excel. Look at the no matching distribution for Open. PiEx. Open PiEx."
+    },
+    {
+      "chunk_number": 83,
+      "start": 1016.92,
+      "end": 1021.92,
+      "text": "What is this? I forget. Open PiEx. This is the install. Okay."
+    },
+    {
+      "chunk_number": 84,
+      "start": 1021.92,
+      "end": 1030.92,
+      "text": "This install will be completed. And then after that, I installed more in this way. Now, I will write all the 10 things in the notebook. I will write the version in the notebook."
+    },
+    {
+      "chunk_number": 85,
+      "start": 1030.92,
+      "end": 1040.92,
+      "text": "I made this project. I want to make this project. Now, you say that I want to make this content. I will send this project. And also send it to the whole project."
+    },
+    {
+      "chunk_number": 86,
+      "start": 1040.92,
+      "end": 1052.92,
+      "text": "And send it to the packages. So, I will write it on the website. I will write all the packages on the website. I want to make an automatic package. The one that is exported to the packages."
+    },
+    {
+      "chunk_number": 87,
+      "start": 1052.92,
+      "end": 1060.92,
+      "text": "What is this automatic package? Let me show you. You can remove the requirement. How to remove it? Use a command."
+    },
+    {
+      "chunk_number": 88,
+      "start": 1060.92,
+      "end": 1076.92,
+      "text": "PiFree is a sign for the sign. PiFree is a command. First, I will tell you what is the name of the name. PiFree is the package that you will give to the install. Or in your global python environment."
+    },
+    {
+      "chunk_number": 89,
+      "start": 1076.92,
+      "end": 1092.92,
+      "text": "You will get all the packages that are installed in this python environment. If you want to put a text file. Then just remove this command. PiFree is a requirement.TXT. And then, all the packages will be returned."
+    },
+    {
+      "chunk_number": 90,
+      "start": 1092.92,
+      "end": 1102.92,
+      "text": "Now, this goes to you. What will you do? You will run a simple command. You will run a paper install. Minus R."
+    },
+    {
+      "chunk_number": 91,
+      "start": 1102.92,
+      "end": 1115.92,
+      "text": "You will need to take the required text. You will enter all the packages that are installed in the computer. You will not be confused. I hope you will not be confused. Video."
+    },
+    {
+      "chunk_number": 92,
+      "start": 1115.92,
+      "end": 1142.92,
+      "text": "I wanted to tell you. I will start with the item. I want to tell you that the package is installed in the installation. You can also come out from the virtual python installation. You can put 10 python in the computer."
+    },
+    {
+      "chunk_number": 93,
+      "start": 1142.92,
+      "end": 1164.92,
+      "text": "You can put 10 different versions of the package. This is the use of virtual environment. What happens? If you have made a virtual environment. You will need to remove the list of the packages."
+    },
+    {
+      "chunk_number": 94,
+      "start": 1164.92,
+      "end": 1181.92,
+      "text": "You can use this command. If you want to see the package installed. You can click on the page on the page. You can click on the package. If you want to find the required text file."
+    },
+    {
+      "chunk_number": 95,
+      "start": 1181.92,
+      "end": 1194.92,
+      "text": "You can click on the package. Or you can install the environment. You can run this command. Requirements.Txt. That is about it."
+    },
+    {
+      "chunk_number": 96,
+      "start": 1194.92,
+      "end": 1227.92,
+      "text": "I will start with the work. I will print the import pandas as pd. I will find out what is the version installed. You can use the app to install the package. You can use the app to install the package."
+    },
+    {
+      "chunk_number": 97,
+      "start": 1227.92,
+      "end": 1243.92,
+      "text": "I hope you have understood the things that you can do. Why is this important? When do you want to make a virtual environment in your computer? If you don't have to access the python playlist. Do me a favor."
+    },
+    {
+      "chunk_number": 98,
+      "start": 1243.92,
+      "end": 1253.92,
+      "text": "I will start the first video. I will leave a review comment. If you have a review. You will not be surprised. You will start the course."
+    },
+    {
+      "chunk_number": 99,
+      "start": 1253.92,
+      "end": 1267.92,
+      "text": "Many people do not start the course. They say that they will learn the course. I want you to go. Tell them what is going on in this course. They are not good at the course."
+    },
+    {
+      "chunk_number": 100,
+      "start": 1267.92,
+      "end": 1277.92,
+      "text": "They are not good at the course. Tell them. They will learn the course. Thank you for watching this video. I will see you next time."
+    }
+  ],
+  "text": "Let's start with the Python program. You have to use a particular version of a package. When the package is updated, you are using a second version of your friend. You are using a second version. In this way, you use 50 packages in your project. How will you maintain the version? How will you ensure that the packages you are using are used exactly the same as yours. And how will you distribute your program? Let's go to the computer screen. In virtual environment, you can install a isolated environment in your project. You can install a single user in your project. Let's get started. First of all, let's talk about the exact use of virtual environment. After that, we will see how virtual environment will be more clear. What is the exact virtual environment and what it is all about. First of all, let's see what I have written here. Virtual environment is a tool used to isolate specific Python environments on a single machine. Allowing you to work on multiple projects with different dependencies and packages without conflicts. What is this? Basically, you are doing this to help virtual environment. To prevent your Python environment from changing. I am using the version of Pandas. My friend is using the one-jut tool. And I am using the one-jut tool in my computer because I am installing it. How will I run the project? I will run my version and install it. What can I do? I will make a virtual environment for Pandas version 1. I will make a virtual environment for Pandas version 2. This was an example. You can see this can be useful when working on projects. That have conflicting package versions and packages that are not compatible with each other. This is also a very important point. Packages that are not compatible with each other. I have a package, package A, and it is a package B. It is a package B version 1. I update one package B and it is a package B version 2. What do I do? I have to do an environment. I can install the packages in the environment. And the versions of the packages are not compatible with any Python environment. If you have not understood, then I will tell you. How do I make a virtual environment for you? I will do a virtual environment with the package B and the package. I will install the packages B and the package will be installed. You can make a virtual environment. What do you do here? Copy. I will make a new folder for you. I will make a new folder for you. I will make a new folder for you. I will make a new terminal for you. I will make a new terminal for you. I will add it and paste it. And I will enter it. I will use Python 3 on the Mac. I will do Python 3. I have made a new terminal for you. What will I do? I want to tell you this. I have made a new folder for you. I have become a fullter of my name. You can understand this from one side. My computer's Python is copy-bonded. My computer's Python is copy-bonded. Now I can add one version of this package. I will show you another package. But if I write here, PIP 3 install pandas. So, this is a requirement already satisfied. What is the pandas install? My computer has a pandas install. I want to install pandas in this. Because in my global computer, I have a global environment. So, I have already satisfied. Okay. You should know this. Now, what I will do. Now, I want to activate this virtual environment. So, to activate this, I will write source, I will write my ENV, I will write bin, I will write activator. If you don't know how I have done it, I have already added this auto-complete. Then, I have added this auto-complete. Then, I have added AC-licu-tap auto-complete. Okay. I will enter this. Now, I will write my ENV here. So, this means that if you have run this app, then this virtual environment is installed. And if the Python program is running, then this virtual environment will use it. This will use the Python installed in this. This way, I can make 10 Python virtual environments. This means that 10 different separate Python on a single computer. This is how much it takes. All these different environments will be in their packages. Now, as I will write Python program here, I will write Python 3 here. I will write import pandas as PD. No more do you name pandas? Because I have not installed pandas in my ENV yet. This is my global computer installed. This requirement was already satisfied. I have installed pandas in my global computer. This virtual environment is not installed in pandas. So, what I will do? I will write the exit here. I will turn the Python interpreter on. I am also in this virtual environment. This virtual environment is in there. I will write here, PAPE 3 installed pandas. Now, pandas will be installed. See, you will be able to see the computer on your screen. How can you install? Why do you need to install pandas? Because pandas were not installed here. Pandas was my global computer installed. You will be able to see the computer installed. Now, I will do import pandas. By the way, I will tell you that you can also install a particular version of package. I will show you. But, I will write pandas Python here. And I will show you the versions. I want to show you the versions. This is the version. I want to install 1.5.2 as a latest version. I want to install 1.4.4. How can I do this? I will write here. I will write here. What was the point? 4.4. Okay. 4.4. So, what will happen? 1.4.4. Pandas will be installed. So, I will download it. Okay. 1.4.4. Pandas. And, see here. This is the install. And, installing build dependencies. So, we will wait for this to be installed. So, finally, it has been installed for a long time. But, I want to show you one thing. And, I will write here. And, after that, I will write import pandas as PD. So, I write import pandas. I will use Pandas. I can use PD. So, I have written import pandas as PD. And, I have written import as PD. I don't know if you have problem with 1.4. I have installed a lot of time. I have also installed import. So, I will wait for it to be import. Not sure. What is wrong? And, it has been installed. Now, if you write here PD. Under score version. I will write here. Pandas version. Let's exit. Okay. The function of the exit is perfect. Now, if I want to deactivate this virtual environment. I mean, I want to use this folder. It is not used for the inside python installed. So, I can deactivate it. Deactivate. And, that's about it. You can see that my NV is written here. It has become a new one. Okay. Now, if I write here. And, after that, I will write import pandas as PD. And, I will do the same thing. PD. Under score. Now, it is 1.5.2. Why? Because, my computer was installed in python. And, the pandas in that version was 1.5.2. But, I have installed this python. Correct words. This one was installed in virtual environment. And, I have used another version of pandas. So, whenever I want 1.4.4. This version of pandas. I will deactivate this one. And, whenever I want to use this version. I will activate this virtual environment. And, whenever I want 1.5.2. This version of pandas. I will use my global python. And, I will deactivate this virtual environment. And, what if I need to install another version of pandas. I will do it in a new virtual environment. I will do it in a new virtual environment. I will do it. And, let me tell you how to make a virtual environment. Like, we have made the first one. Python. 3-MVN. And, this time, I will name it. Pandas. 1.5. I know it is 1-5. My name is Mymerzy. My name is Kujbe. My virtual environment. This way, you can name your folder. You can name your virtual environment. Mymerzy, I will name it Pandas. I will keep it as 1-5. I will keep it as a Harry. I will keep it as a Shubham. I will keep it as a Rohan. Okay. So what we will do here? I have done 5-3 and I have activated it. Okay. I will write source. I will write P-A-N-Tab. I could have typed manually. But I can type the TAB and I will write auto. I will write pandas, 1-5. I will write bin. I will write pandas, 1-5. Virtual environment is active. Let's do one thing. I will write Python 3 and install pandas. I should not have to install pandas without Python 3. I should have to write paper install pandas. I did not have to write paper 3. I have to write paper 3. I have actually done one mistake. I have to write pandas equals to equals to 1.5. I have to install pandas 1.5 version. I will wait for it to be installed. I have installed 1.5. I have already installed 1.5. I will show you. I will write Python and then write import pandas as pd of 5 pd. I will write version and enter. I will wait for it to be installed. I will do both of them. You can see here 1.5 is installed. So you got the point. If we will install virtual environments. The package is used in this case. If it is activated, then it is activated in this case. Pandas 1.5 is activated. I will deactivate it. What will I do? I will go to Python Global. I have installed this Macbook. I will write source. I will write source space. MyEnv was activated. I will enter. MyEnv is activated. I will write the folder. I will deactivate it. I will deactivate it. I will go to virtual environments. I will write source. Pandas is activated. I have also given the name. 1.5 will be in bin. I will activate pandas 1.5. I will activate it. I can do all kinds of virtual environments. I have explained in my apple. Now let's see what is the virtual environment. You have seen all these things. A virtual environment is a tool used to isolate specific python environments on a single machine. Allowing you to work on multiple projects. With different dependencies and packages without conflicts. All the different packages. All the different python virtual environments. Install and use them. This is the command you can create. This is the command you can activate. If you are in Windows, this is important. I have not told you why. If you are in Windows, you have to activate it. Many people will think why you are not doing this. Tell me more about your experience. Activate.ts1 If you are in PowerShell, You will understand. MyEnv slash script slash Activate.ts1 If you are using PowerShell, Once the virtual environment is activated. Any packages that you install using. Pip will be installed in the virtual environment. When we activate myEnv, We will install all the pips in myEnv. Python Interpreter will be responding to it. This virtual environment will be available. Pandas 1-5 is made in this computer. There is no problem with any python virtual environment. In fact, the python global. Which is installed in this computer. There is no problem with that. You install packages. Use them. When we create a particular project. We will create a virtual environment. All the packages of this project will be installed in the virtual environment. Finally, the virtual environment is used to run this project. This is why we will do this. If five people are working, They will create a virtual environment in their local computer. Or if they deploy it in the virtual environment. Then they will create the virtual environment. I know that I want to deploy it in AWS. Python Project. I will install all the packages that are used in this virtual environment. And I will deploy my project. Now, we will talk about the requirement.txt file. What is this? I know this is a big project. This is not a big project. I have written this. Let's do a main.py file. Tertmain.py. This is a main.py file. It is a new file. I will use this project as my ENV. I will delete this. I want to deactivate this file. I will delete it. I have just told you the example. I am using my ENV. I will do this. I will do this. I will do this. I will do this with open with. Python would like to access files. I will not do this. I will write it in a bit. Import. Pandas as PD. Undescore underscore. Undescore underscore. Okay. I will show you. I will do this. If I open a VSCode. Python. I will write it in a bit. Main.py. Python. Python. Python. Python. Python. Python. Python. Python. Python. Python. Python. Python. Python. Python. Python. Python. Python. Pythonth Osaka. Python. Python. Python. Python. Python. Python. Python. Now let's install the package. Now let's install the package. Now don't worry about it. Now the package is installed using the legacy setup.pv install method. Now let's install the package. Now let's install the package. Now let's install the package. Now let's install. Now let's install. Now let's delete the package. Open Excel. Open Excel. Open Excel. Paper Install. Open Excel. Look at the no matching distribution for Open. PiEx. Open PiEx. What is this? I forget. Open PiEx. This is the install. Okay. This install will be completed. And then after that, I installed more in this way. Now, I will write all the 10 things in the notebook. I will write the version in the notebook. I made this project. I want to make this project. Now, you say that I want to make this content. I will send this project. And also send it to the whole project. And send it to the packages. So, I will write it on the website. I will write all the packages on the website. I want to make an automatic package. The one that is exported to the packages. What is this automatic package? Let me show you. You can remove the requirement. How to remove it? Use a command. PiFree is a sign for the sign. PiFree is a command. First, I will tell you what is the name of the name. PiFree is the package that you will give to the install. Or in your global python environment. You will get all the packages that are installed in this python environment. If you want to put a text file. Then just remove this command. PiFree is a requirement.TXT. And then, all the packages will be returned. Now, this goes to you. What will you do? You will run a simple command. You will run a paper install. Minus R. You will need to take the required text. You will enter all the packages that are installed in the computer. You will not be confused. I hope you will not be confused. Video. I wanted to tell you. I will start with the item. I want to tell you that the package is installed in the installation. You can also come out from the virtual python installation. You can put 10 python in the computer. You can put 10 different versions of the package. This is the use of virtual environment. What happens? If you have made a virtual environment. You will need to remove the list of the packages. You can use this command. If you want to see the package installed. You can click on the page on the page. You can click on the package. If you want to find the required text file. You can click on the package. Or you can install the environment. You can run this command. Requirements.Txt. That is about it. I will start with the work. I will print the import pandas as pd. I will find out what is the version installed. You can use the app to install the package. You can use the app to install the package. I hope you have understood the things that you can do. Why is this important? When do you want to make a virtual environment in your computer? If you don't have to access the python playlist. Do me a favor. I will start the first video. I will leave a review comment. If you have a review. You will not be surprised. You will start the course. Many people do not start the course. They say that they will learn the course. I want you to go. Tell them what is going on in this course. They are not good at the course. They are not good at the course. Tell them. They will learn the course. Thank you for watching this video. I will see you next time."
+}

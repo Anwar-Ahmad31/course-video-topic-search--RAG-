@@ -1,0 +1,229 @@
+{
+  "video_number": 31,
+  "title": "Sets in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 21.48,
+      "text": "If you have read about the set, then you will know that the set is a collection of well-defined objects. There are some objects in Python and if you want to get a certain data type, you can make a set without repeated entries. I will give you an example. If you want to collect the list of the people,"
+    },
+    {
+      "chunk_number": 2,
+      "start": 21.48,
+      "end": 38.24,
+      "text": "the name of the person, the name of the person, and if you want to know the name of the person, then you should know. You want to know that the opportunity will resume. This trailer has been posted on social media pages that you can use on your map. It includes a lot of samples for determining the number of steps you want to obtain."
+    },
+    {
+      "chunk_number": 3,
+      "start": 38.24,
+      "end": 58.68,
+      "text": "If you wish to個- in American google Jan 6 published 3 cartoonish weeklyfalse, then the Crafんと- of кнопato has not protected the situations and rights of 18A. So let's go on now!"
+    },
+    {
+      "chunk_number": 4,
+      "start": 60.18,
+      "end": 92.0,
+      "text": "The benefits of this step have also streak about setting events based on the hardship of computations meticulously. After all, the stats with this project have varied a lot. I want to ask you about the employee ID that has already been given to the people Now you can report the gift you already got It is a company that wants to give all the employees a gift of 1x thanksgiving"
+    },
+    {
+      "chunk_number": 5,
+      "start": 92.0,
+      "end": 111.0,
+      "text": "And you have to ensure that no one can give a gift to anyone Every employee says that the person who has given the gift to the person who has given the gift of the person If we solve this problem with a list, the list will be very big and will have repeated values It is possible that 1 employee is called 5 employees And 2 employees are exactly the same 5 employees"
+    },
+    {
+      "chunk_number": 6,
+      "start": 111.0,
+      "end": 123.0,
+      "text": "Or 3 employees are called 5 employees So what happens if the list is very big? The memory is not as good as we want it to be That is why we have set a data type in Python So how do we set it?"
+    },
+    {
+      "chunk_number": 7,
+      "start": 123.0,
+      "end": 137.0,
+      "text": "If I write S is equal to curly bracket I know that I will write 2, 4, 2 and 6 And print it in this box So you will see that 2 different repeats are still there But the set will only be fixed"
+    },
+    {
+      "chunk_number": 8,
+      "start": 137.0,
+      "end": 155.0,
+      "text": "So 2, 4, 2, 6 will be fixed So repeated values are not set So well defined objects set is a set It is a set of the collection of well defined objects And if I talk about the set, there are many methods"
+    },
+    {
+      "chunk_number": 9,
+      "start": 155.0,
+      "end": 167.0,
+      "text": "You can acquire it in this You can do everything with the list In a very similar fashion Except the fact that the values can not be repeated So sets are an ordered collection of data items"
+    },
+    {
+      "chunk_number": 10,
+      "start": 167.0,
+      "end": 178.0,
+      "text": "So word is very important Because this order does not maintain You cannot even see that it is still there If it is still there, it will be good This order is not guaranteed to maintain"
+    },
+    {
+      "chunk_number": 11,
+      "start": 178.0,
+      "end": 190.0,
+      "text": "So you have to remember Set items are separated by commas and enclosed within curly brackets So I have done this I have kept the commas separately Instead of square brackets"
+    },
+    {
+      "chunk_number": 12,
+      "start": 190.0,
+      "end": 200.0,
+      "text": "We use the list Or the parenthesis we use Taple We use curly brackets in this way And it turns out that python interpreters"
+    },
+    {
+      "chunk_number": 13,
+      "start": 200.0,
+      "end": 211.0,
+      "text": "We are talking about set Set is unchangeable Meaning you cannot change items of the set once created Set do not contain duplicate items Now it means"
+    },
+    {
+      "chunk_number": 14,
+      "start": 211.0,
+      "end": 221.0,
+      "text": "Set is unchangeable If you want to get 8 items in 2 You cannot do this Set is unchangeable You can change it to a very large number"
+    },
+    {
+      "chunk_number": 15,
+      "start": 221.0,
+      "end": 231.0,
+      "text": "In which many items are kept If you put a number in the box You can change it to a new one You cannot replace it Now it is unchangeable"
+    },
+    {
+      "chunk_number": 16,
+      "start": 231.0,
+      "end": 243.0,
+      "text": "We have seen the list in the list In this list, we can see the values of the data items Here too You can see the carla 19 falls 19 is a 1.9"
+    },
+    {
+      "chunk_number": 17,
+      "start": 243.0,
+      "end": 253.0,
+      "text": "19 is a 1.9 19 is also available Order is not guaranteed So you should know You can see the output"
+    },
+    {
+      "chunk_number": 18,
+      "start": 253.0,
+      "end": 263.0,
+      "text": "In my case, the output is Order is guaranteed When I did this program I wrote the output But you can see the output"
+    },
+    {
+      "chunk_number": 19,
+      "start": 263.0,
+      "end": 273.0,
+      "text": "You can see Order is not guaranteed You can see the output Order is not guaranteed You can see the output is guaranteed"
+    },
+    {
+      "chunk_number": 20,
+      "start": 273.0,
+      "end": 283.0,
+      "text": "You can see the output is guaranteed Here we see that the items Offset is unchangeable They cannot be accessed using index numbers You cannot do this"
+    },
+    {
+      "chunk_number": 21,
+      "start": 283.0,
+      "end": 293.0,
+      "text": "You can't do this This is not guaranteed Also The set is not guaranteed You can see"
+    },
+    {
+      "chunk_number": 22,
+      "start": 293.0,
+      "end": 303.0,
+      "text": "If you want to see the output You can see the output Try to create an empty set Check using the type function Whether the type of your variable is a set"
+    },
+    {
+      "chunk_number": 23,
+      "start": 303.0,
+      "end": 313.0,
+      "text": "Or not I will make a set of a set of a variable And then the empty set And then I will print Type of a variable"
+    },
+    {
+      "chunk_number": 24,
+      "start": 313.0,
+      "end": 323.0,
+      "text": "If you want to see the type of a variable You should see the set You should see the set You should see the set If you pause and do this"
+    },
+    {
+      "chunk_number": 25,
+      "start": 323.0,
+      "end": 333.0,
+      "text": "Tell me in the comment section If you pause and do this And if you pause And if you pause Then you will be shocked"
+    },
+    {
+      "chunk_number": 26,
+      "start": 333.0,
+      "end": 343.24,
+      "text": "I have made the set I have always remembered The conditionary is Because the set is not guaranteed If you start and do this"
+    },
+    {
+      "chunk_number": 27,
+      "start": 343.24,
+      "end": 357.24,
+      "text": "The empty set is not guaranteed So we have to write something like this So we can make an empty set Now we will make a set of a variable Now we can set the type of the set"
+    },
+    {
+      "chunk_number": 28,
+      "start": 357.24,
+      "end": 369.24,
+      "text": "You can see here class set You should know this Many people are confused about this But let me tell you If you want to set the set, then you can make the set"
+    },
+    {
+      "chunk_number": 29,
+      "start": 369.24,
+      "end": 383.24,
+      "text": "How can you do the XS? I will tell you this I can say for value in info Print value and that set I will do the XS as well"
+    },
+    {
+      "chunk_number": 30,
+      "start": 383.24,
+      "end": 393.24,
+      "text": "I will show you in any order I will show you in any order Because the set does not maintain So set the value in Jolue And once you get value"
+    },
+    {
+      "chunk_number": 31,
+      "start": 393.24,
+      "end": 403.24,
+      "text": "If you put 2 phones in Jolue Then it will be 1 So this is the option So you can see When you add value in the set"
+    },
+    {
+      "chunk_number": 32,
+      "start": 403.24,
+      "end": 413.24,
+      "text": "Then you will never get the same You should know this So this is the option I am showing you something You can do something"
+    },
+    {
+      "chunk_number": 33,
+      "start": 413.24,
+      "end": 423.24,
+      "text": "So this is the option Because the values we have It does not maintain the order It gives you the option So this is the option"
+    },
+    {
+      "chunk_number": 34,
+      "start": 423.24,
+      "end": 433.24,
+      "text": "If you do not have access You should know Because in the next video I will tell you About the sets I will tell you"
+    },
+    {
+      "chunk_number": 35,
+      "start": 433.24,
+      "end": 443.24,
+      "text": "How to get union intersection If you do not know I will tell you in any order If you do not know Then you should know"
+    },
+    {
+      "chunk_number": 36,
+      "start": 443.24,
+      "end": 453.24,
+      "text": "What is union intersection I will clear all these If you do not have access Then save the book Thank you so much for watching this video"
+    },
+    {
+      "chunk_number": 37,
+      "start": 453.24,
+      "end": 465.24,
+      "text": "And I will see you Next time Subscribe"
+    }
+  ],
+  "text": "If you have read about the set, then you will know that the set is a collection of well-defined objects. There are some objects in Python and if you want to get a certain data type, you can make a set without repeated entries. I will give you an example. If you want to collect the list of the people, the name of the person, the name of the person, and if you want to know the name of the person, then you should know. You want to know that the opportunity will resume. This trailer has been posted on social media pages that you can use on your map. It includes a lot of samples for determining the number of steps you want to obtain. If you wish to個- in American google Jan 6 published 3 cartoonish weeklyfalse, then the Crafんと- of кнопato has not protected the situations and rights of 18A. So let's go on now! The benefits of this step have also streak about setting events based on the hardship of computations meticulously. After all, the stats with this project have varied a lot. I want to ask you about the employee ID that has already been given to the people Now you can report the gift you already got It is a company that wants to give all the employees a gift of 1x thanksgiving And you have to ensure that no one can give a gift to anyone Every employee says that the person who has given the gift to the person who has given the gift of the person If we solve this problem with a list, the list will be very big and will have repeated values It is possible that 1 employee is called 5 employees And 2 employees are exactly the same 5 employees Or 3 employees are called 5 employees So what happens if the list is very big? The memory is not as good as we want it to be That is why we have set a data type in Python So how do we set it? If I write S is equal to curly bracket I know that I will write 2, 4, 2 and 6 And print it in this box So you will see that 2 different repeats are still there But the set will only be fixed So 2, 4, 2, 6 will be fixed So repeated values are not set So well defined objects set is a set It is a set of the collection of well defined objects And if I talk about the set, there are many methods You can acquire it in this You can do everything with the list In a very similar fashion Except the fact that the values can not be repeated So sets are an ordered collection of data items So word is very important Because this order does not maintain You cannot even see that it is still there If it is still there, it will be good This order is not guaranteed to maintain So you have to remember Set items are separated by commas and enclosed within curly brackets So I have done this I have kept the commas separately Instead of square brackets We use the list Or the parenthesis we use Taple We use curly brackets in this way And it turns out that python interpreters We are talking about set Set is unchangeable Meaning you cannot change items of the set once created Set do not contain duplicate items Now it means Set is unchangeable If you want to get 8 items in 2 You cannot do this Set is unchangeable You can change it to a very large number In which many items are kept If you put a number in the box You can change it to a new one You cannot replace it Now it is unchangeable We have seen the list in the list In this list, we can see the values of the data items Here too You can see the carla 19 falls 19 is a 1.9 19 is a 1.9 19 is also available Order is not guaranteed So you should know You can see the output In my case, the output is Order is guaranteed When I did this program I wrote the output But you can see the output You can see Order is not guaranteed You can see the output Order is not guaranteed You can see the output is guaranteed You can see the output is guaranteed Here we see that the items Offset is unchangeable They cannot be accessed using index numbers You cannot do this You can't do this This is not guaranteed Also The set is not guaranteed You can see If you want to see the output You can see the output Try to create an empty set Check using the type function Whether the type of your variable is a set Or not I will make a set of a set of a variable And then the empty set And then I will print Type of a variable If you want to see the type of a variable You should see the set You should see the set You should see the set If you pause and do this Tell me in the comment section If you pause and do this And if you pause And if you pause Then you will be shocked I have made the set I have always remembered The conditionary is Because the set is not guaranteed If you start and do this The empty set is not guaranteed So we have to write something like this So we can make an empty set Now we will make a set of a variable Now we can set the type of the set You can see here class set You should know this Many people are confused about this But let me tell you If you want to set the set, then you can make the set How can you do the XS? I will tell you this I can say for value in info Print value and that set I will do the XS as well I will show you in any order I will show you in any order Because the set does not maintain So set the value in Jolue And once you get value If you put 2 phones in Jolue Then it will be 1 So this is the option So you can see When you add value in the set Then you will never get the same You should know this So this is the option I am showing you something You can do something So this is the option Because the values we have It does not maintain the order It gives you the option So this is the option If you do not have access You should know Because in the next video I will tell you About the sets I will tell you How to get union intersection If you do not know I will tell you in any order If you do not know Then you should know What is union intersection I will clear all these If you do not have access Then save the book Thank you so much for watching this video And I will see you Next time Subscribe"
+}

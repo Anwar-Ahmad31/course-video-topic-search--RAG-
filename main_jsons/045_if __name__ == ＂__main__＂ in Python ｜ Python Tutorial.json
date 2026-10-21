@@ -1,0 +1,205 @@
+{
+  "video_number": 45,
+  "title": "if __name__ == ＂__main__＂ in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 30.96,
+      "text": "If you read Python programs, you can see that it is using Python as a repository. If name equals to equals to main, you can see that Python is very important for you to know about it. In today's video, I will tell you about Python. Let's get started. Let's see how Python works in Python programming."
+    },
+    {
+      "chunk_number": 2,
+      "start": 30.96,
+      "end": 64.16,
+      "text": "I will do a function in a module. I have made a Harry.py file and a main.py file. I have made a Harry.py file and now what happens if I import a function in Harry.py? I will import a function in Harry.py file and now what I will do? I will simply print."
+    },
+    {
+      "chunk_number": 3,
+      "start": 64.16,
+      "end": 102.32,
+      "text": "I will do a function in Harry.py. I have made a new tab in this example. I have a Harry.py file and I will print. I will write from Harry. What happens if I write Harry."
+    },
+    {
+      "chunk_number": 4,
+      "start": 103.27999999999999,
+      "end": 139.6,
+      "text": "I will do a function in Harry.py file and I will do a function in Harry.py file. I will open a console for the Harry.py file and I will write Python. I have made a function in Harry.py file and now what happens if I write Harry. Now look here, import Harry and Harry.valcome. You can find out what happens if you write a function in Harry.valcome."
+    },
+    {
+      "chunk_number": 5,
+      "start": 139.6,
+      "end": 167.12,
+      "text": "You will find out what happens if you write Harry.valcome. And because of Harry.valcome, you will print Harry.valcome. If I write Python, I will print the main.py file and I will print the two. And this is why I am doing it. Harry.valcome is written."
+    },
+    {
+      "chunk_number": 6,
+      "start": 167.12,
+      "end": 195.84,
+      "text": "Because because of this, the dev.valcome is written. If I just import Harry, then the Harry.py file will be run in some code. How do I solve this problem? This is a very big problem. This is why I am doing this."
+    },
+    {
+      "chunk_number": 7,
+      "start": 195.84,
+      "end": 213.12,
+      "text": "This is why I am doing this. How will I solve this problem? I will write here. If I write underscore name equals to equals to underscore. The main, I am not here in double code."
+    },
+    {
+      "chunk_number": 8,
+      "start": 213.12,
+      "end": 227.92,
+      "text": "So I am basically saying that if I run it here, then I will run it. Or else I will run it. I will run it only once in the main.py file. Hey you are welcome Harry. I will show you again in the shell."
+    },
+    {
+      "chunk_number": 9,
+      "start": 227.92,
+      "end": 246.39999999999998,
+      "text": "If I write Python, Harry.valcome, then I will run it once. And Python, main.py file, then I will run it once. So how is this possible for me? I have written Harry.py in name equals to equals to mean. If I print it, I will just write underscore name."
+    },
+    {
+      "chunk_number": 10,
+      "start": 246.39999999999998,
+      "end": 259.92,
+      "text": "What is underscore name? What is underscore name? What is underscore name? This is called print. Now this is the main.py file."
+    },
+    {
+      "chunk_number": 11,
+      "start": 259.92,
+      "end": 275.76,
+      "text": "Okay, this is the main.py file. But if I will run main.py, then what will happen? Harry. If I import Harry, then it will run. So here underscore name will be Harry."
+    },
+    {
+      "chunk_number": 12,
+      "start": 275.76,
+      "end": 287.03999999999996,
+      "text": "If I run it like this, Python, Harry.py file, then I will run it. So underscore name will be main. If I will do it somewhere else, then I will run it. So underscore name will be Harry. So I will write a check."
+    },
+    {
+      "chunk_number": 13,
+      "start": 287.03999999999996,
+      "end": 309.28,
+      "text": "If underscore name is value, underscore name is underscore, underscore name is mean underscore. This means this is the function. And this is the function. So we will run welcome. But if this is not run, this is the function."
+    },
+    {
+      "chunk_number": 14,
+      "start": 309.28,
+      "end": 317.84000000000003,
+      "text": "Then we will not do welcome. Okay, understood. Okay, understood. Okay, understood. Don't do video."
+    },
+    {
+      "chunk_number": 15,
+      "start": 317.84000000000003,
+      "end": 327.6,
+      "text": "I will talk about it later. By the way, that's all that I told you about video. Why is this used? Why is it used? Now I have written here."
+    },
+    {
+      "chunk_number": 16,
+      "start": 327.6,
+      "end": 332.8,
+      "text": "What is this? What is important? This is idiom. Common face. Python interview question is also used."
+    },
+    {
+      "chunk_number": 17,
+      "start": 332.8,
+      "end": 345.92,
+      "text": "Which is used by the script to determine whether the script is being run directly. Or being imported from a module directly. What is running directly? This script is running here. As a result of being imported from some of the module."
+    },
+    {
+      "chunk_number": 18,
+      "start": 345.92,
+      "end": 358.40000000000003,
+      "text": "Okay. In this script, you have imported it. So this is also an execute. So execute is applied to check. Because the whole content of the script is taken and taken."
+    },
+    {
+      "chunk_number": 19,
+      "start": 358.40000000000003,
+      "end": 367.28000000000003,
+      "text": "For you. In your main file. So here I have an example. And this is a similar example. In this example, the main function contains the code."
+    },
+    {
+      "chunk_number": 20,
+      "start": 367.28000000000003,
+      "end": 383.52,
+      "text": "That should be run when the script is run directly. The if statement at the bottom checks whether the name variable is equal to main or not. Okay. So here, it is called as main function. Now I have also told you why it is useful."
+    },
+    {
+      "chunk_number": 21,
+      "start": 383.52,
+      "end": 391.44,
+      "text": "What is this useful? It is necessary to apply it. Every time. If you think that you are doing this in the file, You can import it from somewhere else."
+    },
+    {
+      "chunk_number": 22,
+      "start": 391.44,
+      "end": 405.68,
+      "text": "So here is the necessary. Because if you import it from somewhere else, I have imported it from the main. So here you will see that the welcome will automatically go. And if this is a critical function, then your child will be banned."
+    },
+    {
+      "chunk_number": 23,
+      "start": 406.72,
+      "end": 419.28000000000003,
+      "text": "In truth, think about the welcome function. If you delete all the files of your computer, And import a module and delete all the files of your computer. So this is a problem. It is not."
+    },
+    {
+      "chunk_number": 24,
+      "start": 419.28000000000003,
+      "end": 432.96000000000004,
+      "text": "It is a problem. It is a very big problem. So this is something. So that is why you should use the name equals to main. If you know that you can import this module as well."
+    },
+    {
+      "chunk_number": 25,
+      "start": 432.96000000000004,
+      "end": 446.08000000000004,
+      "text": "As when I am writing Harry.py, Then if I think that I am doing it in main.py, I will import Harry.py in some other file. So this is necessary. Listen to another first thing."
+    },
+    {
+      "chunk_number": 26,
+      "start": 446.08000000000004,
+      "end": 457.52,
+      "text": "If you are importing a file like this, Which you think that there will be functions in this area. Like here the name is gone. Here we have a function. Here we have no name equals to main."
+    },
+    {
+      "chunk_number": 27,
+      "start": 457.52,
+      "end": 472.4,
+      "text": "Then we have no welcome. So that will not be executed because of import. Definitely because if you are going to import this name equals to main. So you should also check it. The second thing is that you are importing any file."
+    },
+    {
+      "chunk_number": 28,
+      "start": 472.4,
+      "end": 484.56,
+      "text": "If you are importing a built-in module. If you are not able to recognize it. If you are importing a file like this, You can also import the code of your script. That is the script of your friend."
+    },
+    {
+      "chunk_number": 29,
+      "start": 484.56,
+      "end": 494.56,
+      "text": "You can import it only. If you want to import it, you can just import it. So you can check it. You can see that you can't do anything. It can be that script is your computer file."
+    },
+    {
+      "chunk_number": 30,
+      "start": 494.56,
+      "end": 509.03999999999996,
+      "text": "Python is very capable of using your computer file. We will study the OS module. How can we see it? I hope you have understood how it is. If you have not access to playlists before the next step."
+    },
+    {
+      "chunk_number": 31,
+      "start": 510.0,
+      "end": 527.28,
+      "text": "If you want to go to your review video. Many people have given the review. I want to tell you how many stars you want to give to this course. You will know how the codes of your course will go. The ones who have not started this course."
+    },
+    {
+      "chunk_number": 32,
+      "start": 527.28,
+      "end": 541.52,
+      "text": "They will think that they will start their 100 days of course journey. They will also tell you how this course is. If you start from 5 to 6, they will not be able to get good results. So I will see you in the next video. Thank you so much guys for watching this video."
+    },
+    {
+      "chunk_number": 33,
+      "start": 541.52,
+      "end": 544.64,
+      "text": "And I will see you next time."
+    }
+  ],
+  "text": "If you read Python programs, you can see that it is using Python as a repository. If name equals to equals to main, you can see that Python is very important for you to know about it. In today's video, I will tell you about Python. Let's get started. Let's see how Python works in Python programming. I will do a function in a module. I have made a Harry.py file and a main.py file. I have made a Harry.py file and now what happens if I import a function in Harry.py? I will import a function in Harry.py file and now what I will do? I will simply print. I will do a function in Harry.py. I have made a new tab in this example. I have a Harry.py file and I will print. I will write from Harry. What happens if I write Harry. I will do a function in Harry.py file and I will do a function in Harry.py file. I will open a console for the Harry.py file and I will write Python. I have made a function in Harry.py file and now what happens if I write Harry. Now look here, import Harry and Harry.valcome. You can find out what happens if you write a function in Harry.valcome. You will find out what happens if you write Harry.valcome. And because of Harry.valcome, you will print Harry.valcome. If I write Python, I will print the main.py file and I will print the two. And this is why I am doing it. Harry.valcome is written. Because because of this, the dev.valcome is written. If I just import Harry, then the Harry.py file will be run in some code. How do I solve this problem? This is a very big problem. This is why I am doing this. This is why I am doing this. How will I solve this problem? I will write here. If I write underscore name equals to equals to underscore. The main, I am not here in double code. So I am basically saying that if I run it here, then I will run it. Or else I will run it. I will run it only once in the main.py file. Hey you are welcome Harry. I will show you again in the shell. If I write Python, Harry.valcome, then I will run it once. And Python, main.py file, then I will run it once. So how is this possible for me? I have written Harry.py in name equals to equals to mean. If I print it, I will just write underscore name. What is underscore name? What is underscore name? What is underscore name? This is called print. Now this is the main.py file. Okay, this is the main.py file. But if I will run main.py, then what will happen? Harry. If I import Harry, then it will run. So here underscore name will be Harry. If I run it like this, Python, Harry.py file, then I will run it. So underscore name will be main. If I will do it somewhere else, then I will run it. So underscore name will be Harry. So I will write a check. If underscore name is value, underscore name is underscore, underscore name is mean underscore. This means this is the function. And this is the function. So we will run welcome. But if this is not run, this is the function. Then we will not do welcome. Okay, understood. Okay, understood. Okay, understood. Don't do video. I will talk about it later. By the way, that's all that I told you about video. Why is this used? Why is it used? Now I have written here. What is this? What is important? This is idiom. Common face. Python interview question is also used. Which is used by the script to determine whether the script is being run directly. Or being imported from a module directly. What is running directly? This script is running here. As a result of being imported from some of the module. Okay. In this script, you have imported it. So this is also an execute. So execute is applied to check. Because the whole content of the script is taken and taken. For you. In your main file. So here I have an example. And this is a similar example. In this example, the main function contains the code. That should be run when the script is run directly. The if statement at the bottom checks whether the name variable is equal to main or not. Okay. So here, it is called as main function. Now I have also told you why it is useful. What is this useful? It is necessary to apply it. Every time. If you think that you are doing this in the file, You can import it from somewhere else. So here is the necessary. Because if you import it from somewhere else, I have imported it from the main. So here you will see that the welcome will automatically go. And if this is a critical function, then your child will be banned. In truth, think about the welcome function. If you delete all the files of your computer, And import a module and delete all the files of your computer. So this is a problem. It is not. It is a problem. It is a very big problem. So this is something. So that is why you should use the name equals to main. If you know that you can import this module as well. As when I am writing Harry.py, Then if I think that I am doing it in main.py, I will import Harry.py in some other file. So this is necessary. Listen to another first thing. If you are importing a file like this, Which you think that there will be functions in this area. Like here the name is gone. Here we have a function. Here we have no name equals to main. Then we have no welcome. So that will not be executed because of import. Definitely because if you are going to import this name equals to main. So you should also check it. The second thing is that you are importing any file. If you are importing a built-in module. If you are not able to recognize it. If you are importing a file like this, You can also import the code of your script. That is the script of your friend. You can import it only. If you want to import it, you can just import it. So you can check it. You can see that you can't do anything. It can be that script is your computer file. Python is very capable of using your computer file. We will study the OS module. How can we see it? I hope you have understood how it is. If you have not access to playlists before the next step. If you want to go to your review video. Many people have given the review. I want to tell you how many stars you want to give to this course. You will know how the codes of your course will go. The ones who have not started this course. They will think that they will start their 100 days of course journey. They will also tell you how this course is. If you start from 5 to 6, they will not be able to get good results. So I will see you in the next video. Thank you so much guys for watching this video. And I will see you next time."
+}

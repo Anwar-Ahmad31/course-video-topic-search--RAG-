@@ -1,0 +1,625 @@
+{
+  "video_number": 47,
+  "title": "Exercise 4： Solutions and Shoutouts ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "text": "In today's video, I will tell you about the 4 solutions of this exercise. After that we will give shout out to those who have solved the 4 solutions of this exercise. We will do the same. Let's go to the computer screen and let's get started. First of all, I will tell you about the solutions of this exercise."
+    },
+    {
+      "chunk_number": 2,
+      "start": 22.0,
+      "end": 34.0,
+      "text": "After that we will move to the shout outs. So, let me talk about the solution. You guys, see, I have written that the right of item program to translate a message into secret code language. I have to make a secret code language."
+    },
+    {
+      "chunk_number": 3,
+      "start": 34.0,
+      "end": 47.0,
+      "text": "The second thing is that we will see the first coding. So, what I will do here. First of all, I will write the coding. And you guys, I am doing what I am doing. I will write here if coding"
+    },
+    {
+      "chunk_number": 4,
+      "start": 47.0,
+      "end": 66.0,
+      "text": "and I will write here pass as pass. I have told you that pass means we are making a wireframe. If we are doing something like this, I have just written that thing. I am going to do the work in the top of which I will write pass. So, I will write pass."
+    },
+    {
+      "chunk_number": 5,
+      "start": 66.0,
+      "end": 76.0,
+      "text": "So, I have written pass. I will fill it here. I will fill the control backspace. And what I will do here is that if I want to do coding. I want to code a string."
+    },
+    {
+      "chunk_number": 6,
+      "start": 76.0,
+      "end": 88.0,
+      "text": "And this coding programming is not coding. I will write the sts equal to. I will do coding. I will do coding. So, what I will do?"
+    },
+    {
+      "chunk_number": 7,
+      "start": 88.0,
+      "end": 103.0,
+      "text": "First of all, I will write that if the word contains at least three characters. At least three characters should be. So, I will write here if length of st. And I will say that I should be less. In this three characters, greater than equal to 3."
+    },
+    {
+      "chunk_number": 8,
+      "start": 103.0,
+      "end": 115.0,
+      "text": "I said greater than equal to 3. If length of st is less, then the sts are removed. So, I will write the first letter and append it to the end. So, I will say that st is equal to st. I will assign st to the end."
+    },
+    {
+      "chunk_number": 9,
+      "start": 115.0,
+      "end": 131.0,
+      "text": "And what I will write here? First of all, I want to remove the last character. I will write the first letter and append it to the end. So, I will write the first letter and start all the characters once. And what I will do in this plus st is st."
+    },
+    {
+      "chunk_number": 10,
+      "start": 131.0,
+      "end": 144.0,
+      "text": "So, I will do this. And what will happen to this? I will show you the print st. If I print st and run it, then you will see that it is equal to 3. Because greater than equal to 3 is st."
+    },
+    {
+      "chunk_number": 11,
+      "start": 144.0,
+      "end": 158.0,
+      "text": "And then st is equal to st. 1 colon 0 plus st is 0. So, if this is the first character, remove all the things and take it. And if this is the first character, then this is the first one. So, I have done this step."
+    },
+    {
+      "chunk_number": 12,
+      "start": 158.0,
+      "end": 172.0,
+      "text": "Now, I have done three random characters at the starting and the end. So, I will do this. I will add R1 to R1. R1 is equal to 3 random characters. I know that these are my 3 random characters."
+    },
+    {
+      "chunk_number": 13,
+      "start": 172.0,
+      "end": 183.0,
+      "text": "And R2 is also my 3 random characters. But yes, I know that if I will put this in purely random, then it will be good. I have added this to the heart code. But let's add the heart code. Okay."
+    },
+    {
+      "chunk_number": 14,
+      "start": 183.0,
+      "end": 193.0,
+      "text": "I will write R1 here. So, I will add R1 here. And then I will add R1 here. And then I will add R1 here. So, three random characters here."
+    },
+    {
+      "chunk_number": 15,
+      "start": 193.0,
+      "end": 200.0,
+      "text": "In starting, three random characters at the end. Simply reverse the string. After that, you have to reverse the end. Okay. This is in else."
+    },
+    {
+      "chunk_number": 16,
+      "start": 200.0,
+      "end": 206.0,
+      "text": "This is simply reverse the string. Okay. So, I will do this right now. Now, see here. I will do this thing here."
+    },
+    {
+      "chunk_number": 17,
+      "start": 206.0,
+      "end": 214.0,
+      "text": "I will import it here. Enter message. Okay. So, I will do this and enter message. So, I know that I will write,"
+    },
+    {
+      "chunk_number": 18,
+      "start": 214.0,
+      "end": 224.0,
+      "text": "Go to the office. Okay. I have written this. I don't know what it is. But yes, I know what I should do here."
+    },
+    {
+      "chunk_number": 19,
+      "start": 224.0,
+      "end": 233.0,
+      "text": "I should split it. I should do all the words. Okay. So, I should do all the words first. So, I will split it first."
+    },
+    {
+      "chunk_number": 20,
+      "start": 233.0,
+      "end": 241.0,
+      "text": "Okay. So, I will write here for word in words. What is the word of the word? What is the word of the word? I will tell you."
+    },
+    {
+      "chunk_number": 21,
+      "start": 241.0,
+      "end": 251.0,
+      "text": "And I will write the ST here. I will do the word here. Okay. And then I will do the word again. And I have to word the ST place."
+    },
+    {
+      "chunk_number": 22,
+      "start": 251.0,
+      "end": 261.0,
+      "text": "And here I will do the work. I will do the word here. I will do the word here. And I will do the ST new. Okay."
+    },
+    {
+      "chunk_number": 23,
+      "start": 261.0,
+      "end": 270.0,
+      "text": "And I will write here. For word in words, I am doing the same for all the words. I am making a ST new. And I will do the work."
+    },
+    {
+      "chunk_number": 24,
+      "start": 270.0,
+      "end": 278.0,
+      "text": "I am saying that instead of printing it, New words, New words is equal to, I will do the work here. I will do the work here."
+    },
+    {
+      "chunk_number": 25,
+      "start": 278.0,
+      "end": 285.0,
+      "text": "I will do the work here. So, what is the ST new? First of all, my ST new. Sorry,"
+    },
+    {
+      "chunk_number": 26,
+      "start": 285.0,
+      "end": 298.0,
+      "text": "what is my N words? What I have done? N words is an empty string, and I will make all the words for the new words. I will do the work."
+    },
+    {
+      "chunk_number": 27,
+      "start": 298.0,
+      "end": 340.0,
+      "text": "Then just do the work. I will show you how I do it. Now I will do this And here you can see that the enter message is good"
+    },
+    {
+      "chunk_number": 28,
+      "start": 340.0,
+      "end": 352.0,
+      "text": "I have already done the list of objects in the attribute So I have done a girl walk The one in the join method is the list and the string is here So I will run it"
+    },
+    {
+      "chunk_number": 29,
+      "start": 352.0,
+      "end": 364.0,
+      "text": "and I will write it here Let us say, Harry is good If I write the message, what will he do first I will split the words and then I will do this"
+    },
+    {
+      "chunk_number": 30,
+      "start": 364.0,
+      "end": 374.0,
+      "text": "I have done this I have done this one word but I did not do one thing What is there? What is there?"
+    },
+    {
+      "chunk_number": 31,
+      "start": 374.0,
+      "end": 386.0,
+      "text": "If LENOV word is greater than equal to 3 then what will I do? Or I will just reverse the string Or I will do N words dot append and I will do this"
+    },
+    {
+      "chunk_number": 32,
+      "start": 386.0,
+      "end": 396.0,
+      "text": "So I will do a string and I told you and what will happen? You can do this word and here minus 1"
+    },
+    {
+      "chunk_number": 33,
+      "start": 396.0,
+      "end": 406.0,
+      "text": "So this string is I will do this I will write Harry is good I will write Harry is good And I will write it"
+    },
+    {
+      "chunk_number": 34,
+      "start": 406.0,
+      "end": 416.0,
+      "text": "and this is for Harry and this is for good Now if this coding is decoding then simply name it"
+    },
+    {
+      "chunk_number": 35,
+      "start": 416.0,
+      "end": 435.0,
+      "text": "What will happen in the SELS I will tell you and WHAT i will do is First of all, I will do this"
+    },
+    {
+      "chunk_number": 36,
+      "start": 435.0,
+      "end": 453.0,
+      "text": "I will remove 3 random characters from the starting and ending If the length of the word is greater than equal to 3 So this means that random characters are in this If the random characters are not in this, this means that the length of the word is 2 So what I will do is"
+    },
+    {
+      "chunk_number": 37,
+      "start": 453.0,
+      "end": 472.0,
+      "text": "First of all, I will remove 3 starting So I will take 3 to end for the starting and 3 to minus 3 So I will do this And what I will do after this is The first character I will make is the last character"
+    },
+    {
+      "chunk_number": 38,
+      "start": 472.0,
+      "end": 487.0,
+      "text": "So what I will do is I will write ST, NU, equal to ST, NU And here I will write minus 1 I will do the last character And I will do ST, NU"
+    },
+    {
+      "chunk_number": 39,
+      "start": 487.0,
+      "end": 503.0,
+      "text": "And after doing this, I will have to do The first character The last character will be the first character So I will take the whole string from 0 to 1 And remove the last character from 0 to 1"
+    },
+    {
+      "chunk_number": 40,
+      "start": 503.0,
+      "end": 519.0,
+      "text": "So I know that people will be very tricky Which is fine, because how will it be fun? If you guys are not tricky You should also be fun And I want to give you all this fun"
+    },
+    {
+      "chunk_number": 41,
+      "start": 519.0,
+      "end": 535.0,
+      "text": "Okay, I will do this and write here Harry is good I will copy this string in this string This is a coded string, I will make it false And I will do this program"
+    },
+    {
+      "chunk_number": 42,
+      "start": 535.0,
+      "end": 544.0,
+      "text": "And I will paste this string here I will paste it here And enter And I will give Harry's good And I will do decoding"
+    },
+    {
+      "chunk_number": 43,
+      "start": 544.0,
+      "end": 554.0,
+      "text": "So I hope you guys will like this exercise And it was fun Now you guys have to take care of this This is the way it is If land of world is greater than equal to 3"
+    },
+    {
+      "chunk_number": 44,
+      "start": 554.0,
+      "end": 565.0,
+      "text": "I have put it in coding and decoding Look, the more I get the more edge case The more I get the more edge case If I have to reverse the word contains Lesson 3 characters"
+    },
+    {
+      "chunk_number": 45,
+      "start": 565.0,
+      "end": 574.0,
+      "text": "But if I have more than 3 characters Then if it happens Everything will be more than 3 So if I have more than 3 characters Then I will start with 3"
+    },
+    {
+      "chunk_number": 46,
+      "start": 574.0,
+      "end": 584.0,
+      "text": "I can safely remove it So I hope you guys will like this So I will do this coding decoding So I will ask you one thing And I will write here"
+    },
+    {
+      "chunk_number": 47,
+      "start": 584.0,
+      "end": 594.0,
+      "text": "Coding is equal to And I will write here Input And I will write here Coding or decoding"
+    },
+    {
+      "chunk_number": 48,
+      "start": 594.0,
+      "end": 604.0,
+      "text": "One for coding One for coding And I will write here And I will write here Coding is equal to"
+    },
+    {
+      "chunk_number": 49,
+      "start": 604.0,
+      "end": 614.0,
+      "text": "And I will write True And I will do one thing Use the short and different statement I will write here"
+    },
+    {
+      "chunk_number": 50,
+      "start": 614.0,
+      "end": 624.0,
+      "text": "If coding equals to equals to 1 Then what to do? Then coding is to true And If coding equals to true"
+    },
+    {
+      "chunk_number": 51,
+      "start": 624.0,
+      "end": 634.0,
+      "text": "Else I will write here Coding is equal to true If So I wrote here"
+    },
+    {
+      "chunk_number": 52,
+      "start": 634.0,
+      "end": 644.0,
+      "text": "Coding equals to true Else false So I can sign this I am writing here Harry is a nice boy"
+    },
+    {
+      "chunk_number": 53,
+      "start": 644.0,
+      "end": 654.0,
+      "text": "I wrote here Now I want to decoding So I want to decoding So I will copy this I will decode it"
+    },
+    {
+      "chunk_number": 54,
+      "start": 654.0,
+      "end": 664.0,
+      "text": "So I will paste it And I will decode it And I will decode it And I want to decode it Harry is a nice boy"
+    },
+    {
+      "chunk_number": 55,
+      "start": 664.0,
+      "end": 674.0,
+      "text": "So I can talk to him And I will not know What is happening And If I"
+    },
+    {
+      "chunk_number": 56,
+      "start": 674.0,
+      "end": 684.0,
+      "text": "This random Here PURL the character Then it is done Because"
+    },
+    {
+      "chunk_number": 57,
+      "start": 684.0,
+      "end": 694.0,
+      "text": "It is over Then you can not understand So tell me in the comment section How to make a purely random random random You can use random module"
+    },
+    {
+      "chunk_number": 58,
+      "start": 694.0,
+      "end": 704.0,
+      "text": "Google is doing it Google is not doing it Google is getting it done How to do your work But it should be done"
+    },
+    {
+      "chunk_number": 59,
+      "start": 704.0,
+      "end": 714.0,
+      "text": "I said I don't want to do it But it should be done It should be done So what to do"
+    },
+    {
+      "chunk_number": 60,
+      "start": 714.0,
+      "end": 724.0,
+      "text": "You have to make a purely random random Every time I want a new character I have to see a pattern So a pattern will be seen And it is done in the stream"
+    },
+    {
+      "chunk_number": 61,
+      "start": 724.0,
+      "end": 736.0,
+      "text": "And it is done in the stream So we have to make a message So we have to make a solution To know What message is done"
+    },
+    {
+      "chunk_number": 62,
+      "start": 736.0,
+      "end": 746.0,
+      "text": "Secret code Okay Let's go to exercise number 4 I will go on cover And shout out"
+    },
+    {
+      "chunk_number": 63,
+      "start": 746.0,
+      "end": 756.0,
+      "text": "All shout out Which has solved this question So here Shout out Oh my god"
+    },
+    {
+      "chunk_number": 64,
+      "start": 756.0,
+      "end": 766.0,
+      "text": "Let me scroll it And then I will scroll it So now you can see The M-Festive has done it It is correct"
+    },
+    {
+      "chunk_number": 65,
+      "start": 766.0,
+      "end": 776.0,
+      "text": "It is the biggest thing It was a little tricky But I wanted you to challenge And you should challenge So here"
+    },
+    {
+      "chunk_number": 66,
+      "start": 776.0,
+      "end": 786.0,
+      "text": "The messaging scripting Is with Python program Let's see if it works I will try to run it And here"
+    },
+    {
+      "chunk_number": 67,
+      "start": 786.0,
+      "end": 796.0,
+      "text": "I am trying Code or decode or quit Enter code I will write code And here is code"
+    },
+    {
+      "chunk_number": 68,
+      "start": 796.0,
+      "end": 808.0,
+      "text": "Enter your ks3 4 or 6 Okay You gave me a key Now I will try to decode it I typed decode"
+    },
+    {
+      "chunk_number": 69,
+      "start": 808.0,
+      "end": 818.0,
+      "text": "And here is the paste Enter Enter key for decrypting Amazing And this key for decrypting"
+    },
+    {
+      "chunk_number": 70,
+      "start": 818.0,
+      "end": 828.0,
+      "text": "Which I liked the most But you can easily get an end I want to see logic Because I am impressed So what he did"
+    },
+    {
+      "chunk_number": 71,
+      "start": 828.0,
+      "end": 838.0,
+      "text": "I told random characters They used random choices Amazing And the comment I told you"
+    },
+    {
+      "chunk_number": 72,
+      "start": 838.0,
+      "end": 848.0,
+      "text": "He has done it M-Festive So we are big shoutout to M-Festive It was fun I thought that the 3-4 programs"
+    },
+    {
+      "chunk_number": 73,
+      "start": 848.0,
+      "end": 858.0,
+      "text": "Will be wrong We will get a good solution But M-Festive Amazing So logic is simple"
+    },
+    {
+      "chunk_number": 74,
+      "start": 858.0,
+      "end": 868.0,
+      "text": "And he did it And he also added a key Which is good Which is very good It was fun"
+    },
+    {
+      "chunk_number": 75,
+      "start": 868.0,
+      "end": 878.0,
+      "text": "Everyone go and see the program Keep it up And then Ali Raza Ali Raza will see He is right"
+    },
+    {
+      "chunk_number": 76,
+      "start": 878.0,
+      "end": 888.0,
+      "text": "He is not eating Try to eat I am trying to do this I am going to make a code Let's see"
+    },
+    {
+      "chunk_number": 77,
+      "start": 888.0,
+      "end": 898.0,
+      "text": "I hope that one Very good Here my code is this So this code is made Now to make a code"
+    },
+    {
+      "chunk_number": 78,
+      "start": 898.0,
+      "end": 908.0,
+      "text": "Decode Enter Your messages Amazing So logic is very simple"
+    },
+    {
+      "chunk_number": 79,
+      "start": 908.0,
+      "end": 918.0,
+      "text": "As I did I want to understand One thing You have to write a line of A Because I told you"
+    },
+    {
+      "chunk_number": 80,
+      "start": 918.0,
+      "end": 928.0,
+      "text": "Because I told you You have to write a line of A And automatically Why are you wasting your energy And again, this is amazing"
+    },
+    {
+      "chunk_number": 81,
+      "start": 928.0,
+      "end": 938.0,
+      "text": "I am criticizing it But my work is What can be done Here you have to write a line of A And leave it"
+    },
+    {
+      "chunk_number": 82,
+      "start": 938.0,
+      "end": 948.0,
+      "text": "It is automatically You can see the video of the slicing And the video of the slicing You can see the video of the slicing Because if you are not coming"
+    },
+    {
+      "chunk_number": 83,
+      "start": 948.0,
+      "end": 958.0,
+      "text": "Then you can't get the slicing concept And that is totally fine If you don't get the slicing concept What is the problem You can see"
+    },
+    {
+      "chunk_number": 84,
+      "start": 958.0,
+      "end": 968.0,
+      "text": "And if you don't see anything Then you can see it But this attitude is very bad Ali Jaza Jafri This is very bad"
+    },
+    {
+      "chunk_number": 85,
+      "start": 968.0,
+      "end": 978.0,
+      "text": "This is something that I have disappointed This is wrong This is wrong This is not good Now you have to add a message"
+    },
+    {
+      "chunk_number": 86,
+      "start": 978.0,
+      "end": 988.0,
+      "text": "That is fine You have to get the shout out I am not giving him shout out Next time I will see his apple Because this is wrong"
+    },
+    {
+      "chunk_number": 87,
+      "start": 988.0,
+      "end": 998.0,
+      "text": "Now do not spam If you don't get the shout out Then you will have a motivation Next time I have to do it Next time I don't get the next time"
+    },
+    {
+      "chunk_number": 88,
+      "start": 998.0,
+      "end": 1008.0,
+      "text": "You focus on learning Don't do this Now see the next message Is code width Who has also sent a double message"
+    },
+    {
+      "chunk_number": 89,
+      "start": 1008.0,
+      "end": 1018.0,
+      "text": "And put the double link in the app From now on I will ignore it And here Where did it go"
+    },
+    {
+      "chunk_number": 90,
+      "start": 1018.0,
+      "end": 1028.0,
+      "text": "And here Here is the name of the code And I will try to run this And hope to run this And I will write"
+    },
+    {
+      "chunk_number": 91,
+      "start": 1028.0,
+      "end": 1038.0,
+      "text": "What do I write Hey how are you I have added a dot One for code I need this code"
+    },
+    {
+      "chunk_number": 92,
+      "start": 1038.0,
+      "end": 1048.0,
+      "text": "You know what? I have shown some special characters This is the message That you will be decoded Because you will be decoded"
+    },
+    {
+      "chunk_number": 93,
+      "start": 1048.0,
+      "end": 1058.0,
+      "text": "Your special characters will be decoded The program is great The code width is great But I am giving my opinion It is not wrong"
+    },
+    {
+      "chunk_number": 94,
+      "start": 1058.0,
+      "end": 1068.0,
+      "text": "Because I didn't mention it You cannot use special characters But I am giving my suggestion If you put special characters Then I would not put it"
+    },
+    {
+      "chunk_number": 95,
+      "start": 1068.0,
+      "end": 1078.0,
+      "text": "I would not put it But if I don't mention it Then you can do it You can't do it Or you should do it"
+    },
+    {
+      "chunk_number": 96,
+      "start": 1078.0,
+      "end": 1088.0,
+      "text": "You can't say it I will give some people a shout out From now on Yash Agarwal And here"
+    },
+    {
+      "chunk_number": 97,
+      "start": 1088.0,
+      "end": 1098.0,
+      "text": "Sudanshu Bala And then Pulao Kraj Anand And then Your next shout out"
+    },
+    {
+      "chunk_number": 98,
+      "start": 1098.0,
+      "end": 1108.0,
+      "text": "Yash Agarwal And Sudanshu Bala And then Om Ratan"
+    },
+    {
+      "chunk_number": 99,
+      "start": 1108.0,
+      "end": 1118.0,
+      "text": "I will give you a shout out Or you should put one message Please put one message So I have enjoyed it I hope you will have enjoyed it"
+    },
+    {
+      "chunk_number": 100,
+      "start": 1118.0,
+      "end": 1128.0,
+      "text": "And if you have any questions You will be able to solve the next exercise Don't worry Think about it Do your job"
+    },
+    {
+      "chunk_number": 101,
+      "start": 1128.0,
+      "end": 1138.0,
+      "text": "After learning Your level will be the most You will be able to solve it If you have not reviewed this course Then go to the first video"
+    },
+    {
+      "chunk_number": 102,
+      "start": 1138.0,
+      "end": 1148.0,
+      "text": "And please review it Comment how it is You will see the videos You will see how many videos you want to give Thank you so much"
+    },
+    {
+      "chunk_number": 103,
+      "start": 1148.0,
+      "end": 1162.0,
+      "text": "Thanks for watching this video And I will see you next time Bye"
+    }
+  ],
+  "text": "In today's video, I will tell you about the 4 solutions of this exercise. After that we will give shout out to those who have solved the 4 solutions of this exercise. We will do the same. Let's go to the computer screen and let's get started. First of all, I will tell you about the solutions of this exercise. After that we will move to the shout outs. So, let me talk about the solution. You guys, see, I have written that the right of item program to translate a message into secret code language. I have to make a secret code language. The second thing is that we will see the first coding. So, what I will do here. First of all, I will write the coding. And you guys, I am doing what I am doing. I will write here if coding and I will write here pass as pass. I have told you that pass means we are making a wireframe. If we are doing something like this, I have just written that thing. I am going to do the work in the top of which I will write pass. So, I will write pass. So, I have written pass. I will fill it here. I will fill the control backspace. And what I will do here is that if I want to do coding. I want to code a string. And this coding programming is not coding. I will write the sts equal to. I will do coding. I will do coding. So, what I will do? First of all, I will write that if the word contains at least three characters. At least three characters should be. So, I will write here if length of st. And I will say that I should be less. In this three characters, greater than equal to 3. I said greater than equal to 3. If length of st is less, then the sts are removed. So, I will write the first letter and append it to the end. So, I will say that st is equal to st. I will assign st to the end. And what I will write here? First of all, I want to remove the last character. I will write the first letter and append it to the end. So, I will write the first letter and start all the characters once. And what I will do in this plus st is st. So, I will do this. And what will happen to this? I will show you the print st. If I print st and run it, then you will see that it is equal to 3. Because greater than equal to 3 is st. And then st is equal to st. 1 colon 0 plus st is 0. So, if this is the first character, remove all the things and take it. And if this is the first character, then this is the first one. So, I have done this step. Now, I have done three random characters at the starting and the end. So, I will do this. I will add R1 to R1. R1 is equal to 3 random characters. I know that these are my 3 random characters. And R2 is also my 3 random characters. But yes, I know that if I will put this in purely random, then it will be good. I have added this to the heart code. But let's add the heart code. Okay. I will write R1 here. So, I will add R1 here. And then I will add R1 here. And then I will add R1 here. So, three random characters here. In starting, three random characters at the end. Simply reverse the string. After that, you have to reverse the end. Okay. This is in else. This is simply reverse the string. Okay. So, I will do this right now. Now, see here. I will do this thing here. I will import it here. Enter message. Okay. So, I will do this and enter message. So, I know that I will write, Go to the office. Okay. I have written this. I don't know what it is. But yes, I know what I should do here. I should split it. I should do all the words. Okay. So, I should do all the words first. So, I will split it first. Okay. So, I will write here for word in words. What is the word of the word? What is the word of the word? I will tell you. And I will write the ST here. I will do the word here. Okay. And then I will do the word again. And I have to word the ST place. And here I will do the work. I will do the word here. I will do the word here. And I will do the ST new. Okay. And I will write here. For word in words, I am doing the same for all the words. I am making a ST new. And I will do the work. I am saying that instead of printing it, New words, New words is equal to, I will do the work here. I will do the work here. I will do the work here. So, what is the ST new? First of all, my ST new. Sorry, what is my N words? What I have done? N words is an empty string, and I will make all the words for the new words. I will do the work. Then just do the work. I will show you how I do it. Now I will do this And here you can see that the enter message is good I have already done the list of objects in the attribute So I have done a girl walk The one in the join method is the list and the string is here So I will run it and I will write it here Let us say, Harry is good If I write the message, what will he do first I will split the words and then I will do this I have done this I have done this one word but I did not do one thing What is there? What is there? If LENOV word is greater than equal to 3 then what will I do? Or I will just reverse the string Or I will do N words dot append and I will do this So I will do a string and I told you and what will happen? You can do this word and here minus 1 So this string is I will do this I will write Harry is good I will write Harry is good And I will write it and this is for Harry and this is for good Now if this coding is decoding then simply name it What will happen in the SELS I will tell you and WHAT i will do is First of all, I will do this I will remove 3 random characters from the starting and ending If the length of the word is greater than equal to 3 So this means that random characters are in this If the random characters are not in this, this means that the length of the word is 2 So what I will do is First of all, I will remove 3 starting So I will take 3 to end for the starting and 3 to minus 3 So I will do this And what I will do after this is The first character I will make is the last character So what I will do is I will write ST, NU, equal to ST, NU And here I will write minus 1 I will do the last character And I will do ST, NU And after doing this, I will have to do The first character The last character will be the first character So I will take the whole string from 0 to 1 And remove the last character from 0 to 1 So I know that people will be very tricky Which is fine, because how will it be fun? If you guys are not tricky You should also be fun And I want to give you all this fun Okay, I will do this and write here Harry is good I will copy this string in this string This is a coded string, I will make it false And I will do this program And I will paste this string here I will paste it here And enter And I will give Harry's good And I will do decoding So I hope you guys will like this exercise And it was fun Now you guys have to take care of this This is the way it is If land of world is greater than equal to 3 I have put it in coding and decoding Look, the more I get the more edge case The more I get the more edge case If I have to reverse the word contains Lesson 3 characters But if I have more than 3 characters Then if it happens Everything will be more than 3 So if I have more than 3 characters Then I will start with 3 I can safely remove it So I hope you guys will like this So I will do this coding decoding So I will ask you one thing And I will write here Coding is equal to And I will write here Input And I will write here Coding or decoding One for coding One for coding And I will write here And I will write here Coding is equal to And I will write True And I will do one thing Use the short and different statement I will write here If coding equals to equals to 1 Then what to do? Then coding is to true And If coding equals to true Else I will write here Coding is equal to true If So I wrote here Coding equals to true Else false So I can sign this I am writing here Harry is a nice boy I wrote here Now I want to decoding So I want to decoding So I will copy this I will decode it So I will paste it And I will decode it And I will decode it And I want to decode it Harry is a nice boy So I can talk to him And I will not know What is happening And If I This random Here PURL the character Then it is done Because It is over Then you can not understand So tell me in the comment section How to make a purely random random random You can use random module Google is doing it Google is not doing it Google is getting it done How to do your work But it should be done I said I don't want to do it But it should be done It should be done So what to do You have to make a purely random random Every time I want a new character I have to see a pattern So a pattern will be seen And it is done in the stream And it is done in the stream So we have to make a message So we have to make a solution To know What message is done Secret code Okay Let's go to exercise number 4 I will go on cover And shout out All shout out Which has solved this question So here Shout out Oh my god Let me scroll it And then I will scroll it So now you can see The M-Festive has done it It is correct It is the biggest thing It was a little tricky But I wanted you to challenge And you should challenge So here The messaging scripting Is with Python program Let's see if it works I will try to run it And here I am trying Code or decode or quit Enter code I will write code And here is code Enter your ks3 4 or 6 Okay You gave me a key Now I will try to decode it I typed decode And here is the paste Enter Enter key for decrypting Amazing And this key for decrypting Which I liked the most But you can easily get an end I want to see logic Because I am impressed So what he did I told random characters They used random choices Amazing And the comment I told you He has done it M-Festive So we are big shoutout to M-Festive It was fun I thought that the 3-4 programs Will be wrong We will get a good solution But M-Festive Amazing So logic is simple And he did it And he also added a key Which is good Which is very good It was fun Everyone go and see the program Keep it up And then Ali Raza Ali Raza will see He is right He is not eating Try to eat I am trying to do this I am going to make a code Let's see I hope that one Very good Here my code is this So this code is made Now to make a code Decode Enter Your messages Amazing So logic is very simple As I did I want to understand One thing You have to write a line of A Because I told you Because I told you You have to write a line of A And automatically Why are you wasting your energy And again, this is amazing I am criticizing it But my work is What can be done Here you have to write a line of A And leave it It is automatically You can see the video of the slicing And the video of the slicing You can see the video of the slicing Because if you are not coming Then you can't get the slicing concept And that is totally fine If you don't get the slicing concept What is the problem You can see And if you don't see anything Then you can see it But this attitude is very bad Ali Jaza Jafri This is very bad This is something that I have disappointed This is wrong This is wrong This is not good Now you have to add a message That is fine You have to get the shout out I am not giving him shout out Next time I will see his apple Because this is wrong Now do not spam If you don't get the shout out Then you will have a motivation Next time I have to do it Next time I don't get the next time You focus on learning Don't do this Now see the next message Is code width Who has also sent a double message And put the double link in the app From now on I will ignore it And here Where did it go And here Here is the name of the code And I will try to run this And hope to run this And I will write What do I write Hey how are you I have added a dot One for code I need this code You know what? I have shown some special characters This is the message That you will be decoded Because you will be decoded Your special characters will be decoded The program is great The code width is great But I am giving my opinion It is not wrong Because I didn't mention it You cannot use special characters But I am giving my suggestion If you put special characters Then I would not put it I would not put it But if I don't mention it Then you can do it You can't do it Or you should do it You can't say it I will give some people a shout out From now on Yash Agarwal And here Sudanshu Bala And then Pulao Kraj Anand And then Your next shout out Yash Agarwal And Sudanshu Bala And then Om Ratan I will give you a shout out Or you should put one message Please put one message So I have enjoyed it I hope you will have enjoyed it And if you have any questions You will be able to solve the next exercise Don't worry Think about it Do your job After learning Your level will be the most You will be able to solve it If you have not reviewed this course Then go to the first video And please review it Comment how it is You will see the videos You will see how many videos you want to give Thank you so much Thanks for watching this video And I will see you next time Bye"
+}

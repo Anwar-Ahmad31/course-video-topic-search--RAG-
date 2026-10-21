@@ -1,0 +1,15 @@
+# ─── Whisper (transcription) ─────────────────────────────────────────────────
+openai-whisper
+
+# ─── HTTP client (Ollama API calls) ──────────────────────────────────────────
+requests
+
+# ─── Data processing & similarity search ─────────────────────────────────────
+pandas
+numpy
+scikit-learn
+
+# ─── Jupyter notebook support ─────────────────────────────────────────────────
+jupyter
+ipykernel
+IPython

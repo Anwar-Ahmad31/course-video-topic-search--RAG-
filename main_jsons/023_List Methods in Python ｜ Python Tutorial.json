@@ -1,0 +1,349 @@
+{
+  "video_number": 23,
+  "title": "List Methods in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 25.0,
+      "text": "So guys, 100 days of code we have reached a lot and we are going to see which of the list are the methods that we can manipulate the list Let's start in the computer screen and let's get started Now we are going to see the list methods The list methods are important to everyone"
+    },
+    {
+      "chunk_number": 2,
+      "start": 25.0,
+      "end": 40.0,
+      "text": "And we will explain the list of things that are manipulated So I have a list here I will write L is equal to 1,2,4 And after that I will print it I will tell you the list of things that are going to be printed"
+    },
+    {
+      "chunk_number": 3,
+      "start": 40.0,
+      "end": 52.0,
+      "text": "But if I print L.append And after that I will write 7 So what is the method of the list? The method of the list is which will be given at the end of this list 7"
+    },
+    {
+      "chunk_number": 4,
+      "start": 52.0,
+      "end": 68.0,
+      "text": "So if I print L So my original list is changed and now 7 is also here So what can we do? We can add the list in the end of the list So we will see all the methods from our list and then"
+    },
+    {
+      "chunk_number": 5,
+      "start": 68.0,
+      "end": 85.0,
+      "text": "If I run L.Sort here And I will do this I will put it in the starting level, then 45 I will do all the methods and then I will run L.Sort I have put the list here"
+    },
+    {
+      "chunk_number": 6,
+      "start": 85.0,
+      "end": 95.0,
+      "text": "I will put it in the beginning I will do L.Sort here And I will do this list in the end of the list So what happened here? This is my increasing order"
+    },
+    {
+      "chunk_number": 7,
+      "start": 95.0,
+      "end": 107.0,
+      "text": "And I will do this in the end of the list If I do this in reverse is equal to true So I will do this in the end of the list So you can see that the first step is And then I will do this"
+    },
+    {
+      "chunk_number": 8,
+      "start": 107.0,
+      "end": 119.0,
+      "text": "So this method can be done in the end of the list So you can see that I have written this And then I will do reverse method L.Riverse What does L.Riverse do?"
+    },
+    {
+      "chunk_number": 9,
+      "start": 119.0,
+      "end": 128.0,
+      "text": "The original list is called Ulta That's about it So what does this do? Let's do a list Okay, let's change the original list"
+    },
+    {
+      "chunk_number": 10,
+      "start": 128.0,
+      "end": 138.0,
+      "text": "Now L.index is the only method So I will write L.index and I will write 1 So I will write 1 index in the list And the 2 is here So I did not print here"
+    },
+    {
+      "chunk_number": 11,
+      "start": 138.0,
+      "end": 148.0,
+      "text": "Actually I should print it Because this is a value Return it to me And this value will be 2 So here this is 2 have value 1"
+    },
+    {
+      "chunk_number": 12,
+      "start": 148.0,
+      "end": 156.0,
+      "text": "And this is index 2 If I add 1 more in the end of the list Then what will I give? This is the 2nd one Because this is the first step of index"
+    },
+    {
+      "chunk_number": 13,
+      "start": 156.0,
+      "end": 166.0,
+      "text": "Okay, so you can see that This method returns the index of the first occurrence of the list Okay So this is a method Now let's see what is the count method"
+    },
+    {
+      "chunk_number": 14,
+      "start": 166.0,
+      "end": 176.0,
+      "text": "What is the count method? If I want to count this one How many times do I want to count? So I can count it I will count it twice in this list"
+    },
+    {
+      "chunk_number": 15,
+      "start": 176.0,
+      "end": 186.0,
+      "text": "If I add 1 more, then it will be 3 Because the one that is 3 times the list So you will see 3 here This is the count method And then it is a copy method"
+    },
+    {
+      "chunk_number": 16,
+      "start": 186.0,
+      "end": 196.0,
+      "text": "But to understand the copy method If I want to show you something I say m is equal to L Now I will do m 0 is equal to 0 Okay"
+    },
+    {
+      "chunk_number": 17,
+      "start": 196.0,
+      "end": 207.0,
+      "text": "And then I will print L So if you are using some other programming language Or you will try to manipulate it in very few terms You will get L and L The list will print"
+    },
+    {
+      "chunk_number": 18,
+      "start": 207.0,
+      "end": 214.0,
+      "text": "This will be printed Very big Then you will get M The second list of M The content of the M"
+    },
+    {
+      "chunk_number": 19,
+      "start": 214.0,
+      "end": 225.0,
+      "text": "The content of L will be M And now because M is a new list I will tell you how to think How to make a beginner think You should be aware"
+    },
+    {
+      "chunk_number": 20,
+      "start": 225.0,
+      "end": 235.0,
+      "text": "It is correct, don't say this M is equal to L And if you think about it Then M 0 is equal to 0 And if you think about how to change the M in the list"
+    },
+    {
+      "chunk_number": 21,
+      "start": 235.0,
+      "end": 244.0,
+      "text": "And how to expect this again But to your surprise Now look, the original list has changed So what happens here? When we do L"
+    },
+    {
+      "chunk_number": 22,
+      "start": 244.0,
+      "end": 256.0,
+      "text": "So M is the reference of L The list is the same The list in memory is the same Now if you do L here And after that you will change the M"
+    },
+    {
+      "chunk_number": 23,
+      "start": 256.0,
+      "end": 265.0,
+      "text": "So L will change Because you have made a reference And don't do anything in Python program Until unless you know what you are doing Because if you are a beginner"
+    },
+    {
+      "chunk_number": 24,
+      "start": 265.0,
+      "end": 274.0,
+      "text": "You don't make a new list You use copy function So if you write M is equal to L.copy So what will you do? This will be a copy of the list"
+    },
+    {
+      "chunk_number": 25,
+      "start": 274.0,
+      "end": 283.0,
+      "text": "And now what you are expecting That M 0 is equal to 0 So M will change If we don't change L Then L will be the same"
+    },
+    {
+      "chunk_number": 26,
+      "start": 283.0,
+      "end": 291.0,
+      "text": "So here it is That is it I hope you understood I have already explained the event method You will know the event method"
+    },
+    {
+      "chunk_number": 27,
+      "start": 291.0,
+      "end": 299.0,
+      "text": "And you will tell people But first of all you will tell the event method If you want to insert in given index So you can do it Okay, let me show you"
+    },
+    {
+      "chunk_number": 28,
+      "start": 299.0,
+      "end": 313.0,
+      "text": "So I will comment on this And now I will write L.insert I want to insert 899 on one index So 899 will be the new list index Okay, so see 0 1"
+    },
+    {
+      "chunk_number": 29,
+      "start": 313.0,
+      "end": 321.0,
+      "text": "So from this point This will insert That 899 will be the list index 1 Okay, I hope you understand"
+    },
+    {
+      "chunk_number": 30,
+      "start": 321.0,
+      "end": 331.0,
+      "text": "Okay, so you can see here L.insert 1.89 From 899 to 1119 And then it will be the index Okay, I hope you understood this"
+    },
+    {
+      "chunk_number": 31,
+      "start": 331.0,
+      "end": 340.0,
+      "text": "Last but not the least Why am I saying this? Last but not the least You can use the extent method You can use all the methods"
+    },
+    {
+      "chunk_number": 32,
+      "start": 340.0,
+      "end": 348.0,
+      "text": "But today I have some methods I will tell you some related types And I will say This also exists So you will always learn new things"
+    },
+    {
+      "chunk_number": 33,
+      "start": 348.0,
+      "end": 355.0,
+      "text": "But whatever I am telling you here Which is written in the notes All of you Remember Always remember"
+    },
+    {
+      "chunk_number": 34,
+      "start": 355.0,
+      "end": 364.0,
+      "text": "Understand Because that is the most important and mostly used Okay, so that is it I will make a new list I will say M is equal to"
+    },
+    {
+      "chunk_number": 35,
+      "start": 364.0,
+      "end": 374.0,
+      "text": "900, 1000 and 1100 I don't know if I have made this list Now I will say L.X10 And I will say M"
+    },
+    {
+      "chunk_number": 36,
+      "start": 374.0,
+      "end": 382.0,
+      "text": "So this means Open M and keep it in LK end This means it is simple Okay, I will show you I will do it, you understand"
+    },
+    {
+      "chunk_number": 37,
+      "start": 382.0,
+      "end": 388.0,
+      "text": "What am I saying? Open L Take the value of this And Open M and put it in LK end"
+    },
+    {
+      "chunk_number": 38,
+      "start": 388.0,
+      "end": 396.0,
+      "text": "Open M and put it in LK end Simple Simple Not a single Not a single"
+    },
+    {
+      "chunk_number": 39,
+      "start": 396.0,
+      "end": 402.0,
+      "text": "900, 1000 and 1100 It will be in LK end Extend from it Okay Now if you want to join two lists"
+    },
+    {
+      "chunk_number": 40,
+      "start": 402.0,
+      "end": 410.0,
+      "text": "You want to concatenate them So it is the same I know I want to make K with LM And I say K is equal to L plus M"
+    },
+    {
+      "chunk_number": 41,
+      "start": 410.0,
+      "end": 417.0,
+      "text": "So these two lists Eliminates from the concatenate If I want L to change Now, by extending L I will change L"
+    },
+    {
+      "chunk_number": 42,
+      "start": 417.0,
+      "end": 425.0,
+      "text": "But if I want This new list is made I will merge L and M So I can do K equal to L plus M Now if I want K to print"
+    },
+    {
+      "chunk_number": 43,
+      "start": 425.0,
+      "end": 433.0,
+      "text": "So what will happen? If I want to print K Then L and M will concatenate And will merge So K equal to L plus M"
+    },
+    {
+      "chunk_number": 44,
+      "start": 433.0,
+      "end": 440.0,
+      "text": "You can see This is what I am doing Printing Okay So K equal to L plus M"
+    },
+    {
+      "chunk_number": 45,
+      "start": 440.0,
+      "end": 449.0,
+      "text": "And will merge L and M And the new list will be made Okay I hope you have cleared this You have made the list of all the lists"
+    },
+    {
+      "chunk_number": 46,
+      "start": 449.0,
+      "end": 461.0,
+      "text": "And I hope you have cleared this If you have cleared this If you have not yet access this playlist Then do access it You can accept 100 days of code challenge"
+    },
+    {
+      "chunk_number": 47,
+      "start": 461.0,
+      "end": 471.0,
+      "text": "Many people told me that they have got the street 2 They have seen it till 12th or 10th And they have seen it till 12th And then they have missed it for some reason That is totally fine"
+    },
+    {
+      "chunk_number": 48,
+      "start": 471.0,
+      "end": 480.0,
+      "text": "Why do I tell you? Because this is 100 days of code And not 100 consecutive days of code If you have got 100 consecutive days of code Brownie points for you"
+    },
+    {
+      "chunk_number": 49,
+      "start": 480.0,
+      "end": 488.0,
+      "text": "Bonus points for you You are very good But for some reason you have thought If you have got the day And you have got some emergency"
+    },
+    {
+      "chunk_number": 50,
+      "start": 488.0,
+      "end": 497.0,
+      "text": "And you have to go to this place That is totally fine Because if you do not continue But if you continue You have got a new challenge"
+    },
+    {
+      "chunk_number": 51,
+      "start": 497.0,
+      "end": 505.0,
+      "text": "You have got the day And I have got the day Now I will start from today And I will get the whole 100th So you have got the challenge"
+    },
+    {
+      "chunk_number": 52,
+      "start": 505.0,
+      "end": 516.0,
+      "text": "And I want to tell you one more thing If you have got any emergency You can't avoid anything like You can go to school or practical Or if you have a job"
+    },
+    {
+      "chunk_number": 53,
+      "start": 516.0,
+      "end": 523.0,
+      "text": "So you have a meeting And you have got the day And you have got the day And you have got the day And you have got the day"
+    },
+    {
+      "chunk_number": 54,
+      "start": 523.0,
+      "end": 532.0,
+      "text": "That is totally understandable You can give your day break But if you have thought I have done it till 11th And now I will do it"
+    },
+    {
+      "chunk_number": 55,
+      "start": 532.0,
+      "end": 542.0,
+      "text": "I will not do it So you cannot avoid anything You cannot avoid anything like So with that said You guys complete it"
+    },
+    {
+      "chunk_number": 56,
+      "start": 542.0,
+      "end": 552.0,
+      "text": "You will complete it as long as you have completed it It should be fine You will be proud of yourself Thank you so much guys for watching this video And I will see you next time"
+    },
+    {
+      "chunk_number": 57,
+      "start": 564.0,
+      "end": 566.0,
+      "text": "Thanks for watching"
+    }
+  ],
+  "text": "So guys, 100 days of code we have reached a lot and we are going to see which of the list are the methods that we can manipulate the list Let's start in the computer screen and let's get started Now we are going to see the list methods The list methods are important to everyone And we will explain the list of things that are manipulated So I have a list here I will write L is equal to 1,2,4 And after that I will print it I will tell you the list of things that are going to be printed But if I print L.append And after that I will write 7 So what is the method of the list? The method of the list is which will be given at the end of this list 7 So if I print L So my original list is changed and now 7 is also here So what can we do? We can add the list in the end of the list So we will see all the methods from our list and then If I run L.Sort here And I will do this I will put it in the starting level, then 45 I will do all the methods and then I will run L.Sort I have put the list here I will put it in the beginning I will do L.Sort here And I will do this list in the end of the list So what happened here? This is my increasing order And I will do this in the end of the list If I do this in reverse is equal to true So I will do this in the end of the list So you can see that the first step is And then I will do this So this method can be done in the end of the list So you can see that I have written this And then I will do reverse method L.Riverse What does L.Riverse do? The original list is called Ulta That's about it So what does this do? Let's do a list Okay, let's change the original list Now L.index is the only method So I will write L.index and I will write 1 So I will write 1 index in the list And the 2 is here So I did not print here Actually I should print it Because this is a value Return it to me And this value will be 2 So here this is 2 have value 1 And this is index 2 If I add 1 more in the end of the list Then what will I give? This is the 2nd one Because this is the first step of index Okay, so you can see that This method returns the index of the first occurrence of the list Okay So this is a method Now let's see what is the count method What is the count method? If I want to count this one How many times do I want to count? So I can count it I will count it twice in this list If I add 1 more, then it will be 3 Because the one that is 3 times the list So you will see 3 here This is the count method And then it is a copy method But to understand the copy method If I want to show you something I say m is equal to L Now I will do m 0 is equal to 0 Okay And then I will print L So if you are using some other programming language Or you will try to manipulate it in very few terms You will get L and L The list will print This will be printed Very big Then you will get M The second list of M The content of the M The content of L will be M And now because M is a new list I will tell you how to think How to make a beginner think You should be aware It is correct, don't say this M is equal to L And if you think about it Then M 0 is equal to 0 And if you think about how to change the M in the list And how to expect this again But to your surprise Now look, the original list has changed So what happens here? When we do L So M is the reference of L The list is the same The list in memory is the same Now if you do L here And after that you will change the M So L will change Because you have made a reference And don't do anything in Python program Until unless you know what you are doing Because if you are a beginner You don't make a new list You use copy function So if you write M is equal to L.copy So what will you do? This will be a copy of the list And now what you are expecting That M 0 is equal to 0 So M will change If we don't change L Then L will be the same So here it is That is it I hope you understood I have already explained the event method You will know the event method And you will tell people But first of all you will tell the event method If you want to insert in given index So you can do it Okay, let me show you So I will comment on this And now I will write L.insert I want to insert 899 on one index So 899 will be the new list index Okay, so see 0 1 So from this point This will insert That 899 will be the list index 1 Okay, I hope you understand Okay, so you can see here L.insert 1.89 From 899 to 1119 And then it will be the index Okay, I hope you understood this Last but not the least Why am I saying this? Last but not the least You can use the extent method You can use all the methods But today I have some methods I will tell you some related types And I will say This also exists So you will always learn new things But whatever I am telling you here Which is written in the notes All of you Remember Always remember Understand Because that is the most important and mostly used Okay, so that is it I will make a new list I will say M is equal to 900, 1000 and 1100 I don't know if I have made this list Now I will say L.X10 And I will say M So this means Open M and keep it in LK end This means it is simple Okay, I will show you I will do it, you understand What am I saying? Open L Take the value of this And Open M and put it in LK end Open M and put it in LK end Simple Simple Not a single Not a single 900, 1000 and 1100 It will be in LK end Extend from it Okay Now if you want to join two lists You want to concatenate them So it is the same I know I want to make K with LM And I say K is equal to L plus M So these two lists Eliminates from the concatenate If I want L to change Now, by extending L I will change L But if I want This new list is made I will merge L and M So I can do K equal to L plus M Now if I want K to print So what will happen? If I want to print K Then L and M will concatenate And will merge So K equal to L plus M You can see This is what I am doing Printing Okay So K equal to L plus M And will merge L and M And the new list will be made Okay I hope you have cleared this You have made the list of all the lists And I hope you have cleared this If you have cleared this If you have not yet access this playlist Then do access it You can accept 100 days of code challenge Many people told me that they have got the street 2 They have seen it till 12th or 10th And they have seen it till 12th And then they have missed it for some reason That is totally fine Why do I tell you? Because this is 100 days of code And not 100 consecutive days of code If you have got 100 consecutive days of code Brownie points for you Bonus points for you You are very good But for some reason you have thought If you have got the day And you have got some emergency And you have to go to this place That is totally fine Because if you do not continue But if you continue You have got a new challenge You have got the day And I have got the day Now I will start from today And I will get the whole 100th So you have got the challenge And I want to tell you one more thing If you have got any emergency You can't avoid anything like You can go to school or practical Or if you have a job So you have a meeting And you have got the day And you have got the day And you have got the day And you have got the day That is totally understandable You can give your day break But if you have thought I have done it till 11th And now I will do it I will not do it So you cannot avoid anything You cannot avoid anything like So with that said You guys complete it You will complete it as long as you have completed it It should be fine You will be proud of yourself Thank you so much guys for watching this video And I will see you next time Thanks for watching"
+}

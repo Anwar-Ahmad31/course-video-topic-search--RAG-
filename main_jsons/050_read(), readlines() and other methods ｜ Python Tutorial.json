@@ -1,0 +1,325 @@
+{
+  "video_number": 50,
+  "title": "read(), readlines() and other methods ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 14.0,
+      "text": "In the previous video we will show you the basics of file We will show you how to do basic by and end link We have to open the file like this What is open method? In today's video we will continue this discussion"
+    },
+    {
+      "chunk_number": 2,
+      "start": 14.0,
+      "end": 32.0,
+      "text": "We will see some other methods Like readlines Let's go to the computer screen What is the difference between the lines of the code and the lines of the code? We want to read all the lines of the code"
+    },
+    {
+      "chunk_number": 3,
+      "start": 32.0,
+      "end": 50.0,
+      "text": "We want to use readlines for the code I will show you how to do readlines Let's make the file before we start I will write the file.txt Harry by python course"
+    },
+    {
+      "chunk_number": 4,
+      "start": 50.0,
+      "end": 68.0,
+      "text": "I will show you the key spelling I will not show you the key spelling I will show you the method of readlines Readlines are made I will read the line of the code"
+    },
+    {
+      "chunk_number": 5,
+      "start": 68.0,
+      "end": 82.0,
+      "text": "Now what is the difference between the lines? Read the line of the code As simple as that I will write the line of the code I will print the line"
+    },
+    {
+      "chunk_number": 6,
+      "start": 82.0,
+      "end": 100.0,
+      "text": "You will see the value of the line I will show you the end indent I did not do the end indent I did not do anything Harry by python course is great"
+    },
+    {
+      "chunk_number": 7,
+      "start": 100.0,
+      "end": 118.0,
+      "text": "I have printed the line of the code I will print the line of the code I will print the line of the code I will show you the end indent I will read the line of the code"
+    },
+    {
+      "chunk_number": 8,
+      "start": 118.0,
+      "end": 138.0,
+      "text": "I have not received the line of the code I will read the line of the code I will read the line of the code This is my file.txt I'll write this"
+    },
+    {
+      "chunk_number": 9,
+      "start": 138.0,
+      "end": 148.0,
+      "text": "Tutorial is also awesome. It's cold. I'm feeling good. I'll write this here. This is also good."
+    },
+    {
+      "chunk_number": 10,
+      "start": 148.0,
+      "end": 159.0,
+      "text": "I'm writing small things. I'm not writing it. But this is not writing code. If you write code, it gets heated. You see, what we'll do here is to print the line."
+    },
+    {
+      "chunk_number": 11,
+      "start": 159.0,
+      "end": 167.0,
+      "text": "Harry by courses. Python course is great. Second line is print. But third line is print. If I want to do something like this,"
+    },
+    {
+      "chunk_number": 12,
+      "start": 167.0,
+      "end": 178.0,
+      "text": "which I want to read line by line, it's a very handy thing. We have to do this a lot. We have to read values which are in line."
+    },
+    {
+      "chunk_number": 13,
+      "start": 178.0,
+      "end": 189.0,
+      "text": "We have to parse them. We can do that. We give a lot of data, like if you do machine learning data, the data is given to you in the Kaggle."
+    },
+    {
+      "chunk_number": 14,
+      "start": 189.0,
+      "end": 205.0,
+      "text": "I'll show you a very good use case. Which you'll enjoy. I have 56, 45, 67. 12, 34, 63. Similarly, I have this."
+    },
+    {
+      "chunk_number": 15,
+      "start": 205.0,
+      "end": 215.0,
+      "text": "There are 3 marks in the subject. There are 3 marks in the subject. I have to write it well. I can do something like this. I'll say that I have a line."
+    },
+    {
+      "chunk_number": 16,
+      "start": 215.0,
+      "end": 225.0,
+      "text": "I'll say that m1 is equal to, and I'll do it as a indent. I've double indented it. I'll do m1 is equal to, I'll write f dot split"
+    },
+    {
+      "chunk_number": 17,
+      "start": 225.0,
+      "end": 234.0,
+      "text": "and I'll do something like this. I'll split it from the comma. I'll say 0. This is marks 1. Similarly, marks 2 or 3 will be done."
+    },
+    {
+      "chunk_number": 18,
+      "start": 234.0,
+      "end": 244.0,
+      "text": "I'll do this 2. I'll do m2 here. I'll do m3 here. After that, I'll print m2 and m3."
+    },
+    {
+      "chunk_number": 19,
+      "start": 244.0,
+      "end": 255.0,
+      "text": "I'll say, marks of student 1 in match is, and I'll do m1 here. I'll do m1. I'll write the first marks."
+    },
+    {
+      "chunk_number": 20,
+      "start": 255.0,
+      "end": 267.0,
+      "text": "I'll write the marks of match. I have the marks of the subject. I'll say, I'll say, I'll do m1."
+    },
+    {
+      "chunk_number": 21,
+      "start": 267.0,
+      "end": 277.0,
+      "text": "I'll say, I'll say, I'll say, I'll do m1. I'll do m1."
+    },
+    {
+      "chunk_number": 22,
+      "start": 277.0,
+      "end": 288.0,
+      "text": "I'll do m1. I's equal to i plus 1. I's equal to i plus 1. What's the step to do this? What is the value of i?"
+    },
+    {
+      "chunk_number": 23,
+      "start": 288.0,
+      "end": 296.0,
+      "text": "What will happen? If it takes 1, 2, 3. When it takes 3, The line will detect. I'll do English here."
+    },
+    {
+      "chunk_number": 24,
+      "start": 296.0,
+      "end": 305.0,
+      "text": "And I'll do ssst. ssst doesn't exist in three. The character is a little else. It's a subject. There is another subject."
+    },
+    {
+      "chunk_number": 25,
+      "start": 305.0,
+      "end": 348.0,
+      "text": "It's a small comment in ssst, I don't think it's a different subject. I have done this update split by comma. I have done this update split by comma. I should split line."
+    },
+    {
+      "chunk_number": 26,
+      "start": 348.0,
+      "end": 358.0,
+      "text": "That is programming. You can do it wrong. You can do it wrong. What happened here? If our data was formatted."
+    },
+    {
+      "chunk_number": 27,
+      "start": 358.0,
+      "end": 370.0,
+      "text": "The first run is 566. Then it is 56. I will say that I have done this. I have not written m1. I have done this."
+    },
+    {
+      "chunk_number": 28,
+      "start": 370.0,
+      "end": 380.0,
+      "text": "You can do it wrong. You can do it wrong. Until everyone is satisfied. Literally everyone. 56."
+    },
+    {
+      "chunk_number": 29,
+      "start": 380.0,
+      "end": 390.0,
+      "text": "46. 63. 13. 64. 23."
+    },
+    {
+      "chunk_number": 30,
+      "start": 390.0,
+      "end": 404.0,
+      "text": "23. 23. 24. 31. 33."
+    },
+    {
+      "chunk_number": 31,
+      "start": 404.0,
+      "end": 415.0,
+      "text": "32. 32. 32. 32. 33."
+    },
+    {
+      "chunk_number": 32,
+      "start": 415.0,
+      "end": 426.0,
+      "text": "32. 32. 32. 32. If I do this, then you can see here,"
+    },
+    {
+      "chunk_number": 33,
+      "start": 426.0,
+      "end": 437.0,
+      "text": "Maxos student 1 in Maths, Maxos student 1 in English, Maxos student 1 in SSDs, This is double double, which is wrong. 1,2,3,4,3,4,"
+    },
+    {
+      "chunk_number": 34,
+      "start": 437.0,
+      "end": 446.0,
+      "text": "Why is it so? Because it is a string. So what I have to do? Or I have to do some type of casting here. I will say, This type of casting,"
+    },
+    {
+      "chunk_number": 35,
+      "start": 446.0,
+      "end": 459.0,
+      "text": "I will convert this into a Jh, I will do integer into a value of 2. So it will be twice as long as it is a desired result. It is simple, very simple. So what I have done?"
+    },
+    {
+      "chunk_number": 36,
+      "start": 459.0,
+      "end": 468.0,
+      "text": "I have written it down. I am doing this. What is this? I do this. I will turn it on,"
+    },
+    {
+      "chunk_number": 37,
+      "start": 468.0,
+      "end": 477.0,
+      "text": "I will tell you about the right lines. I have given you the right lines. Right lines are Python, Method in Python, Rights a sequence of strings to a file."
+    },
+    {
+      "chunk_number": 38,
+      "start": 477.0,
+      "end": 489.0,
+      "text": "So what is the object of your item? You want to hide content in the file. Okay? I will tell you. This is a problem."
+    },
+    {
+      "chunk_number": 39,
+      "start": 489.0,
+      "end": 496.0,
+      "text": "I have written a lot of problems. I will comment it down. I will start writing it down. My My file 2.Txt is open in the right point. I have not made it yet."
+    },
+    {
+      "chunk_number": 40,
+      "start": 496.0,
+      "end": 504.0,
+      "text": "But this program will be created. It will be created. Now see what will be inside. Line 1, line 2, line 3. And a blank."
+    },
+    {
+      "chunk_number": 41,
+      "start": 504.0,
+      "end": 513.0,
+      "text": "Why is this blank? Because first line is created. Then line 2, line 3, and in the end of line 2, It was written in the backslash. So it is a new line."
+    },
+    {
+      "chunk_number": 42,
+      "start": 513.0,
+      "end": 522.0,
+      "text": "Okay? And I have used the right lines method. What will be done? The line which is the item of the item. All the elements of this will be made by one by one."
+    },
+    {
+      "chunk_number": 43,
+      "start": 522.0,
+      "end": 530.0,
+      "text": "So line 1, line 2, line 3 will be made like this. Okay? I hope you understand this. Okay? Cool."
+    },
+    {
+      "chunk_number": 44,
+      "start": 530.0,
+      "end": 538.0,
+      "text": "Now I have done the right lines here. So I have closed the dot. Okay? That's all. Keep that in mind."
+    },
+    {
+      "chunk_number": 45,
+      "start": 538.0,
+      "end": 548.0,
+      "text": "The right lines method does not add new line characters between the strings in the sequence. So this will be done by itself. So line 1, line 2, line 2, and you expect it. No."
+    },
+    {
+      "chunk_number": 46,
+      "start": 548.0,
+      "end": 557.0,
+      "text": "Okay? You will have to automatically do it. So you can do it like this. If you want to add new lines between the strings, You can use a loop to write each string separately."
+    },
+    {
+      "chunk_number": 47,
+      "start": 557.0,
+      "end": 566.0,
+      "text": "Or like I did. You can do it like this. If you have given a very big list. You can do it by sitting on the same page. Or you can do it by any other list."
+    },
+    {
+      "chunk_number": 48,
+      "start": 566.0,
+      "end": 575.0,
+      "text": "You can do it by any other list. So you have to use the right line. You will have to use the right line. Okay? So I hope you understand this."
+    },
+    {
+      "chunk_number": 49,
+      "start": 575.0,
+      "end": 586.0,
+      "text": "Now I want to tell you one thing. If you don't have access to playlist, You can do it by any chance. And if you are reviewing this course in the first video, That would mean a lot to me."
+    },
+    {
+      "chunk_number": 50,
+      "start": 586.0,
+      "end": 597.0,
+      "text": "Now open the first video. And come in the comments below. And give me a review. Now tell me how this course is. So that those people who are new here"
+    },
+    {
+      "chunk_number": 51,
+      "start": 597.0,
+      "end": 607.0,
+      "text": "Who are coming to see this course. Who might have doubted about this course. Maybe it is a free course. Maybe it is not as strong or as a concept. Tell them a little bit."
+    },
+    {
+      "chunk_number": 52,
+      "start": 607.0,
+      "end": 617.0,
+      "text": "Tell them how this course is. What are they telling you? Give them rating from 5 to 2. And they will help you. What is going on in this course?"
+    },
+    {
+      "chunk_number": 53,
+      "start": 617.0,
+      "end": 629.0,
+      "text": "They can learn that they can learn. And you guys will start the course. Now we have so many new guys in this video. Thank you so much guys for watching this video. And I will see you next time."
+    }
+  ],
+  "text": "In the previous video we will show you the basics of file We will show you how to do basic by and end link We have to open the file like this What is open method? In today's video we will continue this discussion We will see some other methods Like readlines Let's go to the computer screen What is the difference between the lines of the code and the lines of the code? We want to read all the lines of the code We want to use readlines for the code I will show you how to do readlines Let's make the file before we start I will write the file.txt Harry by python course I will show you the key spelling I will not show you the key spelling I will show you the method of readlines Readlines are made I will read the line of the code Now what is the difference between the lines? Read the line of the code As simple as that I will write the line of the code I will print the line You will see the value of the line I will show you the end indent I did not do the end indent I did not do anything Harry by python course is great I have printed the line of the code I will print the line of the code I will print the line of the code I will show you the end indent I will read the line of the code I have not received the line of the code I will read the line of the code I will read the line of the code This is my file.txt I'll write this Tutorial is also awesome. It's cold. I'm feeling good. I'll write this here. This is also good. I'm writing small things. I'm not writing it. But this is not writing code. If you write code, it gets heated. You see, what we'll do here is to print the line. Harry by courses. Python course is great. Second line is print. But third line is print. If I want to do something like this, which I want to read line by line, it's a very handy thing. We have to do this a lot. We have to read values which are in line. We have to parse them. We can do that. We give a lot of data, like if you do machine learning data, the data is given to you in the Kaggle. I'll show you a very good use case. Which you'll enjoy. I have 56, 45, 67. 12, 34, 63. Similarly, I have this. There are 3 marks in the subject. There are 3 marks in the subject. I have to write it well. I can do something like this. I'll say that I have a line. I'll say that m1 is equal to, and I'll do it as a indent. I've double indented it. I'll do m1 is equal to, I'll write f dot split and I'll do something like this. I'll split it from the comma. I'll say 0. This is marks 1. Similarly, marks 2 or 3 will be done. I'll do this 2. I'll do m2 here. I'll do m3 here. After that, I'll print m2 and m3. I'll say, marks of student 1 in match is, and I'll do m1 here. I'll do m1. I'll write the first marks. I'll write the marks of match. I have the marks of the subject. I'll say, I'll say, I'll do m1. I'll say, I'll say, I'll say, I'll do m1. I'll do m1. I'll do m1. I's equal to i plus 1. I's equal to i plus 1. What's the step to do this? What is the value of i? What will happen? If it takes 1, 2, 3. When it takes 3, The line will detect. I'll do English here. And I'll do ssst. ssst doesn't exist in three. The character is a little else. It's a subject. There is another subject. It's a small comment in ssst, I don't think it's a different subject. I have done this update split by comma. I have done this update split by comma. I should split line. That is programming. You can do it wrong. You can do it wrong. What happened here? If our data was formatted. The first run is 566. Then it is 56. I will say that I have done this. I have not written m1. I have done this. You can do it wrong. You can do it wrong. Until everyone is satisfied. Literally everyone. 56. 46. 63. 13. 64. 23. 23. 23. 24. 31. 33. 32. 32. 32. 32. 33. 32. 32. 32. 32. If I do this, then you can see here, Maxos student 1 in Maths, Maxos student 1 in English, Maxos student 1 in SSDs, This is double double, which is wrong. 1,2,3,4,3,4, Why is it so? Because it is a string. So what I have to do? Or I have to do some type of casting here. I will say, This type of casting, I will convert this into a Jh, I will do integer into a value of 2. So it will be twice as long as it is a desired result. It is simple, very simple. So what I have done? I have written it down. I am doing this. What is this? I do this. I will turn it on, I will tell you about the right lines. I have given you the right lines. Right lines are Python, Method in Python, Rights a sequence of strings to a file. So what is the object of your item? You want to hide content in the file. Okay? I will tell you. This is a problem. I have written a lot of problems. I will comment it down. I will start writing it down. My My file 2.Txt is open in the right point. I have not made it yet. But this program will be created. It will be created. Now see what will be inside. Line 1, line 2, line 3. And a blank. Why is this blank? Because first line is created. Then line 2, line 3, and in the end of line 2, It was written in the backslash. So it is a new line. Okay? And I have used the right lines method. What will be done? The line which is the item of the item. All the elements of this will be made by one by one. So line 1, line 2, line 3 will be made like this. Okay? I hope you understand this. Okay? Cool. Now I have done the right lines here. So I have closed the dot. Okay? That's all. Keep that in mind. The right lines method does not add new line characters between the strings in the sequence. So this will be done by itself. So line 1, line 2, line 2, and you expect it. No. Okay? You will have to automatically do it. So you can do it like this. If you want to add new lines between the strings, You can use a loop to write each string separately. Or like I did. You can do it like this. If you have given a very big list. You can do it by sitting on the same page. Or you can do it by any other list. You can do it by any other list. So you have to use the right line. You will have to use the right line. Okay? So I hope you understand this. Now I want to tell you one thing. If you don't have access to playlist, You can do it by any chance. And if you are reviewing this course in the first video, That would mean a lot to me. Now open the first video. And come in the comments below. And give me a review. Now tell me how this course is. So that those people who are new here Who are coming to see this course. Who might have doubted about this course. Maybe it is a free course. Maybe it is not as strong or as a concept. Tell them a little bit. Tell them how this course is. What are they telling you? Give them rating from 5 to 2. And they will help you. What is going on in this course? They can learn that they can learn. And you guys will start the course. Now we have so many new guys in this video. Thank you so much guys for watching this video. And I will see you next time."
+}

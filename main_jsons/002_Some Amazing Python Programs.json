@@ -1,0 +1,223 @@
+{
+  "video_number": 2,
+  "title": "Some Amazing Python Programs",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 18.0,
+      "text": "Welcome to 100 Days of Code. I want to tell you a story of my personal life. When I was in second year of college, I knew C-C++ very well. I was coding, I was coding, I was in the EGT. But I couldn't work in any industry."
+    },
+    {
+      "chunk_number": 2,
+      "start": 18.0,
+      "end": 34.5,
+      "text": "I couldn't get any C-C++ project. I am not saying that C-C++ is a bad programming language. I have created many conditional related programs. I have created a great calculator. But I am not working in any industry."
+    },
+    {
+      "chunk_number": 3,
+      "start": 34.5,
+      "end": 52.5,
+      "text": "When I was introduced to Python, I made web-scraping, G-Y's, and made a lot of freelancing. I am a language that I believe in. I have used programming in the industry. Why do we value so much in the industry?"
+    },
+    {
+      "chunk_number": 4,
+      "start": 52.5,
+      "end": 70.5,
+      "text": "How much use in the industry? I will show you some programs that you will enjoy. You will enjoy the programs. You will actually understand the use of programming. Why do we use programming?"
+    },
+    {
+      "chunk_number": 5,
+      "start": 70.5,
+      "end": 83.5,
+      "text": "I will tell you about the 5 programs that you will enjoy. They are very amazing games. They are a 4-Watch-A-A-System, which is the number of your users. You will tell them that they will show you the command."
+    },
+    {
+      "chunk_number": 6,
+      "start": 83.5,
+      "end": 98.5,
+      "text": "I have created 100 days of code to make this code. The biggest purpose of Python is that many new things have come. Many new approaches that I want to tell you. And this brand new code will touch all things. For example, the Validra operator has come to Python."
+    },
+    {
+      "chunk_number": 7,
+      "start": 98.5,
+      "end": 113.5,
+      "text": "And many additions are also coming. The easiest way to do things is to cover all these things in this code. Python, I will teach you something. I will teach you a way to create a system in your own way. You will be able to do Python programming in your own way."
+    },
+    {
+      "chunk_number": 8,
+      "start": 113.5,
+      "end": 133.5,
+      "text": "You will be able to do things like this. So let's go to the showcase. And I will show you the programs that I have created by Python. Let's get started. So the first program that I want to show you is"
+    },
+    {
+      "chunk_number": 9,
+      "start": 133.5,
+      "end": 150.5,
+      "text": "4-Watch-A-System. What does this program do? It takes your commands and after taking your commands, it shows you something and shows you something. Javas Open Google."
+    },
+    {
+      "chunk_number": 10,
+      "start": 151.5,
+      "end": 168.5,
+      "text": "Javas Open YouTube. You can see that YouTube has opened. So let's give this program a command. And this is the task that you are going to end. I want to show you the next program."
+    },
+    {
+      "chunk_number": 11,
+      "start": 168.5,
+      "end": 183.5,
+      "text": "It is our love calculator. It is an amazing calculator that is so much love in both of us. Obviously, this will not be accurate. You and your partner are so much love. You all know that."
+    },
+    {
+      "chunk_number": 12,
+      "start": 183.5,
+      "end": 194.5,
+      "text": "But in a fun way, we have used the random module. And we have created this program. We will add two names. This is the love percentage. The number of names is so much."
+    },
+    {
+      "chunk_number": 13,
+      "start": 194.5,
+      "end": 204.5,
+      "text": "Let's try it. I will add Harry in the name. I will add a pile in the partner name. I will calculate it. It is very good."
+    },
+    {
+      "chunk_number": 14,
+      "start": 204.5,
+      "end": 217.5,
+      "text": "If I write it in the manual, I will write it in the Sanskrit. So, 0-3. But I should stay away from the Sanskrit name. I will write it in the Sanskrit name."
+    },
+    {
+      "chunk_number": 15,
+      "start": 217.5,
+      "end": 232.5,
+      "text": "This is a fun calculator. I hope you will enjoy it. The next program I am going to show you is the face recognition program. It uses the hard cascade algorithm. This is a image that says where is the face?"
+    },
+    {
+      "chunk_number": 16,
+      "start": 232.5,
+      "end": 245.5,
+      "text": "Where is the face detection algorithm? You will see the robot down in the face of the junior. This will tell you where the actual face is hidden. The picture is there and where the face is hidden. I will run it for 1.jpg file."
+    },
+    {
+      "chunk_number": 17,
+      "start": 245.5,
+      "end": 258.5,
+      "text": "You can run it on your own. You can run it on your own. You can run it. You can detect all the faces in this image. I can run it for other images."
+    },
+    {
+      "chunk_number": 18,
+      "start": 258.5,
+      "end": 269.5,
+      "text": "I have done it for other images. I am working for other images. It is a fun program. It was a fun program. The next project is a flappy bird game."
+    },
+    {
+      "chunk_number": 19,
+      "start": 269.5,
+      "end": 283.5,
+      "text": "It might be a game that has not been played. It is a very big game. We play it in phones. But here in our computer, we can play a game that has been made by hands."
+    },
+    {
+      "chunk_number": 20,
+      "start": 283.5,
+      "end": 292.5,
+      "text": "It is a flappy bird. I can play it. I am playing it here. It will be a lot of fun. You can see it in the game."
+    },
+    {
+      "chunk_number": 21,
+      "start": 292.5,
+      "end": 307.5,
+      "text": "I have made a lot of other projects. But this is something I want to show you. The next project is a Python Mace. I will play this game. You can see that it is a black and red food."
+    },
+    {
+      "chunk_number": 22,
+      "start": 307.5,
+      "end": 318.5,
+      "text": "I can do it better. I have made logic here. I am playing it. I will play it basically. I will break the ice core of the bird."
+    },
+    {
+      "chunk_number": 23,
+      "start": 318.5,
+      "end": 332.5,
+      "text": "I can make it a lot of money. I will tell you that it is a very dangerous hard core game. You can see that the bird has become a scorer. I am not going out. I want to be out."
+    },
+    {
+      "chunk_number": 24,
+      "start": 332.5,
+      "end": 345.5,
+      "text": "I have made a 100. It is fun. I want to tell you something about the game. In the coming videos, I will tell you things that I am going to do."
+    },
+    {
+      "chunk_number": 25,
+      "start": 345.5,
+      "end": 364.5,
+      "text": "I will tell you things that I am going to do. Because we will not only make these projects. We will make such projects. We will convert our ideas into reality. I want you to run all the codes in your system."
+    },
+    {
+      "chunk_number": 26,
+      "start": 364.5,
+      "end": 377.5,
+      "text": "You are not able to run. But you are running. I have installed all the modules. You are installing the papers. If you are not installing the modules,"
+    },
+    {
+      "chunk_number": 27,
+      "start": 377.5,
+      "end": 390.5,
+      "text": "you are not able to run them. I hope you will be able to run them. We will progress gradually in this course. You will come back to this program. What was the mistake?"
+    },
+    {
+      "chunk_number": 28,
+      "start": 390.5,
+      "end": 401.5,
+      "text": "I had found a new module. I can fix it. You can do all this in this video. I hope you will enjoy these five programs. You have to keep them in your hands."
+    },
+    {
+      "chunk_number": 29,
+      "start": 401.5,
+      "end": 415.5,
+      "text": "As soon as we learn, we will move forward. We will learn more easily. I am giving you all these programs. I have shown you five programs."
+    },
+    {
+      "chunk_number": 30,
+      "start": 415.5,
+      "end": 431.5,
+      "text": "You can run them on your own. You will enjoy them. You can use some of the videos. They will be available in the videos. You can also use them in the Mac or Linux."
+    },
+    {
+      "chunk_number": 31,
+      "start": 431.5,
+      "end": 445.5,
+      "text": "We will do this. We will move forward in the course. You will have to run all these programs. But you will not try to recreate them. I have learned so much that I have made them from scratch."
+    },
+    {
+      "chunk_number": 32,
+      "start": 445.5,
+      "end": 455.5,
+      "text": "If you will do this, you will have to do it. If you will try to do something, that is not a good idea. We will make all these things."
+    },
+    {
+      "chunk_number": 33,
+      "start": 455.5,
+      "end": 468.5,
+      "text": "We will make these things from scratch. You can give me some time. You will have to keep this 100 days of code journey. You will enjoy it. You will have to get this link in the description."
+    },
+    {
+      "chunk_number": 34,
+      "start": 468.5,
+      "end": 483.5,
+      "text": "I want to say one thing to you guys. If you do not do this, you will not be able to access the playlist. You will be able to access all these videos. If you will not save this playlist,"
+    },
+    {
+      "chunk_number": 35,
+      "start": 483.5,
+      "end": 503.12,
+      "text": "then you may miss some days. So, may you miss some days, and we will do a lot of things in the future. So, stay tuned for that. If you like this video, do subscribe to it's Youtube channel"
+    },
+    {
+      "chunk_number": 36,
+      "start": 503.12,
+      "end": 504.12,
+      "text": "Bye bye"
+    }
+  ],
+  "text": "Welcome to 100 Days of Code. I want to tell you a story of my personal life. When I was in second year of college, I knew C-C++ very well. I was coding, I was coding, I was in the EGT. But I couldn't work in any industry. I couldn't get any C-C++ project. I am not saying that C-C++ is a bad programming language. I have created many conditional related programs. I have created a great calculator. But I am not working in any industry. When I was introduced to Python, I made web-scraping, G-Y's, and made a lot of freelancing. I am a language that I believe in. I have used programming in the industry. Why do we value so much in the industry? How much use in the industry? I will show you some programs that you will enjoy. You will enjoy the programs. You will actually understand the use of programming. Why do we use programming? I will tell you about the 5 programs that you will enjoy. They are very amazing games. They are a 4-Watch-A-A-System, which is the number of your users. You will tell them that they will show you the command. I have created 100 days of code to make this code. The biggest purpose of Python is that many new things have come. Many new approaches that I want to tell you. And this brand new code will touch all things. For example, the Validra operator has come to Python. And many additions are also coming. The easiest way to do things is to cover all these things in this code. Python, I will teach you something. I will teach you a way to create a system in your own way. You will be able to do Python programming in your own way. You will be able to do things like this. So let's go to the showcase. And I will show you the programs that I have created by Python. Let's get started. So the first program that I want to show you is 4-Watch-A-System. What does this program do? It takes your commands and after taking your commands, it shows you something and shows you something. Javas Open Google. Javas Open YouTube. You can see that YouTube has opened. So let's give this program a command. And this is the task that you are going to end. I want to show you the next program. It is our love calculator. It is an amazing calculator that is so much love in both of us. Obviously, this will not be accurate. You and your partner are so much love. You all know that. But in a fun way, we have used the random module. And we have created this program. We will add two names. This is the love percentage. The number of names is so much. Let's try it. I will add Harry in the name. I will add a pile in the partner name. I will calculate it. It is very good. If I write it in the manual, I will write it in the Sanskrit. So, 0-3. But I should stay away from the Sanskrit name. I will write it in the Sanskrit name. This is a fun calculator. I hope you will enjoy it. The next program I am going to show you is the face recognition program. It uses the hard cascade algorithm. This is a image that says where is the face? Where is the face detection algorithm? You will see the robot down in the face of the junior. This will tell you where the actual face is hidden. The picture is there and where the face is hidden. I will run it for 1.jpg file. You can run it on your own. You can run it on your own. You can run it. You can detect all the faces in this image. I can run it for other images. I have done it for other images. I am working for other images. It is a fun program. It was a fun program. The next project is a flappy bird game. It might be a game that has not been played. It is a very big game. We play it in phones. But here in our computer, we can play a game that has been made by hands. It is a flappy bird. I can play it. I am playing it here. It will be a lot of fun. You can see it in the game. I have made a lot of other projects. But this is something I want to show you. The next project is a Python Mace. I will play this game. You can see that it is a black and red food. I can do it better. I have made logic here. I am playing it. I will play it basically. I will break the ice core of the bird. I can make it a lot of money. I will tell you that it is a very dangerous hard core game. You can see that the bird has become a scorer. I am not going out. I want to be out. I have made a 100. It is fun. I want to tell you something about the game. In the coming videos, I will tell you things that I am going to do. I will tell you things that I am going to do. Because we will not only make these projects. We will make such projects. We will convert our ideas into reality. I want you to run all the codes in your system. You are not able to run. But you are running. I have installed all the modules. You are installing the papers. If you are not installing the modules, you are not able to run them. I hope you will be able to run them. We will progress gradually in this course. You will come back to this program. What was the mistake? I had found a new module. I can fix it. You can do all this in this video. I hope you will enjoy these five programs. You have to keep them in your hands. As soon as we learn, we will move forward. We will learn more easily. I am giving you all these programs. I have shown you five programs. You can run them on your own. You will enjoy them. You can use some of the videos. They will be available in the videos. You can also use them in the Mac or Linux. We will do this. We will move forward in the course. You will have to run all these programs. But you will not try to recreate them. I have learned so much that I have made them from scratch. If you will do this, you will have to do it. If you will try to do something, that is not a good idea. We will make all these things. We will make these things from scratch. You can give me some time. You will have to keep this 100 days of code journey. You will enjoy it. You will have to get this link in the description. I want to say one thing to you guys. If you do not do this, you will not be able to access the playlist. You will be able to access all these videos. If you will not save this playlist, then you may miss some days. So, may you miss some days, and we will do a lot of things in the future. So, stay tuned for that. If you like this video, do subscribe to it's Youtube channel Bye bye"
+}

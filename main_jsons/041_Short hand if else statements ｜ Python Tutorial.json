@@ -1,0 +1,235 @@
+{
+  "video_number": 41,
+  "title": "Short hand if else statements ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 17.240000000000002,
+      "text": "Today's video I will tell you about short-hand effects. We read about effects in Python and we also did a use of it. But today I will tell you one short way, one line of the effects. Someone will help you with the expression of this. And you will be able to do a lot of easy programming."
+    },
+    {
+      "chunk_number": 2,
+      "start": 17.240000000000002,
+      "end": 40.08,
+      "text": "Let's start the video screen. Let's talk about short and effels. Because how you save a lot of time from short and effels. Especially when you will get some expressions. So you can see that you have opened your Rappl."
+    },
+    {
+      "chunk_number": 3,
+      "start": 40.08,
+      "end": 56.96,
+      "text": "Now I have written a program called main.py. In fact, I have copied this program. So, as you know, this value is 330. And this value is 330. So I can say that if you print a greater than b,"
+    },
+    {
+      "chunk_number": 4,
+      "start": 56.96,
+      "end": 72.52000000000001,
+      "text": "or print a equal to b, or print a equal to b, and it is very readable. You should also be careful about this. If you are aware of this, then tell me. I don't think it is very important to be careful about this."
+    },
+    {
+      "chunk_number": 5,
+      "start": 72.52000000000001,
+      "end": 80.12,
+      "text": "Because this is very readable. Now I will run it. What will you tell me? Is this greater than b or not? So this will be the next."
+    },
+    {
+      "chunk_number": 6,
+      "start": 80.12,
+      "end": 92.64000000000001,
+      "text": "First of all, I have told you to print a greater than b. But this is not greater than b. So if you go, okay, no problem. Let's move on. Or print a equal to b."
+    },
+    {
+      "chunk_number": 7,
+      "start": 92.64000000000001,
+      "end": 98.44,
+      "text": "It is not equal to b. So this will be the next. This will be the next one. So this will be b print. It will be capital b."
+    },
+    {
+      "chunk_number": 8,
+      "start": 98.44,
+      "end": 112.75999999999999,
+      "text": "Note that it is in double code. So capital b print will be the value of b. I hope all the confusions are not there. Because if I write small b, then the value of b is the print. What would have been written in the comment?"
+    },
+    {
+      "chunk_number": 9,
+      "start": 112.75999999999999,
+      "end": 122.36,
+      "text": "I would have written in the comment of b or double codes. What would have been written in the comments? Write in the comment of time. Okay, this is the time. Write in the comment of time."
+    },
+    {
+      "chunk_number": 10,
+      "start": 122.36,
+      "end": 131.88,
+      "text": "I will come to the output. I want to know what you have been in the mind. I am waiting for your comment. If you have written a syntax error, then it is okay. Because capital is not a variable."
+    },
+    {
+      "chunk_number": 11,
+      "start": 131.88,
+      "end": 144.92,
+      "text": "I hope you are getting it clear. So what is here? There is also a short and syntax for the fl statement. That can be used when the condition being tested as simple. And the code blocks to be executed are short."
+    },
+    {
+      "chunk_number": 12,
+      "start": 144.92,
+      "end": 156.6,
+      "text": "Sometimes, there are some short codes. Just think that I have to write it simply. Print it and write it as a. So I have to write all the endings. It can be written in a simple one-liner."
+    },
+    {
+      "chunk_number": 13,
+      "start": 156.6,
+      "end": 169.23999999999998,
+      "text": "And Python is the same for the famous things. Okay. So now, if you see that if I have to write so much, then I will write print 9 if a is less than b. And then I will write double code."
+    },
+    {
+      "chunk_number": 14,
+      "start": 169.23999999999998,
+      "end": 174.56,
+      "text": "Like this. Else double code. Double code is necessary. Else is also necessary. Otherwise, the syntax error will come."
+    },
+    {
+      "chunk_number": 15,
+      "start": 174.56,
+      "end": 183.04,
+      "text": "So then I will write like this. So if a greater than b is a print, then it will be a print. So if this is a less than b, then it will be a print. If I make it greater than b, then what will happen? Nothing will happen."
+    },
+    {
+      "chunk_number": 16,
+      "start": 183.04,
+      "end": 193.44,
+      "text": "Okay. Because I have just written an expression. So you can see here that I can do it like this in the fl statement. If a greater than b is something, then it will not happen. Okay."
+    },
+    {
+      "chunk_number": 17,
+      "start": 193.44,
+      "end": 205.44,
+      "text": "But I will write here that c equals to 9 if a is greater than b. Like this. Else 0. So what will this work? What if I print c here?"
+    },
+    {
+      "chunk_number": 18,
+      "start": 205.44,
+      "end": 212.44,
+      "text": "So what will this c value be? I will not do c value. If a greater than b is something. Yes, I will do it. If a greater than b is something, then b is something."
+    },
+    {
+      "chunk_number": 19,
+      "start": 212.44,
+      "end": 219.44,
+      "text": "Then b is something 0. If I increase it, 1. Okay. 1. I will increase it."
+    },
+    {
+      "chunk_number": 20,
+      "start": 219.44,
+      "end": 230.44,
+      "text": "So now, see that the output of the upper is changed. This is a, and this is not coming. So this way, we can also write expressions. If we write a single line, if we write conditional expressions, then we can write that. So c value is 9."
+    },
+    {
+      "chunk_number": 21,
+      "start": 230.44,
+      "end": 240.44,
+      "text": "Then it is greater than b or 0. And if you want to see the complex one, then this is a big index. What will happen? That the left is right. What will you do?"
+    },
+    {
+      "chunk_number": 22,
+      "start": 240.44,
+      "end": 253.44,
+      "text": "Print a if a greater than b. If a greater than b is something, then it will be printed. Otherwise, print equals to if a equals to b. And you see that it is written as a readable for a simple syntax. Or print equals to if a equals to b."
+    },
+    {
+      "chunk_number": 23,
+      "start": 253.44,
+      "end": 263.44,
+      "text": "So this is how it is written. You can read it as a word, and it will be simple. Okay. You can also have multiple statements. So I told you that I have written an example here."
+    },
+    {
+      "chunk_number": 24,
+      "start": 263.44,
+      "end": 271.44,
+      "text": "Another example, you can see here. Result equals to value of true. Here, I write the generic example here. Okay. This is equivalent to this."
+    },
+    {
+      "chunk_number": 25,
+      "start": 271.44,
+      "end": 281.44,
+      "text": "So you can write a variable here. And here you can write a condition here. Or you can write value. If you write a condition, then the result equals to true. You will get false."
+    },
+    {
+      "chunk_number": 26,
+      "start": 281.44,
+      "end": 293.44,
+      "text": "So you write value. Whatever value you get, I wrote a null here. And then you write a condition here. If the condition is true, then the value of the result will be value. If the condition is false, then the value of the result will be this."
+    },
+    {
+      "chunk_number": 27,
+      "start": 293.44,
+      "end": 302.44,
+      "text": "Okay. So this is a generic example. And this is how much you have written the syntax. Okay. So this is our short and a false statement."
+    },
+    {
+      "chunk_number": 28,
+      "start": 302.44,
+      "end": 322.44,
+      "text": "Short and a simple syntax can be a convenient way to write simple-eval statements. Especially when you want to assign a value to a variable based on a condition. A condition that you want to assign a variable to a variable, then you can do it. However, it is not suitable for some complex situations where you need to execute multiple statements"
+    },
+    {
+      "chunk_number": 29,
+      "start": 322.44,
+      "end": 340.44,
+      "text": "and perform more complex logic. Because what happens is that this is reducing the readability code. If you say complex logic. And if complex logic is not, then readability is not as simple as it is. If you try to become a hero, then you will get less than 10 to 12."
+    },
+    {
+      "chunk_number": 30,
+      "start": 340.44,
+      "end": 351.44,
+      "text": "Now I will make it more realistic. Now I will make it more realistic. But what is your readability? What is your readability? Your readability will be damaged."
+    },
+    {
+      "chunk_number": 31,
+      "start": 351.44,
+      "end": 359.44,
+      "text": "What you want? I don't want this. I will do it for you. So this is what happens. We have to be careful not to damage readability."
+    },
+    {
+      "chunk_number": 32,
+      "start": 359.44,
+      "end": 374.44,
+      "text": "We have to use the short hand, where it is used. If it is not used, then we are happy with our big statements. I have to think of a variable name. The number of lines is more than the code. You will be able to see it and readability will be less."
+    },
+    {
+      "chunk_number": 33,
+      "start": 374.44,
+      "end": 389.44,
+      "text": "The most important is the code maintenance. Today I have written the code. After 10 years, if I have taken it, I will tell you how I wrote it. And why I wrote it? If you have made the code maintenance, then you will not be able to make it."
+    },
+    {
+      "chunk_number": 34,
+      "start": 389.44,
+      "end": 402.44,
+      "text": "Remember, the genius programmers who write their code, write their code for the other programmers, so that they can understand it. So this is always remember. You have no programming language. This is true."
+    },
+    {
+      "chunk_number": 35,
+      "start": 402.44,
+      "end": 415.44,
+      "text": "I hope you are enjoying this course. If you have not access to any of the courses, then you have to access it. By the way, I want to show you something. And I will show you. You will go on the home page of the template."
+    },
+    {
+      "chunk_number": 36,
+      "start": 415.44,
+      "end": 426.44,
+      "text": "And you will go on the learn page. I will show you on the learn page of the template. I have made our 100 days of code python. Which is amazing. I saw it."
+    },
+    {
+      "chunk_number": 37,
+      "start": 426.44,
+      "end": 435.44,
+      "text": "I saw it for 100 days of code python. I saw it for 100 days of code python. You can see it here. This is 100 days of code python. Here is the feature."
+    },
+    {
+      "chunk_number": 38,
+      "start": 435.44,
+      "end": 444.44,
+      "text": "The template is on the learn page. Thank you so much. Thank you for watching this video. And I will see you next time."
+    }
+  ],
+  "text": "Today's video I will tell you about short-hand effects. We read about effects in Python and we also did a use of it. But today I will tell you one short way, one line of the effects. Someone will help you with the expression of this. And you will be able to do a lot of easy programming. Let's start the video screen. Let's talk about short and effels. Because how you save a lot of time from short and effels. Especially when you will get some expressions. So you can see that you have opened your Rappl. Now I have written a program called main.py. In fact, I have copied this program. So, as you know, this value is 330. And this value is 330. So I can say that if you print a greater than b, or print a equal to b, or print a equal to b, and it is very readable. You should also be careful about this. If you are aware of this, then tell me. I don't think it is very important to be careful about this. Because this is very readable. Now I will run it. What will you tell me? Is this greater than b or not? So this will be the next. First of all, I have told you to print a greater than b. But this is not greater than b. So if you go, okay, no problem. Let's move on. Or print a equal to b. It is not equal to b. So this will be the next. This will be the next one. So this will be b print. It will be capital b. Note that it is in double code. So capital b print will be the value of b. I hope all the confusions are not there. Because if I write small b, then the value of b is the print. What would have been written in the comment? I would have written in the comment of b or double codes. What would have been written in the comments? Write in the comment of time. Okay, this is the time. Write in the comment of time. I will come to the output. I want to know what you have been in the mind. I am waiting for your comment. If you have written a syntax error, then it is okay. Because capital is not a variable. I hope you are getting it clear. So what is here? There is also a short and syntax for the fl statement. That can be used when the condition being tested as simple. And the code blocks to be executed are short. Sometimes, there are some short codes. Just think that I have to write it simply. Print it and write it as a. So I have to write all the endings. It can be written in a simple one-liner. And Python is the same for the famous things. Okay. So now, if you see that if I have to write so much, then I will write print 9 if a is less than b. And then I will write double code. Like this. Else double code. Double code is necessary. Else is also necessary. Otherwise, the syntax error will come. So then I will write like this. So if a greater than b is a print, then it will be a print. So if this is a less than b, then it will be a print. If I make it greater than b, then what will happen? Nothing will happen. Okay. Because I have just written an expression. So you can see here that I can do it like this in the fl statement. If a greater than b is something, then it will not happen. Okay. But I will write here that c equals to 9 if a is greater than b. Like this. Else 0. So what will this work? What if I print c here? So what will this c value be? I will not do c value. If a greater than b is something. Yes, I will do it. If a greater than b is something, then b is something. Then b is something 0. If I increase it, 1. Okay. 1. I will increase it. So now, see that the output of the upper is changed. This is a, and this is not coming. So this way, we can also write expressions. If we write a single line, if we write conditional expressions, then we can write that. So c value is 9. Then it is greater than b or 0. And if you want to see the complex one, then this is a big index. What will happen? That the left is right. What will you do? Print a if a greater than b. If a greater than b is something, then it will be printed. Otherwise, print equals to if a equals to b. And you see that it is written as a readable for a simple syntax. Or print equals to if a equals to b. So this is how it is written. You can read it as a word, and it will be simple. Okay. You can also have multiple statements. So I told you that I have written an example here. Another example, you can see here. Result equals to value of true. Here, I write the generic example here. Okay. This is equivalent to this. So you can write a variable here. And here you can write a condition here. Or you can write value. If you write a condition, then the result equals to true. You will get false. So you write value. Whatever value you get, I wrote a null here. And then you write a condition here. If the condition is true, then the value of the result will be value. If the condition is false, then the value of the result will be this. Okay. So this is a generic example. And this is how much you have written the syntax. Okay. So this is our short and a false statement. Short and a simple syntax can be a convenient way to write simple-eval statements. Especially when you want to assign a value to a variable based on a condition. A condition that you want to assign a variable to a variable, then you can do it. However, it is not suitable for some complex situations where you need to execute multiple statements and perform more complex logic. Because what happens is that this is reducing the readability code. If you say complex logic. And if complex logic is not, then readability is not as simple as it is. If you try to become a hero, then you will get less than 10 to 12. Now I will make it more realistic. Now I will make it more realistic. But what is your readability? What is your readability? Your readability will be damaged. What you want? I don't want this. I will do it for you. So this is what happens. We have to be careful not to damage readability. We have to use the short hand, where it is used. If it is not used, then we are happy with our big statements. I have to think of a variable name. The number of lines is more than the code. You will be able to see it and readability will be less. The most important is the code maintenance. Today I have written the code. After 10 years, if I have taken it, I will tell you how I wrote it. And why I wrote it? If you have made the code maintenance, then you will not be able to make it. Remember, the genius programmers who write their code, write their code for the other programmers, so that they can understand it. So this is always remember. You have no programming language. This is true. I hope you are enjoying this course. If you have not access to any of the courses, then you have to access it. By the way, I want to show you something. And I will show you. You will go on the home page of the template. And you will go on the learn page. I will show you on the learn page of the template. I have made our 100 days of code python. Which is amazing. I saw it. I saw it for 100 days of code python. I saw it for 100 days of code python. You can see it here. This is 100 days of code python. Here is the feature. The template is on the learn page. Thank you so much. Thank you for watching this video. And I will see you next time."
+}

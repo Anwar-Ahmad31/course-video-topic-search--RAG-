@@ -1,0 +1,277 @@
+{
+  "video_number": 52,
+  "title": "Lambda functions in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 15.06,
+      "text": "The concept of the Lambda function is very useful for anonymous functions. The function of the Lambda function is not known as the codexpressure. Now, I am going to tell you what to use. Now, how to use Lambda expression? Let's get started in the video screen."
+    },
+    {
+      "chunk_number": 2,
+      "start": 24.38,
+      "end": 35.0,
+      "text": "Lambda functions are single expressions. The same value is A plus B. I know that it is B plus B. So, what is A plus B? What is A plus B?"
+    },
+    {
+      "chunk_number": 3,
+      "start": 35.0,
+      "end": 48.04,
+      "text": "Now, what is the Lambda function? Let me show you. First of all, I will show you a function. I will tell you that it is a function called Sum. So, let me make a dev Sum."
+    },
+    {
+      "chunk_number": 4,
+      "start": 48.04,
+      "end": 60.04,
+      "text": "I will make a dev Sum mini AVG. I will make a table. I have also used the example. The example is X into 2. What will I do?"
+    },
+    {
+      "chunk_number": 5,
+      "start": 60.04,
+      "end": 73.03999999999999,
+      "text": "I will print a code. Now, I have got all these. Now, I am going to print 5 into 2.10. And I am going to print a code. Sorry, I had to print a double."
+    },
+    {
+      "chunk_number": 6,
+      "start": 73.03999999999999,
+      "end": 86.04,
+      "text": "Now, I am going to print a code. Now, what will I do? Now, listen to me. What will happen? I can write this as a double."
+    },
+    {
+      "chunk_number": 7,
+      "start": 86.04,
+      "end": 102.04,
+      "text": "I can say that, I am double is equal to, Lambda is a Lambda function that takes X and returns X into 2. Now, what is this and this? I will say, yes, you can see it from your eyes."
+    },
+    {
+      "chunk_number": 8,
+      "start": 102.04,
+      "end": 112.04,
+      "text": "It is Lambda function. That is it. Now, stop here. I have told you that you have also understood Lambda function. I have made a variable of function."
+    },
+    {
+      "chunk_number": 9,
+      "start": 112.04,
+      "end": 122.04,
+      "text": "I have used this function. I have used the same function called dev.double.x, into 2 lines. I have used this much indentation. I have used this much circle."
+    },
+    {
+      "chunk_number": 10,
+      "start": 122.04,
+      "end": 132.04000000000002,
+      "text": "I have used a single line here. Double is equal to Lambda X, into 2. Now, what will I do? I will write this in 2 lines. And, this is more readable."
+    },
+    {
+      "chunk_number": 11,
+      "start": 132.04000000000002,
+      "end": 143.04,
+      "text": "People can argue that this is more readable. If you have to make many functions like this, in 15-20 programs, this is the best approach. Lambda functions."
+    },
+    {
+      "chunk_number": 12,
+      "start": 143.04,
+      "end": 153.04,
+      "text": "So, what do we do with Lambda function? We have to transform a value like the multiple. We have to do it in 2. We have to do it in 2. Or, you can do something like that."
+    },
+    {
+      "chunk_number": 13,
+      "start": 153.04,
+      "end": 162.04,
+      "text": "You have to do a cube number, I can do a function like this. Now, the dev is going to do it. You will see, you will also be able to do it. I am not judging you."
+    },
+    {
+      "chunk_number": 14,
+      "start": 162.04,
+      "end": 169.04,
+      "text": "It is not fun. It is a 100 days of code. You all must do it. It is a little bit. Okay, so, do it with X."
+    },
+    {
+      "chunk_number": 15,
+      "start": 169.04,
+      "end": 179.04,
+      "text": "And, return it. I don't need to write a return. I don't need to write a dev. I don't need to write indentation. If I print a cube here,"
+    },
+    {
+      "chunk_number": 16,
+      "start": 179.04,
+      "end": 189.04,
+      "text": "then I will get 105. Okay, so, you can see here, 10 and 105. Now, this is the function of dev cube. X return, X return, X return, X return, X return, X return."
+    },
+    {
+      "chunk_number": 17,
+      "start": 189.04,
+      "end": 199.04,
+      "text": "You can write it like this. This is the lambda function. Now, lambda function is the same. Now, why do people argue? My complex function is the same."
+    },
+    {
+      "chunk_number": 18,
+      "start": 199.04,
+      "end": 204.04,
+      "text": "15 is the line. Do I write it like this? I mean, is it the same? I have to write in lambda function. Everything is the same."
+    },
+    {
+      "chunk_number": 19,
+      "start": 204.04,
+      "end": 211.04,
+      "text": "No, this is not the same. You do it like this. Write like this. You write it like this. This is the new way of learning."
+    },
+    {
+      "chunk_number": 20,
+      "start": 211.04,
+      "end": 217.04,
+      "text": "Because, you will get written here. If you get the place, then you just don't get confused. That's it. Okay, this is the lambda function."
+    },
+    {
+      "chunk_number": 21,
+      "start": 217.04,
+      "end": 224.04,
+      "text": "You guys have become confused. I think, I was so worried that, yes, that's right. I showed you how much I am so worried. Okay?"
+    },
+    {
+      "chunk_number": 22,
+      "start": 224.04,
+      "end": 235.04,
+      "text": "So, how many multiple values can I take? What if I say that, that all the names have a function. Or, I mean, the average name has a function. So, can I do something like this?"
+    },
+    {
+      "chunk_number": 23,
+      "start": 235.04,
+      "end": 243.04,
+      "text": "That, I can do something like this. And, return it. x plus y divided by 2. What, what, what, what, this will be? Yes, this will be."
+    },
+    {
+      "chunk_number": 24,
+      "start": 243.04,
+      "end": 250.04,
+      "text": "I will give you a good news. This will be. Okay? So, I will give you the number of values in the 3 or 5. I will give you this."
+    },
+    {
+      "chunk_number": 25,
+      "start": 250.04,
+      "end": 256.03999999999996,
+      "text": "As you can see, 4.0. Okay? So, this will be. No problem. There is no problem."
+    },
+    {
+      "chunk_number": 26,
+      "start": 256.03999999999996,
+      "end": 265.03999999999996,
+      "text": "I will take 3 values. If I take x, y, z, then I will do something like this. And, I will say, x plus y plus z. And, after that, I will divide by 3."
+    },
+    {
+      "chunk_number": 27,
+      "start": 266.04,
+      "end": 280.04,
+      "text": "And, after that, I will give you 3, 5 and 10. What will happen? I said 10. So, I will say 10, 5, 15, 13, 18, 13, 16. So, what will I give?"
+    },
+    {
+      "chunk_number": 28,
+      "start": 280.04,
+      "end": 293.04,
+      "text": "The answer is yes. So, yes, you can give you many values in this. You can do something like this. And, if you don't have 5 values, you can write the brackets in the lagoo that you have not written multiple lines."
+    },
+    {
+      "chunk_number": 29,
+      "start": 293.04,
+      "end": 303.04,
+      "text": "You can write that too. You can do this too. But, the thing is, what you want to do when you have multiple lines. What you want to compress your logic?"
+    },
+    {
+      "chunk_number": 30,
+      "start": 303.04,
+      "end": 313.04,
+      "text": "The answer is no. So, how to use lambda function when you have to use one line. Okay? When you want, you have to use one line. And, in fact,"
+    },
+    {
+      "chunk_number": 31,
+      "start": 313.04,
+      "end": 324.04,
+      "text": "The real use of lambda functions is that when you pass the function as an argument. Don't confuse. We also pass the function as an argument. Can we pass a function as an argument?"
+    },
+    {
+      "chunk_number": 32,
+      "start": 324.04,
+      "end": 332.04,
+      "text": "The answer is yes. Okay? As I said, I will use a function in the name of apply. Or, appl."
+    },
+    {
+      "chunk_number": 33,
+      "start": 332.04,
+      "end": 344.04,
+      "text": "Okay? And, I say that I will give this function and return it to 6 plus that function. Fx of or x. And, here, I will write value."
+    },
+    {
+      "chunk_number": 34,
+      "start": 344.04,
+      "end": 353.04,
+      "text": "Okay? So, what will I do? Here, value. So, if you want to print appl, if you want to print appl,"
+    },
+    {
+      "chunk_number": 35,
+      "start": 353.04,
+      "end": 362.04,
+      "text": "I want to give appl a function of cube name. And, I want to give it to 2. So, what will I do? I will go to cube, 2 in this function. Cube or 2."
+    },
+    {
+      "chunk_number": 36,
+      "start": 362.04,
+      "end": 369.04,
+      "text": "6 plus cube of 2. How much? 8 plus 6. How much? 14."
+    },
+    {
+      "chunk_number": 37,
+      "start": 369.04,
+      "end": 379.04,
+      "text": "What will be 14? The answer is yes. So, you can pass the function as well. In this way, I will make a function and make a C-shaped function."
+    },
+    {
+      "chunk_number": 38,
+      "start": 379.04,
+      "end": 390.04,
+      "text": "You can take this function. Where I made a function from a def, I will pass it to a function that I have written in the same line. Now, don't be confused. Because, what I have said is that,"
+    },
+    {
+      "chunk_number": 39,
+      "start": 390.04,
+      "end": 396.04,
+      "text": "the function is to pass the function. It is to be digested. You can say, okay, you can do this."
+    },
+    {
+      "chunk_number": 40,
+      "start": 396.04,
+      "end": 402.04,
+      "text": "Do it and see. Write a program. You are not writing a program like this. No. You have to see here."
+    },
+    {
+      "chunk_number": 41,
+      "start": 402.04,
+      "end": 408.04,
+      "text": "Do it, Stop, Note, to read it. I wrote it from the simple path."
+    },
+    {
+      "chunk_number": 42,
+      "start": 408.04,
+      "end": 434.04,
+      "text": "Now look. Invite and Lambda function is small & non-emmerce function without an item. Its name isn't enough. It is defined using the Lambda key,"
+    },
+    {
+      "chunk_number": 43,
+      "start": 434.04,
+      "end": 470.04,
+      "text": "But now I have given this example, here it is written, above lambda function is the same functionality as the double function. But it does not have a lambda function, we gave it the name of APPL, it does not have any name, until and unless we are double equal to the name of the name. As if in this function, I would pass directly Q, so this Q by function, but it does not have a name, we did not use Q by the name, we would pass it. I have given this function above Q by function, if I would have given it directly, this would have lambda X, colon X, into X, into X, then it would have been useful. I do not need to make a function by the name of Q, so a name function, an anonymous function."
+    },
+    {
+      "chunk_number": 44,
+      "start": 470.04,
+      "end": 523.04,
+      "text": "Okay, let me leave Q, I am going to make a function square, did I make a square, or not? But I made a square, the function of the square name, in fact, I have passed the function of the square name, I did not make a function by the name of the square name, you have seen that, I have made a square, but I have found X square plus 6, which is 4 plus 6, and I have passed the function of the square name, but I have passed the function of the square name, so an anonymous function, who is an anonymous, anonymous, that is the name of the square name, if I am anonymous, if I am anonymous, my name would be very clear, but if someone comes to me and asks me how to know, until you are not able to see it. Now you can see that Lambda functions include multiple statements, I told you that, and the regular functions are just different, you guys have given me the right amount, so you guys have to look at it, digest it a little,"
+    },
+    {
+      "chunk_number": 45,
+      "start": 523.04,
+      "end": 539.04,
+      "text": "and in the next video, I will be able to see the map filter and reviews, if you guys have not yet done the playlist access, then you have to do the playlist access, and in the first video, go and give a review, and I will see you next time,"
+    }
+  ],
+  "text": "The concept of the Lambda function is very useful for anonymous functions. The function of the Lambda function is not known as the codexpressure. Now, I am going to tell you what to use. Now, how to use Lambda expression? Let's get started in the video screen. Lambda functions are single expressions. The same value is A plus B. I know that it is B plus B. So, what is A plus B? What is A plus B? Now, what is the Lambda function? Let me show you. First of all, I will show you a function. I will tell you that it is a function called Sum. So, let me make a dev Sum. I will make a dev Sum mini AVG. I will make a table. I have also used the example. The example is X into 2. What will I do? I will print a code. Now, I have got all these. Now, I am going to print 5 into 2.10. And I am going to print a code. Sorry, I had to print a double. Now, I am going to print a code. Now, what will I do? Now, listen to me. What will happen? I can write this as a double. I can say that, I am double is equal to, Lambda is a Lambda function that takes X and returns X into 2. Now, what is this and this? I will say, yes, you can see it from your eyes. It is Lambda function. That is it. Now, stop here. I have told you that you have also understood Lambda function. I have made a variable of function. I have used this function. I have used the same function called dev.double.x, into 2 lines. I have used this much indentation. I have used this much circle. I have used a single line here. Double is equal to Lambda X, into 2. Now, what will I do? I will write this in 2 lines. And, this is more readable. People can argue that this is more readable. If you have to make many functions like this, in 15-20 programs, this is the best approach. Lambda functions. So, what do we do with Lambda function? We have to transform a value like the multiple. We have to do it in 2. We have to do it in 2. Or, you can do something like that. You have to do a cube number, I can do a function like this. Now, the dev is going to do it. You will see, you will also be able to do it. I am not judging you. It is not fun. It is a 100 days of code. You all must do it. It is a little bit. Okay, so, do it with X. And, return it. I don't need to write a return. I don't need to write a dev. I don't need to write indentation. If I print a cube here, then I will get 105. Okay, so, you can see here, 10 and 105. Now, this is the function of dev cube. X return, X return, X return, X return, X return, X return. You can write it like this. This is the lambda function. Now, lambda function is the same. Now, why do people argue? My complex function is the same. 15 is the line. Do I write it like this? I mean, is it the same? I have to write in lambda function. Everything is the same. No, this is not the same. You do it like this. Write like this. You write it like this. This is the new way of learning. Because, you will get written here. If you get the place, then you just don't get confused. That's it. Okay, this is the lambda function. You guys have become confused. I think, I was so worried that, yes, that's right. I showed you how much I am so worried. Okay? So, how many multiple values can I take? What if I say that, that all the names have a function. Or, I mean, the average name has a function. So, can I do something like this? That, I can do something like this. And, return it. x plus y divided by 2. What, what, what, what, this will be? Yes, this will be. I will give you a good news. This will be. Okay? So, I will give you the number of values in the 3 or 5. I will give you this. As you can see, 4.0. Okay? So, this will be. No problem. There is no problem. I will take 3 values. If I take x, y, z, then I will do something like this. And, I will say, x plus y plus z. And, after that, I will divide by 3. And, after that, I will give you 3, 5 and 10. What will happen? I said 10. So, I will say 10, 5, 15, 13, 18, 13, 16. So, what will I give? The answer is yes. So, yes, you can give you many values in this. You can do something like this. And, if you don't have 5 values, you can write the brackets in the lagoo that you have not written multiple lines. You can write that too. You can do this too. But, the thing is, what you want to do when you have multiple lines. What you want to compress your logic? The answer is no. So, how to use lambda function when you have to use one line. Okay? When you want, you have to use one line. And, in fact, The real use of lambda functions is that when you pass the function as an argument. Don't confuse. We also pass the function as an argument. Can we pass a function as an argument? The answer is yes. Okay? As I said, I will use a function in the name of apply. Or, appl. Okay? And, I say that I will give this function and return it to 6 plus that function. Fx of or x. And, here, I will write value. Okay? So, what will I do? Here, value. So, if you want to print appl, if you want to print appl, I want to give appl a function of cube name. And, I want to give it to 2. So, what will I do? I will go to cube, 2 in this function. Cube or 2. 6 plus cube of 2. How much? 8 plus 6. How much? 14. What will be 14? The answer is yes. So, you can pass the function as well. In this way, I will make a function and make a C-shaped function. You can take this function. Where I made a function from a def, I will pass it to a function that I have written in the same line. Now, don't be confused. Because, what I have said is that, the function is to pass the function. It is to be digested. You can say, okay, you can do this. Do it and see. Write a program. You are not writing a program like this. No. You have to see here. Do it, Stop, Note, to read it. I wrote it from the simple path. Now look. Invite and Lambda function is small & non-emmerce function without an item. Its name isn't enough. It is defined using the Lambda key, But now I have given this example, here it is written, above lambda function is the same functionality as the double function. But it does not have a lambda function, we gave it the name of APPL, it does not have any name, until and unless we are double equal to the name of the name. As if in this function, I would pass directly Q, so this Q by function, but it does not have a name, we did not use Q by the name, we would pass it. I have given this function above Q by function, if I would have given it directly, this would have lambda X, colon X, into X, into X, then it would have been useful. I do not need to make a function by the name of Q, so a name function, an anonymous function. Okay, let me leave Q, I am going to make a function square, did I make a square, or not? But I made a square, the function of the square name, in fact, I have passed the function of the square name, I did not make a function by the name of the square name, you have seen that, I have made a square, but I have found X square plus 6, which is 4 plus 6, and I have passed the function of the square name, but I have passed the function of the square name, so an anonymous function, who is an anonymous, anonymous, that is the name of the square name, if I am anonymous, if I am anonymous, my name would be very clear, but if someone comes to me and asks me how to know, until you are not able to see it. Now you can see that Lambda functions include multiple statements, I told you that, and the regular functions are just different, you guys have given me the right amount, so you guys have to look at it, digest it a little, and in the next video, I will be able to see the map filter and reviews, if you guys have not yet done the playlist access, then you have to do the playlist access, and in the first video, go and give a review, and I will see you next time,"
+}

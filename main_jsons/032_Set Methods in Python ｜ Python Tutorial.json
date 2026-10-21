@@ -1,0 +1,307 @@
+{
+  "video_number": 32,
+  "title": "Set Methods in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 41.120000000000005,
+      "text": "We have almost everything in the set, so in the last video, in today's video, I will tell you some methods of set Which of those methods can you use to manipulate the sets, union, intersection, etc. In today's video, we will see how we can manipulate the sets, in the computer screen, let's get started So now we will see how we can operate the sets, in many ways, we can manipulate the sets If you have set the mathematics, then you will know what is set, here too set is exactly the same, collection of well-defined objects"
+    },
+    {
+      "chunk_number": 2,
+      "start": 101.12,
+      "end": 133.84,
+      "text": "So what is union, union is combination of both of us, in this case, 1, 2, 3, 4, 5, 6, union, and intersection will be 1, 3 and 4 If our A1, 2, 3, 4 is and B3, 4, 5, 6, then it is common, so it will be intersection So in this way, we will get union and intersection in the set So if I run this program, then S1 union S2 will be, I will get S1 and S2 combination In this case, you can see that 1, 2, 5, 3, 7 and 6 will be in the final resulting set"
+    },
+    {
+      "chunk_number": 3,
+      "start": 133.84,
+      "end": 164.32,
+      "text": "As you can see, so what we do is, we can remove the union and intersection of the set So this is one thing, now I will try to update my S1 set, I will show you one thing When I did this operation, then S1 and S2 are untouched So my S1 value and S2 value are not changed, you can see here, my S1 is also the same, I will try to update my S1 In this case, I will use the update function"
+    },
+    {
+      "chunk_number": 4,
+      "start": 164.32,
+      "end": 184.16,
+      "text": "If I write here, S1.update and S2 is written, then S1's value is also in S2 and S1 So what values are these? 3 and 7 So 3 and 7 will be in S1, because we are updating S1 Now, S1's value will change, so you can see that 1, 2, 5, 6 is the same"
+    },
+    {
+      "chunk_number": 5,
+      "start": 184.16,
+      "end": 203.04000000000002,
+      "text": "So after 1, 2, 5, 6, one value will be in S1, 2 values will be in S1, 3 and 7 So you should know these things Now, we have seen S1.union and update, we have intersection and intersection update So what does intersection do? We give intersection and update the intersection update So I will show you here"
+    },
+    {
+      "chunk_number": 6,
+      "start": 203.04000000000002,
+      "end": 222.16000000000003,
+      "text": "Set and by then, more or less work, the same way we do in mathematics Union and intersection are very basic operations, we can perform in sets Union and update difference is that Union, in fact, I will take this example Cities are my first Tokyo, Madrid, Berlin and Delhi And cities are two my first Tokyo, Seoul, Kabul and Madrid"
+    },
+    {
+      "chunk_number": 7,
+      "start": 222.16000000000003,
+      "end": 245.44,
+      "text": "So if we have shown Union and print them, then we will get this print to go to Update method used, update method used will be that cities are updated If I update cities 2.0, then cities 2 will be updated So whatever value is updated, whatever set will be updated with values of this set So you should know these things"
+    },
+    {
+      "chunk_number": 8,
+      "start": 245.44,
+      "end": 265.03999999999996,
+      "text": "Same thing is intersection and intersection update, so I will not have time to eat here If I have shown cities 3 is equal to cities. intersection, so intersection means that Those values are in both sets, in this case you can see Tokyo and Madrid These are the two sets, they are called intersection So intersection will be here"
+    },
+    {
+      "chunk_number": 9,
+      "start": 265.03999999999996,
+      "end": 285.04,
+      "text": "If I update intersection, then what will happen is that I have to run this function on cities I have to write it with the cities. intersection update cities 2 And my original set will be updated In that, those values will be the cities and cities 2 And the extra values will be the ones that you can see"
+    },
+    {
+      "chunk_number": 10,
+      "start": 285.04,
+      "end": 301.04,
+      "text": "So my city is updated with the intersection of cities and cities 2 So this is the simple thing Now symmetric difference, I will explain it through the vent diagram symmetric difference I will go and set the other two sets, if you do not know, then just understand"
+    },
+    {
+      "chunk_number": 11,
+      "start": 301.04,
+      "end": 323.04,
+      "text": "Now symmetric difference, I will tell you So here we have a set A, the values in the circle are A And the values in the circle are B symmetric difference, A union B minus A intersection A union B, A union B and B union B"
+    },
+    {
+      "chunk_number": 12,
+      "start": 323.04,
+      "end": 341.04,
+      "text": "So we will remove this intersection, this value will remove it So this area will be saved again and again Now what is the difference in symmetric difference? This means that all the values are not common Okay, understand? All the values are not common in the two sets"
+    },
+    {
+      "chunk_number": 13,
+      "start": 341.04,
+      "end": 365.04,
+      "text": "So if I come here and show you the symmetric difference, then you have to see that the print will not be common, why is it common? It is not a Madrid common, Berlin, Berlin is not common, Delhi is not common, C.O.L and Kabul Okay, Berlin is a C.O.L and Kabul is here If you are ordering something else, then you are saying that why is my Kabul before you, why is it in Berlin, why is it in Berlin?"
+    },
+    {
+      "chunk_number": 14,
+      "start": 365.04,
+      "end": 390.04,
+      "text": "Order does not matter, but you should know this So I have written here, now difference and difference in the date, what is it? Different and different different methods, only items are set are only present in the original set and not present in both the sets Okay, understand? The only thing is that in one set, like I said, cities.difference, then the values that are not present in cities, which are the values?"
+    },
+    {
+      "chunk_number": 15,
+      "start": 390.04,
+      "end": 423.04,
+      "text": "One is Tokyo, then Berlin, and what is the matter? Is it a Madrid or a Delhi or not? Delhi is not in both the sets So one thing, you should know this as A-B, if you do not use the set theory, then you might have a little bit of a jeep You can skip this, because the set theory is used, you will have to use it for unknown reasons, you will have to make a set and then the difference, intersection, union, etc. So, you have to understand these three basic operations, okay? What is the update?"
+    },
+    {
+      "chunk_number": 16,
+      "start": 423.04,
+      "end": 480.04,
+      "text": "What is the union? The union and the update is very similar, the union will do the return union and the union will update the union, and the intersection will give you the intersection of the difference and the intersection of the two And the intersection of the two, you will have to update the set, which you have set in this case, if you have updated cities and intersections, then you will have to do the return union Till you do not run these programs, you will not understand, this is the guarantee of this thing, okay? Now I will show you guys, I had a friend who said that he was talking to me at the time of Jayee, that you have studied, you will work, your selection will be done, this is not the guarantee of this thing But you will not study and you will be a student, and your selection will not be, this is the guarantee of this thing, and they told me, I was looking at him at that time, they told me that I had three boys, they said that this thing has to go to the station to think, okay?"
+    },
+    {
+      "chunk_number": 17,
+      "start": 480.04,
+      "end": 502.04,
+      "text": "So, when I went to the station, I thought, what was the difference? So, I understood, what was the difference? Now we will see the next set of methods. There are several inbuilt methods used for the manipulation of sets. The next one is disjoint and is superset. Now what is disjoint?"
+    },
+    {
+      "chunk_number": 18,
+      "start": 502.04,
+      "end": 518.04,
+      "text": "This is checked items of given set and presented in another set. What are disjoint sets? What are disjoint sets? The one that doesn't mean that there is no intersection in them. Now let me tell you all about the set."
+    },
+    {
+      "chunk_number": 19,
+      "start": 518.04,
+      "end": 536.04,
+      "text": "If you are wondering about disjoint sets, you will know about the set of methods. The set of methods is disjoint and they have no element in common. There is no intersection in both of them. The set of methods is not disjoint."
+    },
+    {
+      "chunk_number": 20,
+      "start": 536.04,
+      "end": 552.04,
+      "text": "The set of methods is not disjoint. The set of methods is not disjoint. If you do this, it will be disjoint. Now let's see the disjoint sets. Now let's see the disjoint sets."
+    },
+    {
+      "chunk_number": 21,
+      "start": 552.04,
+      "end": 566.04,
+      "text": "Now let's see the superset. What is superset? What is superset? If I do superset, what is superset? What is superset?"
+    },
+    {
+      "chunk_number": 22,
+      "start": 566.04,
+      "end": 584.52,
+      "text": "What is superset? Wielić Jimseer How does this is superset – an element of superset is a filled number of7s. How does superset –nestety –nestety –nestety –nestety –nestety –nestety –nestety –nestety –nestety s. These are the two values."
+    },
+    {
+      "chunk_number": 23,
+      "start": 584.52,
+      "end": 657.2,
+      "text": "What would be superset? How can superset –nestety –nestety –nestety –nestety –nestety –nestety –nestety s() A big Kivolowitzift piece depends on your detail. I mentioned superset during the IT program, And the third is the most important feature of the series."
+    },
+    {
+      "chunk_number": 24,
+      "start": 657.2,
+      "end": 672.2,
+      "text": "If you are looking at the definition from the second, then it is a bit haunting. After that, the important method, add if you want to add a single item to the set. Use add if you want to do something like this. So, in this set, it will add the Helsinki V add."
+    },
+    {
+      "chunk_number": 25,
+      "start": 672.2,
+      "end": 683.2,
+      "text": "You can see that the add is added here. Now, what is the update method here? If you want to add more than one item, then you can update it. The update you saw earlier,"
+    },
+    {
+      "chunk_number": 26,
+      "start": 683.2,
+      "end": 696.2,
+      "text": "if you want to update one set with values of another set, then you can use the update W. Then remove a discard two methods, which you can use to remove the items from the list. In fact, from the set,"
+    },
+    {
+      "chunk_number": 27,
+      "start": 696.2,
+      "end": 707.2,
+      "text": "I will run this. And here, you can see that if we removed the Tokyo Madrid Berlin Delhi and we removed Tokyo, then Madrid Delhi and Berlin will remain there."
+    },
+    {
+      "chunk_number": 28,
+      "start": 707.2,
+      "end": 718.2,
+      "text": "The main difference between remove and discard is that, if we try to delete an item which is not present in the set, then we will remove an error, but discard error, not do it."
+    },
+    {
+      "chunk_number": 29,
+      "start": 718.2,
+      "end": 728.2,
+      "text": "If we try to remove Tokyo two, then the error will come. The error means that the lines of the item will not be done. But if we discard it,"
+    },
+    {
+      "chunk_number": 30,
+      "start": 728.2,
+      "end": 738.2,
+      "text": "discard it. So, what happens? It is not a error. Obviously, we will use discard, because it does not do it."
+    },
+    {
+      "chunk_number": 31,
+      "start": 738.2,
+      "end": 748.2,
+      "text": "But you will want to do it in your programs. Because if you do not do the error, then something else will be unexpected. So, you want the error to come and the same thing will happen. So, the error will also be good."
+    },
+    {
+      "chunk_number": 32,
+      "start": 748.2,
+      "end": 760.2,
+      "text": "This is not the error, it means it is bad. The error is raised intentionally. We will see how we raise the custom error in Python. But you want to raise the errors. When you want to do it intentionally,"
+    },
+    {
+      "chunk_number": 33,
+      "start": 760.2,
+      "end": 770.2,
+      "text": "you do not want them to work intentionally. You want to say to the programmers that you will fix your program, fix your code. This is not correct."
+    },
+    {
+      "chunk_number": 34,
+      "start": 770.2,
+      "end": 780.2,
+      "text": "Now, what is the pop method? What will this do? You will see that you will see that this method removes the last element of the set. But the catch is that we don't know which element gets pop."
+    },
+    {
+      "chunk_number": 35,
+      "start": 780.2,
+      "end": 790.2,
+      "text": "As sets are unordered. So, what happens here? If any random value is pop, but you can access that value. I will show you how to do this work."
+    },
+    {
+      "chunk_number": 36,
+      "start": 790.2,
+      "end": 802.2,
+      "text": "So, if I paste it here, you can see that I have done it at item is equal to cities.pop. The random value will pop from it. And what value will I know? You see, I have made a pop."
+    },
+    {
+      "chunk_number": 37,
+      "start": 802.2,
+      "end": 812.2,
+      "text": "But if I do it again, there is a chance that there is no pop. There is a chance. But there is a chance that there is no pop. Okay?"
+    },
+    {
+      "chunk_number": 38,
+      "start": 812.2,
+      "end": 826.2,
+      "text": "You should know this. The del is a method that is keyword. And you can delete the entire set of del keyword. If I write del cities like this, my cities will be deleted."
+    },
+    {
+      "chunk_number": 39,
+      "start": 826.2,
+      "end": 838.2,
+      "text": "You can see this. And here, the cities are not defined. So, I have written del cities. This is cities. This is not defined."
+    },
+    {
+      "chunk_number": 40,
+      "start": 838.2,
+      "end": 848.2,
+      "text": "Okay. I am trying to print it here. So, this is not defined. So, this is the output name error. Okay?"
+    },
+    {
+      "chunk_number": 41,
+      "start": 848.2,
+      "end": 858.2,
+      "text": "What if we don't want to delete the entire set? We just want to delete all items within that set. So, we will use clear. Okay? We have a clear method that is useful for us."
+    },
+    {
+      "chunk_number": 42,
+      "start": 858.2,
+      "end": 868.2,
+      "text": "And we will help to delete all elements within that set. Okay? If you have 50 elements within that set, you want to remove them. Delete is the method."
+    },
+    {
+      "chunk_number": 43,
+      "start": 868.2,
+      "end": 878.2,
+      "text": "So, declare is the method that you must use. Okay? If you want to exist any value in that set, you can use this word in this way. You saw in the list,"
+    },
+    {
+      "chunk_number": 44,
+      "start": 878.2,
+      "end": 887.2,
+      "text": "you saw in the tuple. Now you can do it here. In this case, you can see that the file is in the info. Okay? So, here the print will be,"
+    },
+    {
+      "chunk_number": 45,
+      "start": 887.2,
+      "end": 895.2,
+      "text": "the file is present. Okay? So, it is very similar. The data types of Python are discussed in the school. If you check these methods,"
+    },
+    {
+      "chunk_number": 46,
+      "start": 895.2,
+      "end": 905.2,
+      "text": "and if you want to know more about the set, then I want to tell you that the first method of this method, maybe you can use it as much as you have popped. And then it is clear."
+    },
+    {
+      "chunk_number": 47,
+      "start": 905.2,
+      "end": 914.2,
+      "text": "You can use all the methods. Add, update, remove, discard. This method should be on your target. If you are using it, and you have never used it,"
+    },
+    {
+      "chunk_number": 48,
+      "start": 914.2,
+      "end": 924.2,
+      "text": "then you should not have the same value as you have in your programs. So, if you don't know the set theory, then you don't know the set data type. No. Consider the set data type."
+    },
+    {
+      "chunk_number": 49,
+      "start": 924.2,
+      "end": 933.2,
+      "text": "And the most important method of this is to focus on it. Okay? If you haven't done the access yet, then you must have access to the Python. Click on the bookmark,"
+    },
+    {
+      "chunk_number": 50,
+      "start": 933.2,
+      "end": 939.2,
+      "text": "click on the save, and make this video as much as you can. Thank you so much guys for watching this video. And I will see you next time."
+    }
+  ],
+  "text": "We have almost everything in the set, so in the last video, in today's video, I will tell you some methods of set Which of those methods can you use to manipulate the sets, union, intersection, etc. In today's video, we will see how we can manipulate the sets, in the computer screen, let's get started So now we will see how we can operate the sets, in many ways, we can manipulate the sets If you have set the mathematics, then you will know what is set, here too set is exactly the same, collection of well-defined objects So what is union, union is combination of both of us, in this case, 1, 2, 3, 4, 5, 6, union, and intersection will be 1, 3 and 4 If our A1, 2, 3, 4 is and B3, 4, 5, 6, then it is common, so it will be intersection So in this way, we will get union and intersection in the set So if I run this program, then S1 union S2 will be, I will get S1 and S2 combination In this case, you can see that 1, 2, 5, 3, 7 and 6 will be in the final resulting set As you can see, so what we do is, we can remove the union and intersection of the set So this is one thing, now I will try to update my S1 set, I will show you one thing When I did this operation, then S1 and S2 are untouched So my S1 value and S2 value are not changed, you can see here, my S1 is also the same, I will try to update my S1 In this case, I will use the update function If I write here, S1.update and S2 is written, then S1's value is also in S2 and S1 So what values are these? 3 and 7 So 3 and 7 will be in S1, because we are updating S1 Now, S1's value will change, so you can see that 1, 2, 5, 6 is the same So after 1, 2, 5, 6, one value will be in S1, 2 values will be in S1, 3 and 7 So you should know these things Now, we have seen S1.union and update, we have intersection and intersection update So what does intersection do? We give intersection and update the intersection update So I will show you here Set and by then, more or less work, the same way we do in mathematics Union and intersection are very basic operations, we can perform in sets Union and update difference is that Union, in fact, I will take this example Cities are my first Tokyo, Madrid, Berlin and Delhi And cities are two my first Tokyo, Seoul, Kabul and Madrid So if we have shown Union and print them, then we will get this print to go to Update method used, update method used will be that cities are updated If I update cities 2.0, then cities 2 will be updated So whatever value is updated, whatever set will be updated with values of this set So you should know these things Same thing is intersection and intersection update, so I will not have time to eat here If I have shown cities 3 is equal to cities. intersection, so intersection means that Those values are in both sets, in this case you can see Tokyo and Madrid These are the two sets, they are called intersection So intersection will be here If I update intersection, then what will happen is that I have to run this function on cities I have to write it with the cities. intersection update cities 2 And my original set will be updated In that, those values will be the cities and cities 2 And the extra values will be the ones that you can see So my city is updated with the intersection of cities and cities 2 So this is the simple thing Now symmetric difference, I will explain it through the vent diagram symmetric difference I will go and set the other two sets, if you do not know, then just understand Now symmetric difference, I will tell you So here we have a set A, the values in the circle are A And the values in the circle are B symmetric difference, A union B minus A intersection A union B, A union B and B union B So we will remove this intersection, this value will remove it So this area will be saved again and again Now what is the difference in symmetric difference? This means that all the values are not common Okay, understand? All the values are not common in the two sets So if I come here and show you the symmetric difference, then you have to see that the print will not be common, why is it common? It is not a Madrid common, Berlin, Berlin is not common, Delhi is not common, C.O.L and Kabul Okay, Berlin is a C.O.L and Kabul is here If you are ordering something else, then you are saying that why is my Kabul before you, why is it in Berlin, why is it in Berlin? Order does not matter, but you should know this So I have written here, now difference and difference in the date, what is it? Different and different different methods, only items are set are only present in the original set and not present in both the sets Okay, understand? The only thing is that in one set, like I said, cities.difference, then the values that are not present in cities, which are the values? One is Tokyo, then Berlin, and what is the matter? Is it a Madrid or a Delhi or not? Delhi is not in both the sets So one thing, you should know this as A-B, if you do not use the set theory, then you might have a little bit of a jeep You can skip this, because the set theory is used, you will have to use it for unknown reasons, you will have to make a set and then the difference, intersection, union, etc. So, you have to understand these three basic operations, okay? What is the update? What is the union? The union and the update is very similar, the union will do the return union and the union will update the union, and the intersection will give you the intersection of the difference and the intersection of the two And the intersection of the two, you will have to update the set, which you have set in this case, if you have updated cities and intersections, then you will have to do the return union Till you do not run these programs, you will not understand, this is the guarantee of this thing, okay? Now I will show you guys, I had a friend who said that he was talking to me at the time of Jayee, that you have studied, you will work, your selection will be done, this is not the guarantee of this thing But you will not study and you will be a student, and your selection will not be, this is the guarantee of this thing, and they told me, I was looking at him at that time, they told me that I had three boys, they said that this thing has to go to the station to think, okay? So, when I went to the station, I thought, what was the difference? So, I understood, what was the difference? Now we will see the next set of methods. There are several inbuilt methods used for the manipulation of sets. The next one is disjoint and is superset. Now what is disjoint? This is checked items of given set and presented in another set. What are disjoint sets? What are disjoint sets? The one that doesn't mean that there is no intersection in them. Now let me tell you all about the set. If you are wondering about disjoint sets, you will know about the set of methods. The set of methods is disjoint and they have no element in common. There is no intersection in both of them. The set of methods is not disjoint. The set of methods is not disjoint. The set of methods is not disjoint. If you do this, it will be disjoint. Now let's see the disjoint sets. Now let's see the disjoint sets. Now let's see the superset. What is superset? What is superset? If I do superset, what is superset? What is superset? What is superset? Wielić Jimseer How does this is superset – an element of superset is a filled number of7s. How does superset –nestety –nestety –nestety –nestety –nestety –nestety –nestety –nestety –nestety s. These are the two values. What would be superset? How can superset –nestety –nestety –nestety –nestety –nestety –nestety –nestety s() A big Kivolowitzift piece depends on your detail. I mentioned superset during the IT program, And the third is the most important feature of the series. If you are looking at the definition from the second, then it is a bit haunting. After that, the important method, add if you want to add a single item to the set. Use add if you want to do something like this. So, in this set, it will add the Helsinki V add. You can see that the add is added here. Now, what is the update method here? If you want to add more than one item, then you can update it. The update you saw earlier, if you want to update one set with values of another set, then you can use the update W. Then remove a discard two methods, which you can use to remove the items from the list. In fact, from the set, I will run this. And here, you can see that if we removed the Tokyo Madrid Berlin Delhi and we removed Tokyo, then Madrid Delhi and Berlin will remain there. The main difference between remove and discard is that, if we try to delete an item which is not present in the set, then we will remove an error, but discard error, not do it. If we try to remove Tokyo two, then the error will come. The error means that the lines of the item will not be done. But if we discard it, discard it. So, what happens? It is not a error. Obviously, we will use discard, because it does not do it. But you will want to do it in your programs. Because if you do not do the error, then something else will be unexpected. So, you want the error to come and the same thing will happen. So, the error will also be good. This is not the error, it means it is bad. The error is raised intentionally. We will see how we raise the custom error in Python. But you want to raise the errors. When you want to do it intentionally, you do not want them to work intentionally. You want to say to the programmers that you will fix your program, fix your code. This is not correct. Now, what is the pop method? What will this do? You will see that you will see that this method removes the last element of the set. But the catch is that we don't know which element gets pop. As sets are unordered. So, what happens here? If any random value is pop, but you can access that value. I will show you how to do this work. So, if I paste it here, you can see that I have done it at item is equal to cities.pop. The random value will pop from it. And what value will I know? You see, I have made a pop. But if I do it again, there is a chance that there is no pop. There is a chance. But there is a chance that there is no pop. Okay? You should know this. The del is a method that is keyword. And you can delete the entire set of del keyword. If I write del cities like this, my cities will be deleted. You can see this. And here, the cities are not defined. So, I have written del cities. This is cities. This is not defined. Okay. I am trying to print it here. So, this is not defined. So, this is the output name error. Okay? What if we don't want to delete the entire set? We just want to delete all items within that set. So, we will use clear. Okay? We have a clear method that is useful for us. And we will help to delete all elements within that set. Okay? If you have 50 elements within that set, you want to remove them. Delete is the method. So, declare is the method that you must use. Okay? If you want to exist any value in that set, you can use this word in this way. You saw in the list, you saw in the tuple. Now you can do it here. In this case, you can see that the file is in the info. Okay? So, here the print will be, the file is present. Okay? So, it is very similar. The data types of Python are discussed in the school. If you check these methods, and if you want to know more about the set, then I want to tell you that the first method of this method, maybe you can use it as much as you have popped. And then it is clear. You can use all the methods. Add, update, remove, discard. This method should be on your target. If you are using it, and you have never used it, then you should not have the same value as you have in your programs. So, if you don't know the set theory, then you don't know the set data type. No. Consider the set data type. And the most important method of this is to focus on it. Okay? If you haven't done the access yet, then you must have access to the Python. Click on the bookmark, click on the save, and make this video as much as you can. Thank you so much guys for watching this video. And I will see you next time."
+}

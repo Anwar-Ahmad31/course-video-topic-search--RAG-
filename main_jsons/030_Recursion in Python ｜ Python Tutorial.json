@@ -1,0 +1,301 @@
+{
+  "video_number": 30,
+  "title": "Recursion in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 13.66,
+      "text": "We didn't see all the functions, it was a lot of fun about the functions Today I will tell you about the records Records are basically functions, but within the same function we call them So this is the record Many people used to make a mind block this"
+    },
+    {
+      "chunk_number": 2,
+      "start": 13.66,
+      "end": 34.22,
+      "text": "But how easy is this video will be to be appreciated Let's go to the computer screen and see the records How it is written in Python Let's get started We saw the functions we used to do once"
+    },
+    {
+      "chunk_number": 3,
+      "start": 34.22,
+      "end": 45.8,
+      "text": "How can we do the function? If you have some common sense, you will get the answer If I made a knowledge of average function I want to use some function I can definitely do it"
+    },
+    {
+      "chunk_number": 4,
+      "start": 45.8,
+      "end": 61.08,
+      "text": "There is no confusion But can I call a function within it? This is what you are going to be interested in And you will be asked to call a function within 1 minute So why are you calling it within it?"
+    },
+    {
+      "chunk_number": 5,
+      "start": 61.08,
+      "end": 75.08,
+      "text": "Let me explain and I will tell you Where and where are the scenarios used? I will tell you very simple, first I will tell you Now I will talk about the facts If you don't know what is the facts"
+    },
+    {
+      "chunk_number": 6,
+      "start": 75.08,
+      "end": 91.08,
+      "text": "I will tell you the facts I will make a comment here I will talk about the facts of 7 So 7 is the value of the facts 7 into 6 into 5 into 4 into 3 into 2"
+    },
+    {
+      "chunk_number": 7,
+      "start": 91.08,
+      "end": 99.08,
+      "text": "2 is the value of 1 This is the value of 7 And how much value will come out? I don't know You should calculate"
+    },
+    {
+      "chunk_number": 8,
+      "start": 99.08,
+      "end": 111.08,
+      "text": "Whatever you will multiply If I talk about the facts of 6 I will multiply by 6 And I will get the value of the facts If I talk about the facts of 5"
+    },
+    {
+      "chunk_number": 9,
+      "start": 111.08,
+      "end": 123.08,
+      "text": "I will calculate the value of the facts If I want to calculate the value of the facts And the same goes for the facts of 4 And the same goes for the facts of 3 And so on"
+    },
+    {
+      "chunk_number": 10,
+      "start": 123.08,
+      "end": 137.07999999999998,
+      "text": "By definition, the facts of 0 The facts of 0 1 This is the definition of the facts of 0 I can write this in this information"
+    },
+    {
+      "chunk_number": 11,
+      "start": 137.08,
+      "end": 151.08,
+      "text": "If I want to get the value of the facts I will get the first one The first one is the number minus 1 And I will multiply it with n If you don't have mathematical background"
+    },
+    {
+      "chunk_number": 12,
+      "start": 151.08,
+      "end": 162.08,
+      "text": "You hate maths If you learn maths in your life Then you will get a little haunting But look at the top Do I write the facts of 7 into 7"
+    },
+    {
+      "chunk_number": 13,
+      "start": 162.08,
+      "end": 172.08,
+      "text": "I can't write the facts of 7 into 6 I have highlighted the facts of 6 I have not. If you have thought about it Will you get the answer?"
+    },
+    {
+      "chunk_number": 14,
+      "start": 172.08,
+      "end": 182.08,
+      "text": "Can I write a factorial 6 into 6 6 multiplied by factorial 5? So this formula is the correct one The correct one. Absolutely correct In this information"
+    },
+    {
+      "chunk_number": 15,
+      "start": 182.08,
+      "end": 197.08,
+      "text": "Will I be able to calculate the facts? The answer is yes And I am going to explain the recursion of the concepts Let's write it down In the form of a python program, I am taking factorial n out."
+    },
+    {
+      "chunk_number": 16,
+      "start": 197.08,
+      "end": 210.08,
+      "text": "So, see, if there is n value 1 or 0, Okay? If there is n value 0, I will return 1. Okay? And n is equal to 1."
+    },
+    {
+      "chunk_number": 17,
+      "start": 210.08,
+      "end": 225.08,
+      "text": "0 or 1 will be 1. What will be 1? Else return n into factorial. I have taken this c to wall. So, what is this?"
+    },
+    {
+      "chunk_number": 18,
+      "start": 225.08,
+      "end": 242.08,
+      "text": "Absolutely correct. What will be the factorial function? The python will accept that I have called factorial n into factorial n minus 1. I have called the same function inside it. The answer is yes."
+    },
+    {
+      "chunk_number": 19,
+      "start": 242.08,
+      "end": 255.08,
+      "text": "Okay? Now, I will show you that if I print factorial of 3, then I have chosen 3. So that we can evaluate it by itself. And 4 and 5."
+    },
+    {
+      "chunk_number": 20,
+      "start": 255.08,
+      "end": 269.08000000000004,
+      "text": "You can see that I tried to calculate factorial 3. So, I found 3 multiplied by 2 multiplied by 1. I found 6. If I tried to calculate 4 multiplied by 2 multiplied by 1, then I found 4."
+    },
+    {
+      "chunk_number": 21,
+      "start": 269.08000000000004,
+      "end": 282.08,
+      "text": "The factorial 5 was 5 for the 20, 360 to 120. I found it. So, what we did is that we called the same function inside the function. But with different argument,"
+    },
+    {
+      "chunk_number": 22,
+      "start": 282.08,
+      "end": 293.08,
+      "text": "with n minus 1 argument, how does this function work? Let me explain it to you. First of all, what will be the factorial 5 calculate? I will remove these two."
+    },
+    {
+      "chunk_number": 23,
+      "start": 293.08,
+      "end": 304.08,
+      "text": "I will remove these two. I know that we have to calculate the factorial 5. So, we will have to go inside the circle. Else will go inside. So, we will have to get it."
+    },
+    {
+      "chunk_number": 24,
+      "start": 304.08,
+      "end": 318.08,
+      "text": "Let me tell you. Look, 4 multiplied by 5 is factorial 4. You said that it is okay to know factorial 5. But, 4 multiplied by 5 is factorial 4. Yes, 4 multiplied by 4 is factorial 4."
+    },
+    {
+      "chunk_number": 25,
+      "start": 318.08,
+      "end": 328.08,
+      "text": "And, 4 is the value of factorial 4. I will go back to the value of factorial 4. I said, this is the value of n. I said, do one thing. What do you do?"
+    },
+    {
+      "chunk_number": 26,
+      "start": 328.08,
+      "end": 339.08,
+      "text": "You have to get factorial 4. 4 multiplied by 3. Okay, 4 multiplied by factorial 3. What will happen? You have to get factorial 3."
+    },
+    {
+      "chunk_number": 27,
+      "start": 339.08,
+      "end": 349.08,
+      "text": "3 multiplied by factorial 2. factorial 2. Okay. Now, what is the factorial 2?"
+    },
+    {
+      "chunk_number": 28,
+      "start": 349.08,
+      "end": 360.08,
+      "text": "You have to get factorial 2 multiplied by factorial 1. This time, we will change a little bit. Okay. How will we change a little bit? We will calculate the factorial 1 when we will go to the calculate."
+    },
+    {
+      "chunk_number": 29,
+      "start": 360.08,
+      "end": 370.08,
+      "text": "Instead of going to else. This time, if the condition will be true. Because, it is the value of n. And, we will get 1 return. So, if I write this,"
+    },
+    {
+      "chunk_number": 30,
+      "start": 370.08,
+      "end": 382.08,
+      "text": "I have got the value of the value. 5 multiplied by 4 multiplied by 3. Is the series activated? 3. Stop. I don't know what is going on."
+    },
+    {
+      "chunk_number": 31,
+      "start": 382.08,
+      "end": 393.08,
+      "text": "Sir, don't worry. Yes, it is okay. 5 multiplied by 4 multiplied by 3 multiplied by 2 multiplied by 1. Okay. 5 was a 20, 3 is a 60, 2 is a 120."
+    },
+    {
+      "chunk_number": 32,
+      "start": 393.08,
+      "end": 402.08,
+      "text": "So, this value will be a 120 value. Okay. I hope you have understood this. Now, see what I have written here. And try to understand it."
+    },
+    {
+      "chunk_number": 33,
+      "start": 402.08,
+      "end": 416.08,
+      "text": "Recursion is a process of defining something in terms of itself. Just like we have done a factorial. We have said that the factorial is n multiplied by factorial of n minus 1. So, in the definition of factorial, we have given the factorial a pass. So, this is called that defining something in terms of itself."
+    },
+    {
+      "chunk_number": 34,
+      "start": 417.08,
+      "end": 433.08,
+      "text": "One more example is that it is popular and it is a calculation of Fibonacci series. Fibonacci sequence is the formula of that. If you don't have Fibonacci series, I am going to the number here. I will show you here. F0 is 0, F1 is 1."
+    },
+    {
+      "chunk_number": 35,
+      "start": 433.08,
+      "end": 443.08,
+      "text": "And the rest you have to remove any number, so, add two numbers. So, you will have 0, then you will have 2 numbers. Okay. So, what is F0?"
+    },
+    {
+      "chunk_number": 36,
+      "start": 443.08,
+      "end": 452.08,
+      "text": "F0 is 0. And F1 is 1. Okay. So, 0 and 1 are the same. And after that, you have to remove F2."
+    },
+    {
+      "chunk_number": 37,
+      "start": 452.08,
+      "end": 461.08,
+      "text": "So, the formula is F2. F1 plus F0. Okay. F1 plus F0. Okay."
+    },
+    {
+      "chunk_number": 38,
+      "start": 461.08,
+      "end": 472.08,
+      "text": "In this way, Fn is your Fn minus 1. And Fn minus 2. Okay. In this way, you can remove some numbers. Add two numbers."
+    },
+    {
+      "chunk_number": 39,
+      "start": 472.08,
+      "end": 485.08,
+      "text": "Now, I will give you a quick quiz. You have to answer in the comment section of the app. What is this? You have to calculate the Fn series. It is a function."
+    },
+    {
+      "chunk_number": 40,
+      "start": 485.08,
+      "end": 499.08,
+      "text": "And I am writing this as I have written. You have to write this factorial program. I am writing this as F0 is 0. Okay. I will write F1 plus F1 plus F1 plus F1."
+    },
+    {
+      "chunk_number": 41,
+      "start": 499.08,
+      "end": 516.0799999999999,
+      "text": "Now, you have to do this to print F1. I will write this as a program. I will write this as a quick quiz. Write a program to print F1. Okay."
+    },
+    {
+      "chunk_number": 42,
+      "start": 516.0799999999999,
+      "end": 522.0799999999999,
+      "text": "Write a program to print F1. Okay. So, this F0 is 0. F1 is 1. F2 is 2."
+    },
+    {
+      "chunk_number": 43,
+      "start": 522.0799999999999,
+      "end": 531.08,
+      "text": "F1 plus F0 is 2. Fn minus 1 plus Fn minus 2. Okay. I hope you have understood this. And you must make this as a program."
+    },
+    {
+      "chunk_number": 44,
+      "start": 531.08,
+      "end": 541.08,
+      "text": "I need to make this program. And check it yourself. See, the sequence of F1 is to generate. F1 is 0. F1 will be 1."
+    },
+    {
+      "chunk_number": 45,
+      "start": 541.08,
+      "end": 551.08,
+      "text": "F1 will be 2. F1 will be 3. F1 will be 5. F1 will be 5. F1 will be 5."
+    },
+    {
+      "chunk_number": 46,
+      "start": 551.08,
+      "end": 559.08,
+      "text": "F1 will be 5. I hope I didn't make it wrong. F1 is 0 plus 1. F1 plus 1 is 2 plus 3. F1 is 5."
+    },
+    {
+      "chunk_number": 47,
+      "start": 559.08,
+      "end": 568.08,
+      "text": "F1 is 3. F1 will be 5. So, if you are making it, 0, 1, 2, 3, 4, 5, 6. If you are making it wrong, you should make it wrong."
+    },
+    {
+      "chunk_number": 48,
+      "start": 568.08,
+      "end": 580.08,
+      "text": "I hope you have understood this. If you haven't yet, click on the playlist and click on the link to get access. And click on the link to get access. Thank you so much for watching this video."
+    },
+    {
+      "chunk_number": 49,
+      "start": 580.08,
+      "end": 587.08,
+      "text": "And I will see you next time. Bye."
+    }
+  ],
+  "text": "We didn't see all the functions, it was a lot of fun about the functions Today I will tell you about the records Records are basically functions, but within the same function we call them So this is the record Many people used to make a mind block this But how easy is this video will be to be appreciated Let's go to the computer screen and see the records How it is written in Python Let's get started We saw the functions we used to do once How can we do the function? If you have some common sense, you will get the answer If I made a knowledge of average function I want to use some function I can definitely do it There is no confusion But can I call a function within it? This is what you are going to be interested in And you will be asked to call a function within 1 minute So why are you calling it within it? Let me explain and I will tell you Where and where are the scenarios used? I will tell you very simple, first I will tell you Now I will talk about the facts If you don't know what is the facts I will tell you the facts I will make a comment here I will talk about the facts of 7 So 7 is the value of the facts 7 into 6 into 5 into 4 into 3 into 2 2 is the value of 1 This is the value of 7 And how much value will come out? I don't know You should calculate Whatever you will multiply If I talk about the facts of 6 I will multiply by 6 And I will get the value of the facts If I talk about the facts of 5 I will calculate the value of the facts If I want to calculate the value of the facts And the same goes for the facts of 4 And the same goes for the facts of 3 And so on By definition, the facts of 0 The facts of 0 1 This is the definition of the facts of 0 I can write this in this information If I want to get the value of the facts I will get the first one The first one is the number minus 1 And I will multiply it with n If you don't have mathematical background You hate maths If you learn maths in your life Then you will get a little haunting But look at the top Do I write the facts of 7 into 7 I can't write the facts of 7 into 6 I have highlighted the facts of 6 I have not. If you have thought about it Will you get the answer? Can I write a factorial 6 into 6 6 multiplied by factorial 5? So this formula is the correct one The correct one. Absolutely correct In this information Will I be able to calculate the facts? The answer is yes And I am going to explain the recursion of the concepts Let's write it down In the form of a python program, I am taking factorial n out. So, see, if there is n value 1 or 0, Okay? If there is n value 0, I will return 1. Okay? And n is equal to 1. 0 or 1 will be 1. What will be 1? Else return n into factorial. I have taken this c to wall. So, what is this? Absolutely correct. What will be the factorial function? The python will accept that I have called factorial n into factorial n minus 1. I have called the same function inside it. The answer is yes. Okay? Now, I will show you that if I print factorial of 3, then I have chosen 3. So that we can evaluate it by itself. And 4 and 5. You can see that I tried to calculate factorial 3. So, I found 3 multiplied by 2 multiplied by 1. I found 6. If I tried to calculate 4 multiplied by 2 multiplied by 1, then I found 4. The factorial 5 was 5 for the 20, 360 to 120. I found it. So, what we did is that we called the same function inside the function. But with different argument, with n minus 1 argument, how does this function work? Let me explain it to you. First of all, what will be the factorial 5 calculate? I will remove these two. I will remove these two. I know that we have to calculate the factorial 5. So, we will have to go inside the circle. Else will go inside. So, we will have to get it. Let me tell you. Look, 4 multiplied by 5 is factorial 4. You said that it is okay to know factorial 5. But, 4 multiplied by 5 is factorial 4. Yes, 4 multiplied by 4 is factorial 4. And, 4 is the value of factorial 4. I will go back to the value of factorial 4. I said, this is the value of n. I said, do one thing. What do you do? You have to get factorial 4. 4 multiplied by 3. Okay, 4 multiplied by factorial 3. What will happen? You have to get factorial 3. 3 multiplied by factorial 2. factorial 2. Okay. Now, what is the factorial 2? You have to get factorial 2 multiplied by factorial 1. This time, we will change a little bit. Okay. How will we change a little bit? We will calculate the factorial 1 when we will go to the calculate. Instead of going to else. This time, if the condition will be true. Because, it is the value of n. And, we will get 1 return. So, if I write this, I have got the value of the value. 5 multiplied by 4 multiplied by 3. Is the series activated? 3. Stop. I don't know what is going on. Sir, don't worry. Yes, it is okay. 5 multiplied by 4 multiplied by 3 multiplied by 2 multiplied by 1. Okay. 5 was a 20, 3 is a 60, 2 is a 120. So, this value will be a 120 value. Okay. I hope you have understood this. Now, see what I have written here. And try to understand it. Recursion is a process of defining something in terms of itself. Just like we have done a factorial. We have said that the factorial is n multiplied by factorial of n minus 1. So, in the definition of factorial, we have given the factorial a pass. So, this is called that defining something in terms of itself. One more example is that it is popular and it is a calculation of Fibonacci series. Fibonacci sequence is the formula of that. If you don't have Fibonacci series, I am going to the number here. I will show you here. F0 is 0, F1 is 1. And the rest you have to remove any number, so, add two numbers. So, you will have 0, then you will have 2 numbers. Okay. So, what is F0? F0 is 0. And F1 is 1. Okay. So, 0 and 1 are the same. And after that, you have to remove F2. So, the formula is F2. F1 plus F0. Okay. F1 plus F0. Okay. In this way, Fn is your Fn minus 1. And Fn minus 2. Okay. In this way, you can remove some numbers. Add two numbers. Now, I will give you a quick quiz. You have to answer in the comment section of the app. What is this? You have to calculate the Fn series. It is a function. And I am writing this as I have written. You have to write this factorial program. I am writing this as F0 is 0. Okay. I will write F1 plus F1 plus F1 plus F1. Now, you have to do this to print F1. I will write this as a program. I will write this as a quick quiz. Write a program to print F1. Okay. Write a program to print F1. Okay. So, this F0 is 0. F1 is 1. F2 is 2. F1 plus F0 is 2. Fn minus 1 plus Fn minus 2. Okay. I hope you have understood this. And you must make this as a program. I need to make this program. And check it yourself. See, the sequence of F1 is to generate. F1 is 0. F1 will be 1. F1 will be 2. F1 will be 3. F1 will be 5. F1 will be 5. F1 will be 5. F1 will be 5. I hope I didn't make it wrong. F1 is 0 plus 1. F1 plus 1 is 2 plus 3. F1 is 5. F1 is 3. F1 will be 5. So, if you are making it, 0, 1, 2, 3, 4, 5, 6. If you are making it wrong, you should make it wrong. I hope you have understood this. If you haven't yet, click on the playlist and click on the link to get access. And click on the link to get access. Thank you so much for watching this video. And I will see you next time. Bye."
+}

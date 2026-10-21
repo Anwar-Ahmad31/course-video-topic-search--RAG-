@@ -1,0 +1,259 @@
+{
+  "video_number": 8,
+  "title": "Exercise 1： Calculator using Python (Solution) ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 13.0,
+      "text": "I am looking at the day of the day of the 100 days of code and I am looking very good today and in today's video I will show you the shoutout of the day which has also been solved by one of our exercises I will tell you in the description of this video"
+    },
+    {
+      "chunk_number": 2,
+      "start": 13.0,
+      "end": 38.0,
+      "text": "let's go to the computer screen and let's get started So I have already seen the computer screen I am going to open the RAPL which I have made I have already seen the 0 to 0 day 8 we will see the solution"
+    },
+    {
+      "chunk_number": 3,
+      "start": 38.0,
+      "end": 58.0,
+      "text": "but with the solution we will see what is the reason for this day 7 and in day 7 I will open the RAPL and you will be able to give the shoutout and the first one which has posted the comment"
+    },
+    {
+      "chunk_number": 4,
+      "start": 58.0,
+      "end": 71.0,
+      "text": "and the second one which has been solved by one of our exercises so I will put the cover on the page and you can see that all these things are posting on the page like this we should have tempo we will have to make 100 days of code"
+    },
+    {
+      "chunk_number": 5,
+      "start": 71.0,
+      "end": 85.0,
+      "text": "we will have to make it for 20 seconds we will have to make it for 30 seconds we will make it for 100 days in the 100 days of code series so you can see that we have made a calculator"
+    },
+    {
+      "chunk_number": 6,
+      "start": 85.0,
+      "end": 98.0,
+      "text": "yes I know that you have told me some things like the data type, we have done all these things but this exercise was more simple and I have read the comments and I had told in the video that"
+    },
+    {
+      "chunk_number": 7,
+      "start": 98.0,
+      "end": 109.0,
+      "text": "you will get comments that why are you making so much of things and you are starting programming you will see me from 5 to 6 days and after that I will take the level of the concept"
+    },
+    {
+      "chunk_number": 8,
+      "start": 109.0,
+      "end": 118.0,
+      "text": "and I will ensure that everyone is in the same way whatever I am reading here and here we have to do the addition, subtraction, multiplication and division I didn't say the model I didn't say the flow division"
+    },
+    {
+      "chunk_number": 9,
+      "start": 118.0,
+      "end": 127.0,
+      "text": "I said I want to add it but here I am simply doing what I am doing I am saying this is equal to 56 and this is equal to 7 okay, this is the 3"
+    },
+    {
+      "chunk_number": 10,
+      "start": 127.0,
+      "end": 135.0,
+      "text": "and see what I am doing here I am doing easy and I am doing the verification I am doing the calculation the value of"
+    },
+    {
+      "chunk_number": 11,
+      "start": 135.0,
+      "end": 146.0,
+      "text": "and I am going to write it here so I will write it and after that I will write a and then I will write and after that I will write"
+    },
+    {
+      "chunk_number": 12,
+      "start": 146.0,
+      "end": 156.0,
+      "text": "the value B 3 is and then I will write it and I am adding it I am doing the same thing"
+    },
+    {
+      "chunk_number": 13,
+      "start": 156.0,
+      "end": 163.0,
+      "text": "I am writing it here and I am writing it so we will do this the value of the string and after that"
+    },
+    {
+      "chunk_number": 14,
+      "start": 163.0,
+      "end": 181.0,
+      "text": "the number of the string then how will I put it? then I will put it in the string print space and print it in the form of a plus b and now you will see how I will run it, you will get its output so I can do this work here, which I have just done here"
+    },
+    {
+      "chunk_number": 15,
+      "start": 181.0,
+      "end": 200.0,
+      "text": "a plus b, I can do the same work here and with operations now see I don't need to put this here, I don't need to use any space, I don't need to use any space for automatically how will I put it in print? so the print that I am going to print and the print that I am going to print is going to be in the form of a space now I need to replicate this, all plus shift plus down arrow is short cut of VS code"
+    },
+    {
+      "chunk_number": 16,
+      "start": 200.0,
+      "end": 230.0,
+      "text": "now I need to replicate this, 9, 9, 9, all plus shift plus down arrow I am not doing any more, I am not doing any more, and whatever I am doing, you can do it too it is simple, it is just in the series, whatever I am doing, you can do it all and if anyone is doing it, you can do it, anyone can say that you can't do it so you can do it, you can do it, so if I am doing the value of a divided by 3 is a by b"
+    },
+    {
+      "chunk_number": 17,
+      "start": 230.0,
+      "end": 257.0,
+      "text": "now see what I have done here, I am doing all plus 3, I am doing all plus shift here, I am clicking all plus, I am clicking all plus, I am doing all plus, I am doing something like this I am going to click all plus, I will get multiple cuts and I can edit them all look at how amazing these are, these are also the short cut of VS code, and you should know so here you can see, all the short cuts are available in the Replicate"
+    },
+    {
+      "chunk_number": 18,
+      "start": 257.0,
+      "end": 278.0,
+      "text": "I am using Replicate, so that you can easily get one thing, you can see here the value of 50 plus 3, 50 minus 3, 50 multiplied by 3, and 50 divided by 3 has also come here and that's about it, this is the solution to our first exercise number 1 now I will get the exercise number 1 in the Replicate there is a reload, guys, look at those, which one is giving the solution?"
+    },
+    {
+      "chunk_number": 19,
+      "start": 278.0,
+      "end": 296.0,
+      "text": "now I have given the solution to 4 seconds, it is so easy Ashitosh has given the 4 seconds of the Zalte, I hope I pronounced your name right sometimes I have to say name wrong, you automatically forgive me, I am getting through all the codes or the comment, my name is wrong, I have to say name wrong, oh love you, love you too bro, love you too"
+    },
+    {
+      "chunk_number": 20,
+      "start": 296.0,
+      "end": 318.0,
+      "text": "now what I am going to do here is to comment on load more, I don't know if I will get to the bottom or not if I don't get to the bottom, then I am going to comment on load more, what is going on, brother, what I have opened, I have opened some profile so I will do my work, I will take my time and take my time oops, I will install it on the bottom, give me some time"
+    },
+    {
+      "chunk_number": 21,
+      "start": 318.0,
+      "end": 342.0,
+      "text": "so I have scrolled for a while, I am looking here I am not going to see some Rapples engine, I am going to open this Rapples, I am not going to open the link I have also uploaded this on my day 6, the link is not going to be there, I think the link will go, you click it click on the link, you will definitely go, here the calculator, give them all the shout out, give them all the shout out, with the whole high tempo"
+    },
+    {
+      "chunk_number": 22,
+      "start": 342.0,
+      "end": 365.0,
+      "text": "by the way, in case you want to move on to the next topic, you can leave this video because you will also go to the shout out, so the shout out is in the corner, Kunal Panchal, try this as you click on the run, you will see I am showing you files, but your Rapples are not running so ensure that your Rapples are running from the run button,"
+    },
+    {
+      "chunk_number": 23,
+      "start": 365.0,
+      "end": 384.0,
+      "text": "and well you did it really quick, yes you did it really quick, Kunal Panchal, but let me see your code, let me see your code so you will see you have left your 6, then 9, now look, don't use all this, you have used the Eiffel, disqualified man, disqualified just kidding, but actually disqualified,"
+    },
+    {
+      "chunk_number": 24,
+      "start": 384.0,
+      "end": 402.0,
+      "text": "I am kidding, but actually disqualified, I don't know, it is not a difference, but it is disqualified man, if you are using something, I have not read it, can I say this in the first video, yes you can do it in the argument, you have not said anything like this, then it is okay, not disqualified for now,"
+    },
+    {
+      "chunk_number": 25,
+      "start": 402.0,
+      "end": 417.0,
+      "text": "but in the future, if I have not even said it, I have read it so much, we have done it so much, you have to use it as much as you can, you can use the app, use the match case, then use artificial intelligence, use anything,"
+    },
+    {
+      "chunk_number": 26,
+      "start": 417.0,
+      "end": 431.0,
+      "text": "you know everything, but if you are running your Rapples, what happened, I had to choose the number from above, so I choose 4, 3, actually invalid input, I have written a lot of errors,"
+    },
+    {
+      "chunk_number": 27,
+      "start": 431.0,
+      "end": 445.0,
+      "text": "I will write in the 4, then 5, then 1, it is a lot, it is a lot, now after that, we will get the next chapter, Surian Shkumar, Surian Shkumar has not made Rapples, and 3 comments are also made, Surian Shkumar,"
+    },
+    {
+      "chunk_number": 28,
+      "start": 445.0,
+      "end": 456.0,
+      "text": "big thumbs up to you man, try out time, but what is disqualified, I did not give the operation, I see how the Rapples behave on the operation,"
+    },
+    {
+      "chunk_number": 29,
+      "start": 456.0,
+      "end": 467.0,
+      "text": "let's not do error handling, there is no tension, there is no tension, there is no tension, I will do every mistake,"
+    },
+    {
+      "chunk_number": 30,
+      "start": 467.0,
+      "end": 482.0,
+      "text": "I will do the operation, so the user interface is not good, you will do the blame, so you have to remember this, plus 3, 6 points,"
+    },
+    {
+      "chunk_number": 31,
+      "start": 482.0,
+      "end": 493.0,
+      "text": "big shout out to Surian Shkumar, now we will give shout out to Kirten, Tushar, Gameplex, Omej Goyal, big shout out to Arun Panwar,"
+    },
+    {
+      "chunk_number": 32,
+      "start": 493.0,
+      "end": 503.0,
+      "text": "after trying this out, Nirmith, Mishra, 21b, IT3, OO, OOM,"
+    },
+    {
+      "chunk_number": 33,
+      "start": 503.0,
+      "end": 513.0,
+      "text": "you have your name, you have not told me, you have not told me, you have not told me, you have not told me,"
+    },
+    {
+      "chunk_number": 34,
+      "start": 513.0,
+      "end": 523.0,
+      "text": "P.O. very big P.O. second number, I have 1 p.o. amazing,"
+    },
+    {
+      "chunk_number": 35,
+      "start": 523.0,
+      "end": 533.0,
+      "text": "big shout out to P.o. for attempting this, d7 calculator, I am running, I am running,"
+    },
+    {
+      "chunk_number": 36,
+      "start": 533.0,
+      "end": 543.0,
+      "text": "I will see the code, you have written the code, but you have not used the input, because when I read the input, you could have done the code,"
+    },
+    {
+      "chunk_number": 37,
+      "start": 543.0,
+      "end": 555.0,
+      "text": "but no problem, it is a big shout out to Candy instead, P.o. in the previous videos,"
+    },
+    {
+      "chunk_number": 38,
+      "start": 555.0,
+      "end": 565.0,
+      "text": "we will see more, and there is no such a big shout out, you told me, you have a lot of big shout out to me, so wait for my friend,"
+    },
+    {
+      "chunk_number": 39,
+      "start": 565.0,
+      "end": 575.0,
+      "text": "everyone, the person who is full is a strawberry flavor, you know, in the previous videos,"
+    },
+    {
+      "chunk_number": 40,
+      "start": 575.0,
+      "end": 585.0,
+      "text": "we will increase the level, if you can see it on day 70, then you will see the level of the day, I hope you will enjoy this, I will get this code,"
+    },
+    {
+      "chunk_number": 41,
+      "start": 585.0,
+      "end": 595.0,
+      "text": "on day 9, day 7, date apple, all the apples will be available in the description. daily,"
+    },
+    {
+      "chunk_number": 42,
+      "start": 595.0,
+      "end": 603.0,
+      "text": "100 days of code, we will be saving money for this video. Thank you so much for watching this video, and I will see you next time."
+    }
+  ],
+  "text": "I am looking at the day of the day of the 100 days of code and I am looking very good today and in today's video I will show you the shoutout of the day which has also been solved by one of our exercises I will tell you in the description of this video let's go to the computer screen and let's get started So I have already seen the computer screen I am going to open the RAPL which I have made I have already seen the 0 to 0 day 8 we will see the solution but with the solution we will see what is the reason for this day 7 and in day 7 I will open the RAPL and you will be able to give the shoutout and the first one which has posted the comment and the second one which has been solved by one of our exercises so I will put the cover on the page and you can see that all these things are posting on the page like this we should have tempo we will have to make 100 days of code we will have to make it for 20 seconds we will have to make it for 30 seconds we will make it for 100 days in the 100 days of code series so you can see that we have made a calculator yes I know that you have told me some things like the data type, we have done all these things but this exercise was more simple and I have read the comments and I had told in the video that you will get comments that why are you making so much of things and you are starting programming you will see me from 5 to 6 days and after that I will take the level of the concept and I will ensure that everyone is in the same way whatever I am reading here and here we have to do the addition, subtraction, multiplication and division I didn't say the model I didn't say the flow division I said I want to add it but here I am simply doing what I am doing I am saying this is equal to 56 and this is equal to 7 okay, this is the 3 and see what I am doing here I am doing easy and I am doing the verification I am doing the calculation the value of and I am going to write it here so I will write it and after that I will write a and then I will write and after that I will write the value B 3 is and then I will write it and I am adding it I am doing the same thing I am writing it here and I am writing it so we will do this the value of the string and after that the number of the string then how will I put it? then I will put it in the string print space and print it in the form of a plus b and now you will see how I will run it, you will get its output so I can do this work here, which I have just done here a plus b, I can do the same work here and with operations now see I don't need to put this here, I don't need to use any space, I don't need to use any space for automatically how will I put it in print? so the print that I am going to print and the print that I am going to print is going to be in the form of a space now I need to replicate this, all plus shift plus down arrow is short cut of VS code now I need to replicate this, 9, 9, 9, all plus shift plus down arrow I am not doing any more, I am not doing any more, and whatever I am doing, you can do it too it is simple, it is just in the series, whatever I am doing, you can do it all and if anyone is doing it, you can do it, anyone can say that you can't do it so you can do it, you can do it, so if I am doing the value of a divided by 3 is a by b now see what I have done here, I am doing all plus 3, I am doing all plus shift here, I am clicking all plus, I am clicking all plus, I am doing all plus, I am doing something like this I am going to click all plus, I will get multiple cuts and I can edit them all look at how amazing these are, these are also the short cut of VS code, and you should know so here you can see, all the short cuts are available in the Replicate I am using Replicate, so that you can easily get one thing, you can see here the value of 50 plus 3, 50 minus 3, 50 multiplied by 3, and 50 divided by 3 has also come here and that's about it, this is the solution to our first exercise number 1 now I will get the exercise number 1 in the Replicate there is a reload, guys, look at those, which one is giving the solution? now I have given the solution to 4 seconds, it is so easy Ashitosh has given the 4 seconds of the Zalte, I hope I pronounced your name right sometimes I have to say name wrong, you automatically forgive me, I am getting through all the codes or the comment, my name is wrong, I have to say name wrong, oh love you, love you too bro, love you too now what I am going to do here is to comment on load more, I don't know if I will get to the bottom or not if I don't get to the bottom, then I am going to comment on load more, what is going on, brother, what I have opened, I have opened some profile so I will do my work, I will take my time and take my time oops, I will install it on the bottom, give me some time so I have scrolled for a while, I am looking here I am not going to see some Rapples engine, I am going to open this Rapples, I am not going to open the link I have also uploaded this on my day 6, the link is not going to be there, I think the link will go, you click it click on the link, you will definitely go, here the calculator, give them all the shout out, give them all the shout out, with the whole high tempo by the way, in case you want to move on to the next topic, you can leave this video because you will also go to the shout out, so the shout out is in the corner, Kunal Panchal, try this as you click on the run, you will see I am showing you files, but your Rapples are not running so ensure that your Rapples are running from the run button, and well you did it really quick, yes you did it really quick, Kunal Panchal, but let me see your code, let me see your code so you will see you have left your 6, then 9, now look, don't use all this, you have used the Eiffel, disqualified man, disqualified just kidding, but actually disqualified, I am kidding, but actually disqualified, I don't know, it is not a difference, but it is disqualified man, if you are using something, I have not read it, can I say this in the first video, yes you can do it in the argument, you have not said anything like this, then it is okay, not disqualified for now, but in the future, if I have not even said it, I have read it so much, we have done it so much, you have to use it as much as you can, you can use the app, use the match case, then use artificial intelligence, use anything, you know everything, but if you are running your Rapples, what happened, I had to choose the number from above, so I choose 4, 3, actually invalid input, I have written a lot of errors, I will write in the 4, then 5, then 1, it is a lot, it is a lot, now after that, we will get the next chapter, Surian Shkumar, Surian Shkumar has not made Rapples, and 3 comments are also made, Surian Shkumar, big thumbs up to you man, try out time, but what is disqualified, I did not give the operation, I see how the Rapples behave on the operation, let's not do error handling, there is no tension, there is no tension, there is no tension, I will do every mistake, I will do the operation, so the user interface is not good, you will do the blame, so you have to remember this, plus 3, 6 points, big shout out to Surian Shkumar, now we will give shout out to Kirten, Tushar, Gameplex, Omej Goyal, big shout out to Arun Panwar, after trying this out, Nirmith, Mishra, 21b, IT3, OO, OOM, you have your name, you have not told me, you have not told me, you have not told me, you have not told me, P.O. very big P.O. second number, I have 1 p.o. amazing, big shout out to P.o. for attempting this, d7 calculator, I am running, I am running, I will see the code, you have written the code, but you have not used the input, because when I read the input, you could have done the code, but no problem, it is a big shout out to Candy instead, P.o. in the previous videos, we will see more, and there is no such a big shout out, you told me, you have a lot of big shout out to me, so wait for my friend, everyone, the person who is full is a strawberry flavor, you know, in the previous videos, we will increase the level, if you can see it on day 70, then you will see the level of the day, I hope you will enjoy this, I will get this code, on day 9, day 7, date apple, all the apples will be available in the description. daily, 100 days of code, we will be saving money for this video. Thank you so much for watching this video, and I will see you next time."
+}

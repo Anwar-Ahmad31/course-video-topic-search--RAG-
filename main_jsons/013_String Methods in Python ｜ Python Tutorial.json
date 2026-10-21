@@ -1,0 +1,721 @@
+{
+  "video_number": 13,
+  "title": "String Methods in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 18.2,
+      "text": "This is a 100 days of code like Netflix, people are enjoying TV series like this Today's video is about the strength of the stream See, we read about the strength We saw that it was a very important data type We also saw that we will talk about the strength and the outcome"
+    },
+    {
+      "chunk_number": 2,
+      "start": 18.2,
+      "end": 31.0,
+      "text": "Today I will tell you how to do the operations with a string You want to convert a string in the upper case You want to convert it in the lower case The string is written in the upper case You want to convert a string length"
+    },
+    {
+      "chunk_number": 3,
+      "start": 31.0,
+      "end": 52.0,
+      "text": "How to convert it? I will tell you all the things in this video Let's start the video on the string You can see that I have already uploaded the video If you haven't access the playlist yet, then you can click on the next one"
+    },
+    {
+      "chunk_number": 4,
+      "start": 52.0,
+      "end": 65.0,
+      "text": "And then click on Save Today I will show you some strength methods I have written here A is equal to Hattie I have already shown you a 5 length string We saw that we can print a line of 1"
+    },
+    {
+      "chunk_number": 5,
+      "start": 65.0,
+      "end": 84.0,
+      "text": "And we will give 5 to the python We didn't have any big things in it, we had it in 5 But what I will do is, if I want to convert this string in the upper case First of all, I want to explain the concept of immutability I want to explain this in the string"
+    },
+    {
+      "chunk_number": 6,
+      "start": 84.0,
+      "end": 94.0,
+      "text": "The string is immutable You can't change it But you can change it You can't change it You can't change it in place"
+    },
+    {
+      "chunk_number": 7,
+      "start": 94.0,
+      "end": 103.0,
+      "text": "Let me explain As you know, I have A is equal to Hattie So I can't change the same variable As it is, I can't change it The one that has become the one"
+    },
+    {
+      "chunk_number": 8,
+      "start": 103.0,
+      "end": 115.0,
+      "text": "I can make a new copy of this So when I apply any method of string I write in the upper case So I get a new string A new string is available"
+    },
+    {
+      "chunk_number": 9,
+      "start": 115.0,
+      "end": 128.0,
+      "text": "All the letters The characters will be found in the case As you can see, it has been added in the Harry capital The previous string has changed I am telling you in the interview"
+    },
+    {
+      "chunk_number": 10,
+      "start": 128.0,
+      "end": 140.0,
+      "text": "That the strings are immutable I will write here to remind you That the strings are immutable The strings are immutable And I will make this in the comments"
+    },
+    {
+      "chunk_number": 11,
+      "start": 140.0,
+      "end": 150.0,
+      "text": "So I will make a comment Control forward slash So that you don't execute it Because if you execute it Then it will be error"
+    },
+    {
+      "chunk_number": 12,
+      "start": 150.0,
+      "end": 160.0,
+      "text": "Okay, let's do it As I told you about the upper method It also exists in a lower method Which gives our string Convert it in the lower case"
+    },
+    {
+      "chunk_number": 13,
+      "start": 160.0,
+      "end": 171.0,
+      "text": "And obviously The lower method converts the string to lower case I have also given an example To try out these For example, to convert the string to lower case"
+    },
+    {
+      "chunk_number": 14,
+      "start": 171.0,
+      "end": 182.0,
+      "text": "Do you know the answer to this question? Why not? Because it will make a new string It will not change the existing string Strings are immutable"
+    },
+    {
+      "chunk_number": 15,
+      "start": 182.0,
+      "end": 192.0,
+      "text": "You can't change them Okay But you can make new strings What do you do in the string methods? You operate on the existing string"
+    },
+    {
+      "chunk_number": 16,
+      "start": 192.0,
+      "end": 202.0,
+      "text": "And you return a new string So you can see this What will we do in the lower case? We will convert the whole string to lower case Capitalize it was small"
+    },
+    {
+      "chunk_number": 17,
+      "start": 202.0,
+      "end": 212.0,
+      "text": "Now a R-strip method Which removes the trailing characters I have written something like this Okay, Harry So if I press A dot upper"
+    },
+    {
+      "chunk_number": 18,
+      "start": 212.0,
+      "end": 221.0,
+      "text": "Or press A for that matter If I press A Then I will get a string directly But I want To get this string"
+    },
+    {
+      "chunk_number": 19,
+      "start": 221.0,
+      "end": 230.0,
+      "text": "So I will do A dot R-strip Okay, what do we do? Strip Who is stripping? The trailing characters"
+    },
+    {
+      "chunk_number": 20,
+      "start": 230.0,
+      "end": 240.0,
+      "text": "So I can strip the exclamation mark You can see this strip from the left This is the strip Does this strip the leading? Does this strip the leading exclamation mark?"
+    },
+    {
+      "chunk_number": 21,
+      "start": 240.0,
+      "end": 249.0,
+      "text": "The answer is no Exclamation is placed in the starting As you can see This strip is the trailing So we have learnt this"
+    },
+    {
+      "chunk_number": 22,
+      "start": 249.0,
+      "end": 259.0,
+      "text": "Okay, I will give this to Harry So that you can understand the answer Let's talk about the replace What does this do? Replace all occurrence of a string with another string"
+    },
+    {
+      "chunk_number": 23,
+      "start": 259.0,
+      "end": 269.0,
+      "text": "I know I want to write a John in Harry's place Okay, so I will write A dot replace Replace Harry with what? I will write in double-court"
+    },
+    {
+      "chunk_number": 24,
+      "start": 269.0,
+      "end": 280.0,
+      "text": "Replace all the occurrences of Harry with John So if I press it, this string will be printed And John will be written here Which you can see Okay"
+    },
+    {
+      "chunk_number": 25,
+      "start": 280.0,
+      "end": 289.0,
+      "text": "What if there are two or three Harrys So the occurrences of the same change So all the occurrences of Harry will be changed You can see this A dot replace Harry"
+    },
+    {
+      "chunk_number": 26,
+      "start": 289.0,
+      "end": 294.0,
+      "text": "John is John This was Harry John is John Okay So what is this?"
+    },
+    {
+      "chunk_number": 27,
+      "start": 294.0,
+      "end": 306.0,
+      "text": "Now what is split? Split is a very big method Because what is it? This string is converted to a list We have not read the number of the list"
+    },
+    {
+      "chunk_number": 28,
+      "start": 306.0,
+      "end": 318.0,
+      "text": "So I will not talk about this method But you will see If I split I will do split with a space And I should have space in my string"
+    },
+    {
+      "chunk_number": 29,
+      "start": 318.0,
+      "end": 328.0,
+      "text": "So this is the first element of this list This is the second element of this list If there is another space This is the second element of this list And this is the list"
+    },
+    {
+      "chunk_number": 30,
+      "start": 328.0,
+      "end": 338.0,
+      "text": "You will see how one works If I will run this Then there will be a list Harry will come Then this is the list"
+    },
+    {
+      "chunk_number": 31,
+      "start": 338.0,
+      "end": 348.0,
+      "text": "I will tell you the list I will give you a list This is a capitalized method I am talking about the JavaScript language It is not in JavaScript"
+    },
+    {
+      "chunk_number": 32,
+      "start": 348.0,
+      "end": 358.0,
+      "text": "It is a capitalized method It is a very useful method When I started using blogs When I was writing down the code of Harry I used to use this method"
+    },
+    {
+      "chunk_number": 33,
+      "start": 358.0,
+      "end": 368.0,
+      "text": "When I used to use this method I used to use this method When I used to use this method When I used to use this method I used this method"
+    },
+    {
+      "chunk_number": 34,
+      "start": 368.0,
+      "end": 380.0,
+      "text": "I used this method I have made a list I have made a list I want to capitalize I do not understand the situation"
+    },
+    {
+      "chunk_number": 35,
+      "start": 380.0,
+      "end": 390.0,
+      "text": "Let's write this list I want to capitalize Let's write this list If we write it down Let's write it down"
+    },
+    {
+      "chunk_number": 36,
+      "start": 390.0,
+      "end": 414.0,
+      "text": "Let's write it down Let's write the list Now, I will write here the first character in the case of blog heading dot And as I will do this, this character will be in the first character and my blog looks good You can see the introduction to JS which is coming in the capital which is very big"
+    },
+    {
+      "chunk_number": 37,
+      "start": 414.0,
+      "end": 444.0,
+      "text": "So you can see here that if I write something like this, I will write it in the same way And this is a mistake when you are writing blogs, when you are publishing daily blogs, then you are getting a human error And you have written something like this, J-capitalist Now you will do something like this, then you will see what will be capitalized and automatically fix it All the business is in lower case, so if you come here and see the description of the capitalized method"
+    },
+    {
+      "chunk_number": 38,
+      "start": 444.0,
+      "end": 469.0,
+      "text": "You will see the first character of the string to the upper case But the rest of the characters will be in lower case, the string has no effect if the first character is already in upper case So if you come from the first case, then what will be done? And if you come from the lower case, then what will be done? If you have everything, then there is no effect, capitalized"
+    },
+    {
+      "chunk_number": 39,
+      "start": 469.0,
+      "end": 482.0,
+      "text": "But this is how it works Now you will see a center method, what is the center method? It is aligned and the string is to the center as per the parameter given So I will take this example which I have taken here And I will show you what I will do here"
+    },
+    {
+      "chunk_number": 40,
+      "start": 482.0,
+      "end": 494.0,
+      "text": "So you will see, welcome to the console What will be in the starting? That 50, you can see here, there are some spaces Okay, now I will show you one thing I will print this line and show you the line of this"
+    },
+    {
+      "chunk_number": 41,
+      "start": 494.0,
+      "end": 507.0,
+      "text": "And I will print the line of STR1 So if I print the line of STR1 And I will do this So you will see that the line of STR1 is from the left And the left is from the left"
+    },
+    {
+      "chunk_number": 42,
+      "start": 507.0,
+      "end": 519.0,
+      "text": "So what is the center? The length of the 25th string is If you add 25 spaces in the starting, so that the center is to move So this is how our center method works Okay, here I have also written the description"
+    },
+    {
+      "chunk_number": 43,
+      "start": 519.0,
+      "end": 529.0,
+      "text": "Now we will talk about the count What will the count do? I will tell you that there is no one in one string How many times is it being done? I will tell you that the Harry is here twice"
+    },
+    {
+      "chunk_number": 44,
+      "start": 529.0,
+      "end": 543.0,
+      "text": "So if I want to see how many times Harry is doing in my A string So I can print this way I will say that A.count Harry Tell me that in this string Harry is here twice"
+    },
+    {
+      "chunk_number": 45,
+      "start": 543.0,
+      "end": 553.0,
+      "text": "So you can see that he has given me the 2nd string So this is how the count works And then the end switch function is very useful We can find out how many strings So what is the string given by the characters"
+    },
+    {
+      "chunk_number": 46,
+      "start": 553.0,
+      "end": 565.0,
+      "text": "I will say that this is the end of the string Okay, I will show you I will show you the example I will show you the example that I have given you I will show you the pattern"
+    },
+    {
+      "chunk_number": 47,
+      "start": 565.0,
+      "end": 575.0,
+      "text": "The first thing to do is to do the roughly duper I have written it to the door You can practice it Ideally you have to do it Tell me why you are asking me to interrupt"
+    },
+    {
+      "chunk_number": 48,
+      "start": 575.0,
+      "end": 585.0,
+      "text": "First of all, I have to focus on my apple My apple is the most important And after that you can do it like this You will see the interface If you do the apple directly access"
+    },
+    {
+      "chunk_number": 49,
+      "start": 585.0,
+      "end": 595.0,
+      "text": "You will not see the interface You will have to do 4 I will show you Because this is important I have to do this"
+    },
+    {
+      "chunk_number": 50,
+      "start": 595.0,
+      "end": 607.0,
+      "text": "I will interrupt the lecture for a minute And I want to show you So if you come to the apple.com slash You come to the code And you can write the add the rate code"
+    },
+    {
+      "chunk_number": 51,
+      "start": 607.0,
+      "end": 617.0,
+      "text": "Add the data to the code Add the data to the code So, the apple is the media You can do this with your phone You can click on the phone"
+    },
+    {
+      "chunk_number": 52,
+      "start": 617.0,
+      "end": 627.0,
+      "text": "You can click on the phone You will see the interface I am not using the login newsly But you will see it here So, what is the reason?"
+    },
+    {
+      "chunk_number": 53,
+      "start": 627.0,
+      "end": 637.0,
+      "text": "The apple I have made is your own You can do it in any way So, you can tell you It is very important What will happen to the 1.10th?"
+    },
+    {
+      "chunk_number": 54,
+      "start": 637.0,
+      "end": 647.0,
+      "text": "What will happen to the 2.10th? The string is from the end So, the 3.10th is the true I will return the Boolean data type I can use Boolean data type in the EFLs"
+    },
+    {
+      "chunk_number": 55,
+      "start": 647.0,
+      "end": 657.0,
+      "text": "Because I will tell you in the lecture So, we can use this method With our ends Now, you can see We can even check for a value in between the string"
+    },
+    {
+      "chunk_number": 56,
+      "start": 657.0,
+      "end": 667.0,
+      "text": "By providing start and end expositions So, you can see You can also tell you That you are ending up in the end What do you mean?"
+    },
+    {
+      "chunk_number": 57,
+      "start": 667.0,
+      "end": 677.0,
+      "text": "I will explain it to you If I do the string slicing And I go from 4 to 10 What will I get? I will get 0123"
+    },
+    {
+      "chunk_number": 58,
+      "start": 677.0,
+      "end": 687.0,
+      "text": "And I will get this I will highlight the string OME space TO So, what is this string Is it ending in TO?"
+    },
+    {
+      "chunk_number": 59,
+      "start": 687.0,
+      "end": 697.0,
+      "text": "Yes, it is You can see it I will do it in some way And by the way, I will tell you That I can overwrite a variable"
+    },
+    {
+      "chunk_number": 60,
+      "start": 697.0,
+      "end": 707.0,
+      "text": "So, you can see the true So, this is how it works Now, let's talk about the fine method The fine method is a very simple method Which searches"
+    },
+    {
+      "chunk_number": 61,
+      "start": 707.0,
+      "end": 717.0,
+      "text": "The first occurrences of a given value And returns Index where it is present So, I want to tell you That if the string"
+    },
+    {
+      "chunk_number": 62,
+      "start": 717.0,
+      "end": 729.0,
+      "text": "Is not searching Then it returns If you don't know So, let me give you an example You can see that I have written a name of a Dan name"
+    },
+    {
+      "chunk_number": 63,
+      "start": 729.0,
+      "end": 739.0,
+      "text": "He is Dan He is an honest man You can see what he wrote I will tell you He will not detect this"
+    },
+    {
+      "chunk_number": 64,
+      "start": 739.0,
+      "end": 751.0,
+      "text": "In fact, he will detect this first occurrences So, I will show you If we do the fine method So, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 I need to get 10"
+    },
+    {
+      "chunk_number": 65,
+      "start": 751.0,
+      "end": 761.0,
+      "text": "So, what will he do? The first occurrences of his Index will return to me So, if I do the fine Then I will give his first occurrences"
+    },
+    {
+      "chunk_number": 66,
+      "start": 761.0,
+      "end": 771.0,
+      "text": "Or he will not Because he is not a python He is not a python He is not a python He is not a snake"
+    },
+    {
+      "chunk_number": 67,
+      "start": 771.0,
+      "end": 781.0,
+      "text": "He is an interpreter He can compute He can't see that he is He is a snake So, I will get the IS"
+    },
+    {
+      "chunk_number": 68,
+      "start": 781.0,
+      "end": 791.0,
+      "text": "He will give me his index Now, I will talk about the next method What is the index method? The index method is basically the same In fact, it is very similar"
+    },
+    {
+      "chunk_number": 69,
+      "start": 791.0,
+      "end": 801.0,
+      "text": "The fine method What is fine? It returns to minus 1 If I do the ISH It will return to minus 1 Because the ISH has no strings"
+    },
+    {
+      "chunk_number": 70,
+      "start": 801.0,
+      "end": 811.0,
+      "text": "But if I do the same thing And I will write the index here Then I will get an exception I will get an error So, if we want to get this"
+    },
+    {
+      "chunk_number": 71,
+      "start": 811.0,
+      "end": 821.0,
+      "text": "In this string Then we can use this method If we want If we want to get an error Then we will use index"
+    },
+    {
+      "chunk_number": 72,
+      "start": 821.0,
+      "end": 831.0,
+      "text": "So, what is the index method? It is an exception And the same value This is the string note found This is the error"
+    },
+    {
+      "chunk_number": 73,
+      "start": 831.0,
+      "end": 841.0,
+      "text": "After this, the next method Is the LNM Is the string of the LNM not numeric? We use LNM For finding out this LNM"
+    },
+    {
+      "chunk_number": 74,
+      "start": 841.0,
+      "end": 851.0,
+      "text": "It returns to only the entire string Consist of this LNM If any other characters Or punctuation is present Then it returns false"
+    },
+    {
+      "chunk_number": 75,
+      "start": 851.0,
+      "end": 861.0,
+      "text": "If you can run it here Welcome to the console I will give this error I will give this error Because the ISH has no strings"
+    },
+    {
+      "chunk_number": 76,
+      "start": 861.0,
+      "end": 871.0,
+      "text": "And the error is given So, here the LNM string is true LNM means Capitalize a capitalize Small as a small z"
+    },
+    {
+      "chunk_number": 77,
+      "start": 871.0,
+      "end": 881.0,
+      "text": "And the string is connected to the characters Then there is an alpha There are numbers In this alpha Capitalize to capitalize"
+    },
+    {
+      "chunk_number": 78,
+      "start": 881.0,
+      "end": 891.0,
+      "text": "Small as a small z So, it will return And I will show you the false written If I will show you the false written Then I will show you the false written"
+    },
+    {
+      "chunk_number": 79,
+      "start": 891.0,
+      "end": 901.0,
+      "text": "We have seen the false written I hope that I was not doing a lot of things If I will return false written If I will return it Then the false will return"
+    },
+    {
+      "chunk_number": 80,
+      "start": 901.0,
+      "end": 911.0,
+      "text": "And you can do it yourself When you don't do it You will not have a good clarity So, it is lower Is all the characters"
+    },
+    {
+      "chunk_number": 81,
+      "start": 911.0,
+      "end": 921.0,
+      "text": "In this case, it is not lower So, it will return Otherwise, it will return false So, you have this Rappl You have to see this interface"
+    },
+    {
+      "chunk_number": 82,
+      "start": 921.0,
+      "end": 931.0,
+      "text": "You can move it wherever you want And you can move it So, this is the smooth navigation I have chosen a template for this course So, this is the fun"
+    },
+    {
+      "chunk_number": 83,
+      "start": 931.0,
+      "end": 941.0,
+      "text": "Here is the tutorial Here is the floating video I don't think it will be a good experience As of now The next method is"
+    },
+    {
+      "chunk_number": 84,
+      "start": 941.0,
+      "end": 951.0,
+      "text": "Try it If you have made it from the lower case Then you will see the true If I have put a cable in the case Then what will happen here?"
+    },
+    {
+      "chunk_number": 85,
+      "start": 951.0,
+      "end": 961.0,
+      "text": "False So, I will show you the true So, you can see What is the printable? If all the values within the given strings"
+    },
+    {
+      "chunk_number": 86,
+      "start": 961.0,
+      "end": 971.0,
+      "text": "Are printable Otherwise, it returns false If you have a printable Then you will see What are the printable characters"
+    },
+    {
+      "chunk_number": 87,
+      "start": 971.0,
+      "end": 981.0,
+      "text": "Which are the true characters? If I put a character in the case Then it will return false Because this is not printable If you don't see the backslash"
+    },
+    {
+      "chunk_number": 88,
+      "start": 981.0,
+      "end": 991.0,
+      "text": "Then I will print StR1 So, you will not get the backslash You will get a new line character You will get a print circle"
+    },
+    {
+      "chunk_number": 89,
+      "start": 991.0,
+      "end": 1001.0,
+      "text": "This is not printable So, I hope you understood this Now, I will explain About this space This is true written"
+    },
+    {
+      "chunk_number": 90,
+      "start": 1001.0,
+      "end": 1011.0,
+      "text": "Only if the string contains white spaces Otherwise, it returns false If we have put white spaces From the side of the space bar Then you will get true written"
+    },
+    {
+      "chunk_number": 91,
+      "start": 1011.0,
+      "end": 1021.0,
+      "text": "So, I have put this space bar From here And this is true If I put it from the tabs Then it is white space"
+    },
+    {
+      "chunk_number": 92,
+      "start": 1021.0,
+      "end": 1031.0,
+      "text": "If I put the tab too Then it will return true True True I hope you understood this"
+    },
+    {
+      "chunk_number": 93,
+      "start": 1031.0,
+      "end": 1041.0,
+      "text": "Now, this is a method Which is written True only if the first letter of each word Of the string is capitalized So, what can we do?"
+    },
+    {
+      "chunk_number": 94,
+      "start": 1041.0,
+      "end": 1051.0,
+      "text": "If I used this method in my jango blog When I used all the titles Of my blogs I had to capitalize on them And if there is no capitalized"
+    },
+    {
+      "chunk_number": 95,
+      "start": 1051.0,
+      "end": 1061.0,
+      "text": "Then I would have seen in the dashboard That this one is not capitalized And if I used this one Then I can do this If I run it"
+    },
+    {
+      "chunk_number": 96,
+      "start": 1061.0,
+      "end": 1071.0,
+      "text": "Then my iPhone will say That my iPhone is better than my 20% battery By the way, you may not know How to record it? I use the camera of my iPhone"
+    },
+    {
+      "chunk_number": 97,
+      "start": 1071.0,
+      "end": 1081.0,
+      "text": "Because I was getting a lot of questions So, it is very big I will talk about the video in the end I will finish this title To kill a walking bird"
+    },
+    {
+      "chunk_number": 98,
+      "start": 1081.0,
+      "end": 1091.0,
+      "text": "Okay? I have not tried this title I can do this And you can see here That To kill a walking bird"
+    },
+    {
+      "chunk_number": 99,
+      "start": 1091.0,
+      "end": 1101.0,
+      "text": "Okay? Now, what is this? This is the lower one Exactly the same thing Then, the start with exactly the ends Like if the string is starting"
+    },
+    {
+      "chunk_number": 100,
+      "start": 1101.0,
+      "end": 1111.0,
+      "text": "It is given by the start So, you can see it True So, you will see that the start is getting from the Python Then, the next method is the swap case"
+    },
+    {
+      "chunk_number": 101,
+      "start": 1111.0,
+      "end": 1121.0,
+      "text": "Which is what? Overcase, overcase, overcase, overcase, in the lowercase Now, a very straightforward method You guys have to practice it So, offcase"
+    },
+    {
+      "chunk_number": 102,
+      "start": 1121.0,
+      "end": 1131.0,
+      "text": "So, swap it all Overcase has been made over And then, what is the title method That is, convert it In the title case"
+    },
+    {
+      "chunk_number": 103,
+      "start": 1131.0,
+      "end": 1141.0,
+      "text": "What is happening here? I will run it I will hit it His name is Dan And Dan is an honest man"
+    },
+    {
+      "chunk_number": 104,
+      "start": 1141.0,
+      "end": 1151.0,
+      "text": "What will happen? You can see that, all the characters All the characters All the characters Block is used in a lot of ways"
+    },
+    {
+      "chunk_number": 105,
+      "start": 1151.0,
+      "end": 1161.0,
+      "text": "I hope you guys understood this If you want to hear how I am recording What setup is this? I want to know"
+    },
+    {
+      "chunk_number": 106,
+      "start": 1161.0,
+      "end": 1173.0,
+      "text": "For other people, in the next video I will talk about the setup I will listen to it And watch the rest of the videos I will do the MacBook"
+    },
+    {
+      "chunk_number": 107,
+      "start": 1173.0,
+      "end": 1183.0,
+      "text": "I have made a MacBook recently To make videos I had a lot of impresses I used MacBook using MacBook I was looking for MacBook"
+    },
+    {
+      "chunk_number": 108,
+      "start": 1183.0,
+      "end": 1193.0,
+      "text": "I had lost my memory I used to go to my office I used to go to my office I used to stay on MacBook I am not a bad person"
+    },
+    {
+      "chunk_number": 109,
+      "start": 1193.0,
+      "end": 1203.0,
+      "text": "I am good at it I recommend this I record all the discussions in this video I record it with OBS And I have a continuity camera"
+    },
+    {
+      "chunk_number": 110,
+      "start": 1203.0,
+      "end": 1213.0,
+      "text": "It is in your iPhone What does a continuity camera do? I will show you If you have a MacBook And you have an iPhone"
+    },
+    {
+      "chunk_number": 111,
+      "start": 1213.0,
+      "end": 1223.0,
+      "text": "What happens is When you bring your MacBook You will turn on the Wi-Fi Bluetooth It is like a webcam It is good"
+    },
+    {
+      "chunk_number": 112,
+      "start": 1223.0,
+      "end": 1233.0,
+      "text": "I have taken my iPhone I have tried I have a camera I can use it I have lenses"
+    },
+    {
+      "chunk_number": 113,
+      "start": 1233.0,
+      "end": 1243.0,
+      "text": "It can be lighter But I am satisfied with the iPhone I have mounted my iPhone And it is getting better I am getting more impressive"
+    },
+    {
+      "chunk_number": 114,
+      "start": 1243.0,
+      "end": 1253.0,
+      "text": "You will get more impressive You will get more impressive You will get more impressive I will stage the centre I will do the centre"
+    },
+    {
+      "chunk_number": 115,
+      "start": 1253.0,
+      "end": 1263.0,
+      "text": "If I am going to portrait I will do some things I will do some things I will show you the video I have already seen a video"
+    },
+    {
+      "chunk_number": 116,
+      "start": 1263.0,
+      "end": 1273.48,
+      "text": "I will do a light change I will do a light change If I am going to portrait But it is not that good I think it should not be done"
+    },
+    {
+      "chunk_number": 117,
+      "start": 1273.48,
+      "end": 1316.48,
+      "text": "I like it I am very impressed I am showing you how I am showing it from the angle I will turn it on I have put the mic setup"
+    },
+    {
+      "chunk_number": 118,
+      "start": 1316.48,
+      "end": 1325.48,
+      "text": "It was a good mic It was working from normal mic I have also upgraded it I hope you are enjoying Quality is good when it comes out"
+    },
+    {
+      "chunk_number": 119,
+      "start": 1325.48,
+      "end": 1337.48,
+      "text": "Finally it is fun I will end this video with this Thank you so much for watching this video And I will see you next time Thanks for watching"
+    }
+  ],
+  "text": "This is a 100 days of code like Netflix, people are enjoying TV series like this Today's video is about the strength of the stream See, we read about the strength We saw that it was a very important data type We also saw that we will talk about the strength and the outcome Today I will tell you how to do the operations with a string You want to convert a string in the upper case You want to convert it in the lower case The string is written in the upper case You want to convert a string length How to convert it? I will tell you all the things in this video Let's start the video on the string You can see that I have already uploaded the video If you haven't access the playlist yet, then you can click on the next one And then click on Save Today I will show you some strength methods I have written here A is equal to Hattie I have already shown you a 5 length string We saw that we can print a line of 1 And we will give 5 to the python We didn't have any big things in it, we had it in 5 But what I will do is, if I want to convert this string in the upper case First of all, I want to explain the concept of immutability I want to explain this in the string The string is immutable You can't change it But you can change it You can't change it You can't change it in place Let me explain As you know, I have A is equal to Hattie So I can't change the same variable As it is, I can't change it The one that has become the one I can make a new copy of this So when I apply any method of string I write in the upper case So I get a new string A new string is available All the letters The characters will be found in the case As you can see, it has been added in the Harry capital The previous string has changed I am telling you in the interview That the strings are immutable I will write here to remind you That the strings are immutable The strings are immutable And I will make this in the comments So I will make a comment Control forward slash So that you don't execute it Because if you execute it Then it will be error Okay, let's do it As I told you about the upper method It also exists in a lower method Which gives our string Convert it in the lower case And obviously The lower method converts the string to lower case I have also given an example To try out these For example, to convert the string to lower case Do you know the answer to this question? Why not? Because it will make a new string It will not change the existing string Strings are immutable You can't change them Okay But you can make new strings What do you do in the string methods? You operate on the existing string And you return a new string So you can see this What will we do in the lower case? We will convert the whole string to lower case Capitalize it was small Now a R-strip method Which removes the trailing characters I have written something like this Okay, Harry So if I press A dot upper Or press A for that matter If I press A Then I will get a string directly But I want To get this string So I will do A dot R-strip Okay, what do we do? Strip Who is stripping? The trailing characters So I can strip the exclamation mark You can see this strip from the left This is the strip Does this strip the leading? Does this strip the leading exclamation mark? The answer is no Exclamation is placed in the starting As you can see This strip is the trailing So we have learnt this Okay, I will give this to Harry So that you can understand the answer Let's talk about the replace What does this do? Replace all occurrence of a string with another string I know I want to write a John in Harry's place Okay, so I will write A dot replace Replace Harry with what? I will write in double-court Replace all the occurrences of Harry with John So if I press it, this string will be printed And John will be written here Which you can see Okay What if there are two or three Harrys So the occurrences of the same change So all the occurrences of Harry will be changed You can see this A dot replace Harry John is John This was Harry John is John Okay So what is this? Now what is split? Split is a very big method Because what is it? This string is converted to a list We have not read the number of the list So I will not talk about this method But you will see If I split I will do split with a space And I should have space in my string So this is the first element of this list This is the second element of this list If there is another space This is the second element of this list And this is the list You will see how one works If I will run this Then there will be a list Harry will come Then this is the list I will tell you the list I will give you a list This is a capitalized method I am talking about the JavaScript language It is not in JavaScript It is a capitalized method It is a very useful method When I started using blogs When I was writing down the code of Harry I used to use this method When I used to use this method I used to use this method When I used to use this method When I used to use this method I used this method I used this method I have made a list I have made a list I want to capitalize I do not understand the situation Let's write this list I want to capitalize Let's write this list If we write it down Let's write it down Let's write it down Let's write the list Now, I will write here the first character in the case of blog heading dot And as I will do this, this character will be in the first character and my blog looks good You can see the introduction to JS which is coming in the capital which is very big So you can see here that if I write something like this, I will write it in the same way And this is a mistake when you are writing blogs, when you are publishing daily blogs, then you are getting a human error And you have written something like this, J-capitalist Now you will do something like this, then you will see what will be capitalized and automatically fix it All the business is in lower case, so if you come here and see the description of the capitalized method You will see the first character of the string to the upper case But the rest of the characters will be in lower case, the string has no effect if the first character is already in upper case So if you come from the first case, then what will be done? And if you come from the lower case, then what will be done? If you have everything, then there is no effect, capitalized But this is how it works Now you will see a center method, what is the center method? It is aligned and the string is to the center as per the parameter given So I will take this example which I have taken here And I will show you what I will do here So you will see, welcome to the console What will be in the starting? That 50, you can see here, there are some spaces Okay, now I will show you one thing I will print this line and show you the line of this And I will print the line of STR1 So if I print the line of STR1 And I will do this So you will see that the line of STR1 is from the left And the left is from the left So what is the center? The length of the 25th string is If you add 25 spaces in the starting, so that the center is to move So this is how our center method works Okay, here I have also written the description Now we will talk about the count What will the count do? I will tell you that there is no one in one string How many times is it being done? I will tell you that the Harry is here twice So if I want to see how many times Harry is doing in my A string So I can print this way I will say that A.count Harry Tell me that in this string Harry is here twice So you can see that he has given me the 2nd string So this is how the count works And then the end switch function is very useful We can find out how many strings So what is the string given by the characters I will say that this is the end of the string Okay, I will show you I will show you the example I will show you the example that I have given you I will show you the pattern The first thing to do is to do the roughly duper I have written it to the door You can practice it Ideally you have to do it Tell me why you are asking me to interrupt First of all, I have to focus on my apple My apple is the most important And after that you can do it like this You will see the interface If you do the apple directly access You will not see the interface You will have to do 4 I will show you Because this is important I have to do this I will interrupt the lecture for a minute And I want to show you So if you come to the apple.com slash You come to the code And you can write the add the rate code Add the data to the code Add the data to the code So, the apple is the media You can do this with your phone You can click on the phone You can click on the phone You will see the interface I am not using the login newsly But you will see it here So, what is the reason? The apple I have made is your own You can do it in any way So, you can tell you It is very important What will happen to the 1.10th? What will happen to the 2.10th? The string is from the end So, the 3.10th is the true I will return the Boolean data type I can use Boolean data type in the EFLs Because I will tell you in the lecture So, we can use this method With our ends Now, you can see We can even check for a value in between the string By providing start and end expositions So, you can see You can also tell you That you are ending up in the end What do you mean? I will explain it to you If I do the string slicing And I go from 4 to 10 What will I get? I will get 0123 And I will get this I will highlight the string OME space TO So, what is this string Is it ending in TO? Yes, it is You can see it I will do it in some way And by the way, I will tell you That I can overwrite a variable So, you can see the true So, this is how it works Now, let's talk about the fine method The fine method is a very simple method Which searches The first occurrences of a given value And returns Index where it is present So, I want to tell you That if the string Is not searching Then it returns If you don't know So, let me give you an example You can see that I have written a name of a Dan name He is Dan He is an honest man You can see what he wrote I will tell you He will not detect this In fact, he will detect this first occurrences So, I will show you If we do the fine method So, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 I need to get 10 So, what will he do? The first occurrences of his Index will return to me So, if I do the fine Then I will give his first occurrences Or he will not Because he is not a python He is not a python He is not a python He is not a snake He is an interpreter He can compute He can't see that he is He is a snake So, I will get the IS He will give me his index Now, I will talk about the next method What is the index method? The index method is basically the same In fact, it is very similar The fine method What is fine? It returns to minus 1 If I do the ISH It will return to minus 1 Because the ISH has no strings But if I do the same thing And I will write the index here Then I will get an exception I will get an error So, if we want to get this In this string Then we can use this method If we want If we want to get an error Then we will use index So, what is the index method? It is an exception And the same value This is the string note found This is the error After this, the next method Is the LNM Is the string of the LNM not numeric? We use LNM For finding out this LNM It returns to only the entire string Consist of this LNM If any other characters Or punctuation is present Then it returns false If you can run it here Welcome to the console I will give this error I will give this error Because the ISH has no strings And the error is given So, here the LNM string is true LNM means Capitalize a capitalize Small as a small z And the string is connected to the characters Then there is an alpha There are numbers In this alpha Capitalize to capitalize Small as a small z So, it will return And I will show you the false written If I will show you the false written Then I will show you the false written We have seen the false written I hope that I was not doing a lot of things If I will return false written If I will return it Then the false will return And you can do it yourself When you don't do it You will not have a good clarity So, it is lower Is all the characters In this case, it is not lower So, it will return Otherwise, it will return false So, you have this Rappl You have to see this interface You can move it wherever you want And you can move it So, this is the smooth navigation I have chosen a template for this course So, this is the fun Here is the tutorial Here is the floating video I don't think it will be a good experience As of now The next method is Try it If you have made it from the lower case Then you will see the true If I have put a cable in the case Then what will happen here? False So, I will show you the true So, you can see What is the printable? If all the values within the given strings Are printable Otherwise, it returns false If you have a printable Then you will see What are the printable characters Which are the true characters? If I put a character in the case Then it will return false Because this is not printable If you don't see the backslash Then I will print StR1 So, you will not get the backslash You will get a new line character You will get a print circle This is not printable So, I hope you understood this Now, I will explain About this space This is true written Only if the string contains white spaces Otherwise, it returns false If we have put white spaces From the side of the space bar Then you will get true written So, I have put this space bar From here And this is true If I put it from the tabs Then it is white space If I put the tab too Then it will return true True True I hope you understood this Now, this is a method Which is written True only if the first letter of each word Of the string is capitalized So, what can we do? If I used this method in my jango blog When I used all the titles Of my blogs I had to capitalize on them And if there is no capitalized Then I would have seen in the dashboard That this one is not capitalized And if I used this one Then I can do this If I run it Then my iPhone will say That my iPhone is better than my 20% battery By the way, you may not know How to record it? I use the camera of my iPhone Because I was getting a lot of questions So, it is very big I will talk about the video in the end I will finish this title To kill a walking bird Okay? I have not tried this title I can do this And you can see here That To kill a walking bird Okay? Now, what is this? This is the lower one Exactly the same thing Then, the start with exactly the ends Like if the string is starting It is given by the start So, you can see it True So, you will see that the start is getting from the Python Then, the next method is the swap case Which is what? Overcase, overcase, overcase, overcase, in the lowercase Now, a very straightforward method You guys have to practice it So, offcase So, swap it all Overcase has been made over And then, what is the title method That is, convert it In the title case What is happening here? I will run it I will hit it His name is Dan And Dan is an honest man What will happen? You can see that, all the characters All the characters All the characters Block is used in a lot of ways I hope you guys understood this If you want to hear how I am recording What setup is this? I want to know For other people, in the next video I will talk about the setup I will listen to it And watch the rest of the videos I will do the MacBook I have made a MacBook recently To make videos I had a lot of impresses I used MacBook using MacBook I was looking for MacBook I had lost my memory I used to go to my office I used to go to my office I used to stay on MacBook I am not a bad person I am good at it I recommend this I record all the discussions in this video I record it with OBS And I have a continuity camera It is in your iPhone What does a continuity camera do? I will show you If you have a MacBook And you have an iPhone What happens is When you bring your MacBook You will turn on the Wi-Fi Bluetooth It is like a webcam It is good I have taken my iPhone I have tried I have a camera I can use it I have lenses It can be lighter But I am satisfied with the iPhone I have mounted my iPhone And it is getting better I am getting more impressive You will get more impressive You will get more impressive You will get more impressive I will stage the centre I will do the centre If I am going to portrait I will do some things I will do some things I will show you the video I have already seen a video I will do a light change I will do a light change If I am going to portrait But it is not that good I think it should not be done I like it I am very impressed I am showing you how I am showing it from the angle I will turn it on I have put the mic setup It was a good mic It was working from normal mic I have also upgraded it I hope you are enjoying Quality is good when it comes out Finally it is fun I will end this video with this Thank you so much for watching this video And I will see you next time Thanks for watching"
+}

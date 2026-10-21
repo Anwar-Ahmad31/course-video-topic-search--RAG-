@@ -1,0 +1,463 @@
+{
+  "video_number": 18,
+  "title": "While Loops in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 11.700000000000001,
+      "text": "We had seen 4 loops in the last video It was a lot of fun We used 4 loops and we saw how a 4 loop makes things easy And with 4 loops we didn't see how to print these"
+    },
+    {
+      "chunk_number": 2,
+      "start": 11.700000000000001,
+      "end": 23.3,
+      "text": "Multiplications tables Now we can see how the same thing can be done in the wild loop And why is the wild loop made in language? Why did we put it in the Byton programming? We have introduced the Wild Loop in the Byton programming"
+    },
+    {
+      "chunk_number": 3,
+      "start": 23.3,
+      "end": 41.0,
+      "text": "so that the programmer can save time How? Let's go to the computer screen and I will tell you guys So the word is called Wild Loop This is how the wild loop can be used"
+    },
+    {
+      "chunk_number": 4,
+      "start": 41.0,
+      "end": 54.0,
+      "text": "First of all, let me tell you how to use the wild loop You can use the same as the previous one You have to work with both of them But the wild loop syntax is sometimes convenient And sometimes the previous syntax is convenient"
+    },
+    {
+      "chunk_number": 5,
+      "start": 54.0,
+      "end": 67.0,
+      "text": "We saw in the previous syntax We write the I in range And if I write 3 in the name of the word, I will print the word So the simple thing is 0, 1, 2, I will get the print You all know this"
+    },
+    {
+      "chunk_number": 6,
+      "start": 67.0,
+      "end": 84.0,
+      "text": "If I do this in the same thing with the wild loop So what I will do first, I will make a variable Then I will write the wild I is less than 3 And then I will print the word and I will increment the value of the word Let me explain what I have done"
+    },
+    {
+      "chunk_number": 7,
+      "start": 84.0,
+      "end": 94.0,
+      "text": "Okay See what I have done I have given a condition inside the wild Okay, I told you to zero the value of the word Okay, what did I do after that?"
+    },
+    {
+      "chunk_number": 8,
+      "start": 94.0,
+      "end": 108.0,
+      "text": "I said wild That means, when the value of the word is from the word I, then what should I do? Print the word I And I will increase the value of the word in every iteration So once the value of the word will be 0, then the value of the word I will get 1"
+    },
+    {
+      "chunk_number": 9,
+      "start": 108.0,
+      "end": 123.0,
+      "text": "Then the value of the word 1 will be 1, the value of the word I will get 2 Then the value of 2 will be 2, the value of the word I will get 3 But as the value of the word I will get 2, the value of the word I will get 2 And this loop will be executed, this condition will be checked in every iteration Now I will explain how it works"
+    },
+    {
+      "chunk_number": 10,
+      "start": 123.0,
+      "end": 137.0,
+      "text": "What is the value of the word I? 0 First of all, this will be here in line number 5 What will be the condition of the word I will get 5? Because if it is not, then we will not even want to execute something inside it Okay, execute"
+    },
+    {
+      "chunk_number": 11,
+      "start": 137.0,
+      "end": 156.0,
+      "text": "Because the condition of the word I will get 2, 0 is less than 3 So the answer is the guess of the condition of the word I Print I means print 0, 0 will be printed here Then I is equal to I plus 1, i.e. the value of I will get 1 This will be the second one, what is 1 less than 3?"
+    },
+    {
+      "chunk_number": 12,
+      "start": 156.0,
+      "end": 170.0,
+      "text": "Yes, it will be 1, so this will be 1 i value of 2 will be 2 What is 2 less than 3? Yes, it is 2 It will print 2, i value of 3 will get 3 now What is 3 less than 3? No, it is not"
+    },
+    {
+      "chunk_number": 13,
+      "start": 170.0,
+      "end": 185.0,
+      "text": "Because 3 less than 3 is not So you see here, the value of I will not print It will not execute the problem inside it And this will be the value of the loop And I will write here, done with the loop"
+    },
+    {
+      "chunk_number": 14,
+      "start": 185.0,
+      "end": 204.0,
+      "text": "Okay, now I will put it on the front loop If I run it, then 0, 1 and 2 will be here Okay, but if I do this, then I will do 3 You should also remember that 3 is less than equal to 3 is true Okay, if 3 is less than equal to 3 then it is true"
+    },
+    {
+      "chunk_number": 15,
+      "start": 204.0,
+      "end": 218.0,
+      "text": "Because less than or equal to means it is also true So here it is less or less Okay, so if I say 3, if I say I is equal to 3 then this condition is satisfied 3 is less than equal to 3 So while 3 is less than equal to 3, print will be here"
+    },
+    {
+      "chunk_number": 16,
+      "start": 218.0,
+      "end": 229.0,
+      "text": "So what will happen here? The place of 0, 1, 2, 3 will be printed here So I have given you less than or equal to So now see here, 0, 1, 2, 3 is print So this is how the value works"
+    },
+    {
+      "chunk_number": 17,
+      "start": 229.0,
+      "end": 242.0,
+      "text": "Ideally we do not use the value with numbers Rather we use the complex conditions Okay, as I will tell you That the user has given an input Okay, the user has given an input"
+    },
+    {
+      "chunk_number": 18,
+      "start": 242.0,
+      "end": 257.0,
+      "text": "So I will write the input I told you that we can get the input and the number You can get the input as an integer This is important as an integer I will say while I is less than equal to 3"
+    },
+    {
+      "chunk_number": 19,
+      "start": 257.0,
+      "end": 264.0,
+      "text": "What do you do? Keep the input from the user So I will put it in the loop I will say Look, the user has given an input"
+    },
+    {
+      "chunk_number": 20,
+      "start": 264.0,
+      "end": 274.0,
+      "text": "Till the time that I have given the number It is a small number from 38 to 38 And print it And from here I will write I equal to I plus 1 So what is this loop?"
+    },
+    {
+      "chunk_number": 21,
+      "start": 274.0,
+      "end": 286.0,
+      "text": "He is saying that the user has given an input Keep taking it, keep taking it Till the time that I have given the value It is less than equal to 38 So I will show you this program"
+    },
+    {
+      "chunk_number": 22,
+      "start": 286.0,
+      "end": 297.0,
+      "text": "As I will show it If I am not defined here Okay, so I will do this I will take the initial value I will take the value before I just run the value"
+    },
+    {
+      "chunk_number": 23,
+      "start": 297.0,
+      "end": 304.0,
+      "text": "Okay, I will tell you what is the value of I I will tell you what is the value of the value of the user First of all, I will go with this line And I will ask the value of I I will tell you"
+    },
+    {
+      "chunk_number": 24,
+      "start": 304.0,
+      "end": 314.0,
+      "text": "Because the number of 8 is equal to 38 I will ask again and print it I will write this number again Or I will print 9 in the name of 9 So I will print 9 in the name of 9"
+    },
+    {
+      "chunk_number": 25,
+      "start": 314.0,
+      "end": 322.0,
+      "text": "And I will ask again this question Then I will write 34 And I will ask again this question I will write 38 38 is actually less than equal to 38"
+    },
+    {
+      "chunk_number": 26,
+      "start": 322.0,
+      "end": 328.0,
+      "text": "So in this loop, it will run It will run It will keep on taking the line It will keep on taking the line It will keep on taking the line"
+    },
+    {
+      "chunk_number": 27,
+      "start": 328.0,
+      "end": 340.0,
+      "text": "Till the time that I have given the value of I And the moment the value of I Becomes greater than 38 That is, this condition is not satisfied So this will run out of the loop"
+    },
+    {
+      "chunk_number": 28,
+      "start": 340.0,
+      "end": 350.0,
+      "text": "Done with the loop print And you will finish the work So I have said that if I have to print the value of I So if I have to print the value of I I have to print the condition of I"
+    },
+    {
+      "chunk_number": 29,
+      "start": 350.0,
+      "end": 359.0,
+      "text": "And the program is over I hope you understood Now let me see Why is the name suggest Value-execute-statement-s-while-the-condition-stu"
+    },
+    {
+      "chunk_number": 30,
+      "start": 359.0,
+      "end": 366.0,
+      "text": "Till the time that I have to print the condition It will keep on taking the value of I As soon as the condition becomes false The interpreter comes out of the loop The interpreter means"
+    },
+    {
+      "chunk_number": 31,
+      "start": 366.0,
+      "end": 374.0,
+      "text": "Python, which is executing What is the interpreter means? The program that I am executing The program is the control of the program When I say that I am going to say that"
+    },
+    {
+      "chunk_number": 32,
+      "start": 374.0,
+      "end": 380.0,
+      "text": "What will the interpreter do? It will come out Okay? The control will come out And if the condition is true"
+    },
+    {
+      "chunk_number": 33,
+      "start": 380.0,
+      "end": 388.0,
+      "text": "Then the loop will remain in the loop I am the interpreter, I am the control I am the program control That is the only thing you understand What I am saying"
+    },
+    {
+      "chunk_number": 34,
+      "start": 388.0,
+      "end": 396.0,
+      "text": "Now this program is the program that you can run Here I have given a simple example A decrymenting loop Okay? Now this is important"
+    },
+    {
+      "chunk_number": 35,
+      "start": 396.0,
+      "end": 402.0,
+      "text": "I will comment on this This is also very important This is a decrymenting loop What is the value of a decrymenting loop? What is the value of a count?"
+    },
+    {
+      "chunk_number": 36,
+      "start": 402.0,
+      "end": 410.0,
+      "text": "The value of a count is 5 And the condition is that The count is greater than 0 So if the value of a count is less than the loop Then a condition will fall in a time"
+    },
+    {
+      "chunk_number": 37,
+      "start": 410.0,
+      "end": 418.98,
+      "text": "Because the value of a count is 0 Will be spent So this is the loop of a delta The value of a decrymenting loop First 5 minutes of a 3-2-1"
+    },
+    {
+      "chunk_number": 38,
+      "start": 418.98,
+      "end": 427.0,
+      "text": "If you guys want to understand this The value of a count was 5 The condition is true Because the value is 0 The print count is 5"
+    },
+    {
+      "chunk_number": 39,
+      "start": 427.0,
+      "end": 437.0,
+      "text": "Then the count is equal to count minus The value of a count is 4 The second condition will be checked Because the value of a count is 0 This is the number of the 2nd and 3rd values"
+    },
+    {
+      "chunk_number": 40,
+      "start": 437.0,
+      "end": 445.0,
+      "text": "Because of this line Then the number of 3rd values will be 3 Then the number of 3rd values will be 2 Then 1st and 1st will be 1th will be a value of 0."
+    },
+    {
+      "chunk_number": 41,
+      "start": 445.0,
+      "end": 457.0,
+      "text": "0 is greater than 0? No, absolutely not. This condition falls and the program will exit out of the loop. I hope you understood this. Here the count variable is set to 5."
+    },
+    {
+      "chunk_number": 42,
+      "start": 457.0,
+      "end": 467.0,
+      "text": "I have explained this. Which determines after each iteration. It is the same as the iteration of the iteration. It is the same as the iteration of the iteration. The same as the condition of the iteration."
+    },
+    {
+      "chunk_number": 43,
+      "start": 467.0,
+      "end": 479.0,
+      "text": "The same as the condition of the iteration. The same as the other iteration. Depending upon the while loop condition. We need to either increment or decrement the counter variable. Now we can cut the program by using the same method."
+    },
+    {
+      "chunk_number": 44,
+      "start": 479.0,
+      "end": 489.0,
+      "text": "If we do the mistake in while loop. I have done the mistake. I have done the count. This will be the infinite loop. I will show you."
+    },
+    {
+      "chunk_number": 45,
+      "start": 489.0,
+      "end": 499.0,
+      "text": "This will be the infinite loop. This will be the print value. You understand? We will do it in 5, 6, 7, 8, 9, 10, 10. The value will be the value of the value."
+    },
+    {
+      "chunk_number": 46,
+      "start": 499.0,
+      "end": 511.0,
+      "text": "You will see that the cancel will not be stopped. You see that? I have to consider the cancel. I will delete it. I will delete it."
+    },
+    {
+      "chunk_number": 47,
+      "start": 511.0,
+      "end": 523.0,
+      "text": "I have done the infinite loop. I will do it in 5, 6, 7, 8, 10. I think I can close the console and do it. I can stop the program. I have stopped the program."
+    },
+    {
+      "chunk_number": 48,
+      "start": 523.0,
+      "end": 533.0,
+      "text": "Stop the program. Stop the program. I have done it. I have done it. I have done it again."
+    },
+    {
+      "chunk_number": 49,
+      "start": 533.0,
+      "end": 543.0,
+      "text": "I will stop it. Sorry to the people. I am taking your computer. I have done infinite loop. I will tell you one thing."
+    },
+    {
+      "chunk_number": 50,
+      "start": 543.0,
+      "end": 555.0,
+      "text": "My laptop was very cheap. It was in college. I had done infinite loop. I had done infinite loop. I had done the programming language."
+    },
+    {
+      "chunk_number": 51,
+      "start": 555.0,
+      "end": 567.0,
+      "text": "I had done the programming language. It was in college. It was in college. It was in college. I had done infinite loop."
+    },
+    {
+      "chunk_number": 52,
+      "start": 567.0,
+      "end": 579.0,
+      "text": "I have done infinite loop. I have done infinite loop. I have done infinite loop. I am taking your computer. I will show you a new set."
+    },
+    {
+      "chunk_number": 53,
+      "start": 579.0,
+      "end": 592.0,
+      "text": "Let me show you a new set. I am inside else Okay, the value of the count is 5 I will tell you how to do this It will work, it will work, it will work"
+    },
+    {
+      "chunk_number": 54,
+      "start": 592.0,
+      "end": 603.0,
+      "text": "And finally when this condition falls Then this I am inside will print the else So, it is very simple Look here, how to use the value You can even use the else statement with the value"
+    },
+    {
+      "chunk_number": 55,
+      "start": 603.0,
+      "end": 614.0,
+      "text": "Essentially what the else statement does is As soon as the value condition becomes false And it becomes out of the value And the else statement is executed As soon as this value comes out"
+    },
+    {
+      "chunk_number": 56,
+      "start": 614.0,
+      "end": 625.0,
+      "text": "The else will be executed I hope you understand When this condition falls I mean, whenever the value is not in the condition It will be wrong to get the condition"
+    },
+    {
+      "chunk_number": 57,
+      "start": 625.0,
+      "end": 637.0,
+      "text": "It will execute the else If I do this count is equal to minus 5 So, you can tell me in the comment You will not be able to tell I hope you have guessed everything"
+    },
+    {
+      "chunk_number": 58,
+      "start": 637.0,
+      "end": 646.0,
+      "text": "Now you can see I am inside will print Okay, so this is very simple Now I want to tell you one more thing What is it?"
+    },
+    {
+      "chunk_number": 59,
+      "start": 646.0,
+      "end": 656.0,
+      "text": "We have two more programming languages It is called Dubai Loop It is not in Python, let me tell you What is in Dubai Loop? It is used to execute once"
+    },
+    {
+      "chunk_number": 60,
+      "start": 656.0,
+      "end": 667.0,
+      "text": "Dubai Loop is used to make some cases Because we discussed it here first I have already uncommented it I will comment below We have created a bar after the while loop"
+    },
+    {
+      "chunk_number": 61,
+      "start": 667.0,
+      "end": 676.0,
+      "text": "Okay If I print it here It will be a Dubai Loop What do Dubai Loop does? It works once"
+    },
+    {
+      "chunk_number": 62,
+      "start": 676.0,
+      "end": 687.0,
+      "text": "The content of the loop It works like this Dubai Loop works first Irrespective of whether condition is true or not Irrespective of whether condition is true or not"
+    },
+    {
+      "chunk_number": 63,
+      "start": 687.0,
+      "end": 694.0,
+      "text": "It works Now what happens? Dubai Loop was here It is the same Dubai Loop I will tell you some Dubai Loop syntax"
+    },
+    {
+      "chunk_number": 64,
+      "start": 694.0,
+      "end": 706.0,
+      "text": "In Python, you do not do it It is in C++ But you should know how to do Dubai Loop If I am not reading the C language I am reading the C language"
+    },
+    {
+      "chunk_number": 65,
+      "start": 706.0,
+      "end": 714.0,
+      "text": "Here condition is the same But here content is the same The loop body In fact, I should write the content name The loop body"
+    },
+    {
+      "chunk_number": 66,
+      "start": 714.0,
+      "end": 722.0,
+      "text": "What happens? First of all, it is executed If condition is true, then it is executed It is the same thing It is a Dubai Loop"
+    },
+    {
+      "chunk_number": 67,
+      "start": 722.0,
+      "end": 732.0,
+      "text": "In Python, it is the same thing It is the same thing It is the same thing I will tell you the question What is Dubai Loop?"
+    },
+    {
+      "chunk_number": 68,
+      "start": 732.0,
+      "end": 742.0,
+      "text": "If you have said that I am reading the C language I do not know what is Dubai Loop I do not think so If Dubai Loop does not know what is the same thing How do you evaluate it?"
+    },
+    {
+      "chunk_number": 69,
+      "start": 742.0,
+      "end": 751.0,
+      "text": "Dubai Loop is a simple and effective way It is executed once Irrespective of whether condition is true or not It is executed once Then it will be executed once"
+    },
+    {
+      "chunk_number": 70,
+      "start": 751.0,
+      "end": 761.0,
+      "text": "It will be executed once It will be executed once again This is Dubai Loop I will tell you one more thing In the next video, I will tell you about the break and continue statement"
+    },
+    {
+      "chunk_number": 71,
+      "start": 761.0,
+      "end": 775.0,
+      "text": "What is the main time to try to figure out this? Why I am figuring out this? When you figure out this, you will understand It will be different Remember this"
+    },
+    {
+      "chunk_number": 72,
+      "start": 775.0,
+      "end": 789.0,
+      "text": "In the next video, I will tell you about the break and continue statement It is your duty to return to Dubai Loop You have to try to evaluate Dubai Loop What is the aim? You have to evaluate Dubai Loop"
+    },
+    {
+      "chunk_number": 73,
+      "start": 789.0,
+      "end": 805.0,
+      "text": "This is a way to evaluate Dubai Loop I wrote 2x body If we had done 2x body, then we would have done 4x body Because once you write it once It is not ideal"
+    },
+    {
+      "chunk_number": 74,
+      "start": 805.0,
+      "end": 817.0,
+      "text": "We will see another video From day 19 You should try to evaluate Dubai Loop If you have not done this, then we will do it We will see another video"
+    },
+    {
+      "chunk_number": 75,
+      "start": 817.0,
+      "end": 827.0,
+      "text": "From day 19 You should try to evaluate Dubai Loop I hope you understood this I hope you understood this I hope you understood this"
+    },
+    {
+      "chunk_number": 76,
+      "start": 827.0,
+      "end": 833.0,
+      "text": "If you have not done play list access Please do not access this Thank you for watching this video"
+    }
+  ],
+  "text": "We had seen 4 loops in the last video It was a lot of fun We used 4 loops and we saw how a 4 loop makes things easy And with 4 loops we didn't see how to print these Multiplications tables Now we can see how the same thing can be done in the wild loop And why is the wild loop made in language? Why did we put it in the Byton programming? We have introduced the Wild Loop in the Byton programming so that the programmer can save time How? Let's go to the computer screen and I will tell you guys So the word is called Wild Loop This is how the wild loop can be used First of all, let me tell you how to use the wild loop You can use the same as the previous one You have to work with both of them But the wild loop syntax is sometimes convenient And sometimes the previous syntax is convenient We saw in the previous syntax We write the I in range And if I write 3 in the name of the word, I will print the word So the simple thing is 0, 1, 2, I will get the print You all know this If I do this in the same thing with the wild loop So what I will do first, I will make a variable Then I will write the wild I is less than 3 And then I will print the word and I will increment the value of the word Let me explain what I have done Okay See what I have done I have given a condition inside the wild Okay, I told you to zero the value of the word Okay, what did I do after that? I said wild That means, when the value of the word is from the word I, then what should I do? Print the word I And I will increase the value of the word in every iteration So once the value of the word will be 0, then the value of the word I will get 1 Then the value of the word 1 will be 1, the value of the word I will get 2 Then the value of 2 will be 2, the value of the word I will get 3 But as the value of the word I will get 2, the value of the word I will get 2 And this loop will be executed, this condition will be checked in every iteration Now I will explain how it works What is the value of the word I? 0 First of all, this will be here in line number 5 What will be the condition of the word I will get 5? Because if it is not, then we will not even want to execute something inside it Okay, execute Because the condition of the word I will get 2, 0 is less than 3 So the answer is the guess of the condition of the word I Print I means print 0, 0 will be printed here Then I is equal to I plus 1, i.e. the value of I will get 1 This will be the second one, what is 1 less than 3? Yes, it will be 1, so this will be 1 i value of 2 will be 2 What is 2 less than 3? Yes, it is 2 It will print 2, i value of 3 will get 3 now What is 3 less than 3? No, it is not Because 3 less than 3 is not So you see here, the value of I will not print It will not execute the problem inside it And this will be the value of the loop And I will write here, done with the loop Okay, now I will put it on the front loop If I run it, then 0, 1 and 2 will be here Okay, but if I do this, then I will do 3 You should also remember that 3 is less than equal to 3 is true Okay, if 3 is less than equal to 3 then it is true Because less than or equal to means it is also true So here it is less or less Okay, so if I say 3, if I say I is equal to 3 then this condition is satisfied 3 is less than equal to 3 So while 3 is less than equal to 3, print will be here So what will happen here? The place of 0, 1, 2, 3 will be printed here So I have given you less than or equal to So now see here, 0, 1, 2, 3 is print So this is how the value works Ideally we do not use the value with numbers Rather we use the complex conditions Okay, as I will tell you That the user has given an input Okay, the user has given an input So I will write the input I told you that we can get the input and the number You can get the input as an integer This is important as an integer I will say while I is less than equal to 3 What do you do? Keep the input from the user So I will put it in the loop I will say Look, the user has given an input Till the time that I have given the number It is a small number from 38 to 38 And print it And from here I will write I equal to I plus 1 So what is this loop? He is saying that the user has given an input Keep taking it, keep taking it Till the time that I have given the value It is less than equal to 38 So I will show you this program As I will show it If I am not defined here Okay, so I will do this I will take the initial value I will take the value before I just run the value Okay, I will tell you what is the value of I I will tell you what is the value of the value of the user First of all, I will go with this line And I will ask the value of I I will tell you Because the number of 8 is equal to 38 I will ask again and print it I will write this number again Or I will print 9 in the name of 9 So I will print 9 in the name of 9 And I will ask again this question Then I will write 34 And I will ask again this question I will write 38 38 is actually less than equal to 38 So in this loop, it will run It will run It will keep on taking the line It will keep on taking the line It will keep on taking the line Till the time that I have given the value of I And the moment the value of I Becomes greater than 38 That is, this condition is not satisfied So this will run out of the loop Done with the loop print And you will finish the work So I have said that if I have to print the value of I So if I have to print the value of I I have to print the condition of I And the program is over I hope you understood Now let me see Why is the name suggest Value-execute-statement-s-while-the-condition-stu Till the time that I have to print the condition It will keep on taking the value of I As soon as the condition becomes false The interpreter comes out of the loop The interpreter means Python, which is executing What is the interpreter means? The program that I am executing The program is the control of the program When I say that I am going to say that What will the interpreter do? It will come out Okay? The control will come out And if the condition is true Then the loop will remain in the loop I am the interpreter, I am the control I am the program control That is the only thing you understand What I am saying Now this program is the program that you can run Here I have given a simple example A decrymenting loop Okay? Now this is important I will comment on this This is also very important This is a decrymenting loop What is the value of a decrymenting loop? What is the value of a count? The value of a count is 5 And the condition is that The count is greater than 0 So if the value of a count is less than the loop Then a condition will fall in a time Because the value of a count is 0 Will be spent So this is the loop of a delta The value of a decrymenting loop First 5 minutes of a 3-2-1 If you guys want to understand this The value of a count was 5 The condition is true Because the value is 0 The print count is 5 Then the count is equal to count minus The value of a count is 4 The second condition will be checked Because the value of a count is 0 This is the number of the 2nd and 3rd values Because of this line Then the number of 3rd values will be 3 Then the number of 3rd values will be 2 Then 1st and 1st will be 1th will be a value of 0. 0 is greater than 0? No, absolutely not. This condition falls and the program will exit out of the loop. I hope you understood this. Here the count variable is set to 5. I have explained this. Which determines after each iteration. It is the same as the iteration of the iteration. It is the same as the iteration of the iteration. The same as the condition of the iteration. The same as the condition of the iteration. The same as the other iteration. Depending upon the while loop condition. We need to either increment or decrement the counter variable. Now we can cut the program by using the same method. If we do the mistake in while loop. I have done the mistake. I have done the count. This will be the infinite loop. I will show you. This will be the infinite loop. This will be the print value. You understand? We will do it in 5, 6, 7, 8, 9, 10, 10. The value will be the value of the value. You will see that the cancel will not be stopped. You see that? I have to consider the cancel. I will delete it. I will delete it. I have done the infinite loop. I will do it in 5, 6, 7, 8, 10. I think I can close the console and do it. I can stop the program. I have stopped the program. Stop the program. Stop the program. I have done it. I have done it. I have done it again. I will stop it. Sorry to the people. I am taking your computer. I have done infinite loop. I will tell you one thing. My laptop was very cheap. It was in college. I had done infinite loop. I had done infinite loop. I had done the programming language. I had done the programming language. It was in college. It was in college. It was in college. I had done infinite loop. I have done infinite loop. I have done infinite loop. I have done infinite loop. I am taking your computer. I will show you a new set. Let me show you a new set. I am inside else Okay, the value of the count is 5 I will tell you how to do this It will work, it will work, it will work And finally when this condition falls Then this I am inside will print the else So, it is very simple Look here, how to use the value You can even use the else statement with the value Essentially what the else statement does is As soon as the value condition becomes false And it becomes out of the value And the else statement is executed As soon as this value comes out The else will be executed I hope you understand When this condition falls I mean, whenever the value is not in the condition It will be wrong to get the condition It will execute the else If I do this count is equal to minus 5 So, you can tell me in the comment You will not be able to tell I hope you have guessed everything Now you can see I am inside will print Okay, so this is very simple Now I want to tell you one more thing What is it? We have two more programming languages It is called Dubai Loop It is not in Python, let me tell you What is in Dubai Loop? It is used to execute once Dubai Loop is used to make some cases Because we discussed it here first I have already uncommented it I will comment below We have created a bar after the while loop Okay If I print it here It will be a Dubai Loop What do Dubai Loop does? It works once The content of the loop It works like this Dubai Loop works first Irrespective of whether condition is true or not Irrespective of whether condition is true or not It works Now what happens? Dubai Loop was here It is the same Dubai Loop I will tell you some Dubai Loop syntax In Python, you do not do it It is in C++ But you should know how to do Dubai Loop If I am not reading the C language I am reading the C language Here condition is the same But here content is the same The loop body In fact, I should write the content name The loop body What happens? First of all, it is executed If condition is true, then it is executed It is the same thing It is a Dubai Loop In Python, it is the same thing It is the same thing It is the same thing I will tell you the question What is Dubai Loop? If you have said that I am reading the C language I do not know what is Dubai Loop I do not think so If Dubai Loop does not know what is the same thing How do you evaluate it? Dubai Loop is a simple and effective way It is executed once Irrespective of whether condition is true or not It is executed once Then it will be executed once It will be executed once It will be executed once again This is Dubai Loop I will tell you one more thing In the next video, I will tell you about the break and continue statement What is the main time to try to figure out this? Why I am figuring out this? When you figure out this, you will understand It will be different Remember this In the next video, I will tell you about the break and continue statement It is your duty to return to Dubai Loop You have to try to evaluate Dubai Loop What is the aim? You have to evaluate Dubai Loop This is a way to evaluate Dubai Loop I wrote 2x body If we had done 2x body, then we would have done 4x body Because once you write it once It is not ideal We will see another video From day 19 You should try to evaluate Dubai Loop If you have not done this, then we will do it We will see another video From day 19 You should try to evaluate Dubai Loop I hope you understood this I hope you understood this I hope you understood this If you have not done play list access Please do not access this Thank you for watching this video"
+}

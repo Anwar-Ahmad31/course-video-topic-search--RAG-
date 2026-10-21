@@ -1,0 +1,541 @@
+{
+  "video_number": 36,
+  "title": "Exception Handling in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 8.120000000000001,
+      "text": "Sometimes we write code, it gets error. In fact, we do not get error. Our code gets error, it gets error. It gets error, it gets error. It gets error, it gets error."
+    },
+    {
+      "chunk_number": 2,
+      "start": 8.120000000000001,
+      "end": 16.84,
+      "text": "Whenever a mistake is done, or there can be a mistake in a server. We have some records from the servers. And those records are not available in the server. Because of the server error."
+    },
+    {
+      "chunk_number": 3,
+      "start": 16.84,
+      "end": 25.96,
+      "text": "In this, our Python program can be terminated. We do not want our programs to stop. Because of some error, we do our Python program. Error handling."
+    },
+    {
+      "chunk_number": 4,
+      "start": 25.96,
+      "end": 34.24,
+      "text": "And to do error handling in Python, we try to use the dry accept. Try to handle the dry accept. How easy the video will tell you. Let's go to the computer screen"
+    },
+    {
+      "chunk_number": 5,
+      "start": 34.24,
+      "end": 54.44,
+      "text": "and see how error handling is done in Python. Let's get started. So, the basic use of the exception handling. This is the error in the program. We will keep doing it."
+    },
+    {
+      "chunk_number": 6,
+      "start": 54.44,
+      "end": 65.44,
+      "text": "You will be wrong here. Or you can be a situation like this. You have got a server from the server. And the data is coming in wrong format. There is no reason for it to work."
+    },
+    {
+      "chunk_number": 7,
+      "start": 65.44,
+      "end": 76.48,
+      "text": "You can't get a data compatible. You will get an error. But if you get a error, your program will stop. We know all these."
+    },
+    {
+      "chunk_number": 8,
+      "start": 76.48,
+      "end": 96.52,
+      "text": "For example, if I say A is equal to input, I say enter the number. And then I do something like this. And then I will show you the multiplication table. Multiplication table of A."
+    },
+    {
+      "chunk_number": 9,
+      "start": 96.52,
+      "end": 109.64,
+      "text": "Here I use a app string. I will write this way. And I will write the multiplication table of A. And I will tell you the size of the four loops. For I in range of 1 to 11,"
+    },
+    {
+      "chunk_number": 10,
+      "start": 109.64,
+      "end": 119.48,
+      "text": "so that I can get 10 from 1 to 10. And I will write print, I will write the same app string. Whatever is my variable, A. I will write multiply by,"
+    },
+    {
+      "chunk_number": 11,
+      "start": 119.48,
+      "end": 133.56,
+      "text": "and I will write here, I. And I will write, is equal to, and I will write here, simply, A multiplied by, I. Okay. This value will be evaluated. And if I want to convert this value to one of the seven,"
+    },
+    {
+      "chunk_number": 12,
+      "start": 133.56,
+      "end": 143.08,
+      "text": "and obviously I want to convert it into one integer. I will write here, Int of A. And here, when I am calculating, I will convert it into Int. And I will run it now."
+    },
+    {
+      "chunk_number": 13,
+      "start": 143.08,
+      "end": 151.08,
+      "text": "If I am going to write, I will write number 8, so I will write here, print here. As you can see, and similarly, if I write here,"
+    },
+    {
+      "chunk_number": 14,
+      "start": 151.08,
+      "end": 161.08,
+      "text": "I will write another number, and just program box is absolutely fine. I have not seen it yet. I have entered it. And I have come to the four loops."
+    },
+    {
+      "chunk_number": 15,
+      "start": 161.08,
+      "end": 167.08,
+      "text": "But, think about it, if I write here, Harry, you have written 1 minute,"
+    },
+    {
+      "chunk_number": 16,
+      "start": 167.08,
+      "end": 174.08,
+      "text": "why are you writing Harry? First I will write my keyboard, and I will also get the answer. And you can see here, this is an error."
+    },
+    {
+      "chunk_number": 17,
+      "start": 174.08,
+      "end": 184.08,
+      "text": "The error is written by mixing it with a keyboard. You can convert it into a query, and what is the multiplication table? What does it mean? The multiplication table is called,"
+    },
+    {
+      "chunk_number": 18,
+      "start": 184.08,
+      "end": 191.08,
+      "text": "what does Harry mean? Here is the error. Now, notice one thing. If I know,"
+    },
+    {
+      "chunk_number": 19,
+      "start": 191.08,
+      "end": 199.08,
+      "text": "I will write, print, some lines of code. I mean, there are some lines of code. And here, our program is over."
+    },
+    {
+      "chunk_number": 20,
+      "start": 199.08,
+      "end": 205.08,
+      "text": "So, I will write, end of program. Okay? So, I will run it. So, you can see,"
+    },
+    {
+      "chunk_number": 21,
+      "start": 205.08,
+      "end": 211.08,
+      "text": "I have written here, enter the number. I have written 3, multiplication table. Here, the number of 3 is visible. And then,"
+    },
+    {
+      "chunk_number": 22,
+      "start": 211.08,
+      "end": 218.08,
+      "text": "notice, some lines of code and end of programs are written. And I will do it, some important lines of code. I mean, after that,"
+    },
+    {
+      "chunk_number": 23,
+      "start": 218.08,
+      "end": 224.08,
+      "text": "I am doing some important lines of code. Let us say, we are sending this multiplication table, okay? For some work,"
+    },
+    {
+      "chunk_number": 24,
+      "start": 224.08,
+      "end": 232.08,
+      "text": "let us say. Now, I will write my name here. Let me write here. My name is Jokal, I am Jokal. So, these two lines are not print."
+    },
+    {
+      "chunk_number": 25,
+      "start": 232.08,
+      "end": 239.08,
+      "text": "I mean, our program is here and it is called halt. Now, see, there is no guarantee that the user, who is giving the number in the input,"
+    },
+    {
+      "chunk_number": 26,
+      "start": 239.08,
+      "end": 245.08,
+      "text": "will be in the integer. Or, the user, who is always a number,"
+    },
+    {
+      "chunk_number": 27,
+      "start": 245.08,
+      "end": 253.08,
+      "text": "will be valid. There is no guarantee. But, I am doing something in line number 4 and 5, to listen carefully."
+    },
+    {
+      "chunk_number": 28,
+      "start": 253.08,
+      "end": 259.08,
+      "text": "And, listen to this, you have to accept the test. I have to do something. If I want,"
+    },
+    {
+      "chunk_number": 29,
+      "start": 259.08,
+      "end": 268.08,
+      "text": "then my program is run. But, if I want to do something, if my program is running properly, then it will run."
+    },
+    {
+      "chunk_number": 30,
+      "start": 268.08,
+      "end": 274.08,
+      "text": "So, it will be normal. But, if error is, then it will be more. Okay?"
+    },
+    {
+      "chunk_number": 31,
+      "start": 274.08,
+      "end": 279.08,
+      "text": "What else is, then we will see. Okay? Now, I will show you here. What I will do?"
+    },
+    {
+      "chunk_number": 32,
+      "start": 279.08,
+      "end": 286.08,
+      "text": "In the lines of code, because I know that it is impossible to get error. So, I will try this. I will try."
+    },
+    {
+      "chunk_number": 33,
+      "start": 286.08,
+      "end": 291.08,
+      "text": "I will try. I will try. I will use it. And, I will write in Indian. Like, I will write in loops."
+    },
+    {
+      "chunk_number": 34,
+      "start": 291.08,
+      "end": 296.08,
+      "text": "Like I will write in Indian. And, I will write in here. Accept. And,"
+    },
+    {
+      "chunk_number": 35,
+      "start": 296.08,
+      "end": 301.08,
+      "text": "I will write in here. Accept. As. A. So that, I know that,"
+    },
+    {
+      "chunk_number": 36,
+      "start": 301.08,
+      "end": 306.08,
+      "text": "what, I will write in the error. Print. Okay? This template is used here."
+    },
+    {
+      "chunk_number": 37,
+      "start": 306.08,
+      "end": 313.08,
+      "text": "It is used for many Python programmers. That, you write in any code, you write in your code, you write in your 2 lines,"
+    },
+    {
+      "chunk_number": 38,
+      "start": 313.08,
+      "end": 318.08,
+      "text": "you write in your 5 lines, you want to try. You write in your code. Accept. Accept."
+    },
+    {
+      "chunk_number": 39,
+      "start": 318.08,
+      "end": 325.08,
+      "text": "If the error is here, like, I have written in the lines of the 5 lines here. And, the line number 5 is here. So, after the line number 5,"
+    },
+    {
+      "chunk_number": 40,
+      "start": 325.08,
+      "end": 332.08,
+      "text": "the control will go here. You will tell the error. And, the code will start running. So, I will also show you the run."
+    },
+    {
+      "chunk_number": 41,
+      "start": 332.08,
+      "end": 337.08,
+      "text": "So, you see, I have written in your Harry. So, you see, multiplication table of Harry is print."
+    },
+    {
+      "chunk_number": 42,
+      "start": 337.08,
+      "end": 343.08,
+      "text": "Then, I have printed this error. So, this is print. This is the error."
+    },
+    {
+      "chunk_number": 43,
+      "start": 343.08,
+      "end": 349.08,
+      "text": "So, this is the error print. And, these 2 lines are also successfully published. Okay? I want to write here,"
+    },
+    {
+      "chunk_number": 44,
+      "start": 349.08,
+      "end": 355.08,
+      "text": "sorry, I can write here, like this, sorry, some"
+    },
+    {
+      "chunk_number": 45,
+      "start": 355.08,
+      "end": 364.08,
+      "text": "error occurred. Okay? So, I am going to run this. You see, I am not using E here."
+    },
+    {
+      "chunk_number": 46,
+      "start": 364.08,
+      "end": 369.08,
+      "text": "Enter the number, you write, I have written, multiplication table of View is sorry, sorry,"
+    },
+    {
+      "chunk_number": 47,
+      "start": 369.08,
+      "end": 375.08,
+      "text": "I have occurred. Then, I have written, I have written, I have written,"
+    },
+    {
+      "chunk_number": 48,
+      "start": 375.08,
+      "end": 383.08,
+      "text": "invalid input. Okay? And, I am not even using E if I am not using E. I can only write,"
+    },
+    {
+      "chunk_number": 49,
+      "start": 383.08,
+      "end": 389.08,
+      "text": "like this. If someone is here, you see, I have written, invalid input."
+    },
+    {
+      "chunk_number": 50,
+      "start": 389.08,
+      "end": 395.08,
+      "text": "And, the code will be executed after this. This is the most important thing, because, we do this because,"
+    },
+    {
+      "chunk_number": 51,
+      "start": 395.08,
+      "end": 402.08,
+      "text": "our lines of code are executed. Okay? Our lines of code are executed. So, the program is not halted."
+    },
+    {
+      "chunk_number": 52,
+      "start": 402.08,
+      "end": 409.08,
+      "text": "The program is halted, when it is met, and when it is met, if it is met 7 times, or it is met 5 times,"
+    },
+    {
+      "chunk_number": 53,
+      "start": 409.08,
+      "end": 416.08,
+      "text": "it will be stopped there. I do not want this. I want my program to continue. And, if it is met in these lines,"
+    },
+    {
+      "chunk_number": 54,
+      "start": 416.08,
+      "end": 424.08,
+      "text": "then it is done. Okay? So, I can't do a second test, but, I can handle the error of specific,"
+    },
+    {
+      "chunk_number": 55,
+      "start": 424.08,
+      "end": 432.08,
+      "text": "okay? So, I can do all that. So, I hope that, you all understand, how the exceptions work,"
+    },
+    {
+      "chunk_number": 56,
+      "start": 432.08,
+      "end": 440.08,
+      "text": "now, what is written here? Exception handling is the process of responding, to unwanted or unexpected events, like in this case, an unexpected event,"
+    },
+    {
+      "chunk_number": 57,
+      "start": 440.08,
+      "end": 446.08,
+      "text": "that, if you put the string in the user's hand, then, this was an unexpected event. When a computer program runs,"
+    },
+    {
+      "chunk_number": 58,
+      "start": 446.08,
+      "end": 455.08,
+      "text": "exception handling deals with these events, to avoid the program of system crashing, and without this process, exceptions would disrupt the normal operation of a program."
+    },
+    {
+      "chunk_number": 59,
+      "start": 455.08,
+      "end": 463.08,
+      "text": "Okay? So, Python has many built-in exceptions that are raised when your program, encounters an error,"
+    },
+    {
+      "chunk_number": 60,
+      "start": 463.08,
+      "end": 470.08,
+      "text": "something in the program goes wrong. If there is something like this, that your program is not working properly, then, what will happen? You will get an exception,"
+    },
+    {
+      "chunk_number": 61,
+      "start": 470.08,
+      "end": 476.08,
+      "text": "when these exceptions, then, Python interrupts the current process, and passes it to the calling process, until it is handled."
+    },
+    {
+      "chunk_number": 62,
+      "start": 476.08,
+      "end": 481.08,
+      "text": "If not handled, program will crash. Like, you saw here, the program had crashed, it was crashed."
+    },
+    {
+      "chunk_number": 63,
+      "start": 481.08,
+      "end": 487.08,
+      "text": "Okay? And, this is a tri-except syntax, which I have told you, you can handle the specific error,"
+    },
+    {
+      "chunk_number": 64,
+      "start": 487.08,
+      "end": 493.08,
+      "text": "like, you see here, this example, you see, you see, here,"
+    },
+    {
+      "chunk_number": 65,
+      "start": 493.08,
+      "end": 500.08,
+      "text": "I have handled the value error, that, I have not done this, if I do not add an integer, the specific error,"
+    },
+    {
+      "chunk_number": 66,
+      "start": 500.08,
+      "end": 507.08,
+      "text": "the value error, number entered, is not integer, I have handled the value error, okay?"
+    },
+    {
+      "chunk_number": 67,
+      "start": 507.08,
+      "end": 512.0799999999999,
+      "text": "Now, in one line, there are five errors, it is possible. You are doing this,"
+    },
+    {
+      "chunk_number": 68,
+      "start": 512.0799999999999,
+      "end": 518.08,
+      "text": "and, and here, you are doing something, that, let us say,"
+    },
+    {
+      "chunk_number": 69,
+      "start": 518.08,
+      "end": 525.08,
+      "text": "servers data, if you are doing this, you can handle the error there. If you want to handle this"
+    },
+    {
+      "chunk_number": 70,
+      "start": 525.08,
+      "end": 530.08,
+      "text": "value error, then, you can do something else. You can put multiple except,"
+    },
+    {
+      "chunk_number": 71,
+      "start": 530.08,
+      "end": 535.08,
+      "text": "I write here, except, and exception object, you can also give any error, you can give it here."
+    },
+    {
+      "chunk_number": 72,
+      "start": 535.08,
+      "end": 540.08,
+      "text": "And, here, I have written an except index error, i.e. I want to handle the index error, like this."
+    },
+    {
+      "chunk_number": 73,
+      "start": 540.08,
+      "end": 545.08,
+      "text": "Now, I know, here, A is equal to 6,3, and,"
+    },
+    {
+      "chunk_number": 74,
+      "start": 545.08,
+      "end": 552.08,
+      "text": "what I am doing here, in fact, I will do this in work. And, I am doing A here."
+    },
+    {
+      "chunk_number": 75,
+      "start": 552.08,
+      "end": 558.08,
+      "text": "I am saying, print A, okay? Now, look, what happens here?"
+    },
+    {
+      "chunk_number": 76,
+      "start": 558.08,
+      "end": 564.08,
+      "text": "Try, try to try in three lines. Now, I will put the value of the name, then,"
+    },
+    {
+      "chunk_number": 77,
+      "start": 564.08,
+      "end": 570.08,
+      "text": "what will happen? A is 0, okay? If I put the value of the name, then,"
+    },
+    {
+      "chunk_number": 78,
+      "start": 570.08,
+      "end": 576.08,
+      "text": "I will put the value of the name, and, I will enter, number, enter is not an integer,"
+    },
+    {
+      "chunk_number": 79,
+      "start": 576.08,
+      "end": 583.08,
+      "text": "because, if I put the value of the integer, which will come here, because, this is not so big,"
+    },
+    {
+      "chunk_number": 80,
+      "start": 583.08,
+      "end": 589.08,
+      "text": "that, this is equal to 4. So, I will handle the error, and,"
+    },
+    {
+      "chunk_number": 81,
+      "start": 589.08,
+      "end": 596.08,
+      "text": "I will do this in index error, I will do this in memory, I will do this in value, and, I will do this in error objects,"
+    },
+    {
+      "chunk_number": 82,
+      "start": 596.08,
+      "end": 601.08,
+      "text": "and, I will see, which ones are used, but, this is how,"
+    },
+    {
+      "chunk_number": 83,
+      "start": 601.08,
+      "end": 606.08,
+      "text": "basic, handling works in Python. I hope, you all understood, that,"
+    },
+    {
+      "chunk_number": 84,
+      "start": 606.08,
+      "end": 611.08,
+      "text": "basic, handling works in Python. And, you guys, try to do this,"
+    },
+    {
+      "chunk_number": 85,
+      "start": 611.08,
+      "end": 616.08,
+      "text": "program once, and, the source code I have given, is not only not a feature, you try it with your own,"
+    },
+    {
+      "chunk_number": 86,
+      "start": 616.08,
+      "end": 621.08,
+      "text": "but, you try to produce the errors, and, you try to handle them, you try to accept it,"
+    },
+    {
+      "chunk_number": 87,
+      "start": 621.08,
+      "end": 626.08,
+      "text": "okay? So, in this video, if you have not done the playlist, then,"
+    },
+    {
+      "chunk_number": 88,
+      "start": 626.08,
+      "end": 631.08,
+      "text": "click here, and, you can click here, and, you guys,"
+    },
+    {
+      "chunk_number": 89,
+      "start": 631.08,
+      "end": 635.08,
+      "text": "click on the video, and, I will see you, next time."
+    }
+  ],
+  "text": "Sometimes we write code, it gets error. In fact, we do not get error. Our code gets error, it gets error. It gets error, it gets error. It gets error, it gets error. Whenever a mistake is done, or there can be a mistake in a server. We have some records from the servers. And those records are not available in the server. Because of the server error. In this, our Python program can be terminated. We do not want our programs to stop. Because of some error, we do our Python program. Error handling. And to do error handling in Python, we try to use the dry accept. Try to handle the dry accept. How easy the video will tell you. Let's go to the computer screen and see how error handling is done in Python. Let's get started. So, the basic use of the exception handling. This is the error in the program. We will keep doing it. You will be wrong here. Or you can be a situation like this. You have got a server from the server. And the data is coming in wrong format. There is no reason for it to work. You can't get a data compatible. You will get an error. But if you get a error, your program will stop. We know all these. For example, if I say A is equal to input, I say enter the number. And then I do something like this. And then I will show you the multiplication table. Multiplication table of A. Here I use a app string. I will write this way. And I will write the multiplication table of A. And I will tell you the size of the four loops. For I in range of 1 to 11, so that I can get 10 from 1 to 10. And I will write print, I will write the same app string. Whatever is my variable, A. I will write multiply by, and I will write here, I. And I will write, is equal to, and I will write here, simply, A multiplied by, I. Okay. This value will be evaluated. And if I want to convert this value to one of the seven, and obviously I want to convert it into one integer. I will write here, Int of A. And here, when I am calculating, I will convert it into Int. And I will run it now. If I am going to write, I will write number 8, so I will write here, print here. As you can see, and similarly, if I write here, I will write another number, and just program box is absolutely fine. I have not seen it yet. I have entered it. And I have come to the four loops. But, think about it, if I write here, Harry, you have written 1 minute, why are you writing Harry? First I will write my keyboard, and I will also get the answer. And you can see here, this is an error. The error is written by mixing it with a keyboard. You can convert it into a query, and what is the multiplication table? What does it mean? The multiplication table is called, what does Harry mean? Here is the error. Now, notice one thing. If I know, I will write, print, some lines of code. I mean, there are some lines of code. And here, our program is over. So, I will write, end of program. Okay? So, I will run it. So, you can see, I have written here, enter the number. I have written 3, multiplication table. Here, the number of 3 is visible. And then, notice, some lines of code and end of programs are written. And I will do it, some important lines of code. I mean, after that, I am doing some important lines of code. Let us say, we are sending this multiplication table, okay? For some work, let us say. Now, I will write my name here. Let me write here. My name is Jokal, I am Jokal. So, these two lines are not print. I mean, our program is here and it is called halt. Now, see, there is no guarantee that the user, who is giving the number in the input, will be in the integer. Or, the user, who is always a number, will be valid. There is no guarantee. But, I am doing something in line number 4 and 5, to listen carefully. And, listen to this, you have to accept the test. I have to do something. If I want, then my program is run. But, if I want to do something, if my program is running properly, then it will run. So, it will be normal. But, if error is, then it will be more. Okay? What else is, then we will see. Okay? Now, I will show you here. What I will do? In the lines of code, because I know that it is impossible to get error. So, I will try this. I will try. I will try. I will try. I will use it. And, I will write in Indian. Like, I will write in loops. Like I will write in Indian. And, I will write in here. Accept. And, I will write in here. Accept. As. A. So that, I know that, what, I will write in the error. Print. Okay? This template is used here. It is used for many Python programmers. That, you write in any code, you write in your code, you write in your 2 lines, you write in your 5 lines, you want to try. You write in your code. Accept. Accept. If the error is here, like, I have written in the lines of the 5 lines here. And, the line number 5 is here. So, after the line number 5, the control will go here. You will tell the error. And, the code will start running. So, I will also show you the run. So, you see, I have written in your Harry. So, you see, multiplication table of Harry is print. Then, I have printed this error. So, this is print. This is the error. So, this is the error print. And, these 2 lines are also successfully published. Okay? I want to write here, sorry, I can write here, like this, sorry, some error occurred. Okay? So, I am going to run this. You see, I am not using E here. Enter the number, you write, I have written, multiplication table of View is sorry, sorry, I have occurred. Then, I have written, I have written, I have written, invalid input. Okay? And, I am not even using E if I am not using E. I can only write, like this. If someone is here, you see, I have written, invalid input. And, the code will be executed after this. This is the most important thing, because, we do this because, our lines of code are executed. Okay? Our lines of code are executed. So, the program is not halted. The program is halted, when it is met, and when it is met, if it is met 7 times, or it is met 5 times, it will be stopped there. I do not want this. I want my program to continue. And, if it is met in these lines, then it is done. Okay? So, I can't do a second test, but, I can handle the error of specific, okay? So, I can do all that. So, I hope that, you all understand, how the exceptions work, now, what is written here? Exception handling is the process of responding, to unwanted or unexpected events, like in this case, an unexpected event, that, if you put the string in the user's hand, then, this was an unexpected event. When a computer program runs, exception handling deals with these events, to avoid the program of system crashing, and without this process, exceptions would disrupt the normal operation of a program. Okay? So, Python has many built-in exceptions that are raised when your program, encounters an error, something in the program goes wrong. If there is something like this, that your program is not working properly, then, what will happen? You will get an exception, when these exceptions, then, Python interrupts the current process, and passes it to the calling process, until it is handled. If not handled, program will crash. Like, you saw here, the program had crashed, it was crashed. Okay? And, this is a tri-except syntax, which I have told you, you can handle the specific error, like, you see here, this example, you see, you see, here, I have handled the value error, that, I have not done this, if I do not add an integer, the specific error, the value error, number entered, is not integer, I have handled the value error, okay? Now, in one line, there are five errors, it is possible. You are doing this, and, and here, you are doing something, that, let us say, servers data, if you are doing this, you can handle the error there. If you want to handle this value error, then, you can do something else. You can put multiple except, I write here, except, and exception object, you can also give any error, you can give it here. And, here, I have written an except index error, i.e. I want to handle the index error, like this. Now, I know, here, A is equal to 6,3, and, what I am doing here, in fact, I will do this in work. And, I am doing A here. I am saying, print A, okay? Now, look, what happens here? Try, try to try in three lines. Now, I will put the value of the name, then, what will happen? A is 0, okay? If I put the value of the name, then, I will put the value of the name, and, I will enter, number, enter is not an integer, because, if I put the value of the integer, which will come here, because, this is not so big, that, this is equal to 4. So, I will handle the error, and, I will do this in index error, I will do this in memory, I will do this in value, and, I will do this in error objects, and, I will see, which ones are used, but, this is how, basic, handling works in Python. I hope, you all understood, that, basic, handling works in Python. And, you guys, try to do this, program once, and, the source code I have given, is not only not a feature, you try it with your own, but, you try to produce the errors, and, you try to handle them, you try to accept it, okay? So, in this video, if you have not done the playlist, then, click here, and, you can click here, and, you guys, click on the video, and, I will see you, next time."
+}

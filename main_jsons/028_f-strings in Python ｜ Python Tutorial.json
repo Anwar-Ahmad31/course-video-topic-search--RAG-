@@ -1,0 +1,295 @@
+{
+  "video_number": 28,
+  "title": "f-strings in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 17.26,
+      "text": "We have seen the strength of Python's strings very well But in today's video, you guys will find a way to tell the string formatting Because you will be surprised by the people who will appreciate Python's beauty How is the way of f-string in Python's string? In the string, variables are very conveniently placed"
+    },
+    {
+      "chunk_number": 2,
+      "start": 17.26,
+      "end": 27.02,
+      "text": "Let's see how the f-strings are made And this Python 3.6 version is found in Python There is such a big feature in Python Let's see it Let's get started"
+    },
+    {
+      "chunk_number": 3,
+      "start": 30.0,
+      "end": 48.0,
+      "text": "Now let's talk about f-string First of all, I would like to tell you something That it is used for string formatting F-string solved a problem in Python programming It was trying to face Python programmers"
+    },
+    {
+      "chunk_number": 4,
+      "start": 48.0,
+      "end": 60.0,
+      "text": "And it was the string formatting problem Now let me tell you what is the string formatting I have written here letter is equal to I made a string And I write here my name is"
+    },
+    {
+      "chunk_number": 5,
+      "start": 60.0,
+      "end": 76.0,
+      "text": "And I write it in black And after doing this, I write it in some way And I am very Or I am from And I write it in some way"
+    },
+    {
+      "chunk_number": 6,
+      "start": 76.0,
+      "end": 87.0,
+      "text": "Now let's assume that Country is equal to India And I write it in the same way Name is equal to"
+    },
+    {
+      "chunk_number": 7,
+      "start": 87.0,
+      "end": 99.0,
+      "text": "Harry So I can do it in some way I can say letter dot format And format is a string method And I can say name and country"
+    },
+    {
+      "chunk_number": 8,
+      "start": 99.0,
+      "end": 108.0,
+      "text": "So if I do it in this way The value of name is in this bracket And the value of country is in this bracket I will find out what is the value of this bracket If I print it"
+    },
+    {
+      "chunk_number": 9,
+      "start": 108.0,
+      "end": 116.0,
+      "text": "I will print it in letter dot format So what will happen? I will get my name is Harry And I am from India Like you can see here"
+    },
+    {
+      "chunk_number": 10,
+      "start": 116.0,
+      "end": 128.0,
+      "text": "So what will happen? The format method has given name and country And I will get my name and country name Now I assume that I give it to the country name"
+    },
+    {
+      "chunk_number": 11,
+      "start": 128.0,
+      "end": 137.0,
+      "text": "So what happens? It gets ulded So the country is first and then My name is India and I am from Harry So what can I do in this?"
+    },
+    {
+      "chunk_number": 12,
+      "start": 137.0,
+      "end": 149.0,
+      "text": "I can put number here I will write the value of the first and then I will write 0 here and then I will write 1 here So the country will come here and name will come here So first I will write the string format"
+    },
+    {
+      "chunk_number": 13,
+      "start": 149.0,
+      "end": 157.0,
+      "text": "So first I will write the string format And I am from India Now there is no problem with this approach So you can't use it like this You can definitely do it"
+    },
+    {
+      "chunk_number": 14,
+      "start": 157.0,
+      "end": 169.0,
+      "text": "And you will find it in the previous programs The problem is that it is not convenient If I have to write a lot of code And then I have to understand If it is 0 then the country has to be here"
+    },
+    {
+      "chunk_number": 15,
+      "start": 169.0,
+      "end": 180.0,
+      "text": "So if it is a name then name 1 So name is here then name is here If you find the argument in this format And you will find the value of the variable Where and where and where the value is"
+    },
+    {
+      "chunk_number": 16,
+      "start": 180.0,
+      "end": 188.0,
+      "text": "So this is the way to do it This is the easy way to write the string Write it in the way you write it First you write the string Then you will write the string"
+    },
+    {
+      "chunk_number": 17,
+      "start": 188.0,
+      "end": 199.0,
+      "text": "This will be automatically recognized As an F string F string means that You can put your string in the variable So the name I have written here"
+    },
+    {
+      "chunk_number": 18,
+      "start": 199.0,
+      "end": 209.0,
+      "text": "I can write it in this way I can put the variable here directly I can put the name variable here And what I will put here I will put the country here"
+    },
+    {
+      "chunk_number": 19,
+      "start": 209.0,
+      "end": 219.0,
+      "text": "So automatically this string Python as an F string Recognize it first Then Python will say Because you have used the string"
+    },
+    {
+      "chunk_number": 20,
+      "start": 219.0,
+      "end": 227.0,
+      "text": "And you have written the name in your bucket So let's be populate the value of name The value of name is here Which is in this case They were populate here"
+    },
+    {
+      "chunk_number": 21,
+      "start": 227.0,
+      "end": 234.0,
+      "text": "Okay? Populate and I am from country The country's value is let me populate it Okay? So this will be India"
+    },
+    {
+      "chunk_number": 22,
+      "start": 234.0,
+      "end": 242.0,
+      "text": "That's about it Okay? It's so simple F string Now I have told you about the string formatting You can do it like this"
+    },
+    {
+      "chunk_number": 23,
+      "start": 242.0,
+      "end": 254.0,
+      "text": "And what happens to put point 2F If I write the price colon point 2F Then what will be the value of the price As I will print it And I will show it"
+    },
+    {
+      "chunk_number": 24,
+      "start": 254.0,
+      "end": 262.0,
+      "text": "And I will write 49.0999999 So I will write it in 2 decimal places Okay? So here you can see It is not only 2 decimal places"
+    },
+    {
+      "chunk_number": 25,
+      "start": 262.0,
+      "end": 271.0,
+      "text": "It is 49.10 So this way you can do it If you want to take a voting value Then you can take it I have done the price point 2F"
+    },
+    {
+      "chunk_number": 26,
+      "start": 271.0,
+      "end": 284.0,
+      "text": "So you can use the F string conveniently Now if I don't write it with F string Then I simply do what And what happens to it I wrote TXT is equal to this"
+    },
+    {
+      "chunk_number": 27,
+      "start": 284.0,
+      "end": 294.0,
+      "text": "And I will do the price of the required and defined I will define the value of the price here I will do the control X I will comment it out And if I run it now"
+    },
+    {
+      "chunk_number": 28,
+      "start": 294.0,
+      "end": 303.0,
+      "text": "So you can see here That for only 49.1 minute What happened? I didn't print it It is TXT"
+    },
+    {
+      "chunk_number": 29,
+      "start": 303.0,
+      "end": 314.0,
+      "text": "Print TXT So I have written it as print TXT And here for only 49.10 dollars So I used to do it from format Including the point 2F"
+    },
+    {
+      "chunk_number": 30,
+      "start": 314.0,
+      "end": 324.0,
+      "text": "I have to write 2 decimal points And I will write it as a colon And I will write it as a point 2F I can do it with F string So I can do something like this in this F string"
+    },
+    {
+      "chunk_number": 31,
+      "start": 324.0,
+      "end": 334.0,
+      "text": "I have written F in double quotes I have written my string in double quotes And I have written my variable in the curly braces I hope you all understood Now this is newly introduced"
+    },
+    {
+      "chunk_number": 32,
+      "start": 334.0,
+      "end": 344.0,
+      "text": "Python 3.6 onwards You should know this too And you can do variable synths here Do read it I have written it once"
+    },
+    {
+      "chunk_number": 33,
+      "start": 344.0,
+      "end": 358.0,
+      "text": "If you want to make a string in this case You can make a value of 16 inside of it You can do it like this And you will get 2 into 30 value And you will get a string"
+    },
+    {
+      "chunk_number": 34,
+      "start": 358.0,
+      "end": 370.0,
+      "text": "And I hope you all understood I think you all are missing a bracket I will fix it I will fix it Oops, I have actually put a wrong place"
+    },
+    {
+      "chunk_number": 35,
+      "start": 370.0,
+      "end": 380.0,
+      "text": "So I will fix it So I think it will come to 60 You can see And if I print it Definitely it will be a string"
+    },
+    {
+      "chunk_number": 36,
+      "start": 380.0,
+      "end": 390.0,
+      "text": "Because F string It will run And you all have to see You can see class STR The class is that string"
+    },
+    {
+      "chunk_number": 37,
+      "start": 390.0,
+      "end": 400.0,
+      "text": "So this is the same thing We can use F string We want to plug a variable in a very big string We just put curly braces And put the variables inside of the johas"
+    },
+    {
+      "chunk_number": 38,
+      "start": 400.0,
+      "end": 412.0,
+      "text": "So we can put the variables inside of the johas I hope you all understood Now I want to tell you something important If you want to print it literally Literally"
+    },
+    {
+      "chunk_number": 39,
+      "start": 412.0,
+      "end": 422.0,
+      "text": "This is written here This is my name I want to see this I have replaced the value The variable that was Harry"
+    },
+    {
+      "chunk_number": 40,
+      "start": 422.0,
+      "end": 432.0,
+      "text": "It came from this variable The value of the name was Harry So it has been popular in my string I want to show you literally this In your output, my name is curly brackets"
+    },
+    {
+      "chunk_number": 41,
+      "start": 432.0,
+      "end": 444.0,
+      "text": "And I want to do something like this We use F strings like this I want to show you I am writing a program in the middle of a program I want to use this string"
+    },
+    {
+      "chunk_number": 42,
+      "start": 444.0,
+      "end": 454.0,
+      "text": "So I want to print it literally If I run it I will replace the value of the name You can see here My name is Harry"
+    },
+    {
+      "chunk_number": 43,
+      "start": 454.0,
+      "end": 466.0,
+      "text": "I am from India We use F string like this But if I want to display this as it is I will do it like this I will put it in curly braces"
+    },
+    {
+      "chunk_number": 44,
+      "start": 466.0,
+      "end": 476.0,
+      "text": "And you can see here If I run it You can see this as it is I am showing it If you want to see the curly brackets"
+    },
+    {
+      "chunk_number": 45,
+      "start": 476.0,
+      "end": 486.0,
+      "text": "You can see here You will have to double curly brackets Many people don't know They struggle And you will see at one point"
+    },
+    {
+      "chunk_number": 46,
+      "start": 486.0,
+      "end": 496.0,
+      "text": "When you will find that This is useful And when you will want You will have to replace the value of F string How do I retain my F string"
+    },
+    {
+      "chunk_number": 47,
+      "start": 496.0,
+      "end": 506.0,
+      "text": "As an F string I would have seen this If you have not done playlists You can do it You can click on the link"
+    },
+    {
+      "chunk_number": 48,
+      "start": 506.0,
+      "end": 514.0,
+      "text": "And click on the link Thank you so much for watching this video And I will see you Next time"
+    }
+  ],
+  "text": "We have seen the strength of Python's strings very well But in today's video, you guys will find a way to tell the string formatting Because you will be surprised by the people who will appreciate Python's beauty How is the way of f-string in Python's string? In the string, variables are very conveniently placed Let's see how the f-strings are made And this Python 3.6 version is found in Python There is such a big feature in Python Let's see it Let's get started Now let's talk about f-string First of all, I would like to tell you something That it is used for string formatting F-string solved a problem in Python programming It was trying to face Python programmers And it was the string formatting problem Now let me tell you what is the string formatting I have written here letter is equal to I made a string And I write here my name is And I write it in black And after doing this, I write it in some way And I am very Or I am from And I write it in some way Now let's assume that Country is equal to India And I write it in the same way Name is equal to Harry So I can do it in some way I can say letter dot format And format is a string method And I can say name and country So if I do it in this way The value of name is in this bracket And the value of country is in this bracket I will find out what is the value of this bracket If I print it I will print it in letter dot format So what will happen? I will get my name is Harry And I am from India Like you can see here So what will happen? The format method has given name and country And I will get my name and country name Now I assume that I give it to the country name So what happens? It gets ulded So the country is first and then My name is India and I am from Harry So what can I do in this? I can put number here I will write the value of the first and then I will write 0 here and then I will write 1 here So the country will come here and name will come here So first I will write the string format So first I will write the string format And I am from India Now there is no problem with this approach So you can't use it like this You can definitely do it And you will find it in the previous programs The problem is that it is not convenient If I have to write a lot of code And then I have to understand If it is 0 then the country has to be here So if it is a name then name 1 So name is here then name is here If you find the argument in this format And you will find the value of the variable Where and where and where the value is So this is the way to do it This is the easy way to write the string Write it in the way you write it First you write the string Then you will write the string This will be automatically recognized As an F string F string means that You can put your string in the variable So the name I have written here I can write it in this way I can put the variable here directly I can put the name variable here And what I will put here I will put the country here So automatically this string Python as an F string Recognize it first Then Python will say Because you have used the string And you have written the name in your bucket So let's be populate the value of name The value of name is here Which is in this case They were populate here Okay? Populate and I am from country The country's value is let me populate it Okay? So this will be India That's about it Okay? It's so simple F string Now I have told you about the string formatting You can do it like this And what happens to put point 2F If I write the price colon point 2F Then what will be the value of the price As I will print it And I will show it And I will write 49.0999999 So I will write it in 2 decimal places Okay? So here you can see It is not only 2 decimal places It is 49.10 So this way you can do it If you want to take a voting value Then you can take it I have done the price point 2F So you can use the F string conveniently Now if I don't write it with F string Then I simply do what And what happens to it I wrote TXT is equal to this And I will do the price of the required and defined I will define the value of the price here I will do the control X I will comment it out And if I run it now So you can see here That for only 49.1 minute What happened? I didn't print it It is TXT Print TXT So I have written it as print TXT And here for only 49.10 dollars So I used to do it from format Including the point 2F I have to write 2 decimal points And I will write it as a colon And I will write it as a point 2F I can do it with F string So I can do something like this in this F string I have written F in double quotes I have written my string in double quotes And I have written my variable in the curly braces I hope you all understood Now this is newly introduced Python 3.6 onwards You should know this too And you can do variable synths here Do read it I have written it once If you want to make a string in this case You can make a value of 16 inside of it You can do it like this And you will get 2 into 30 value And you will get a string And I hope you all understood I think you all are missing a bracket I will fix it I will fix it Oops, I have actually put a wrong place So I will fix it So I think it will come to 60 You can see And if I print it Definitely it will be a string Because F string It will run And you all have to see You can see class STR The class is that string So this is the same thing We can use F string We want to plug a variable in a very big string We just put curly braces And put the variables inside of the johas So we can put the variables inside of the johas I hope you all understood Now I want to tell you something important If you want to print it literally Literally This is written here This is my name I want to see this I have replaced the value The variable that was Harry It came from this variable The value of the name was Harry So it has been popular in my string I want to show you literally this In your output, my name is curly brackets And I want to do something like this We use F strings like this I want to show you I am writing a program in the middle of a program I want to use this string So I want to print it literally If I run it I will replace the value of the name You can see here My name is Harry I am from India We use F string like this But if I want to display this as it is I will do it like this I will put it in curly braces And you can see here If I run it You can see this as it is I am showing it If you want to see the curly brackets You can see here You will have to double curly brackets Many people don't know They struggle And you will see at one point When you will find that This is useful And when you will want You will have to replace the value of F string How do I retain my F string As an F string I would have seen this If you have not done playlists You can do it You can click on the link And click on the link Thank you so much for watching this video And I will see you Next time"
+}

@@ -1,0 +1,619 @@
+{
+  "video_number": 14,
+  "title": "If Else Conditional Statements in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 15.18,
+      "text": "remember when we were in childhood when we were not going to school we used to say that if we were going to school then I would not go and if we were not going to school then we would make decision making in school we make many decisions in our life for example if I am tired then I will not go out"
+    },
+    {
+      "chunk_number": 2,
+      "start": 15.18,
+      "end": 24.400000000000002,
+      "text": "and if I am not tired then I will go out so this way the decision making is going on if you are hungry then you have to eat no, don't eat it is hungry and there is money in it"
+    },
+    {
+      "chunk_number": 3,
+      "start": 24.400000000000002,
+      "end": 34.24,
+      "text": "so you have to eat or you can control your hunger or you can make something in your home so this way the decision making is going on in daily life in our 5th and 6th programming we have to make decision making"
+    },
+    {
+      "chunk_number": 4,
+      "start": 34.24,
+      "end": 42.04,
+      "text": "if we are going to do if else statements we can use if we can use LF we can use LF from all the conditioners"
+    },
+    {
+      "chunk_number": 5,
+      "start": 42.04,
+      "end": 47.980000000000004,
+      "text": "in 5th and 6th programming we will use I will tell you today let's go then the video screen man let's get started"
+    },
+    {
+      "chunk_number": 6,
+      "start": 47.98,
+      "end": 67.34,
+      "text": "so guys I will open my Rappel first of all day 14 and as you can see here today's topic is full statement there are many times in the program that I will do something with the condition"
+    },
+    {
+      "chunk_number": 7,
+      "start": 67.34,
+      "end": 79.94,
+      "text": "for example I take an input from users and I say by the way I can write in input I can write in this way to get an input from the user because you can tell that"
+    },
+    {
+      "chunk_number": 8,
+      "start": 79.94,
+      "end": 88.94,
+      "text": "everything comes from the input and if I want to get an in-danger then I can use the function or type casting I know that I say enter your age"
+    },
+    {
+      "chunk_number": 9,
+      "start": 88.94,
+      "end": 103.94,
+      "text": "and I am taking the user's age in the first place and I do something like this my age is and I am using a common way I will print it"
+    },
+    {
+      "chunk_number": 10,
+      "start": 103.94,
+      "end": 113.94,
+      "text": "then I take the condition if the age is more than a hundred then I can display it you can drive it or you can't drive it"
+    },
+    {
+      "chunk_number": 11,
+      "start": 113.94,
+      "end": 122.94,
+      "text": "I know that the age is greater than 18 so I will tell you what you do I will put a colon"
+    },
+    {
+      "chunk_number": 12,
+      "start": 122.94,
+      "end": 133.94,
+      "text": "and I will say print you can drive and after that I will write a program then I will explain"
+    },
+    {
+      "chunk_number": 13,
+      "start": 133.94,
+      "end": 143.94,
+      "text": "what is the condition and what is the condition you cannot drive I have written in the entry and I am doing the same program"
+    },
+    {
+      "chunk_number": 14,
+      "start": 143.94,
+      "end": 155.94,
+      "text": "with the IFL statement if I have written the entry you cannot drive but if I write in 90 or 78 I will not write in 78"
+    },
+    {
+      "chunk_number": 15,
+      "start": 155.94,
+      "end": 163.94,
+      "text": "if I write 78 I have written a number in fact I have written a number in 76 I have written 76"
+    },
+    {
+      "chunk_number": 16,
+      "start": 163.94,
+      "end": 174.94,
+      "text": "and I am doing the same I will give a colon space based on input I have determined that I can't drive it"
+    },
+    {
+      "chunk_number": 17,
+      "start": 174.94,
+      "end": 182.94,
+      "text": "and now I want to write the tutorial sometimes the program needs to check the evaluation especially the expression it is true it is false"
+    },
+    {
+      "chunk_number": 18,
+      "start": 182.94,
+      "end": 189.94,
+      "text": "basically what is our conditional operator is that let's say equal to"
+    },
+    {
+      "chunk_number": 19,
+      "start": 189.94,
+      "end": 194.94,
+      "text": "equal to double equals to equal to equal to equal to"
+    },
+    {
+      "chunk_number": 20,
+      "start": 194.94,
+      "end": 202.94,
+      "text": "equal to equal to I will explain about conditional operators let's say"
+    },
+    {
+      "chunk_number": 21,
+      "start": 202.94,
+      "end": 211.94,
+      "text": "about conditional operators equal to equal equal to and after that"
+    },
+    {
+      "chunk_number": 22,
+      "start": 211.94,
+      "end": 235.94,
+      "text": "equal to equal to So, if you want to print the A's greater than 18, then print the A's less than equal to 18. And then print the A's double equals to 18. And then print the A's not equal to 18."
+    },
+    {
+      "chunk_number": 23,
+      "start": 235.94,
+      "end": 249.94,
+      "text": "This is also our conditional operator. Now I will print the A's dynamically as an input from the user. I want to keep the A's 18. I have kept the A's 18. So, what will happen?"
+    },
+    {
+      "chunk_number": 24,
+      "start": 249.94,
+      "end": 260.94,
+      "text": "Does the A's less than greater than 18? No, it's not greater than 18. Even if it is 18. If it is 18, then it will not be true. And then you see, less than equal to 18."
+    },
+    {
+      "chunk_number": 25,
+      "start": 260.94,
+      "end": 269.94,
+      "text": "Does the A's less than equal to 18 is higher? Yes, it is 18. So, it is less than or equal to the A's. So, it is less than or equal to the A's. It will be equal to the A's."
+    },
+    {
+      "chunk_number": 26,
+      "start": 269.94,
+      "end": 277.94,
+      "text": "So, this will evaluate to true. Is the A's equal to 18? Exactly equal to 18. Yes, that's true. So, true is here."
+    },
+    {
+      "chunk_number": 27,
+      "start": 277.94,
+      "end": 290.94,
+      "text": "This is our Boolean type rate. A is less than equal to greater than equal to double equal to A's greater than 18. This is our Boolean type rate. A is not equal to 18. Is this true?"
+    },
+    {
+      "chunk_number": 28,
+      "start": 290.94,
+      "end": 297.94,
+      "text": "No, this is not true. A is actually equal to 18. Okay, then we are conditional operators. Let me comment on this. You have understood."
+    },
+    {
+      "chunk_number": 29,
+      "start": 297.94,
+      "end": 317.94,
+      "text": "The F statement is conditional operator. It is a condition that will evaluate in true or false. And after seeing, if this is true, that is, if A is greater than 18, then this block of code is printed. And if this is not true, then this block of code is printed."
+    },
+    {
+      "chunk_number": 30,
+      "start": 317.94,
+      "end": 327.94,
+      "text": "But both of them will never be printed. Whether it will go into F or L or L. Both of them will go into one. Now, you must have thought that this is a colon. And why did I keep this space?"
+    },
+    {
+      "chunk_number": 31,
+      "start": 327.94,
+      "end": 340.94,
+      "text": "Why can't I give this space? You see, I have taken this space here to see the error. This space is called indentation in Python. And modern IDEs should be used as a waste code. You can use Python as a template."
+    },
+    {
+      "chunk_number": 32,
+      "start": 340.94,
+      "end": 355.94,
+      "text": "So, if you enter, then automatically this space will give you. This space is called indentation in Python. Indentation means that you are starting a block. If you are learning C language, then you will understand. So, you will not use curly brackets here."
+    },
+    {
+      "chunk_number": 33,
+      "start": 355.94,
+      "end": 375.94,
+      "text": "Let's just tell you in this block that we have entered this block. After this, we have entered the column and then we have given a space. That is, we have entered the column in F. I will enter here, if I write print yes, then we are in F. If I write print no, then we are in L's."
+    },
+    {
+      "chunk_number": 34,
+      "start": 375.94,
+      "end": 391.94,
+      "text": "Because we have started in L's. Now, you guys comment on what is inside L's? Is it inside L's? No, inside L's. So, if the code is evaluated inside L's, then it is executed."
+    },
+    {
+      "chunk_number": 35,
+      "start": 391.94,
+      "end": 402.94,
+      "text": "So, if it is executed, then it is executed. After that, you guys will get this thing printed. If it is not, then it is printed. So, if it is not executed inside L's, then it is not executed. This is not a code."
+    },
+    {
+      "chunk_number": 36,
+      "start": 402.94,
+      "end": 413.94,
+      "text": "I always do this and show it. Look, if the age is greater than 18. I take the age of 18. I take 48. So, for age 48, is this print possible?"
+    },
+    {
+      "chunk_number": 37,
+      "start": 413.94,
+      "end": 419.94,
+      "text": "Yes, it is possible. Because it is not made of F. It is not made of L's. It is written outside the statement. So, you guys see, it is printed inside L's."
+    },
+    {
+      "chunk_number": 38,
+      "start": 419.94,
+      "end": 429.94,
+      "text": "Sorry, it is printed inside the F's. Because it is greater than 18. You can drive and yes. And you see, it is printed inside L's. But if I take an SCH, then I take 8."
+    },
+    {
+      "chunk_number": 39,
+      "start": 429.94,
+      "end": 444.94,
+      "text": "Because it is less than 18. Now, if I will run it, then you will see, no print and this is print. But if I put this inside L's statement, then you guys see, it is made of L's. Because I have given you an indentation. I will not talk about it."
+    },
+    {
+      "chunk_number": 40,
+      "start": 444.94,
+      "end": 457.94,
+      "text": "Now, I will mention the indentation. Now, when I will talk about the indentation, you will understand what I am talking about. I have already entered the L's block. I have already entered the L's block. And because I have already entered the L's block,"
+    },
+    {
+      "chunk_number": 41,
+      "start": 457.94,
+      "end": 473.94,
+      "text": "So, if the age is greater than 18, then this is print. See, this is print. But if I put greater than 18, then this is print. Now, you see, for 78, you see, this is print. And this is print."
+    },
+    {
+      "chunk_number": 42,
+      "start": 473.94,
+      "end": 485.94,
+      "text": "Because this is the belt. So, we have seen the F's statement. From the same way, we have an L's statement. So, we have a nested F's. So, I will talk about it in this video."
+    },
+    {
+      "chunk_number": 43,
+      "start": 485.94,
+      "end": 497.94,
+      "text": "I have written all this. I have told you that if the value is true, Then, if the value will be in the L's, then I have written all the symbols. Okay. Now, let's do a template. I have only done a file with a file."
+    },
+    {
+      "chunk_number": 44,
+      "start": 497.94,
+      "end": 508.94,
+      "text": "But, I will make files. I will make a file with the name of if else.py. So, I have made a file with the name of if else.py. Okay. I will copy it. I will paste it here and run it."
+    },
+    {
+      "chunk_number": 45,
+      "start": 508.94,
+      "end": 518.94,
+      "text": "Okay. So, what is happening here? Apple applies 200-300. So, in fact, I have already run the main. I will stop. I want to run the file with my if else."
+    },
+    {
+      "chunk_number": 46,
+      "start": 518.94,
+      "end": 535.94,
+      "text": "Now, let's say that the template of Python is in the main.py file. So, what I will do is, I will do a work here. I want to open a console. I want to open a shell. And I will write Python if else.py."
+    },
+    {
+      "chunk_number": 47,
+      "start": 535.94,
+      "end": 544.94,
+      "text": "Okay. If else.py. And Alexa, do not add apples to the card. I have seen it. Now, why do I have seen it? I will put this shell here on the side."
+    },
+    {
+      "chunk_number": 48,
+      "start": 544.94,
+      "end": 560.94,
+      "text": "Now, why do I want to tell you? Look, Apple's price was 210. And after that, you can see my budget was 200. I said, if the price is small, then obviously, if the budget is big, then it is price. I can buy the price."
+    },
+    {
+      "chunk_number": 49,
+      "start": 560.94,
+      "end": 572.94,
+      "text": "So, I am saying, Alexa, add 1 kg apples to the card. And I am saying, do not add. So, here I have done the pre-op of if else. It is very simple. So, we will move ahead."
+    },
+    {
+      "chunk_number": 50,
+      "start": 572.94,
+      "end": 591.94,
+      "text": "Now, we will see about the live statement. Look, if you want to know that I have more statements, then I want to execute it based on certain condition. Just like if you want to know that if you want to know that my budget is 200 and the price is 210. So, this budget is very low. So, I think that I should not buy apples for 200."
+    },
+    {
+      "chunk_number": 51,
+      "start": 591.94,
+      "end": 608.94,
+      "text": "If you want to buy apples for 100, then I don't want to buy apples for 100. So, I will do the work. If you want to buy apples for 100, then I will do the work. And I want to check with you about one more condition. I will say, apple price, budget minus apple price."
+    },
+    {
+      "chunk_number": 52,
+      "start": 608.94,
+      "end": 625.94,
+      "text": "So, basically what am I doing here? Budget minus apple price is greater than, which I have money, I have 100,000 rupees and I have 100,000 rupees. If I have 100,000 rupees, then there is no difference. So, if I have money, then I may get the money, which I will buy after buying apples."
+    },
+    {
+      "chunk_number": 53,
+      "start": 625.94,
+      "end": 652.94,
+      "text": "I am seeing my budget, which I have money in my pocket, then I will buy 100,000 rupees. I will buy this app for 10 bucks and I have 200 rupees in my pocket. So, if my pocket is around 100 bucks, then if the app is around 50 bucks, then I will buy the app. But, if the budget minus app price is greater than 20, then if it is around 20, then it is around 70 bucks."
+    },
+    {
+      "chunk_number": 54,
+      "start": 653.94,
+      "end": 666.94,
+      "text": "I will print it in Malo. It is okay you can buy it. Now, I will do this. Now, you will see that it is 100 bucks. In fact, I have to run this app in Shell."
+    },
+    {
+      "chunk_number": 55,
+      "start": 666.94,
+      "end": 677.94,
+      "text": "Python, I will do this. Add 1 kg app to the cart. So, what is the condition of the cart? So, this is how it is executed. If the condition falls, then check this."
+    },
+    {
+      "chunk_number": 56,
+      "start": 677.94,
+      "end": 690.94,
+      "text": "And so on. Let me change the example and take a good example. Okay, what I will do is, I will reward the ifl.py as I will do this program. Okay. Now, I will copy it and take a good example of the alf statements."
+    },
+    {
+      "chunk_number": 57,
+      "start": 690.94,
+      "end": 701.94,
+      "text": "Okay. So, here if al statements, with the ifl, alf statements, here is the alf statement. Okay. So, I will copy it. Now, I will make the alf.py as I will do this program."
+    },
+    {
+      "chunk_number": 58,
+      "start": 701.94,
+      "end": 717.94,
+      "text": "Okay. Now, you can see that the value of the alf.py as I will do this program is 0. Let us do this. Let us take the value of the user and enter the value of the name. I have done this in some way."
+    },
+    {
+      "chunk_number": 59,
+      "start": 717.94,
+      "end": 731.94,
+      "text": "Name is less than 0 and number is negative. If equal to 0 is positive, or 0 is 0, then it is positive. Okay. And if I will write Python, then I will write alf.py. And it will go."
+    },
+    {
+      "chunk_number": 60,
+      "start": 731.94,
+      "end": 739.94,
+      "text": "Enter the value of name, I have done 7. Number is positive. I will do the second program and write it in the name. I will write minus 8. Number is negative."
+    },
+    {
+      "chunk_number": 61,
+      "start": 739.94,
+      "end": 745.94,
+      "text": "And if I give 0, then number is 0. Here, it will go on print. As you can see. This is done in a way. If alf statement."
+    },
+    {
+      "chunk_number": 62,
+      "start": 745.94,
+      "end": 758.94,
+      "text": "First of all, the if condition check is there. If it is true, then this is only the one execute. Which is the if. If the condition is true, then. But if the condition is not true, then it will go on the alf condition and try to match it."
+    },
+    {
+      "chunk_number": 63,
+      "start": 758.94,
+      "end": 776.94,
+      "text": "If you know, here is another alf. If we try to check the if. If num is equal to equal to minus triple 9. Because it is minus triple 9. If we do this, then we will stop here."
+    },
+    {
+      "chunk_number": 64,
+      "start": 776.94,
+      "end": 787.94,
+      "text": "If triple 9 is number special. I will do this. Else number is positive. Now let's do this. And let's see if I do triple 9, then it is number special."
+    },
+    {
+      "chunk_number": 65,
+      "start": 787.94,
+      "end": 798.94,
+      "text": "Because number is special. So how does it work? Now, see, here it starts from the if. Check the condition. If the condition is true, then this will jump from here."
+    },
+    {
+      "chunk_number": 66,
+      "start": 798.94,
+      "end": 807.94,
+      "text": "Here. I know, now I am happy now. So the program will be happy. This will be said. I had to match this condition."
+    },
+    {
+      "chunk_number": 67,
+      "start": 807.94,
+      "end": 816.94,
+      "text": "And I got it. And once this condition is matched, then this is so red. This is not even visible to others. This is how it works. If it is done, then it will be found."
+    },
+    {
+      "chunk_number": 68,
+      "start": 816.94,
+      "end": 825.94,
+      "text": "Or it will be found. It should work. First of all, it will come to the if. If you are going to match the condition. If it was not done, then I didn't do it."
+    },
+    {
+      "chunk_number": 69,
+      "start": 825.94,
+      "end": 833.94,
+      "text": "I got the condition less than zero. You have to triple 9. So come out from here. Then this will say equal to zero. Please, I got the condition."
+    },
+    {
+      "chunk_number": 70,
+      "start": 833.94,
+      "end": 840.94,
+      "text": "This will say, I got equal to zero. So it is triple 9. I cannot match your condition. Then it will come here. I got the condition."
+    },
+    {
+      "chunk_number": 71,
+      "start": 840.94,
+      "end": 847.94,
+      "text": "So this will say, this will say, this condition is matching. What is the condition? Double equal to triple 9. And it is matching. Because it is matching."
+    },
+    {
+      "chunk_number": 72,
+      "start": 847.94,
+      "end": 859.94,
+      "text": "So it will not go to the if and if it goes to LFO, it will not go to LFO. It will jump here directly. Because it is jumping here. I am happy now. I will get to see."
+    },
+    {
+      "chunk_number": 73,
+      "start": 859.94,
+      "end": 865.94,
+      "text": "So here, see. I will get a coat inside. And I am happy now. I will see. I have got something."
+    },
+    {
+      "chunk_number": 74,
+      "start": 865.94,
+      "end": 873.94,
+      "text": "Enter the value of number 7. Number is positive. I am happy now. Enter the value of number. Malo minus 9."
+    },
+    {
+      "chunk_number": 75,
+      "start": 873.94,
+      "end": 878.94,
+      "text": "Number is negative. I am happy now. I am happy now. I am happy. So I am happy now."
+    },
+    {
+      "chunk_number": 76,
+      "start": 878.94,
+      "end": 890.94,
+      "text": "I am happy. I am happy. No means no matter if it is LFO or LFO. No means no matter if it is LFO or LFO. So if LFO or LFO is so much, I can put LFO."
+    },
+    {
+      "chunk_number": 77,
+      "start": 890.94,
+      "end": 903.94,
+      "text": "And it will all be checked until the condition is matched. So this way, if it is LFO. I hope you all understood. Now I will give you a program called nest state. I will name it nest.pom."
+    },
+    {
+      "chunk_number": 78,
+      "start": 903.94,
+      "end": 920.94,
+      "text": "I will rename it and then I will spell it. I will name it nest.pom. But sometimes, the key word of Python is not needed to be the key word of Python. So I will name it my if.pom. Because if it is in our Python, I don't want to make a key word class."
+    },
+    {
+      "chunk_number": 79,
+      "start": 920.94,
+      "end": 932.94,
+      "text": "I don't want to make a key word class here. There is a very classic error in Python. What happens in Python? If you make a file with the name of module, then it does not see in module. So it is error."
+    },
+    {
+      "chunk_number": 80,
+      "start": 932.94,
+      "end": 943.94,
+      "text": "So you will do the same with module. I will make a class.py. I will make a class.py program. I hope you all understood. So I have made my if.pom."
+    },
+    {
+      "chunk_number": 81,
+      "start": 943.94,
+      "end": 960.94,
+      "text": "I will name it as 0.1 space my if. I will rename it. My if. In fact, this program and this program. I have renamed it as 0.2."
+    },
+    {
+      "chunk_number": 82,
+      "start": 960.94,
+      "end": 971.94,
+      "text": "I will do the convenience. You can get the concept program. I have made one, two, three programs. I will make a 0.4. And it will be nest.py."
+    },
+    {
+      "chunk_number": 83,
+      "start": 971.94,
+      "end": 984.94,
+      "text": "I have made a program with nest.py. I will make a nested default statement. I have made a nested default statement. I have put a key word in it. You can do it for 10-50 times."
+    },
+    {
+      "chunk_number": 84,
+      "start": 984.94,
+      "end": 995.94,
+      "text": "Let me explain. See what we have written here. We have written here nam is equal to 18. If nam is equal to 0, then execute this code. There is also a line below."
+    },
+    {
+      "chunk_number": 85,
+      "start": 995.94,
+      "end": 1005.94,
+      "text": "If it is on this level of indent. Now the concept of level of indent. This is a level of indent. Okay? In the name of nam is 0, which is not nam is 18."
+    },
+    {
+      "chunk_number": 86,
+      "start": 1005.94,
+      "end": 1012.94,
+      "text": "So this will go in L. Nam is greater than 0. Yes, nam is greater than 0. Nam is actually equal to 18. Which is greater than 0."
+    },
+    {
+      "chunk_number": 87,
+      "start": 1012.94,
+      "end": 1023.94,
+      "text": "So this will go in L. It will evaluate it. Then after this, it will get an EFL letter. So it will evaluate it. So if nam is less than equal to 18."
+    },
+    {
+      "chunk_number": 88,
+      "start": 1023.94,
+      "end": 1031.94,
+      "text": "Sorry, nam is less than equal to 10. No. Nam is greater than 10 and less than equal to 20. Yes, that's true. So this will go in L."
+    },
+    {
+      "chunk_number": 89,
+      "start": 1031.94,
+      "end": 1039.94,
+      "text": "So this will go in L. So this will go in L. So this will go in L. Now this will go in L. Okay?"
+    },
+    {
+      "chunk_number": 90,
+      "start": 1039.94,
+      "end": 1048.94,
+      "text": "So from this, you have to evaluate your programs. So this will print number is between 11 to 20. Okay? And after that, it will go in L. Then it will not go in L."
+    },
+    {
+      "chunk_number": 91,
+      "start": 1048.94,
+      "end": 1055.94,
+      "text": "So this was EFL. And this was EFL. Okay? I hope you understand. Okay?"
+    },
+    {
+      "chunk_number": 92,
+      "start": 1055.94,
+      "end": 1064.94,
+      "text": "I will run this program. And I will show you. 0, 4, Nested, 0, 4, Tab. By the way, I can complete the Tab by itself. Okay?"
+    },
+    {
+      "chunk_number": 93,
+      "start": 1064.94,
+      "end": 1071.94,
+      "text": "If you don't see it, then I will do my own thing. I will take you here. Okay? I am here. Okay?"
+    },
+    {
+      "chunk_number": 94,
+      "start": 1071.94,
+      "end": 1079.94,
+      "text": "Now you will see it. In fact, I am here. Okay? I am here. And now look, I have made 0, 4, Nested.py."
+    },
+    {
+      "chunk_number": 95,
+      "start": 1079.94,
+      "end": 1089.94,
+      "text": "And look, number is between 11 to 20. Okay? I hope you are happy today. I understood. Now you have to know how to work in L."
+    },
+    {
+      "chunk_number": 96,
+      "start": 1089.94,
+      "end": 1099.94,
+      "text": "Even in L. It is said that we have not come to understand what output is. How to work in L. So I will tell you that you need to practice. And practice is always the required thing to do."
+    },
+    {
+      "chunk_number": 97,
+      "start": 1099.94,
+      "end": 1106.94,
+      "text": "Do some programs. Come and solve one of the exercises. And in the course of the script, there is no topic. Watch it again. Watch it again."
+    },
+    {
+      "chunk_number": 98,
+      "start": 1106.94,
+      "end": 1112.94,
+      "text": "What is the problem? Look at it from the second. There is no problem. You have to watch it from the third to third. That is going to be worth it."
+    },
+    {
+      "chunk_number": 99,
+      "start": 1112.94,
+      "end": 1121.94,
+      "text": "You have understood. As long as you have understood, it doesn't matter. So you have seen 10 times, 50 times, 20 times. You have written 100 programs. It doesn't matter."
+    },
+    {
+      "chunk_number": 100,
+      "start": 1121.94,
+      "end": 1132.94,
+      "text": "Do whatever it takes. Okay? If you successfully made a website, Django Becken, you have to learn machine learning from Python. You have already become a developer."
+    },
+    {
+      "chunk_number": 101,
+      "start": 1132.94,
+      "end": 1140.94,
+      "text": "Nobody is going to ask you why you have done a day 5 program. It doesn't matter. Okay? I hope you understand this. And if you don't have a playlist to access it,"
+    },
+    {
+      "chunk_number": 102,
+      "start": 1140.94,
+      "end": 1165.94,
+      "text": "So don't do it. So don't do it. Thank you so much guys for watching this video. And I will see you next time. Bye."
+    }
+  ],
+  "text": "remember when we were in childhood when we were not going to school we used to say that if we were going to school then I would not go and if we were not going to school then we would make decision making in school we make many decisions in our life for example if I am tired then I will not go out and if I am not tired then I will go out so this way the decision making is going on if you are hungry then you have to eat no, don't eat it is hungry and there is money in it so you have to eat or you can control your hunger or you can make something in your home so this way the decision making is going on in daily life in our 5th and 6th programming we have to make decision making if we are going to do if else statements we can use if we can use LF we can use LF from all the conditioners in 5th and 6th programming we will use I will tell you today let's go then the video screen man let's get started so guys I will open my Rappel first of all day 14 and as you can see here today's topic is full statement there are many times in the program that I will do something with the condition for example I take an input from users and I say by the way I can write in input I can write in this way to get an input from the user because you can tell that everything comes from the input and if I want to get an in-danger then I can use the function or type casting I know that I say enter your age and I am taking the user's age in the first place and I do something like this my age is and I am using a common way I will print it then I take the condition if the age is more than a hundred then I can display it you can drive it or you can't drive it I know that the age is greater than 18 so I will tell you what you do I will put a colon and I will say print you can drive and after that I will write a program then I will explain what is the condition and what is the condition you cannot drive I have written in the entry and I am doing the same program with the IFL statement if I have written the entry you cannot drive but if I write in 90 or 78 I will not write in 78 if I write 78 I have written a number in fact I have written a number in 76 I have written 76 and I am doing the same I will give a colon space based on input I have determined that I can't drive it and now I want to write the tutorial sometimes the program needs to check the evaluation especially the expression it is true it is false basically what is our conditional operator is that let's say equal to equal to double equals to equal to equal to equal to equal to equal to I will explain about conditional operators let's say about conditional operators equal to equal equal to and after that equal to equal to So, if you want to print the A's greater than 18, then print the A's less than equal to 18. And then print the A's double equals to 18. And then print the A's not equal to 18. This is also our conditional operator. Now I will print the A's dynamically as an input from the user. I want to keep the A's 18. I have kept the A's 18. So, what will happen? Does the A's less than greater than 18? No, it's not greater than 18. Even if it is 18. If it is 18, then it will not be true. And then you see, less than equal to 18. Does the A's less than equal to 18 is higher? Yes, it is 18. So, it is less than or equal to the A's. So, it is less than or equal to the A's. It will be equal to the A's. So, this will evaluate to true. Is the A's equal to 18? Exactly equal to 18. Yes, that's true. So, true is here. This is our Boolean type rate. A is less than equal to greater than equal to double equal to A's greater than 18. This is our Boolean type rate. A is not equal to 18. Is this true? No, this is not true. A is actually equal to 18. Okay, then we are conditional operators. Let me comment on this. You have understood. The F statement is conditional operator. It is a condition that will evaluate in true or false. And after seeing, if this is true, that is, if A is greater than 18, then this block of code is printed. And if this is not true, then this block of code is printed. But both of them will never be printed. Whether it will go into F or L or L. Both of them will go into one. Now, you must have thought that this is a colon. And why did I keep this space? Why can't I give this space? You see, I have taken this space here to see the error. This space is called indentation in Python. And modern IDEs should be used as a waste code. You can use Python as a template. So, if you enter, then automatically this space will give you. This space is called indentation in Python. Indentation means that you are starting a block. If you are learning C language, then you will understand. So, you will not use curly brackets here. Let's just tell you in this block that we have entered this block. After this, we have entered the column and then we have given a space. That is, we have entered the column in F. I will enter here, if I write print yes, then we are in F. If I write print no, then we are in L's. Because we have started in L's. Now, you guys comment on what is inside L's? Is it inside L's? No, inside L's. So, if the code is evaluated inside L's, then it is executed. So, if it is executed, then it is executed. After that, you guys will get this thing printed. If it is not, then it is printed. So, if it is not executed inside L's, then it is not executed. This is not a code. I always do this and show it. Look, if the age is greater than 18. I take the age of 18. I take 48. So, for age 48, is this print possible? Yes, it is possible. Because it is not made of F. It is not made of L's. It is written outside the statement. So, you guys see, it is printed inside L's. Sorry, it is printed inside the F's. Because it is greater than 18. You can drive and yes. And you see, it is printed inside L's. But if I take an SCH, then I take 8. Because it is less than 18. Now, if I will run it, then you will see, no print and this is print. But if I put this inside L's statement, then you guys see, it is made of L's. Because I have given you an indentation. I will not talk about it. Now, I will mention the indentation. Now, when I will talk about the indentation, you will understand what I am talking about. I have already entered the L's block. I have already entered the L's block. And because I have already entered the L's block, So, if the age is greater than 18, then this is print. See, this is print. But if I put greater than 18, then this is print. Now, you see, for 78, you see, this is print. And this is print. Because this is the belt. So, we have seen the F's statement. From the same way, we have an L's statement. So, we have a nested F's. So, I will talk about it in this video. I have written all this. I have told you that if the value is true, Then, if the value will be in the L's, then I have written all the symbols. Okay. Now, let's do a template. I have only done a file with a file. But, I will make files. I will make a file with the name of if else.py. So, I have made a file with the name of if else.py. Okay. I will copy it. I will paste it here and run it. Okay. So, what is happening here? Apple applies 200-300. So, in fact, I have already run the main. I will stop. I want to run the file with my if else. Now, let's say that the template of Python is in the main.py file. So, what I will do is, I will do a work here. I want to open a console. I want to open a shell. And I will write Python if else.py. Okay. If else.py. And Alexa, do not add apples to the card. I have seen it. Now, why do I have seen it? I will put this shell here on the side. Now, why do I want to tell you? Look, Apple's price was 210. And after that, you can see my budget was 200. I said, if the price is small, then obviously, if the budget is big, then it is price. I can buy the price. So, I am saying, Alexa, add 1 kg apples to the card. And I am saying, do not add. So, here I have done the pre-op of if else. It is very simple. So, we will move ahead. Now, we will see about the live statement. Look, if you want to know that I have more statements, then I want to execute it based on certain condition. Just like if you want to know that if you want to know that my budget is 200 and the price is 210. So, this budget is very low. So, I think that I should not buy apples for 200. If you want to buy apples for 100, then I don't want to buy apples for 100. So, I will do the work. If you want to buy apples for 100, then I will do the work. And I want to check with you about one more condition. I will say, apple price, budget minus apple price. So, basically what am I doing here? Budget minus apple price is greater than, which I have money, I have 100,000 rupees and I have 100,000 rupees. If I have 100,000 rupees, then there is no difference. So, if I have money, then I may get the money, which I will buy after buying apples. I am seeing my budget, which I have money in my pocket, then I will buy 100,000 rupees. I will buy this app for 10 bucks and I have 200 rupees in my pocket. So, if my pocket is around 100 bucks, then if the app is around 50 bucks, then I will buy the app. But, if the budget minus app price is greater than 20, then if it is around 20, then it is around 70 bucks. I will print it in Malo. It is okay you can buy it. Now, I will do this. Now, you will see that it is 100 bucks. In fact, I have to run this app in Shell. Python, I will do this. Add 1 kg app to the cart. So, what is the condition of the cart? So, this is how it is executed. If the condition falls, then check this. And so on. Let me change the example and take a good example. Okay, what I will do is, I will reward the ifl.py as I will do this program. Okay. Now, I will copy it and take a good example of the alf statements. Okay. So, here if al statements, with the ifl, alf statements, here is the alf statement. Okay. So, I will copy it. Now, I will make the alf.py as I will do this program. Okay. Now, you can see that the value of the alf.py as I will do this program is 0. Let us do this. Let us take the value of the user and enter the value of the name. I have done this in some way. Name is less than 0 and number is negative. If equal to 0 is positive, or 0 is 0, then it is positive. Okay. And if I will write Python, then I will write alf.py. And it will go. Enter the value of name, I have done 7. Number is positive. I will do the second program and write it in the name. I will write minus 8. Number is negative. And if I give 0, then number is 0. Here, it will go on print. As you can see. This is done in a way. If alf statement. First of all, the if condition check is there. If it is true, then this is only the one execute. Which is the if. If the condition is true, then. But if the condition is not true, then it will go on the alf condition and try to match it. If you know, here is another alf. If we try to check the if. If num is equal to equal to minus triple 9. Because it is minus triple 9. If we do this, then we will stop here. If triple 9 is number special. I will do this. Else number is positive. Now let's do this. And let's see if I do triple 9, then it is number special. Because number is special. So how does it work? Now, see, here it starts from the if. Check the condition. If the condition is true, then this will jump from here. Here. I know, now I am happy now. So the program will be happy. This will be said. I had to match this condition. And I got it. And once this condition is matched, then this is so red. This is not even visible to others. This is how it works. If it is done, then it will be found. Or it will be found. It should work. First of all, it will come to the if. If you are going to match the condition. If it was not done, then I didn't do it. I got the condition less than zero. You have to triple 9. So come out from here. Then this will say equal to zero. Please, I got the condition. This will say, I got equal to zero. So it is triple 9. I cannot match your condition. Then it will come here. I got the condition. So this will say, this will say, this condition is matching. What is the condition? Double equal to triple 9. And it is matching. Because it is matching. So it will not go to the if and if it goes to LFO, it will not go to LFO. It will jump here directly. Because it is jumping here. I am happy now. I will get to see. So here, see. I will get a coat inside. And I am happy now. I will see. I have got something. Enter the value of number 7. Number is positive. I am happy now. Enter the value of number. Malo minus 9. Number is negative. I am happy now. I am happy now. I am happy. So I am happy now. I am happy. I am happy. No means no matter if it is LFO or LFO. No means no matter if it is LFO or LFO. So if LFO or LFO is so much, I can put LFO. And it will all be checked until the condition is matched. So this way, if it is LFO. I hope you all understood. Now I will give you a program called nest state. I will name it nest.pom. I will rename it and then I will spell it. I will name it nest.pom. But sometimes, the key word of Python is not needed to be the key word of Python. So I will name it my if.pom. Because if it is in our Python, I don't want to make a key word class. I don't want to make a key word class here. There is a very classic error in Python. What happens in Python? If you make a file with the name of module, then it does not see in module. So it is error. So you will do the same with module. I will make a class.py. I will make a class.py program. I hope you all understood. So I have made my if.pom. I will name it as 0.1 space my if. I will rename it. My if. In fact, this program and this program. I have renamed it as 0.2. I will do the convenience. You can get the concept program. I have made one, two, three programs. I will make a 0.4. And it will be nest.py. I have made a program with nest.py. I will make a nested default statement. I have made a nested default statement. I have put a key word in it. You can do it for 10-50 times. Let me explain. See what we have written here. We have written here nam is equal to 18. If nam is equal to 0, then execute this code. There is also a line below. If it is on this level of indent. Now the concept of level of indent. This is a level of indent. Okay? In the name of nam is 0, which is not nam is 18. So this will go in L. Nam is greater than 0. Yes, nam is greater than 0. Nam is actually equal to 18. Which is greater than 0. So this will go in L. It will evaluate it. Then after this, it will get an EFL letter. So it will evaluate it. So if nam is less than equal to 18. Sorry, nam is less than equal to 10. No. Nam is greater than 10 and less than equal to 20. Yes, that's true. So this will go in L. So this will go in L. So this will go in L. So this will go in L. Now this will go in L. Okay? So from this, you have to evaluate your programs. So this will print number is between 11 to 20. Okay? And after that, it will go in L. Then it will not go in L. So this was EFL. And this was EFL. Okay? I hope you understand. Okay? I will run this program. And I will show you. 0, 4, Nested, 0, 4, Tab. By the way, I can complete the Tab by itself. Okay? If you don't see it, then I will do my own thing. I will take you here. Okay? I am here. Okay? Now you will see it. In fact, I am here. Okay? I am here. And now look, I have made 0, 4, Nested.py. And look, number is between 11 to 20. Okay? I hope you are happy today. I understood. Now you have to know how to work in L. Even in L. It is said that we have not come to understand what output is. How to work in L. So I will tell you that you need to practice. And practice is always the required thing to do. Do some programs. Come and solve one of the exercises. And in the course of the script, there is no topic. Watch it again. Watch it again. What is the problem? Look at it from the second. There is no problem. You have to watch it from the third to third. That is going to be worth it. You have understood. As long as you have understood, it doesn't matter. So you have seen 10 times, 50 times, 20 times. You have written 100 programs. It doesn't matter. Do whatever it takes. Okay? If you successfully made a website, Django Becken, you have to learn machine learning from Python. You have already become a developer. Nobody is going to ask you why you have done a day 5 program. It doesn't matter. Okay? I hope you understand this. And if you don't have a playlist to access it, So don't do it. So don't do it. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}

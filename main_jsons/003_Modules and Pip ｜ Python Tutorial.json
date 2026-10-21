@@ -1,0 +1,349 @@
+{
+  "video_number": 3,
+  "title": "Modules and Pip ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 19.8,
+      "text": "We will talk about the modules in today's video and what is the pip? The modules are basically used by the other codes. You can use the code in your Python program. There are two modules. There are built-in modules and there are external modules."
+    },
+    {
+      "chunk_number": 2,
+      "start": 19.8,
+      "end": 32.4,
+      "text": "They are installed by the pip. The external modules are the codes that are written by people. And they want you to use the code in your Python program. I am using this phone. What is the use of this phone?"
+    },
+    {
+      "chunk_number": 3,
+      "start": 32.4,
+      "end": 41.4,
+      "text": "How is it working? I don't know. I am able to use this phone. This is an external module. I don't know what is the implementation of this. But I am able to use it."
+    },
+    {
+      "chunk_number": 4,
+      "start": 41.4,
+      "end": 55.4,
+      "text": "Built-in module is the other hand. There are some modules that are used by the pip and programming language. And you don't need to install it externally. We will take the modules into pre-agments because we don't want to code with the correct code."
+    },
+    {
+      "chunk_number": 5,
+      "start": 55.4,
+      "end": 71.4,
+      "text": "You are working in a big machine learning program. You are making artificial intelligence by making a self-driving car. So you don't want to use 10 numbers to take the average program. You can use the number of numbers to take the geometric mean. You can use the code in human."
+    },
+    {
+      "chunk_number": 6,
+      "start": 71.4,
+      "end": 80.4,
+      "text": "The modules are written inside. They are well tested. They are written in experts. Because many people have used it. There are many errors in it."
+    },
+    {
+      "chunk_number": 7,
+      "start": 80.4,
+      "end": 96.4,
+      "text": "If you want to write a crash program for your understanding. But if you use modules, you will save time, efforts and you will work on something big. Let's go to the computer screen. We will install some modules and see how all these work."
+    },
+    {
+      "chunk_number": 8,
+      "start": 96.4,
+      "end": 119.4,
+      "text": "Let's get started. So guys, I am going to open my computer screen inside. And open my day 3 Rapples here. You will see the video that I am recording. But because I am not recording this video here."
+    },
+    {
+      "chunk_number": 9,
+      "start": 119.4,
+      "end": 140.4,
+      "text": "I will show you the video. I will adjust it in the way you can adjust it. I want to tell you what modules are written inside. Whenever you write a programming language in a programming code. You can write it in two ways."
+    },
+    {
+      "chunk_number": 10,
+      "start": 140.4,
+      "end": 153.4,
+      "text": "You can write it in a computer screen. You can write it in a computer screen. You can write it in a computer screen. You will see a utility. Because I am a Mac."
+    },
+    {
+      "chunk_number": 11,
+      "start": 153.4,
+      "end": 166.4,
+      "text": "So I will work on a paper screen. If you want to work on a paper screen. But you can see that I have written a paper screen. I have found a lot of things. If I write a paper screen in a computer screen."
+    },
+    {
+      "chunk_number": 12,
+      "start": 166.4,
+      "end": 181.4,
+      "text": "You don't have to go to Pandas. You can see that I am writing a collecting pandas. It is downloading. Let me explain the package. When I write a paper screen in a computer screen."
+    },
+    {
+      "chunk_number": 13,
+      "start": 181.4,
+      "end": 197.4,
+      "text": "I will give a command to the paper that I need to install a package. Pandas is a data analysis library. You can see here. But let me tell you that you can use all the modules. I have used Pandas."
+    },
+    {
+      "chunk_number": 14,
+      "start": 197.4,
+      "end": 209.4,
+      "text": "I will explain the built-in modules and external modules. When you were young. Your mom used to send you the data. She used to take milk. She used to take curd."
+    },
+    {
+      "chunk_number": 15,
+      "start": 209.4,
+      "end": 221.4,
+      "text": "She used to take bread. She used to take the home. She used to take the home. She used to take the home. She used to take the home."
+    },
+    {
+      "chunk_number": 16,
+      "start": 221.4,
+      "end": 235.4,
+      "text": "The things that are stored in the internet. You can install the Python and Interbitram. You can install the Pandas. Now I can use the Pandas. But if you need to take everything."
+    },
+    {
+      "chunk_number": 17,
+      "start": 235.4,
+      "end": 245.4,
+      "text": "If you need a refugee letter. Then you need to take the home. And the refugee letter is not necessary to take the home. It is a built-in module. Your home is present."
+    },
+    {
+      "chunk_number": 18,
+      "start": 245.4,
+      "end": 255.4,
+      "text": "Every home is a swing. Every home is a swing. Every home is a swing. All the built-in modules are available in every home. You don't need to take the home."
+    },
+    {
+      "chunk_number": 19,
+      "start": 255.4,
+      "end": 270.4,
+      "text": "That's why we use the built-in module and external modules. We can install the pip. And if you write the Python 3 in the windows. You can see the Python 3.1.1. I will zoom in."
+    },
+    {
+      "chunk_number": 20,
+      "start": 270.4,
+      "end": 283.4,
+      "text": "If you write the import Pandas. You will see the error. But if you write import, you will see the error. There is no module named as scale."
+    },
+    {
+      "chunk_number": 21,
+      "start": 283.4,
+      "end": 295.4,
+      "text": "That's why this module is not in my computer. You are getting attention. You will not understand what all these things are written. I know that you are telling me that you are getting a grip on the modules."
+    },
+    {
+      "chunk_number": 22,
+      "start": 295.4,
+      "end": 307.4,
+      "text": "I will write the exit from the Python Rappel. If I want to install the SQL. Then I will write the pip.3 install. I will use the package when I write the SQL. But I will install the name of the SQL."
+    },
+    {
+      "chunk_number": 23,
+      "start": 307.4,
+      "end": 318.4,
+      "text": "You can see that it is installing. It is installing very well. And now if I write Python 3.3 and import the SQL. Then my work will be done. This is a dependency."
+    },
+    {
+      "chunk_number": 24,
+      "start": 318.4,
+      "end": 329.4,
+      "text": "It is installed. You can take a time. What is the machine learning library? If I write the SQL. You will get a machine learning library in Python."
+    },
+    {
+      "chunk_number": 25,
+      "start": 329.4,
+      "end": 340.4,
+      "text": "You will get attention. You will get attention. I will comment. I will get a lot of things. I will get some days later."
+    },
+    {
+      "chunk_number": 26,
+      "start": 340.4,
+      "end": 352.4,
+      "text": "And when difficulty level increases. I will follow all the steps. I want to show you. This will be installed. I will write the Python 3."
+    },
+    {
+      "chunk_number": 27,
+      "start": 352.4,
+      "end": 366.4,
+      "text": "I want to show you the import. The import is here. I will not write the import. I will exit the import. Now I will write the Python 3."
+    },
+    {
+      "chunk_number": 28,
+      "start": 366.4,
+      "end": 381.4,
+      "text": "I will write the REPL. REPL means read, evaluate, print loop. We will not use it. We will write the proper programs. I will execute the Python scripts."
+    },
+    {
+      "chunk_number": 29,
+      "start": 381.4,
+      "end": 391.4,
+      "text": "I will use the template. You can use it without the template. It is possible. But I am using the template. There is too many invitations."
+    },
+    {
+      "chunk_number": 30,
+      "start": 391.4,
+      "end": 405.4,
+      "text": "I will make a main.py file with the file. I will take the output here. I will drag it and leave. You will see my videos. It is very convenient."
+    },
+    {
+      "chunk_number": 31,
+      "start": 405.4,
+      "end": 419.4,
+      "text": "I will write the main.py into it. I will write the import. The most good thing about the template. I will do it, it will detect that pandas are not there, automatically install it. So you don't have to be confused, why did you not come here?"
+    },
+    {
+      "chunk_number": 32,
+      "start": 419.4,
+      "end": 437.4,
+      "text": "Error is not there, because your Replic has started installing it for your convenience. Replic wants you to do it when you are programming, you are convening. But the concept is important, if you will come here, you will see the error, you will get to see it, as I have shown you. But you can see in the Replic map, pandas automatically started installing it."
+    },
+    {
+      "chunk_number": 33,
+      "start": 437.4,
+      "end": 462.4,
+      "text": "I have already installed the Rapplet, because I know that I want to use pandas in the import. So I want to install it, which is very good. So I have installed the pandas in Python, I will write here, print, Hi, I will write it in some way, and I will run it, because pandas are getting high. So this is the Rapplet."
+    },
+    {
+      "chunk_number": 34,
+      "start": 462.4,
+      "end": 479.4,
+      "text": "Now for convenience, I have written in the text that module is good like a good library, because someone has written it and you can get it in your program, use the import key, and I will tell you about it. Built-in modules and external modules are available in both ways, built-in modules are available in Python, programming language, and such."
+    },
+    {
+      "chunk_number": 35,
+      "start": 479.4,
+      "end": 495.4,
+      "text": "So let's write here, built-in modules, in Python, we will see which modules are built-in in Python, which modules are there, which I don't need to install, you can see that all modules are listed here, you can see that this is a module called Hashlib."
+    },
+    {
+      "chunk_number": 36,
+      "start": 495.4,
+      "end": 511.4,
+      "text": "Let's use it, let's look at the import hashlib, and let's see, when I will do import hashlib, what will be installed? So look, I have done this, I am doing this, you can see that this is not installed, it is simply called high, but on the other hand, if I write here, import tensorflow,"
+    },
+    {
+      "chunk_number": 37,
+      "start": 511.4,
+      "end": 528.4,
+      "text": "I will show you, I will write tensorflow, and tensorflow will start installing here. Now you see that tensorflow is not built-in module, it is an external module, which is downloaded from the internet, and it is needed to get it, so it is getting bought. So external modules are not built-in,"
+    },
+    {
+      "chunk_number": 38,
+      "start": 528.4,
+      "end": 542.4,
+      "text": "like you have to buy it at home, which is finished at home, you have to buy it at home, but you don't have to buy it at home, it is built-in module, and it is used by the external module, which is used at home,"
+    },
+    {
+      "chunk_number": 39,
+      "start": 542.4,
+      "end": 556.4,
+      "text": "look here, how to use the pip command, I have told you, you can use the pip install pandas, you can copy the button and paste it in the code, so you copy whatever code you want, and paste it in this way,"
+    },
+    {
+      "chunk_number": 40,
+      "start": 556.4,
+      "end": 566.4,
+      "text": "and you will be able to run it, so what happens in the pandas, there is a module, the pandas, which has the read csp function, it can read the file like cspxl,"
+    },
+    {
+      "chunk_number": 41,
+      "start": 566.4,
+      "end": 579.4,
+      "text": "but don't read it now, I am telling you that how to do this, I will read the excel excel in detail in the next time, so take attention and you will be able to do it, and many people ask me which Python tutorial to follow,"
+    },
+    {
+      "chunk_number": 42,
+      "start": 579.4,
+      "end": 592.4,
+      "text": "always follow the latest videos, if you are watching this video, then follow it, and many people ask me which version to use Python, so let me tell you that the latest version,"
+    },
+    {
+      "chunk_number": 43,
+      "start": 592.4,
+      "end": 605.4,
+      "text": "you can use it and if you are on a replicate, then you don't need to take the attention, so let me tell you as long as it is Python 3, Python 3.7, 3.11, 3.8, there is no difference in it,"
+    },
+    {
+      "chunk_number": 44,
+      "start": 605.4,
+      "end": 615.4,
+      "text": "you will be able to do the programs, yes, but if Python 4 comes, Python 5 comes, it can be a major upgrade, it can be a guarantee,"
+    },
+    {
+      "chunk_number": 45,
+      "start": 615.4,
+      "end": 625.4,
+      "text": "it can be the same in Python 4, so it will be a good thing to see, but don't take the attention, you have to use which Python you want to use, I am watching the tutorial of Python 3.11,"
+    },
+    {
+      "chunk_number": 46,
+      "start": 625.4,
+      "end": 637.4,
+      "text": "you can see it absolutely, it is the same in the basics, now the way we take this terminal, it is in the shell of the replicate, so if you write Python in the shell,"
+    },
+    {
+      "chunk_number": 47,
+      "start": 637.4,
+      "end": 647.4,
+      "text": "then everything will be open, Python 3.8.12 is installed, so if I write here, print hello, it is not w,"
+    },
+    {
+      "chunk_number": 48,
+      "start": 647.4,
+      "end": 657.4,
+      "text": "I am spelling hello, I will enter, here it is written hello, it is written here, and the idea of your building is built in browser,"
+    },
+    {
+      "chunk_number": 49,
+      "start": 657.4,
+      "end": 667.4,
+      "text": "it is a little bit easy, I will also come here, I will see you in the bottom, you will get the flow of this window, and then I will write my text tutorial,"
+    },
+    {
+      "chunk_number": 50,
+      "start": 667.4,
+      "end": 677.4,
+      "text": "you will get it, I have written it in a few minutes, don't skip it, it is a very difficult thing, so it is a very big learning experience,"
+    },
+    {
+      "chunk_number": 51,
+      "start": 677.4,
+      "end": 687.4,
+      "text": "the first tutorial of our Python, we have crossed the last few hours, we have crossed the last few hours, so this video was very trending, so you guys,"
+    },
+    {
+      "chunk_number": 52,
+      "start": 687.4,
+      "end": 697.4,
+      "text": "you guys must access this playlist, click here, click here, and save this playlist, you guys will enjoy this video,"
+    },
+    {
+      "chunk_number": 53,
+      "start": 697.4,
+      "end": 707.4,
+      "text": "Python has a lot of programming language, you use Python on YouTube, you use Python on Instagram, you use Python on Facebook, you don't use Python on YouTube,"
+    },
+    {
+      "chunk_number": 54,
+      "start": 707.4,
+      "end": 717.4,
+      "text": "you don't use Python on YouTube, you use Python on everybody, you use Python on YouTube, so we are clear, because we are humans,"
+    },
+    {
+      "chunk_number": 55,
+      "start": 717.4,
+      "end": 727.4,
+      "text": "humans are good at things, and as computer computer we want to work with computers, where we are a computer, and we want to work with our lives,"
+    },
+    {
+      "chunk_number": 56,
+      "start": 727.4,
+      "end": 737.4,
+      "text": "and we are responsible for our lives, so, that is why we use Python programming language because it is very easy, to get me the necessary information in day 4,"
+    },
+    {
+      "chunk_number": 57,
+      "start": 737.4,
+      "end": 742.1999999999999,
+      "text": "So much guys for watching this video and I will see you next time."
+    }
+  ],
+  "text": "We will talk about the modules in today's video and what is the pip? The modules are basically used by the other codes. You can use the code in your Python program. There are two modules. There are built-in modules and there are external modules. They are installed by the pip. The external modules are the codes that are written by people. And they want you to use the code in your Python program. I am using this phone. What is the use of this phone? How is it working? I don't know. I am able to use this phone. This is an external module. I don't know what is the implementation of this. But I am able to use it. Built-in module is the other hand. There are some modules that are used by the pip and programming language. And you don't need to install it externally. We will take the modules into pre-agments because we don't want to code with the correct code. You are working in a big machine learning program. You are making artificial intelligence by making a self-driving car. So you don't want to use 10 numbers to take the average program. You can use the number of numbers to take the geometric mean. You can use the code in human. The modules are written inside. They are well tested. They are written in experts. Because many people have used it. There are many errors in it. If you want to write a crash program for your understanding. But if you use modules, you will save time, efforts and you will work on something big. Let's go to the computer screen. We will install some modules and see how all these work. Let's get started. So guys, I am going to open my computer screen inside. And open my day 3 Rapples here. You will see the video that I am recording. But because I am not recording this video here. I will show you the video. I will adjust it in the way you can adjust it. I want to tell you what modules are written inside. Whenever you write a programming language in a programming code. You can write it in two ways. You can write it in a computer screen. You can write it in a computer screen. You can write it in a computer screen. You will see a utility. Because I am a Mac. So I will work on a paper screen. If you want to work on a paper screen. But you can see that I have written a paper screen. I have found a lot of things. If I write a paper screen in a computer screen. You don't have to go to Pandas. You can see that I am writing a collecting pandas. It is downloading. Let me explain the package. When I write a paper screen in a computer screen. I will give a command to the paper that I need to install a package. Pandas is a data analysis library. You can see here. But let me tell you that you can use all the modules. I have used Pandas. I will explain the built-in modules and external modules. When you were young. Your mom used to send you the data. She used to take milk. She used to take curd. She used to take bread. She used to take the home. She used to take the home. She used to take the home. She used to take the home. The things that are stored in the internet. You can install the Python and Interbitram. You can install the Pandas. Now I can use the Pandas. But if you need to take everything. If you need a refugee letter. Then you need to take the home. And the refugee letter is not necessary to take the home. It is a built-in module. Your home is present. Every home is a swing. Every home is a swing. Every home is a swing. All the built-in modules are available in every home. You don't need to take the home. That's why we use the built-in module and external modules. We can install the pip. And if you write the Python 3 in the windows. You can see the Python 3.1.1. I will zoom in. If you write the import Pandas. You will see the error. But if you write import, you will see the error. There is no module named as scale. That's why this module is not in my computer. You are getting attention. You will not understand what all these things are written. I know that you are telling me that you are getting a grip on the modules. I will write the exit from the Python Rappel. If I want to install the SQL. Then I will write the pip.3 install. I will use the package when I write the SQL. But I will install the name of the SQL. You can see that it is installing. It is installing very well. And now if I write Python 3.3 and import the SQL. Then my work will be done. This is a dependency. It is installed. You can take a time. What is the machine learning library? If I write the SQL. You will get a machine learning library in Python. You will get attention. You will get attention. I will comment. I will get a lot of things. I will get some days later. And when difficulty level increases. I will follow all the steps. I want to show you. This will be installed. I will write the Python 3. I want to show you the import. The import is here. I will not write the import. I will exit the import. Now I will write the Python 3. I will write the REPL. REPL means read, evaluate, print loop. We will not use it. We will write the proper programs. I will execute the Python scripts. I will use the template. You can use it without the template. It is possible. But I am using the template. There is too many invitations. I will make a main.py file with the file. I will take the output here. I will drag it and leave. You will see my videos. It is very convenient. I will write the main.py into it. I will write the import. The most good thing about the template. I will do it, it will detect that pandas are not there, automatically install it. So you don't have to be confused, why did you not come here? Error is not there, because your Replic has started installing it for your convenience. Replic wants you to do it when you are programming, you are convening. But the concept is important, if you will come here, you will see the error, you will get to see it, as I have shown you. But you can see in the Replic map, pandas automatically started installing it. I have already installed the Rapplet, because I know that I want to use pandas in the import. So I want to install it, which is very good. So I have installed the pandas in Python, I will write here, print, Hi, I will write it in some way, and I will run it, because pandas are getting high. So this is the Rapplet. Now for convenience, I have written in the text that module is good like a good library, because someone has written it and you can get it in your program, use the import key, and I will tell you about it. Built-in modules and external modules are available in both ways, built-in modules are available in Python, programming language, and such. So let's write here, built-in modules, in Python, we will see which modules are built-in in Python, which modules are there, which I don't need to install, you can see that all modules are listed here, you can see that this is a module called Hashlib. Let's use it, let's look at the import hashlib, and let's see, when I will do import hashlib, what will be installed? So look, I have done this, I am doing this, you can see that this is not installed, it is simply called high, but on the other hand, if I write here, import tensorflow, I will show you, I will write tensorflow, and tensorflow will start installing here. Now you see that tensorflow is not built-in module, it is an external module, which is downloaded from the internet, and it is needed to get it, so it is getting bought. So external modules are not built-in, like you have to buy it at home, which is finished at home, you have to buy it at home, but you don't have to buy it at home, it is built-in module, and it is used by the external module, which is used at home, look here, how to use the pip command, I have told you, you can use the pip install pandas, you can copy the button and paste it in the code, so you copy whatever code you want, and paste it in this way, and you will be able to run it, so what happens in the pandas, there is a module, the pandas, which has the read csp function, it can read the file like cspxl, but don't read it now, I am telling you that how to do this, I will read the excel excel in detail in the next time, so take attention and you will be able to do it, and many people ask me which Python tutorial to follow, always follow the latest videos, if you are watching this video, then follow it, and many people ask me which version to use Python, so let me tell you that the latest version, you can use it and if you are on a replicate, then you don't need to take the attention, so let me tell you as long as it is Python 3, Python 3.7, 3.11, 3.8, there is no difference in it, you will be able to do the programs, yes, but if Python 4 comes, Python 5 comes, it can be a major upgrade, it can be a guarantee, it can be the same in Python 4, so it will be a good thing to see, but don't take the attention, you have to use which Python you want to use, I am watching the tutorial of Python 3.11, you can see it absolutely, it is the same in the basics, now the way we take this terminal, it is in the shell of the replicate, so if you write Python in the shell, then everything will be open, Python 3.8.12 is installed, so if I write here, print hello, it is not w, I am spelling hello, I will enter, here it is written hello, it is written here, and the idea of your building is built in browser, it is a little bit easy, I will also come here, I will see you in the bottom, you will get the flow of this window, and then I will write my text tutorial, you will get it, I have written it in a few minutes, don't skip it, it is a very difficult thing, so it is a very big learning experience, the first tutorial of our Python, we have crossed the last few hours, we have crossed the last few hours, so this video was very trending, so you guys, you guys must access this playlist, click here, click here, and save this playlist, you guys will enjoy this video, Python has a lot of programming language, you use Python on YouTube, you use Python on Instagram, you use Python on Facebook, you don't use Python on YouTube, you don't use Python on YouTube, you use Python on everybody, you use Python on YouTube, so we are clear, because we are humans, humans are good at things, and as computer computer we want to work with computers, where we are a computer, and we want to work with our lives, and we are responsible for our lives, so, that is why we use Python programming language because it is very easy, to get me the necessary information in day 4, So much guys for watching this video and I will see you next time."
+}

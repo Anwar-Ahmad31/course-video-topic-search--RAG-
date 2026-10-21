@@ -1,0 +1,265 @@
+{
+  "video_number": 33,
+  "title": "Dictionaries in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 17.92,
+      "text": "In our home, there are many different ways to see the meaning of the world. In today's video, we will talk about the python greed. The python greed is very similar to the python greed. It is that you can see some values corresponding to the greed. It is that in our normal Oxford greed, it is the meaning of the world."
+    },
+    {
+      "chunk_number": 2,
+      "start": 17.92,
+      "end": 32.68,
+      "text": "And the value is the actual meaning. We can make our personal, python programming. We will enjoy the methods of this. And you will see that it can be used in any way. Basically, the access to this is very fast."
+    },
+    {
+      "chunk_number": 3,
+      "start": 32.68,
+      "end": 46.32,
+      "text": "Because it is the index of the dictionary. If you want to see a lot of elements in the dictionary and you want to see a key corresponding value. So, you don't have to scan the whole dictionary. You can find the value in the index of the dictionary. You can find the value in the index of the dictionary."
+    },
+    {
+      "chunk_number": 4,
+      "start": 46.32,
+      "end": 65.48,
+      "text": "Let's see how all these things are done in the computer screen. From which methods are the dictionary. Let's get started. So, as we have our dictionary in the Oxford dictionary. We have word meanings in it."
+    },
+    {
+      "chunk_number": 5,
+      "start": 65.48,
+      "end": 83.24000000000001,
+      "text": "Similarly, there is a dictionary in the python. It is a common thing. And here I will write a simple dictionary. And I write it in the manual. And I write in the manual."
+    },
+    {
+      "chunk_number": 6,
+      "start": 83.24,
+      "end": 93.24,
+      "text": "I write in the manual. And I write here. Object. And I will put the mapping in the manual. And finally, I print it."
+    },
+    {
+      "chunk_number": 7,
+      "start": 93.24,
+      "end": 107.24,
+      "text": "I will print it. And then, I can access some of the human beings. So, the combination of key value pairs. It is a common thing. And here, the type of object is not a subscriptable."
+    },
+    {
+      "chunk_number": 8,
+      "start": 107.24,
+      "end": 123.24,
+      "text": "So, I have made this DIC name. So, you can see that the human beings are open-in. So, the dictionary is a very simple thing. The combination of key value pairs. You can use it for a particular class of children's marks."
+    },
+    {
+      "chunk_number": 9,
+      "start": 123.24,
+      "end": 141.24,
+      "text": "You can use it for a role number wise. What is the reason for the case of a person's work? You can map it with an id. You can make a mapping. If I am using a integer in the manual."
+    },
+    {
+      "chunk_number": 10,
+      "start": 141.24,
+      "end": 151.24,
+      "text": "I have 344. That is the head of the manual. That is the employee ID. The manual is 566. That is the shoebump."
+    },
+    {
+      "chunk_number": 11,
+      "start": 151.24,
+      "end": 163.24,
+      "text": "That is the employee ID. And 678 is the employee ID of the manual. And the manual is 567. That is the employee ID of the Neha. So, if I write here."
+    },
+    {
+      "chunk_number": 12,
+      "start": 163.24,
+      "end": 173.24,
+      "text": "I write 567. And I will get Neha. Why not? I will get Neha. Because 567 is the corresponding Neha."
+    },
+    {
+      "chunk_number": 13,
+      "start": 173.24,
+      "end": 189.24,
+      "text": "So, we can work with the dictionary. You can see that the dictionary is an audit collection of data items. They store multiple items in a single variable. Dictionary items are key value pairs that are separated by commas. And enclosed within curly brackets."
+    },
+    {
+      "chunk_number": 14,
+      "start": 189.24,
+      "end": 201.24,
+      "text": "Now, what happens is that the Python 3.7 onwards dictionary is ordered. First, the dictionary is unordered. So, you have to keep in mind the first dictionary. You can use the word Python version. You can use the word order and order."
+    },
+    {
+      "chunk_number": 15,
+      "start": 201.24,
+      "end": 213.24,
+      "text": "Now, what does the word order mean? What does the word order mean? If I print the keys, I will get the order in the same order. Now, how to print the keys? I will tell you."
+    },
+    {
+      "chunk_number": 16,
+      "start": 213.24,
+      "end": 225.24,
+      "text": "Now, what is the value of 344? 567 is the Neha. I will get the name of the dictionary. Now, what I will add is the value of the key value. The Neha."
+    },
+    {
+      "chunk_number": 17,
+      "start": 225.24,
+      "end": 235.24,
+      "text": "You can access the dictionary items here. You can do it like this. You can do it like this. If you want to print the name of the dictionary, you can do it like this."
+    },
+    {
+      "chunk_number": 18,
+      "start": 235.24,
+      "end": 253.24,
+      "text": "If you want to print the particular value of the word, you can do it like this. You can say that the name of the word info is corresponding value. So, it is the name of the word info. And you can see the value of the word info in the eligible word."
+    },
+    {
+      "chunk_number": 19,
+      "start": 253.24,
+      "end": 267.24,
+      "text": "Now, you can see that the word info is two ways to access the word info. You can name the word info info or you can name the word info info. I will name the word info info info. So that you can understand that this and this. This is exactly the same thing."
+    },
+    {
+      "chunk_number": 20,
+      "start": 267.24,
+      "end": 285.24,
+      "text": "But there is a difference that I will tell you. If I will name the word info and do it like this. Now, you see that this line is the name of the word info. It is the name of the word info which says that you are using the word info. But if I will get the word info info,"
+    },
+    {
+      "chunk_number": 21,
+      "start": 285.24,
+      "end": 299.24,
+      "text": "you will get the word info and do it like this. If you want to do the order through the word info, if you don't do the word info, Then you can use the word info. If you don't do the order through the word info,"
+    },
+    {
+      "chunk_number": 22,
+      "start": 299.24,
+      "end": 315.24,
+      "text": "If you don't do this, then it will print down. Depending upon the use case, you can do this. But these two, if the name exists, then same thing will print down. So I hope you understood this. Now how to access multiple values?"
+    },
+    {
+      "chunk_number": 23,
+      "start": 315.24,
+      "end": 332.24,
+      "text": "If you want to access all the values, or access all the keys, then you can do this work in this way. You can say, give me all keys. And you can get all keys, name, age, eligible. So these are all keys that you can access."
+    },
+    {
+      "chunk_number": 24,
+      "start": 332.24,
+      "end": 349.24,
+      "text": "Now you can do one more work. You can say, for key info.keys. And you can do all these keys, and you can iterate. And you can do this info in this way. So you can get all the values, that by name,"
+    },
+    {
+      "chunk_number": 25,
+      "start": 349.24,
+      "end": 363.24,
+      "text": "what is the corresponding, age, eligible, and eligible. So you get the current, and the true. So I hope you understood this. Now this order is the same order, you can see it in output. So you get all keys to do dot keys."
+    },
+    {
+      "chunk_number": 26,
+      "start": 363.24,
+      "end": 384.24,
+      "text": "And you get all the values, if you want to get all the info, then you will get all the values, because the current is the true. The current is the true values. So if you want to get all the values in the same order, then you can also iterate and do keys."
+    },
+    {
+      "chunk_number": 27,
+      "start": 384.24,
+      "end": 407.24,
+      "text": "I will use this method, if I use a f string here, I will put this in a bracket, in a curly bracket. I will write the value corresponding to the key. Key is, and I will write this. So what will be the output, that the value corresponding to the key name is current."
+    },
+    {
+      "chunk_number": 28,
+      "start": 407.24,
+      "end": 424.24,
+      "text": "So what will be the output, that the value corresponding to the key is true. So I will do all the keys, and I will print all the values, using this syntax. So the name of the syntax, and the square bracket, if you write the key, then you will get the value,"
+    },
+    {
+      "chunk_number": 29,
+      "start": 424.24,
+      "end": 439.24,
+      "text": "which is corresponding to the dictionary. So here we can access keys, and use the syntax. And the key value pairs, we can access items, and use it. And I will also tell you. So I will write all the comments, in fact, I will give you the same amount."
+    },
+    {
+      "chunk_number": 30,
+      "start": 439.24,
+      "end": 455.24,
+      "text": "Because all these are written here. Okay, let's leave it here, I will not give you the answer to write. If I write here, I will print, I will write here, info.items, so I give the key value pairs. So you can see, the items that I will give me,"
+    },
+    {
+      "chunk_number": 31,
+      "start": 455.24,
+      "end": 474.24,
+      "text": "you can name it as age 19. So I can iterate, I will write for the key value in info.items. So this is the type of the unpack, so I will get the key, key, and value, and value. So if I do this again, I will print here,"
+    },
+    {
+      "chunk_number": 32,
+      "start": 474.24,
+      "end": 485.24,
+      "text": "I will do it again and again, and I will do it again. Okay, so if I do something like this, that the value corresponding to the key is info, in fact, I will value it. I will value it."
+    },
+    {
+      "chunk_number": 33,
+      "start": 485.24,
+      "end": 498.24,
+      "text": "Okay, this will also work, obviously, because the dictionary value is here, but this will also work. Okay, because the key is in your key, the value is in value. So this is your items, if you print it like this, you will see this."
+    },
+    {
+      "chunk_number": 34,
+      "start": 498.24,
+      "end": 511.24,
+      "text": "The dictionary value is used to create a mapping. For example, for a class, all the children's marks, for a company, all the employees' employees' code, their performance, their training, how much of a 100% performance can be reached here."
+    },
+    {
+      "chunk_number": 35,
+      "start": 511.24,
+      "end": 525.24,
+      "text": "Here, every item's MRP is at a retail shop, which you can store in a grocery store. So you can make a dictionary, that item code is there, and its price is there. It is there, and its price is there."
+    },
+    {
+      "chunk_number": 36,
+      "start": 525.24,
+      "end": 534.24,
+      "text": "Whenever you have to know any item, you can access that dictionary. Okay? So this thing, when you store it in database, it is very helpful. Okay?"
+    },
+    {
+      "chunk_number": 37,
+      "start": 534.24,
+      "end": 541.24,
+      "text": "So this is our dictionary, okay? This is the basic dictionary. I hope you understood. And I have told you all in the comment section, how are the codes going?"
+    },
+    {
+      "chunk_number": 38,
+      "start": 541.24,
+      "end": 554.24,
+      "text": "And if you have seen the codes for 10th day, then you have seen 30% of the codes almost. So I want you to go to the first video, and you have experienced it. I am on day 33, I am feeling like this."
+    },
+    {
+      "chunk_number": 39,
+      "start": 554.24,
+      "end": 568.24,
+      "text": "I want all of you to comment, go to day 1 and review the comments, and think about the code you are thinking about. I think it is good, bad, and you can put it in feedback."
+    },
+    {
+      "chunk_number": 40,
+      "start": 568.24,
+      "end": 579.24,
+      "text": "Because if anyone comes to see this code, then I want to know what the code is in their life, and what is not, what is not, what is not, okay?"
+    },
+    {
+      "chunk_number": 41,
+      "start": 579.24,
+      "end": 589.24,
+      "text": "It will be very good if you do it. Go to the first video, and do a comment, and review it. How many of you start from 5th? And what are the codes?"
+    },
+    {
+      "chunk_number": 42,
+      "start": 589.24,
+      "end": 596.24,
+      "text": "And what do you think about it? Please tell me in the comment, but not in this video, not in the day 1. Okay? Now, I will watch this video."
+    },
+    {
+      "chunk_number": 43,
+      "start": 596.24,
+      "end": 618.24,
+      "text": "Thank you so much for watching this video, and I will see you next time. Bye."
+    }
+  ],
+  "text": "In our home, there are many different ways to see the meaning of the world. In today's video, we will talk about the python greed. The python greed is very similar to the python greed. It is that you can see some values corresponding to the greed. It is that in our normal Oxford greed, it is the meaning of the world. And the value is the actual meaning. We can make our personal, python programming. We will enjoy the methods of this. And you will see that it can be used in any way. Basically, the access to this is very fast. Because it is the index of the dictionary. If you want to see a lot of elements in the dictionary and you want to see a key corresponding value. So, you don't have to scan the whole dictionary. You can find the value in the index of the dictionary. You can find the value in the index of the dictionary. Let's see how all these things are done in the computer screen. From which methods are the dictionary. Let's get started. So, as we have our dictionary in the Oxford dictionary. We have word meanings in it. Similarly, there is a dictionary in the python. It is a common thing. And here I will write a simple dictionary. And I write it in the manual. And I write in the manual. I write in the manual. And I write here. Object. And I will put the mapping in the manual. And finally, I print it. I will print it. And then, I can access some of the human beings. So, the combination of key value pairs. It is a common thing. And here, the type of object is not a subscriptable. So, I have made this DIC name. So, you can see that the human beings are open-in. So, the dictionary is a very simple thing. The combination of key value pairs. You can use it for a particular class of children's marks. You can use it for a role number wise. What is the reason for the case of a person's work? You can map it with an id. You can make a mapping. If I am using a integer in the manual. I have 344. That is the head of the manual. That is the employee ID. The manual is 566. That is the shoebump. That is the employee ID. And 678 is the employee ID of the manual. And the manual is 567. That is the employee ID of the Neha. So, if I write here. I write 567. And I will get Neha. Why not? I will get Neha. Because 567 is the corresponding Neha. So, we can work with the dictionary. You can see that the dictionary is an audit collection of data items. They store multiple items in a single variable. Dictionary items are key value pairs that are separated by commas. And enclosed within curly brackets. Now, what happens is that the Python 3.7 onwards dictionary is ordered. First, the dictionary is unordered. So, you have to keep in mind the first dictionary. You can use the word Python version. You can use the word order and order. Now, what does the word order mean? What does the word order mean? If I print the keys, I will get the order in the same order. Now, how to print the keys? I will tell you. Now, what is the value of 344? 567 is the Neha. I will get the name of the dictionary. Now, what I will add is the value of the key value. The Neha. You can access the dictionary items here. You can do it like this. You can do it like this. If you want to print the name of the dictionary, you can do it like this. If you want to print the particular value of the word, you can do it like this. You can say that the name of the word info is corresponding value. So, it is the name of the word info. And you can see the value of the word info in the eligible word. Now, you can see that the word info is two ways to access the word info. You can name the word info info or you can name the word info info. I will name the word info info info. So that you can understand that this and this. This is exactly the same thing. But there is a difference that I will tell you. If I will name the word info and do it like this. Now, you see that this line is the name of the word info. It is the name of the word info which says that you are using the word info. But if I will get the word info info, you will get the word info and do it like this. If you want to do the order through the word info, if you don't do the word info, Then you can use the word info. If you don't do the order through the word info, If you don't do this, then it will print down. Depending upon the use case, you can do this. But these two, if the name exists, then same thing will print down. So I hope you understood this. Now how to access multiple values? If you want to access all the values, or access all the keys, then you can do this work in this way. You can say, give me all keys. And you can get all keys, name, age, eligible. So these are all keys that you can access. Now you can do one more work. You can say, for key info.keys. And you can do all these keys, and you can iterate. And you can do this info in this way. So you can get all the values, that by name, what is the corresponding, age, eligible, and eligible. So you get the current, and the true. So I hope you understood this. Now this order is the same order, you can see it in output. So you get all keys to do dot keys. And you get all the values, if you want to get all the info, then you will get all the values, because the current is the true. The current is the true values. So if you want to get all the values in the same order, then you can also iterate and do keys. I will use this method, if I use a f string here, I will put this in a bracket, in a curly bracket. I will write the value corresponding to the key. Key is, and I will write this. So what will be the output, that the value corresponding to the key name is current. So what will be the output, that the value corresponding to the key is true. So I will do all the keys, and I will print all the values, using this syntax. So the name of the syntax, and the square bracket, if you write the key, then you will get the value, which is corresponding to the dictionary. So here we can access keys, and use the syntax. And the key value pairs, we can access items, and use it. And I will also tell you. So I will write all the comments, in fact, I will give you the same amount. Because all these are written here. Okay, let's leave it here, I will not give you the answer to write. If I write here, I will print, I will write here, info.items, so I give the key value pairs. So you can see, the items that I will give me, you can name it as age 19. So I can iterate, I will write for the key value in info.items. So this is the type of the unpack, so I will get the key, key, and value, and value. So if I do this again, I will print here, I will do it again and again, and I will do it again. Okay, so if I do something like this, that the value corresponding to the key is info, in fact, I will value it. I will value it. Okay, this will also work, obviously, because the dictionary value is here, but this will also work. Okay, because the key is in your key, the value is in value. So this is your items, if you print it like this, you will see this. The dictionary value is used to create a mapping. For example, for a class, all the children's marks, for a company, all the employees' employees' code, their performance, their training, how much of a 100% performance can be reached here. Here, every item's MRP is at a retail shop, which you can store in a grocery store. So you can make a dictionary, that item code is there, and its price is there. It is there, and its price is there. Whenever you have to know any item, you can access that dictionary. Okay? So this thing, when you store it in database, it is very helpful. Okay? So this is our dictionary, okay? This is the basic dictionary. I hope you understood. And I have told you all in the comment section, how are the codes going? And if you have seen the codes for 10th day, then you have seen 30% of the codes almost. So I want you to go to the first video, and you have experienced it. I am on day 33, I am feeling like this. I want all of you to comment, go to day 1 and review the comments, and think about the code you are thinking about. I think it is good, bad, and you can put it in feedback. Because if anyone comes to see this code, then I want to know what the code is in their life, and what is not, what is not, what is not, okay? It will be very good if you do it. Go to the first video, and do a comment, and review it. How many of you start from 5th? And what are the codes? And what do you think about it? Please tell me in the comment, but not in this video, not in the day 1. Okay? Now, I will watch this video. Thank you so much for watching this video, and I will see you next time. Bye."
+}

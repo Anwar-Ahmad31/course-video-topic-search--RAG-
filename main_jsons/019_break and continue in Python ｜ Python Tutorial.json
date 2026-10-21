@@ -1,0 +1,367 @@
+{
+  "video_number": 19,
+  "title": "break and continue in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 15.040000000000001,
+      "text": "It's fun, I'll tell you in today's video that I'll use the break and continue straight men's coke and why we use the break in the python. Whenever we use a loop, we sometimes want to move the loop over here and exit."
+    },
+    {
+      "chunk_number": 2,
+      "start": 15.040000000000001,
+      "end": 27.16,
+      "text": "We use the break in the same way. Sometimes we want to skip a particular iteration of a loop. Then we continue to use it. But I don't think it will be so good. Let's go to the computer screen and let's get started."
+    },
+    {
+      "chunk_number": 3,
+      "start": 30.0,
+      "end": 48.0,
+      "text": "Now I'll show you the break in the video. I've told you in the previous video that I'll tell you about the break and continue. Look, the loops are used by iteration by iteration. You will see a iteration in the first one."
+    },
+    {
+      "chunk_number": 4,
+      "start": 48.0,
+      "end": 74.0,
+      "text": "The next iteration is the skip. You sometimes want to listen to a particular iteration. You can exit the loop on a particular iteration. You can skip that iteration of a loop. You can skip it and continue the next iteration."
+    },
+    {
+      "chunk_number": 5,
+      "start": 74.0,
+      "end": 91.0,
+      "text": "This way we'll work on the break and continue straight men's. Let's see how we'll work. First of all, I'll open my main.vf file. What is the biggest problem of the rapid kick? I can take this console."
+    },
+    {
+      "chunk_number": 6,
+      "start": 91.0,
+      "end": 108.0,
+      "text": "I'll close the smooth navigation. And this side by side is open. You can see the break statement in the neural sub program. The break statement terminates the very low bit lies within. You can just look inside and break it."
+    },
+    {
+      "chunk_number": 7,
+      "start": 108.0,
+      "end": 122.0,
+      "text": "Now I've written for i in range 12. I'll write for you. I'm writing for you. I'll write for you. I'll write for you."
+    },
+    {
+      "chunk_number": 8,
+      "start": 122.0,
+      "end": 136.0,
+      "text": "I'll write for you. I'll write for you and for you. I'll write for you in the office. It's equal to. What is the basic definition?"
+    },
+    {
+      "chunk_number": 9,
+      "start": 136.0,
+      "end": 149.0,
+      "text": "I'll write for you. I will take 5. I will take I plus 1. In fact, I will take 1 plus 1. If you want to buy the multiplication table,"
+    },
+    {
+      "chunk_number": 10,
+      "start": 149.0,
+      "end": 159.0,
+      "text": "you can buy it. I have printed the multiplication table. I should have printed it. I will take it as I plus 1. I am not sure if it is worth it."
+    },
+    {
+      "chunk_number": 11,
+      "start": 159.0,
+      "end": 169.0,
+      "text": "I will choose the size. For some reason, I is equal to 1. For 2, I will break it after 10."
+    },
+    {
+      "chunk_number": 12,
+      "start": 169.0,
+      "end": 181.0,
+      "text": "I only want to see it. I can put a condition here. If I equal to 10, then what should I break? What will I do now?"
+    },
+    {
+      "chunk_number": 13,
+      "start": 181.0,
+      "end": 193.0,
+      "text": "I will tell you the basic language. I will tell you the basic language. I will tell you the basic language. I will leave this loop and go out. I will tell you everything in the comment section."
+    },
+    {
+      "chunk_number": 14,
+      "start": 193.0,
+      "end": 209.0,
+      "text": "I will tell you the basic language. Leave this loop and go out. I will print it here. Leave the loop and go out. I have written a basic language."
+    },
+    {
+      "chunk_number": 15,
+      "start": 209.0,
+      "end": 221.0,
+      "text": "I have understood. Leave the loop and go out. I equal to 10. I also got it. We have executed 10."
+    },
+    {
+      "chunk_number": 16,
+      "start": 221.0,
+      "end": 231.0,
+      "text": "For 10, it was 11. If it is 11, then what will happen? I will take an execute for 0. I will take 1."
+    },
+    {
+      "chunk_number": 17,
+      "start": 231.0,
+      "end": 241.0,
+      "text": "I will take an execute. I will take 3. I will write 5 into 4. I will write 20. I have seen a mistake."
+    },
+    {
+      "chunk_number": 18,
+      "start": 241.0,
+      "end": 251.0,
+      "text": "I have used brackets for this. I will multiply 5. I will write 1. I will write 1. I will write 1."
+    },
+    {
+      "chunk_number": 19,
+      "start": 251.0,
+      "end": 263.0,
+      "text": "I have put the brackets in the wrong place. What am I doing? I am done. Now the table will be on the left side. I am getting 5g table."
+    },
+    {
+      "chunk_number": 20,
+      "start": 263.0,
+      "end": 277.0,
+      "text": "5 into 5 is equal to 5, 10, 15 is equal to 10. I have left the loop and I am writing it. So what is going to happen? I is equal to 10. When I get 9, I will print this."
+    },
+    {
+      "chunk_number": 21,
+      "start": 277.0,
+      "end": 291.0,
+      "text": "I don't believe in this. I will get 10 to 10. Now the value of i will get 10. I will get break statement. I will leave the loop and leave the loop."
+    },
+    {
+      "chunk_number": 22,
+      "start": 291.0,
+      "end": 301.0,
+      "text": "I will leave the loop and leave the loop. This is what happened. It was break statement. I can use this with y loop. I will do it absolutely."
+    },
+    {
+      "chunk_number": 23,
+      "start": 301.0,
+      "end": 313.0,
+      "text": "Same thing will happen. But what is in the continuous? I will leave the iteration. Now you guys understand. I will tell you the continuous statement."
+    },
+    {
+      "chunk_number": 24,
+      "start": 313.0,
+      "end": 327.0,
+      "text": "I will leave the loop and leave the iteration. I will leave the iteration. I will leave the loop and leave the iteration. I will leave the iteration. Let's see."
+    },
+    {
+      "chunk_number": 25,
+      "start": 327.0,
+      "end": 339.0,
+      "text": "I will remove this. I will write here. I will write here. I will write here. In fact, I am writing this I will write this."
+    },
+    {
+      "chunk_number": 26,
+      "start": 341.0,
+      "end": 351.0,
+      "text": "I will write here. Control type. Control type. Now I will write here. I want to write here."
+    },
+    {
+      "chunk_number": 27,
+      "start": 351.0,
+      "end": 361.0,
+      "text": "I write in English. I will write here. Skip the iteration. Now what will happen? I will get 10 to 10 to 10 to 10 to 10 to 10."
+    },
+    {
+      "chunk_number": 28,
+      "start": 361.0,
+      "end": 378.5,
+      "text": "I will get 10 to 10 to 10 to 10 to 10. continue the statement, it will be executed as much as this it will be executed in the next value so what happened here? as i was equal to 0"
+    },
+    {
+      "chunk_number": 29,
+      "start": 378.5,
+      "end": 392.5,
+      "text": "i will revert it to i plus 1 i will revert it to i plus 1 i will be in understanding for i in range 12, i will be equal to 0 i will revert it to i plus 0"
+    },
+    {
+      "chunk_number": 30,
+      "start": 392.5,
+      "end": 402.5,
+      "text": "you will see 5 now i will be equal to 1 i will be equal to 2 for i, in step 4, i will be equal to 0 but i will be equal to 10"
+    },
+    {
+      "chunk_number": 31,
+      "start": 402.5,
+      "end": 412.5,
+      "text": "i will be equal to 10 i will be equal to 10 i will show it i will show it if i write it now, this is executed"
+    },
+    {
+      "chunk_number": 32,
+      "start": 412.5,
+      "end": 428.5,
+      "text": "because it is staying open its at the top of the statement as i saw this is used Now for this value, no one will execute it. The next value is i is equal to 11."
+    },
+    {
+      "chunk_number": 33,
+      "start": 428.5,
+      "end": 446.5,
+      "text": "I hope you understood. Continuously skip the iteration and loop breaks. Let's say in programming, breaking out of the loop. We get out of the loop. I hope everything is clear."
+    },
+    {
+      "chunk_number": 34,
+      "start": 446.5,
+      "end": 462.5,
+      "text": "I have given examples and the range of the third argument is written here. You can see here, you will understand this example very well. This is break statement. Similarly, I have written this in the continuous statement. Continuously skip the rest of the loop statement."
+    },
+    {
+      "chunk_number": 35,
+      "start": 462.5,
+      "end": 474.5,
+      "text": "Causes the next iteration to occur. Next iteration is directly jumped. Similarly, you will run this. You will get output. This is break and statement."
+    },
+    {
+      "chunk_number": 36,
+      "start": 474.5,
+      "end": 494.5,
+      "text": "Now I am coming back to the same thing, I have told you in the earlier day, I am coming to the loop in the same app. I have added one question in that app. It was in the day 18."
+    },
+    {
+      "chunk_number": 37,
+      "start": 494.5,
+      "end": 505.5,
+      "text": "What was in day 18? I have done it in the same app. I told you that, What happens in Dubai Loop? Once you go to Dubai Loop,"
+    },
+    {
+      "chunk_number": 38,
+      "start": 505.5,
+      "end": 519.0,
+      "text": "Irrespective of weather condition is true or not. Whether it is condition true or false. The loop will go to you. And what will happen after that? The next iteration will go to Dubai Loop."
+    },
+    {
+      "chunk_number": 39,
+      "start": 519.0,
+      "end": 529.0,
+      "text": "If it is condition true, Or not, it will go to you. So how to do Dubai Loop? We can emulate a infinite by loop. Okay?"
+    },
+    {
+      "chunk_number": 40,
+      "start": 529.0,
+      "end": 538.5,
+      "text": "So let's do this here. I will comment on this. I will not delete because I have to give code to you. I will write a while true. So if I write a while true, this is infinite loop."
+    },
+    {
+      "chunk_number": 41,
+      "start": 538.5,
+      "end": 552.5,
+      "text": "So I saw it in my last day. After writing a while true, I will write you If condition is false, I want to put condition here. I % 100 is equal to equal to 0."
+    },
+    {
+      "chunk_number": 42,
+      "start": 552.5,
+      "end": 560.5,
+      "text": "Okay? What is this? Check that if your I have a divisible by 100, What will you do? Break it."
+    },
+    {
+      "chunk_number": 43,
+      "start": 560.5,
+      "end": 571.0,
+      "text": "Otherwise, you will print it from the letter I. Okay? Very simple. So what did I do? I wrote I % and I also need to initialize."
+    },
+    {
+      "chunk_number": 44,
+      "start": 571.0,
+      "end": 582.0,
+      "text": "And I equal to I plus 1. And now I will write I is equal to I plus 1. So I wrote here that If I % 100 is equal to 0, So break."
+    },
+    {
+      "chunk_number": 45,
+      "start": 582.0,
+      "end": 590.0,
+      "text": "Now I will delete it. What will happen if I have a divisible by 0? I have a divisible by 0. Because as I value I have 100."
+    },
+    {
+      "chunk_number": 46,
+      "start": 590.0,
+      "end": 595.0,
+      "text": "What happened? Break. Okay? So for the value of I, For 100,"
+    },
+    {
+      "chunk_number": 47,
+      "start": 595.0,
+      "end": 602.0,
+      "text": "This loop has come out from the It has come out from the loop. Or it has been deleted from the loop for 2 years. Okay? So first of all,"
+    },
+    {
+      "chunk_number": 48,
+      "start": 602.0,
+      "end": 608.0,
+      "text": "The condition of the loop is true. It is not false. This is our condition. This is true."
+    },
+    {
+      "chunk_number": 49,
+      "start": 608.0,
+      "end": 617.0,
+      "text": "This loop will come out from the loop. Then after that, Every time condition will be checked. For 0, for 1, for 2, for 3, for 4. Finally, I will have 99."
+    },
+    {
+      "chunk_number": 50,
+      "start": 617.0,
+      "end": 626.0,
+      "text": "So here 100 will be equal to I, And we will get out from the loop. Okay? This question goes to Dubai Loop. If you are confused,"
+    },
+    {
+      "chunk_number": 51,
+      "start": 626.0,
+      "end": 635.0,
+      "text": "See in the previous video, I have clearly explained what Dubai Loop is. And this is the portion of this. You can read it here from here. And tell us how you should"
+    },
+    {
+      "chunk_number": 52,
+      "start": 635.0,
+      "end": 643.0,
+      "text": "Code should be. So click the 4-criple button. That's all people. Confusion about it. The code of any raffle,"
+    },
+    {
+      "chunk_number": 53,
+      "start": 643.0,
+      "end": 652.0,
+      "text": "How to remove it? If you want to create 4-criple, Then you can do it yourself. You can do it yourself. You will see the page like this."
+    },
+    {
+      "chunk_number": 54,
+      "start": 652.0,
+      "end": 662.0,
+      "text": "So I hope this is clear. Now, in Dubai Loop, We read here a little bit. Dubai Loop is a loop in which It is set of instructions to execute at least one."
+    },
+    {
+      "chunk_number": 55,
+      "start": 662.0,
+      "end": 669.0,
+      "text": "In the respective of the condition. At least once, What happens is, It is written like this. C++ Java"
+    },
+    {
+      "chunk_number": 56,
+      "start": 669.0,
+      "end": 677.0,
+      "text": "And C like in languages. But, You can see here. And then the repetition of loops The condition passed at the end of the while loop."
+    },
+    {
+      "chunk_number": 57,
+      "start": 677.0,
+      "end": 686.0,
+      "text": "It is written here. If the condition is true, Then the second is the same as the loop body. True is the same as the loop. How to simulate in Python?"
+    },
+    {
+      "chunk_number": 58,
+      "start": 686.0,
+      "end": 697.0,
+      "text": "I told you to do it like this. If the condition is not satisfied, Then break out of the loop. So, we will use the break statement. So, here is an example."
+    },
+    {
+      "chunk_number": 59,
+      "start": 697.0,
+      "end": 709.0,
+      "text": "You can see all the people running. I want you to come back to day-teen raffle. And see this. Now, if you have not access to this video, Then you can click on it."
+    },
+    {
+      "chunk_number": 60,
+      "start": 709.0,
+      "end": 715.0,
+      "text": "Click on it. Now, I will see you in the next video. I will see you next time."
+    }
+  ],
+  "text": "It's fun, I'll tell you in today's video that I'll use the break and continue straight men's coke and why we use the break in the python. Whenever we use a loop, we sometimes want to move the loop over here and exit. We use the break in the same way. Sometimes we want to skip a particular iteration of a loop. Then we continue to use it. But I don't think it will be so good. Let's go to the computer screen and let's get started. Now I'll show you the break in the video. I've told you in the previous video that I'll tell you about the break and continue. Look, the loops are used by iteration by iteration. You will see a iteration in the first one. The next iteration is the skip. You sometimes want to listen to a particular iteration. You can exit the loop on a particular iteration. You can skip that iteration of a loop. You can skip it and continue the next iteration. This way we'll work on the break and continue straight men's. Let's see how we'll work. First of all, I'll open my main.vf file. What is the biggest problem of the rapid kick? I can take this console. I'll close the smooth navigation. And this side by side is open. You can see the break statement in the neural sub program. The break statement terminates the very low bit lies within. You can just look inside and break it. Now I've written for i in range 12. I'll write for you. I'm writing for you. I'll write for you. I'll write for you. I'll write for you. I'll write for you and for you. I'll write for you in the office. It's equal to. What is the basic definition? I'll write for you. I will take 5. I will take I plus 1. In fact, I will take 1 plus 1. If you want to buy the multiplication table, you can buy it. I have printed the multiplication table. I should have printed it. I will take it as I plus 1. I am not sure if it is worth it. I will choose the size. For some reason, I is equal to 1. For 2, I will break it after 10. I only want to see it. I can put a condition here. If I equal to 10, then what should I break? What will I do now? I will tell you the basic language. I will tell you the basic language. I will tell you the basic language. I will leave this loop and go out. I will tell you everything in the comment section. I will tell you the basic language. Leave this loop and go out. I will print it here. Leave the loop and go out. I have written a basic language. I have understood. Leave the loop and go out. I equal to 10. I also got it. We have executed 10. For 10, it was 11. If it is 11, then what will happen? I will take an execute for 0. I will take 1. I will take an execute. I will take 3. I will write 5 into 4. I will write 20. I have seen a mistake. I have used brackets for this. I will multiply 5. I will write 1. I will write 1. I will write 1. I have put the brackets in the wrong place. What am I doing? I am done. Now the table will be on the left side. I am getting 5g table. 5 into 5 is equal to 5, 10, 15 is equal to 10. I have left the loop and I am writing it. So what is going to happen? I is equal to 10. When I get 9, I will print this. I don't believe in this. I will get 10 to 10. Now the value of i will get 10. I will get break statement. I will leave the loop and leave the loop. I will leave the loop and leave the loop. This is what happened. It was break statement. I can use this with y loop. I will do it absolutely. Same thing will happen. But what is in the continuous? I will leave the iteration. Now you guys understand. I will tell you the continuous statement. I will leave the loop and leave the iteration. I will leave the iteration. I will leave the loop and leave the iteration. I will leave the iteration. Let's see. I will remove this. I will write here. I will write here. I will write here. In fact, I am writing this I will write this. I will write here. Control type. Control type. Now I will write here. I want to write here. I write in English. I will write here. Skip the iteration. Now what will happen? I will get 10 to 10 to 10 to 10 to 10 to 10. I will get 10 to 10 to 10 to 10 to 10. continue the statement, it will be executed as much as this it will be executed in the next value so what happened here? as i was equal to 0 i will revert it to i plus 1 i will revert it to i plus 1 i will be in understanding for i in range 12, i will be equal to 0 i will revert it to i plus 0 you will see 5 now i will be equal to 1 i will be equal to 2 for i, in step 4, i will be equal to 0 but i will be equal to 10 i will be equal to 10 i will be equal to 10 i will show it i will show it if i write it now, this is executed because it is staying open its at the top of the statement as i saw this is used Now for this value, no one will execute it. The next value is i is equal to 11. I hope you understood. Continuously skip the iteration and loop breaks. Let's say in programming, breaking out of the loop. We get out of the loop. I hope everything is clear. I have given examples and the range of the third argument is written here. You can see here, you will understand this example very well. This is break statement. Similarly, I have written this in the continuous statement. Continuously skip the rest of the loop statement. Causes the next iteration to occur. Next iteration is directly jumped. Similarly, you will run this. You will get output. This is break and statement. Now I am coming back to the same thing, I have told you in the earlier day, I am coming to the loop in the same app. I have added one question in that app. It was in the day 18. What was in day 18? I have done it in the same app. I told you that, What happens in Dubai Loop? Once you go to Dubai Loop, Irrespective of weather condition is true or not. Whether it is condition true or false. The loop will go to you. And what will happen after that? The next iteration will go to Dubai Loop. If it is condition true, Or not, it will go to you. So how to do Dubai Loop? We can emulate a infinite by loop. Okay? So let's do this here. I will comment on this. I will not delete because I have to give code to you. I will write a while true. So if I write a while true, this is infinite loop. So I saw it in my last day. After writing a while true, I will write you If condition is false, I want to put condition here. I % 100 is equal to equal to 0. Okay? What is this? Check that if your I have a divisible by 100, What will you do? Break it. Otherwise, you will print it from the letter I. Okay? Very simple. So what did I do? I wrote I % and I also need to initialize. And I equal to I plus 1. And now I will write I is equal to I plus 1. So I wrote here that If I % 100 is equal to 0, So break. Now I will delete it. What will happen if I have a divisible by 0? I have a divisible by 0. Because as I value I have 100. What happened? Break. Okay? So for the value of I, For 100, This loop has come out from the It has come out from the loop. Or it has been deleted from the loop for 2 years. Okay? So first of all, The condition of the loop is true. It is not false. This is our condition. This is true. This loop will come out from the loop. Then after that, Every time condition will be checked. For 0, for 1, for 2, for 3, for 4. Finally, I will have 99. So here 100 will be equal to I, And we will get out from the loop. Okay? This question goes to Dubai Loop. If you are confused, See in the previous video, I have clearly explained what Dubai Loop is. And this is the portion of this. You can read it here from here. And tell us how you should Code should be. So click the 4-criple button. That's all people. Confusion about it. The code of any raffle, How to remove it? If you want to create 4-criple, Then you can do it yourself. You can do it yourself. You will see the page like this. So I hope this is clear. Now, in Dubai Loop, We read here a little bit. Dubai Loop is a loop in which It is set of instructions to execute at least one. In the respective of the condition. At least once, What happens is, It is written like this. C++ Java And C like in languages. But, You can see here. And then the repetition of loops The condition passed at the end of the while loop. It is written here. If the condition is true, Then the second is the same as the loop body. True is the same as the loop. How to simulate in Python? I told you to do it like this. If the condition is not satisfied, Then break out of the loop. So, we will use the break statement. So, here is an example. You can see all the people running. I want you to come back to day-teen raffle. And see this. Now, if you have not access to this video, Then you can click on it. Click on it. Now, I will see you in the next video. I will see you next time."
+}

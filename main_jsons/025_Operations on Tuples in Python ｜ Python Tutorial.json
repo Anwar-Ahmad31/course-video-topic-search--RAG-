@@ -1,0 +1,193 @@
+{
+  "video_number": 25,
+  "title": "Operations on Tuples in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 24.32,
+      "text": "Now, today's video we will be reviewing the methods of the tuples which you can apply on tuples to manipulate them and we will be reviewing them in this video let's get started in the video screen When we talked about list, we talked about the methods of list"
+    },
+    {
+      "chunk_number": 2,
+      "start": 24.32,
+      "end": 40.96,
+      "text": "We said that we can manipulate the list and we can manipulate the tuple If you want to change the tuple, add tuple and remove the value You will not have to copy the method directly You will have to change the list"
+    },
+    {
+      "chunk_number": 3,
+      "start": 40.96,
+      "end": 53.96,
+      "text": "and change the tuple in tuple again The point of tuple is that you cannot change the tuple If there are 5 items, then there will be 5 items You cannot add the item Now, we will see which methods of tuple"
+    },
+    {
+      "chunk_number": 4,
+      "start": 53.96,
+      "end": 65.96000000000001,
+      "text": "You can tell us how many elements are in the tuple and you will give information about it We saw the tuples as a mutable If you want to add, remove and change the tuple items then first you must convert the list to a tuple"
+    },
+    {
+      "chunk_number": 5,
+      "start": 65.96000000000001,
+      "end": 78.96000000000001,
+      "text": "and then you can add and remove the value and change the name And then you can convert the list into a tuple I have taken a very good example which I want you to see"
+    },
+    {
+      "chunk_number": 6,
+      "start": 78.96000000000001,
+      "end": 90.96,
+      "text": "I have made a tuple I have made a temporary list and then I have made a new one Then I have used a pop method and then I have converted it into a tuple"
+    },
+    {
+      "chunk_number": 7,
+      "start": 90.96,
+      "end": 100.96,
+      "text": "and finally I have converted it into a tuple You can change the tuple in this way and you can change the tuple directly But not directly Now, you can convert the tuple to a list"
+    },
+    {
+      "chunk_number": 8,
+      "start": 100.96,
+      "end": 112.96,
+      "text": "and then you can convert it into a tuple However, we can directly concatenate two tuples without converting them to a list We are not changing the existing tuple We are making a new tuple"
+    },
+    {
+      "chunk_number": 9,
+      "start": 112.96,
+      "end": 122.96,
+      "text": "So when we concatenate two tuples then a new one is becoming a third tuple So it becomes a new one So, if you look at this example The example is already in the slide"
+    },
+    {
+      "chunk_number": 10,
+      "start": 122.96,
+      "end": 134.95999999999998,
+      "text": "You can copy it and run it So, we have merged them So, the name and name of these countries and the name of these countries is also the same The name of the new tuple is merged"
+    },
+    {
+      "chunk_number": 11,
+      "start": 134.95999999999998,
+      "end": 146.96,
+      "text": "So, we can convert it into a new tuple Now, some methods are set to tuple which you should know Like, this count method which tells us how many occurrences are given"
+    },
+    {
+      "chunk_number": 12,
+      "start": 146.96,
+      "end": 156.96,
+      "text": "Now, look here I have made a tuple from tuple name I will take it as a small one We use this for the capital This is not important but"
+    },
+    {
+      "chunk_number": 13,
+      "start": 156.96,
+      "end": 166.96,
+      "text": "I will take it as small I will not do anything like this I will use a convention which is written as a capital and which is written as a small letter"
+    },
+    {
+      "chunk_number": 14,
+      "start": 166.96,
+      "end": 176.96,
+      "text": "So, look here I have found three So, I will find three tuple 1.count3 If I add one more"
+    },
+    {
+      "chunk_number": 15,
+      "start": 176.96,
+      "end": 186.96,
+      "text": "then I will add four I will use three as occurrences I will use four as tuple So, 4 times is here As simple as that"
+    },
+    {
+      "chunk_number": 16,
+      "start": 186.96,
+      "end": 196.96,
+      "text": "I hope you all understood Now, the index method is exactly the same What it does is I will give an element from the tuple Now, what is here is"
+    },
+    {
+      "chunk_number": 17,
+      "start": 196.96,
+      "end": 206.96,
+      "text": "If this value is raised then you should know If I do something like this I will say that the rest is equal to"
+    },
+    {
+      "chunk_number": 18,
+      "start": 206.96,
+      "end": 216.96,
+      "text": "tuple1.index and then I will do three So, first of all, the first index is 0123 I will get the index If I add it as a third one"
+    },
+    {
+      "chunk_number": 19,
+      "start": 216.96,
+      "end": 226.96,
+      "text": "then what will happen? I will get five index So, you should know Now, there is one more thing I found three"
+    },
+    {
+      "chunk_number": 20,
+      "start": 226.96,
+      "end": 236.96,
+      "text": "As I know that there are many occurrences I want to see the number of the index in this portion I will do something like this"
+    },
+    {
+      "chunk_number": 21,
+      "start": 236.96,
+      "end": 246.96,
+      "text": "I will start first of all, 0123 and then I will add the ending and then 0123 4567"
+    },
+    {
+      "chunk_number": 22,
+      "start": 246.96,
+      "end": 256.96000000000004,
+      "text": "I will do this and then I will do this and then I will see the index of the third one What will happen? First of all, what will happen?"
+    },
+    {
+      "chunk_number": 23,
+      "start": 256.96000000000004,
+      "end": 266.96000000000004,
+      "text": "I will do the slicing of the tuple 4 to 8 Now, here is the axis 010 I have done the wrong thing I will start the third one"
+    },
+    {
+      "chunk_number": 24,
+      "start": 266.96000000000004,
+      "end": 276.96,
+      "text": "So, what will happen? I will do the slicing of the tuple So, I will do the slicing of the tuple 0123 567"
+    },
+    {
+      "chunk_number": 25,
+      "start": 276.96,
+      "end": 286.96,
+      "text": "So, 4 colon 8 will happen So, see here what will happen? See here what will happen?"
+    },
+    {
+      "chunk_number": 26,
+      "start": 286.96,
+      "end": 296.96,
+      "text": "Here, 5 will happen So, in the original tuple, I am adding 5 index So, I will add 5 index If I agree, I will add 31"
+    },
+    {
+      "chunk_number": 27,
+      "start": 296.96,
+      "end": 306.96,
+      "text": "So, I will not add 5 index So, I will add 7 index Because, I am adding 7 index Okay? 01234567"
+    },
+    {
+      "chunk_number": 28,
+      "start": 306.96,
+      "end": 316.96,
+      "text": "Here, I am adding 7 So, in index method, you will use many things in your life This will start in my version"
+    },
+    {
+      "chunk_number": 29,
+      "start": 316.96,
+      "end": 326.96,
+      "text": "This is the most useful method But again, I have told you How the use of this method is done? If the value will raise In element tuple"
+    },
+    {
+      "chunk_number": 30,
+      "start": 326.96,
+      "end": 396.96,
+      "text": "I will do it in some way Because of the third, click on the link and click on the bookmark click on the save now i will make this video so much guys"
+    },
+    {
+      "chunk_number": 31,
+      "start": 396.96,
+      "end": 400.96,
+      "text": "thank you so much for watching this video and i will see you next time"
+    }
+  ],
+  "text": "Now, today's video we will be reviewing the methods of the tuples which you can apply on tuples to manipulate them and we will be reviewing them in this video let's get started in the video screen When we talked about list, we talked about the methods of list We said that we can manipulate the list and we can manipulate the tuple If you want to change the tuple, add tuple and remove the value You will not have to copy the method directly You will have to change the list and change the tuple in tuple again The point of tuple is that you cannot change the tuple If there are 5 items, then there will be 5 items You cannot add the item Now, we will see which methods of tuple You can tell us how many elements are in the tuple and you will give information about it We saw the tuples as a mutable If you want to add, remove and change the tuple items then first you must convert the list to a tuple and then you can add and remove the value and change the name And then you can convert the list into a tuple I have taken a very good example which I want you to see I have made a tuple I have made a temporary list and then I have made a new one Then I have used a pop method and then I have converted it into a tuple and finally I have converted it into a tuple You can change the tuple in this way and you can change the tuple directly But not directly Now, you can convert the tuple to a list and then you can convert it into a tuple However, we can directly concatenate two tuples without converting them to a list We are not changing the existing tuple We are making a new tuple So when we concatenate two tuples then a new one is becoming a third tuple So it becomes a new one So, if you look at this example The example is already in the slide You can copy it and run it So, we have merged them So, the name and name of these countries and the name of these countries is also the same The name of the new tuple is merged So, we can convert it into a new tuple Now, some methods are set to tuple which you should know Like, this count method which tells us how many occurrences are given Now, look here I have made a tuple from tuple name I will take it as a small one We use this for the capital This is not important but I will take it as small I will not do anything like this I will use a convention which is written as a capital and which is written as a small letter So, look here I have found three So, I will find three tuple 1.count3 If I add one more then I will add four I will use three as occurrences I will use four as tuple So, 4 times is here As simple as that I hope you all understood Now, the index method is exactly the same What it does is I will give an element from the tuple Now, what is here is If this value is raised then you should know If I do something like this I will say that the rest is equal to tuple1.index and then I will do three So, first of all, the first index is 0123 I will get the index If I add it as a third one then what will happen? I will get five index So, you should know Now, there is one more thing I found three As I know that there are many occurrences I want to see the number of the index in this portion I will do something like this I will start first of all, 0123 and then I will add the ending and then 0123 4567 I will do this and then I will do this and then I will see the index of the third one What will happen? First of all, what will happen? I will do the slicing of the tuple 4 to 8 Now, here is the axis 010 I have done the wrong thing I will start the third one So, what will happen? I will do the slicing of the tuple So, I will do the slicing of the tuple 0123 567 So, 4 colon 8 will happen So, see here what will happen? See here what will happen? Here, 5 will happen So, in the original tuple, I am adding 5 index So, I will add 5 index If I agree, I will add 31 So, I will not add 5 index So, I will add 7 index Because, I am adding 7 index Okay? 01234567 Here, I am adding 7 So, in index method, you will use many things in your life This will start in my version This is the most useful method But again, I have told you How the use of this method is done? If the value will raise In element tuple I will do it in some way Because of the third, click on the link and click on the bookmark click on the save now i will make this video so much guys thank you so much for watching this video and i will see you next time"
+}

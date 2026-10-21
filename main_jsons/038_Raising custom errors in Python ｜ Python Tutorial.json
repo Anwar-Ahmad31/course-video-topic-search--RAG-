@@ -1,0 +1,379 @@
+{
+  "video_number": 38,
+  "title": "Raising custom errors in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 12.58,
+      "text": "What's up guys, you've come back in day 38 Today I'll tell you about custom mirrors If you have a personal application And you want me to show you a particular action So how will you do it?"
+    },
+    {
+      "chunk_number": 2,
+      "start": 12.58,
+      "end": 36.44,
+      "text": "You can use the race word and custom mirrors So let's start the video in this video Let's get started What's up guys, custom mirrors are going to race us So what I've done here is to make a raffle"
+    },
+    {
+      "chunk_number": 3,
+      "start": 36.44,
+      "end": 52.44,
+      "text": "And I'll open a file with Rappl So that I can show you the action How to do all this I'll close it and open the main.py Where my main.py is"
+    },
+    {
+      "chunk_number": 4,
+      "start": 52.44,
+      "end": 68.44,
+      "text": "And I'll show you the custom mirrors Now you can see that when your program has some error It's an issue But you can also use it with your own You'll be surprised why I'll create this problem"
+    },
+    {
+      "chunk_number": 5,
+      "start": 68.44,
+      "end": 81.44,
+      "text": "I'll erase the error You'll get a big reason to erase the error So that the program will stop and no more unexpected will happen Let me explain So let me show you the console on the side"
+    },
+    {
+      "chunk_number": 6,
+      "start": 81.44,
+      "end": 100.44,
+      "text": "I'll simply write A is equal to int and I'll write input Enter any value between 5 and 9 I said that I'll go to user and enter the value between 5 and 9"
+    },
+    {
+      "chunk_number": 7,
+      "start": 100.44,
+      "end": 113.44,
+      "text": "So I'll say that if A is less than 5 And I'll say that A is greater than 9 So what I want to do is I'll say that"
+    },
+    {
+      "chunk_number": 8,
+      "start": 113.44,
+      "end": 127.44,
+      "text": "A race value error And I'll say Value should be between 5 and 9 So I'll do something like this And what will be the benefit of doing this?"
+    },
+    {
+      "chunk_number": 9,
+      "start": 127.44,
+      "end": 143.44,
+      "text": "I don't want to go to any other program And here I've written a lot of JavaScript Now see here Enter any value between 5 and 9"
+    },
+    {
+      "chunk_number": 10,
+      "start": 143.44,
+      "end": 152.44,
+      "text": "I'll say that I've entered the error I'll say that You'll hear the error You'll hear the error"
+    },
+    {
+      "chunk_number": 11,
+      "start": 152.44,
+      "end": 161.44,
+      "text": "It's a good error It's a good error It's a good error Because it can be a good error And you'll see"
+    },
+    {
+      "chunk_number": 12,
+      "start": 161.44,
+      "end": 171.44,
+      "text": "This is the line number 5 Because you'll see this line number 12 Why you'll go to line number 12 Why you're going to line number 12 I can stop here"
+    },
+    {
+      "chunk_number": 13,
+      "start": 171.44,
+      "end": 180.44,
+      "text": "So the good programmers They stop here Like Shaktimaan stopped I said here It's a value error"
+    },
+    {
+      "chunk_number": 14,
+      "start": 180.44,
+      "end": 187.44,
+      "text": "Because you've entered the value It's not between 5 and 9 If it's between 5 and 9 It'll be the value Then we'll move on"
+    },
+    {
+      "chunk_number": 15,
+      "start": 187.44,
+      "end": 196.44,
+      "text": "Some people have said I mean mom said I've made this in the past Go and give it to the house of the mouse You give the mouse"
+    },
+    {
+      "chunk_number": 16,
+      "start": 196.44,
+      "end": 203.44,
+      "text": "Because of the mouse The mouse gets caught by the mouse You get the result Okay, you'll see So why you'll go to the place"
+    },
+    {
+      "chunk_number": 17,
+      "start": 203.44,
+      "end": 208.44,
+      "text": "You'll see in the future Mom said This is the result So you'll go to the place You'll go to the place"
+    },
+    {
+      "chunk_number": 18,
+      "start": 208.44,
+      "end": 218.44,
+      "text": "No, you'll go to the place Obviously you'll go there That's why you should stop your program Because if something is wrong If it's unexpected"
+    },
+    {
+      "chunk_number": 19,
+      "start": 218.44,
+      "end": 225.44,
+      "text": "You'll go to the place I hope that makes sense Now some errors The button that is built in That means"
+    },
+    {
+      "chunk_number": 20,
+      "start": 225.44,
+      "end": 234.44,
+      "text": "That button is handed by you It gives you the data Like if you did something like this Int A is equal to int input And mom wrote this here"
+    },
+    {
+      "chunk_number": 21,
+      "start": 234.44,
+      "end": 240.44,
+      "text": "That's Harry He's asking It's between 5 and 9 You said Harry So you'll stop your Python here"
+    },
+    {
+      "chunk_number": 22,
+      "start": 240.44,
+      "end": 247.44,
+      "text": "How will you know How to get 5 and 9 You should have value You can't find it So you should have value"
+    },
+    {
+      "chunk_number": 23,
+      "start": 247.44,
+      "end": 255.44,
+      "text": "You should have To stop this mistake You have to raise the customer So this is what I wrote here In Python"
+    },
+    {
+      "chunk_number": 24,
+      "start": 255.44,
+      "end": 261.44,
+      "text": "We can raise customers By using the risk of the word We can raise the word And use the word And raise the customers"
+    },
+    {
+      "chunk_number": 25,
+      "start": 261.44,
+      "end": 269.44,
+      "text": "In the previous tutorial We learned about Different built-in exceptions in Python And why it is important to handle exceptions By exception"
+    },
+    {
+      "chunk_number": 26,
+      "start": 269.44,
+      "end": 277.44,
+      "text": "It's not a Q-important It's important Q-important is If a mistake is made You've done it in syntax"
+    },
+    {
+      "chunk_number": 27,
+      "start": 277.44,
+      "end": 284.44,
+      "text": "So you want You to handle it So that things go down And if I talk about it In other words"
+    },
+    {
+      "chunk_number": 28,
+      "start": 284.44,
+      "end": 293.44,
+      "text": "In other words If I talk to you You've written a program You want That something is not a program"
+    },
+    {
+      "chunk_number": 29,
+      "start": 293.44,
+      "end": 299.44,
+      "text": "It's not a program I don't use it You stop here You'll say You won't go like this"
+    },
+    {
+      "chunk_number": 30,
+      "start": 299.44,
+      "end": 307.44,
+      "text": "You'll have to do it in 5 seconds Or I'll give you an error The programmer says Python is the Python I'll stop you"
+    },
+    {
+      "chunk_number": 31,
+      "start": 307.44,
+      "end": 316.44,
+      "text": "I'll give you an error here Stop, line number 4 How did you get the fun? You entered from 5 seconds That's the number"
+    },
+    {
+      "chunk_number": 32,
+      "start": 316.44,
+      "end": 324.44,
+      "text": "So these were the two things There are two things One is that If an error comes It's unexpected"
+    },
+    {
+      "chunk_number": 33,
+      "start": 324.44,
+      "end": 331.44,
+      "text": "It's like Data is getting used to it Or something is doing it If an error comes Then it's handled like this"
+    },
+    {
+      "chunk_number": 34,
+      "start": 331.44,
+      "end": 337.44,
+      "text": "Because if you consider My program is written Because it's getting used to it Now it's getting used to it So it can't be done now"
+    },
+    {
+      "chunk_number": 35,
+      "start": 337.44,
+      "end": 346.44,
+      "text": "Because it can't be done That's why you guys You have to handle that error there You have to stop the program there Because it can't be done"
+    },
+    {
+      "chunk_number": 36,
+      "start": 346.44,
+      "end": 355.44,
+      "text": "So what's the point of running the data processing? There's no point We have to stop the program there This is the first one The second thing that you've written"
+    },
+    {
+      "chunk_number": 37,
+      "start": 355.44,
+      "end": 365.44,
+      "text": "Is that you've written the main thing The user has given some input The user has given the wrong input The user has given the wrong input You erase the error there"
+    },
+    {
+      "chunk_number": 38,
+      "start": 365.44,
+      "end": 373.44,
+      "text": "So that the program stops We are saving the program from one place That is, the error is So, skip the part and then go ahead And handle the error"
+    },
+    {
+      "chunk_number": 39,
+      "start": 373.44,
+      "end": 379.44,
+      "text": "And then go ahead One is that we are giving the error We are giving the error We are saying that the error is two And this has given the wrong value"
+    },
+    {
+      "chunk_number": 40,
+      "start": 379.44,
+      "end": 387.44,
+      "text": "So these are two things One is handling error Raising customer So these are the raising customer I hope you guys understood something"
+    },
+    {
+      "chunk_number": 41,
+      "start": 387.44,
+      "end": 394.44,
+      "text": "Now there is another thing Which you guys think I don't want to overrule Because you should do this Maybe"
+    },
+    {
+      "chunk_number": 42,
+      "start": 394.44,
+      "end": 402.44,
+      "text": "Okay But I will tell you again Defining custom exceptions Look, if we can just erase the value error We can erase the syntax error"
+    },
+    {
+      "chunk_number": 43,
+      "start": 402.44,
+      "end": 412.44,
+      "text": "We can erase the memory error And who can erase it You guys write here Python error classes Okay, you guys can get the list of built-in exceptions"
+    },
+    {
+      "chunk_number": 44,
+      "start": 412.44,
+      "end": 421.44,
+      "text": "Okay, all the built-in exceptions You can erase them Floating point error And your import error Module note found error"
+    },
+    {
+      "chunk_number": 45,
+      "start": 421.44,
+      "end": 427.44,
+      "text": "Index error Key error And also memory error I told you that Memory error will be there"
+    },
+    {
+      "chunk_number": 46,
+      "start": 427.44,
+      "end": 436.44,
+      "text": "When you guys do a bit of data analytics And you guys will load lots of data You will be able to do RAM And you will be able to do RAM And then you will be able to do it"
+    },
+    {
+      "chunk_number": 47,
+      "start": 436.44,
+      "end": 444.44,
+      "text": "This is also because you guys We will load the TVs of data Comand issue So that how many RAM will be there Memory error"
+    },
+    {
+      "chunk_number": 48,
+      "start": 444.44,
+      "end": 452.44,
+      "text": "I got the memory error on the server Yes, it is Now check what you do here When I say Defining custom exceptions"
+    },
+    {
+      "chunk_number": 49,
+      "start": 452.44,
+      "end": 460.44,
+      "text": "What we do here We say We can define custom exceptions You guys want to make a new class What is this thing"
+    },
+    {
+      "chunk_number": 50,
+      "start": 460.44,
+      "end": 473.44,
+      "text": "So guys Just like I want to tell you That we can't do this I want Harry is angry error I have a response from the server that I am angry"
+    },
+    {
+      "chunk_number": 51,
+      "start": 473.44,
+      "end": 486.44,
+      "text": "The program won't work I have given a very funny example I will give you a good example I want to make this error from myself I want to make a server on the data center"
+    },
+    {
+      "chunk_number": 52,
+      "start": 486.44,
+      "end": 506.44,
+      "text": "I want to raise this error in my own program I have an error for me This is the server of errors I will import a custom error I will tell you in inheritance"
+    },
+    {
+      "chunk_number": 53,
+      "start": 506.44,
+      "end": 527.44,
+      "text": "I will make a new class with it I said it will be over the limit I will make a new error We will define different things and then we will create a new error. We can do this kind of error in a different way."
+    },
+    {
+      "chunk_number": 54,
+      "start": 527.44,
+      "end": 542.44,
+      "text": "What can we do? We can do this kind of error in a different way. And this message can be added in any way. Okay, you can do this kind of custom error. Custom exceptions can be made. This is useful because sometimes you might want to do something with a particular exception is raised."
+    },
+    {
+      "chunk_number": 55,
+      "start": 542.44,
+      "end": 554.44,
+      "text": "For example, sending an error. This is the whole thing that is written for the custom error. But I hope you have come to this question. And you will be able to raise the custom errors. I would like to do a quick quiz."
+    },
+    {
+      "chunk_number": 56,
+      "start": 554.44,
+      "end": 566.44,
+      "text": "The reason I told you that if our input is in the middle of the notch and the notch, the error is raised. Now, we have written a user. Quit. QUIT. Then this error should not come."
+    },
+    {
+      "chunk_number": 57,
+      "start": 566.44,
+      "end": 576.44,
+      "text": "You have to write a program. You have to rewrite it. If the user wrote QUIT in small letters. Then this error should not come. But there is no string in it."
+    },
+    {
+      "chunk_number": 58,
+      "start": 576.44,
+      "end": 586.44,
+      "text": "The integer is not there. Then the user should get the error. Can you write this program for me? In the comment section of the wraplet, I have to tell you that you can make a wrap. You can write someone else."
+    },
+    {
+      "chunk_number": 59,
+      "start": 586.44,
+      "end": 596.44,
+      "text": "Okay? You have to fight. And make a wraplet. You will never regret it. You will be happy that I made a wraplet. So, I have to practice."
+    },
+    {
+      "chunk_number": 60,
+      "start": 596.44,
+      "end": 604.44,
+      "text": "Make a wraplet and give me a comment section. Okay? Show me. I will show you the wraplet. Because people will get time when they will get a wraplet."
+    },
+    {
+      "chunk_number": 61,
+      "start": 604.44,
+      "end": 616.44,
+      "text": "If they will get a filter, they will make a wraplet. So, I will show you the wraplet. And I will show you the wraplet. I will show you the wraplet. So, now, if you have not access yet, please do not do it."
+    },
+    {
+      "chunk_number": 62,
+      "start": 616.44,
+      "end": 640.44,
+      "text": "Thank you so much guys for watching this video. And I will see you next time. Bye."
+    }
+  ],
+  "text": "What's up guys, you've come back in day 38 Today I'll tell you about custom mirrors If you have a personal application And you want me to show you a particular action So how will you do it? You can use the race word and custom mirrors So let's start the video in this video Let's get started What's up guys, custom mirrors are going to race us So what I've done here is to make a raffle And I'll open a file with Rappl So that I can show you the action How to do all this I'll close it and open the main.py Where my main.py is And I'll show you the custom mirrors Now you can see that when your program has some error It's an issue But you can also use it with your own You'll be surprised why I'll create this problem I'll erase the error You'll get a big reason to erase the error So that the program will stop and no more unexpected will happen Let me explain So let me show you the console on the side I'll simply write A is equal to int and I'll write input Enter any value between 5 and 9 I said that I'll go to user and enter the value between 5 and 9 So I'll say that if A is less than 5 And I'll say that A is greater than 9 So what I want to do is I'll say that A race value error And I'll say Value should be between 5 and 9 So I'll do something like this And what will be the benefit of doing this? I don't want to go to any other program And here I've written a lot of JavaScript Now see here Enter any value between 5 and 9 I'll say that I've entered the error I'll say that You'll hear the error You'll hear the error It's a good error It's a good error It's a good error Because it can be a good error And you'll see This is the line number 5 Because you'll see this line number 12 Why you'll go to line number 12 Why you're going to line number 12 I can stop here So the good programmers They stop here Like Shaktimaan stopped I said here It's a value error Because you've entered the value It's not between 5 and 9 If it's between 5 and 9 It'll be the value Then we'll move on Some people have said I mean mom said I've made this in the past Go and give it to the house of the mouse You give the mouse Because of the mouse The mouse gets caught by the mouse You get the result Okay, you'll see So why you'll go to the place You'll see in the future Mom said This is the result So you'll go to the place You'll go to the place No, you'll go to the place Obviously you'll go there That's why you should stop your program Because if something is wrong If it's unexpected You'll go to the place I hope that makes sense Now some errors The button that is built in That means That button is handed by you It gives you the data Like if you did something like this Int A is equal to int input And mom wrote this here That's Harry He's asking It's between 5 and 9 You said Harry So you'll stop your Python here How will you know How to get 5 and 9 You should have value You can't find it So you should have value You should have To stop this mistake You have to raise the customer So this is what I wrote here In Python We can raise customers By using the risk of the word We can raise the word And use the word And raise the customers In the previous tutorial We learned about Different built-in exceptions in Python And why it is important to handle exceptions By exception It's not a Q-important It's important Q-important is If a mistake is made You've done it in syntax So you want You to handle it So that things go down And if I talk about it In other words In other words If I talk to you You've written a program You want That something is not a program It's not a program I don't use it You stop here You'll say You won't go like this You'll have to do it in 5 seconds Or I'll give you an error The programmer says Python is the Python I'll stop you I'll give you an error here Stop, line number 4 How did you get the fun? You entered from 5 seconds That's the number So these were the two things There are two things One is that If an error comes It's unexpected It's like Data is getting used to it Or something is doing it If an error comes Then it's handled like this Because if you consider My program is written Because it's getting used to it Now it's getting used to it So it can't be done now Because it can't be done That's why you guys You have to handle that error there You have to stop the program there Because it can't be done So what's the point of running the data processing? There's no point We have to stop the program there This is the first one The second thing that you've written Is that you've written the main thing The user has given some input The user has given the wrong input The user has given the wrong input You erase the error there So that the program stops We are saving the program from one place That is, the error is So, skip the part and then go ahead And handle the error And then go ahead One is that we are giving the error We are giving the error We are saying that the error is two And this has given the wrong value So these are two things One is handling error Raising customer So these are the raising customer I hope you guys understood something Now there is another thing Which you guys think I don't want to overrule Because you should do this Maybe Okay But I will tell you again Defining custom exceptions Look, if we can just erase the value error We can erase the syntax error We can erase the memory error And who can erase it You guys write here Python error classes Okay, you guys can get the list of built-in exceptions Okay, all the built-in exceptions You can erase them Floating point error And your import error Module note found error Index error Key error And also memory error I told you that Memory error will be there When you guys do a bit of data analytics And you guys will load lots of data You will be able to do RAM And you will be able to do RAM And then you will be able to do it This is also because you guys We will load the TVs of data Comand issue So that how many RAM will be there Memory error I got the memory error on the server Yes, it is Now check what you do here When I say Defining custom exceptions What we do here We say We can define custom exceptions You guys want to make a new class What is this thing So guys Just like I want to tell you That we can't do this I want Harry is angry error I have a response from the server that I am angry The program won't work I have given a very funny example I will give you a good example I want to make this error from myself I want to make a server on the data center I want to raise this error in my own program I have an error for me This is the server of errors I will import a custom error I will tell you in inheritance I will make a new class with it I said it will be over the limit I will make a new error We will define different things and then we will create a new error. We can do this kind of error in a different way. What can we do? We can do this kind of error in a different way. And this message can be added in any way. Okay, you can do this kind of custom error. Custom exceptions can be made. This is useful because sometimes you might want to do something with a particular exception is raised. For example, sending an error. This is the whole thing that is written for the custom error. But I hope you have come to this question. And you will be able to raise the custom errors. I would like to do a quick quiz. The reason I told you that if our input is in the middle of the notch and the notch, the error is raised. Now, we have written a user. Quit. QUIT. Then this error should not come. You have to write a program. You have to rewrite it. If the user wrote QUIT in small letters. Then this error should not come. But there is no string in it. The integer is not there. Then the user should get the error. Can you write this program for me? In the comment section of the wraplet, I have to tell you that you can make a wrap. You can write someone else. Okay? You have to fight. And make a wraplet. You will never regret it. You will be happy that I made a wraplet. So, I have to practice. Make a wraplet and give me a comment section. Okay? Show me. I will show you the wraplet. Because people will get time when they will get a wraplet. If they will get a filter, they will make a wraplet. So, I will show you the wraplet. And I will show you the wraplet. I will show you the wraplet. So, now, if you have not access yet, please do not do it. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}

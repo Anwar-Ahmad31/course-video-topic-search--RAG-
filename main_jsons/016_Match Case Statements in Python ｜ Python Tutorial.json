@@ -1,0 +1,175 @@
+{
+  "video_number": 16,
+  "title": "Match Case Statements in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 22.68,
+      "text": "If I want to know if you are a modern python developer, then I will ask you about the first match case statements. This python has a new addition which has been 3.10 onwards. And the match case statements are made by python programming very easily. We will go into our computer screen and see if this python has been brought to improve the match case. What is it that is used? Let's get started."
+    },
+    {
+      "chunk_number": 2,
+      "start": 31.0,
+      "end": 57.0,
+      "text": "I have already made a map of the computer screen and I have made a map of the computer screen. Now the new addition is python 3.10. If you use python default, then as of now, as of recording this video. Obviously, it will be updated with the python version of the map. But if you are a python version, I will show you in the previous map of the computer screen."
+    },
+    {
+      "chunk_number": 3,
+      "start": 57.0,
+      "end": 75.0,
+      "text": "I will show you a program in the data team in the shell. I will only show python and you will know that python 3.10 is being used. But here we need python 3.10. So what do you want to do? I will show you a demo of the python. I will make a demo here."
+    },
+    {
+      "chunk_number": 4,
+      "start": 75.0,
+      "end": 94.0,
+      "text": "I will keep python demo here. If python 3.10 is searching for you, then you should come to the coding practice. I am using python 3.10. I will write python 10 and then the demo. I will make this video."
+    },
+    {
+      "chunk_number": 5,
+      "start": 94.0,
+      "end": 112.0,
+      "text": "I will make this video. I have clicked on the create. And you can see that I have made this video. I will show you the program in the next one. I have made this video of the previous game of the game."
+    },
+    {
+      "chunk_number": 6,
+      "start": 112.0,
+      "end": 138.0,
+      "text": "If you are interested in VS, then you don't need to take this. I wanted to tell you that python 3.10 is being used in the shell. So I will show you the python 3.10. Now I will show you the python 16. I will show you the python 3.10."
+    },
+    {
+      "chunk_number": 7,
+      "start": 138.0,
+      "end": 156.0,
+      "text": "I will show you the problem. I want to tell you something else. If you are coming from CC++, then you will know that it is a switch case statement. What are the switches? Basically, it is a variable."
+    },
+    {
+      "chunk_number": 8,
+      "start": 156.0,
+      "end": 177.0,
+      "text": "You are doing the matching of the variable. If you are doing the value of the variable, then what do you do? You are doing 4 cases. For example, if you ask someone, then you want to vote. If you ask them, then who do you want to vote?"
+    },
+    {
+      "chunk_number": 9,
+      "start": 177.0,
+      "end": 202.0,
+      "text": "There are 4 options. So we will do the same thing with all the options. I want to show you the exact same thing. You will know exactly the same thing. You will see the same thing."
+    },
+    {
+      "chunk_number": 10,
+      "start": 202.0,
+      "end": 225.0,
+      "text": "I told you to match the same thing. If the case is 0, then you will print the same thing. I am going to print the case 4. If you are using default case, then we will do this. I will show you the same thing."
+    },
+    {
+      "chunk_number": 11,
+      "start": 225.0,
+      "end": 239.0,
+      "text": "I will do this as shown. The x value of the case 4 is 4. I will do this. I will write the int input. I will write the int value of x."
+    },
+    {
+      "chunk_number": 12,
+      "start": 239.0,
+      "end": 251.0,
+      "text": "You will see the int value of x. You wrote 5. I will write 5. This will be the default case. In fact, it has printed 5."
+    },
+    {
+      "chunk_number": 13,
+      "start": 251.0,
+      "end": 264.0,
+      "text": "We are printing the value of the default case. If we do this, then we will do 0. Yes. So what is the x is 0? We can match the case."
+    },
+    {
+      "chunk_number": 14,
+      "start": 264.0,
+      "end": 285.0,
+      "text": "The only thing we want to talk about is the case. The case is that if you are using CC++, you should know that the case is break statement. If you have any case match, then you have to print the break statement. If you are using CC++, then I will tell you."
+    },
+    {
+      "chunk_number": 15,
+      "start": 285.0,
+      "end": 302.0,
+      "text": "If you don't have any tension, then you should have the first language. The most of people have the habit of using CC. If you have CC, then you should use the statement of this. If you are using break statement, then you should use the statement of this. If you have 4 cases, then you should have the case 1, case 2, case 3, case 4."
+    },
+    {
+      "chunk_number": 16,
+      "start": 302.0,
+      "end": 314.0,
+      "text": "If you are using the case 3, then you should have the case 4. The code of case 4 will be run. If you have written break in case 3, then it will not be done. Python is not like this. The case match will run its code."
+    },
+    {
+      "chunk_number": 17,
+      "start": 314.0,
+      "end": 326.0,
+      "text": "The code of the case will run its code. You should know that. I will tell you a little bit about this. I have written the case 2. It is like a character."
+    },
+    {
+      "chunk_number": 18,
+      "start": 326.0,
+      "end": 339.0,
+      "text": "It is similar to FL-Sanctionality. If you are coming from CC++, then you will have to listen to it. If I am using your first language, then we will talk about it. I have written this. Match statement will compare a given variable's value to different shapes."
+    },
+    {
+      "chunk_number": 19,
+      "start": 339.0,
+      "end": 351.0,
+      "text": "Also refer to as pattern. The main idea is to compare a variable with all the patterns. This is all patterns. We have zero, four and underscore default. What happens here?"
+    },
+    {
+      "chunk_number": 20,
+      "start": 351.0,
+      "end": 365.0,
+      "text": "I can take 4 cases of default case. I will also take 3. I will write here that if x is not equal to 90. If x is not equal to 90, then what do you want to do? What do you want to do?"
+    },
+    {
+      "chunk_number": 21,
+      "start": 365.0,
+      "end": 375.0,
+      "text": "What do you want to do? Write here is not 90. I will write here is not 90. I will write here the same thing as I will do. It is not 80."
+    },
+    {
+      "chunk_number": 22,
+      "start": 375.0,
+      "end": 387.0,
+      "text": "I will write here. If x is not equal to 80. Then I will do this by default. I will write here. I will write here."
+    },
+    {
+      "chunk_number": 23,
+      "start": 387.0,
+      "end": 399.0,
+      "text": "I will enter. If you see here 56 is not 90. If this case is match, then it will not match. If it is match, then it will be happy. Same here, you see x is not equal to 80."
+    },
+    {
+      "chunk_number": 24,
+      "start": 399.0,
+      "end": 409.0,
+      "text": "It is not 90. I have done it. It will not match this thing. I have written 90. It is not 80."
+    },
+    {
+      "chunk_number": 25,
+      "start": 409.0,
+      "end": 431.0,
+      "text": "This is not 80. You should have done 5.3.10. If you have update in future, then you will have to update the template. It will not be updated until you use this template. If you are using this template, then it is not for VS code."
+    },
+    {
+      "chunk_number": 26,
+      "start": 431.0,
+      "end": 450.0,
+      "text": "If you have downloaded 5.3.10, then you will have to update the template. I hope you understand. This program can be run by default. You will see this thing too. Devolved case will only be matched with the above cases 1.0."
+    },
+    {
+      "chunk_number": 27,
+      "start": 450.0,
+      "end": 463.0,
+      "text": "If it is not matched, then it will be matched with default. It is the same. You have read the information. You can understand the information. It is clear."
+    },
+    {
+      "chunk_number": 28,
+      "start": 463.0,
+      "end": 473.0,
+      "text": "If you have not access the playlist yet, then you should do. Thank you so much for watching this video. I will see you next time."
+    }
+  ],
+  "text": "If I want to know if you are a modern python developer, then I will ask you about the first match case statements. This python has a new addition which has been 3.10 onwards. And the match case statements are made by python programming very easily. We will go into our computer screen and see if this python has been brought to improve the match case. What is it that is used? Let's get started. I have already made a map of the computer screen and I have made a map of the computer screen. Now the new addition is python 3.10. If you use python default, then as of now, as of recording this video. Obviously, it will be updated with the python version of the map. But if you are a python version, I will show you in the previous map of the computer screen. I will show you a program in the data team in the shell. I will only show python and you will know that python 3.10 is being used. But here we need python 3.10. So what do you want to do? I will show you a demo of the python. I will make a demo here. I will keep python demo here. If python 3.10 is searching for you, then you should come to the coding practice. I am using python 3.10. I will write python 10 and then the demo. I will make this video. I will make this video. I have clicked on the create. And you can see that I have made this video. I will show you the program in the next one. I have made this video of the previous game of the game. If you are interested in VS, then you don't need to take this. I wanted to tell you that python 3.10 is being used in the shell. So I will show you the python 3.10. Now I will show you the python 16. I will show you the python 3.10. I will show you the problem. I want to tell you something else. If you are coming from CC++, then you will know that it is a switch case statement. What are the switches? Basically, it is a variable. You are doing the matching of the variable. If you are doing the value of the variable, then what do you do? You are doing 4 cases. For example, if you ask someone, then you want to vote. If you ask them, then who do you want to vote? There are 4 options. So we will do the same thing with all the options. I want to show you the exact same thing. You will know exactly the same thing. You will see the same thing. I told you to match the same thing. If the case is 0, then you will print the same thing. I am going to print the case 4. If you are using default case, then we will do this. I will show you the same thing. I will do this as shown. The x value of the case 4 is 4. I will do this. I will write the int input. I will write the int value of x. You will see the int value of x. You wrote 5. I will write 5. This will be the default case. In fact, it has printed 5. We are printing the value of the default case. If we do this, then we will do 0. Yes. So what is the x is 0? We can match the case. The only thing we want to talk about is the case. The case is that if you are using CC++, you should know that the case is break statement. If you have any case match, then you have to print the break statement. If you are using CC++, then I will tell you. If you don't have any tension, then you should have the first language. The most of people have the habit of using CC. If you have CC, then you should use the statement of this. If you are using break statement, then you should use the statement of this. If you have 4 cases, then you should have the case 1, case 2, case 3, case 4. If you are using the case 3, then you should have the case 4. The code of case 4 will be run. If you have written break in case 3, then it will not be done. Python is not like this. The case match will run its code. The code of the case will run its code. You should know that. I will tell you a little bit about this. I have written the case 2. It is like a character. It is similar to FL-Sanctionality. If you are coming from CC++, then you will have to listen to it. If I am using your first language, then we will talk about it. I have written this. Match statement will compare a given variable's value to different shapes. Also refer to as pattern. The main idea is to compare a variable with all the patterns. This is all patterns. We have zero, four and underscore default. What happens here? I can take 4 cases of default case. I will also take 3. I will write here that if x is not equal to 90. If x is not equal to 90, then what do you want to do? What do you want to do? What do you want to do? Write here is not 90. I will write here is not 90. I will write here the same thing as I will do. It is not 80. I will write here. If x is not equal to 80. Then I will do this by default. I will write here. I will write here. I will enter. If you see here 56 is not 90. If this case is match, then it will not match. If it is match, then it will be happy. Same here, you see x is not equal to 80. It is not 90. I have done it. It will not match this thing. I have written 90. It is not 80. This is not 80. You should have done 5.3.10. If you have update in future, then you will have to update the template. It will not be updated until you use this template. If you are using this template, then it is not for VS code. If you have downloaded 5.3.10, then you will have to update the template. I hope you understand. This program can be run by default. You will see this thing too. Devolved case will only be matched with the above cases 1.0. If it is not matched, then it will be matched with default. It is the same. You have read the information. You can understand the information. It is clear. If you have not access the playlist yet, then you should do. Thank you so much for watching this video. I will see you next time."
+}

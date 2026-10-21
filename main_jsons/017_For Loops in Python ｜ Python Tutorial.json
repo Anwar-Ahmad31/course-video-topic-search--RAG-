@@ -1,0 +1,307 @@
+{
+  "video_number": 17,
+  "title": "For Loops in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 10.68,
+      "text": "We need to repeat something in our life For example, daily we make food We do one thing daily Sometimes we need to do something like this Because we do it for a given client"
+    },
+    {
+      "chunk_number": 2,
+      "start": 10.68,
+      "end": 21.2,
+      "text": "For example, if your mom gave you this You will keep the body of the water and fridge So you will do it for every bottle So we need to do something in the ramen We need to repeat it"
+    },
+    {
+      "chunk_number": 3,
+      "start": 21.2,
+      "end": 30.28,
+      "text": "For example, we print every number 1, 2, 3, 4 all the natural numbers For natural numbers For a day or a day So if you are tired of the print statements"
+    },
+    {
+      "chunk_number": 4,
+      "start": 30.28,
+      "end": 38.68,
+      "text": "Your program will be long And if you are tired Write it down You will write it down I am going to tell you that you will have to use the loops"
+    },
+    {
+      "chunk_number": 5,
+      "start": 38.68,
+      "end": 50.96,
+      "text": "In today's video, I will introduce you to a introduction I will tell you about the loops How to work in the loop pattern This loop pattern is made of a lot of strong programming And the time of the program is saved a lot"
+    },
+    {
+      "chunk_number": 6,
+      "start": 50.96,
+      "end": 68.96000000000001,
+      "text": "How to go to the computer screen And I will tell you So this is the first time we are talking about loops And first of all, I will tell you What happens in the loop?"
+    },
+    {
+      "chunk_number": 7,
+      "start": 68.96000000000001,
+      "end": 80.96000000000001,
+      "text": "After that we will talk about the rest So sometimes the programmer wants to execute a group of statements A certain number of times I have told you I want to print the number of numbers from one to twenty"
+    },
+    {
+      "chunk_number": 8,
+      "start": 80.96000000000001,
+      "end": 91.96,
+      "text": "You are going to be simple What is the future of the child? Come on So this time it's hard going to get difficult The early learning application will be introduced"
+    },
+    {
+      "chunk_number": 9,
+      "start": 91.96,
+      "end": 102.96,
+      "text": "As if we understand much more There is a bit of error So this is what happens When you press the button This is how it begins"
+    },
+    {
+      "chunk_number": 10,
+      "start": 102.96,
+      "end": 119.6,
+      "text": "Depending on the课 You can see that the score of this三 time score would be This capability kruthисьIs predisp funny So what happens If you can score? What if you call them and say, 20,000 only?"
+    },
+    {
+      "chunk_number": 11,
+      "start": 119.6,
+      "end": 131.7,
+      "text": "Then what will they do? Then there will be a problem. 20,000 is a big number, okay. If I said 20,000 in 2,000, you have to print it, 1,2,3,4,7,9,9,9,9,9,9,9,9,8,5, then you might be noticed."
+    },
+    {
+      "chunk_number": 12,
+      "start": 131.7,
+      "end": 141.26,
+      "text": "And that is why I say, loop. Okay. If you are a little smart, you may use Excel, you may use Kat function, you may use another tool,"
+    },
+    {
+      "chunk_number": 13,
+      "start": 141.26,
+      "end": 155.86,
+      "text": "but you know what? These are all tools behind the scenes. Loops. So basically you give me a command that I have to get 20 numbers and you get 20 numbers. So basically you are saying that I have to repeat this for each number."
+    },
+    {
+      "chunk_number": 14,
+      "start": 155.86,
+      "end": 169.86,
+      "text": "So you understand this. Based on implementation, loop is classified in for loop and while loop. I can get 2 types of loops from the loop and while loop. So we can also see nested loops, we can add 4 in while, we can add fold in while. We can do that."
+    },
+    {
+      "chunk_number": 15,
+      "start": 169.86,
+      "end": 178.86,
+      "text": "We can add 4 in while loop and while loop. We can add 4 in while loop. We can do that. We can do that. But we understand the basics of for loop."
+    },
+    {
+      "chunk_number": 16,
+      "start": 178.86,
+      "end": 185.86,
+      "text": "What is for loop? Can I trade over a sequence of pi-tribal objects in pi-tribal object? What is this? What is this? First of all, let's talk about sequence."
+    },
+    {
+      "chunk_number": 17,
+      "start": 185.86,
+      "end": 198.86,
+      "text": "Let's understand what is the sequence of pi-tribal objects in pi-tribal object. Look, there are some pi-tribal objects in pi-tribal object. We can loop them. Like we can loop the list. We can access the list of all elements."
+    },
+    {
+      "chunk_number": 18,
+      "start": 198.86,
+      "end": 207.86,
+      "text": "We can loop the string. We can access all elements. We can access all elements. We can access all objects. We can access all objects."
+    },
+    {
+      "chunk_number": 19,
+      "start": 207.86,
+      "end": 223.86,
+      "text": "We can access elements. If I write here for my I in name, I copy the program that I am going to do. I will copy it. I will write name is equal to a shape for I in name."
+    },
+    {
+      "chunk_number": 20,
+      "start": 223.86,
+      "end": 233.86,
+      "text": "I am going to print it. My I in name is equal to a shape for I in name. I put this in the end as I want to create a comma. If you are confused by this, I will have to write this in the end as if I am not. I will have to see the output of the case in the case of A, B, H, I, S, H, E, K, K."
+    },
+    {
+      "chunk_number": 21,
+      "start": 233.86,
+      "end": 241.86,
+      "text": "I will get this in the case of A, B, H, I, H, H, E, K, and K. Let's look at the problem here. What do we do? What do we do? For I in name,"
+    },
+    {
+      "chunk_number": 22,
+      "start": 241.86,
+      "end": 249.86,
+      "text": "we have to write name for everySeong. Because it is a string, This string is for every character. For the list, For the list,"
+    },
+    {
+      "chunk_number": 23,
+      "start": 249.86,
+      "end": 294.86,
+      "text": "For the list, For each element. It will be different for the objects from different elements. I have come in the form of the IV, if I come in the IF, I will write the print here, this is something special. I want to write in the name, whenever B is, this is something special, I will get to see it."
+    },
+    {
+      "chunk_number": 24,
+      "start": 294.86,
+      "end": 312.86,
+      "text": "So, here it is not for A, B will come, this is something special, this condition is match. Obviously, the program does not make any sense, I have written the random thing here, but this is equal to B, so print it. So, it has done it. I want to make the sense, I want to make this logic. What will the computer do, simply give it to you, whatever you say."
+    },
+    {
+      "chunk_number": 25,
+      "start": 312.86,
+      "end": 326.86,
+      "text": "So, this is for the string. So, we can iterate strings like this. What if it was a list? Now, look at the list for example, this is the list for example. You see, I am commenting on this, so that you can focus on the list here."
+    },
+    {
+      "chunk_number": 26,
+      "start": 326.86,
+      "end": 350.86,
+      "text": "We should take all the colors, I wrote for action colors. So, we will create a string, this one, this one, this one, this one, this one, this one, this one. In fact, we will create a little more readable, we will write color in colors. You are using whatever variable, you have to use the same variable here, then you will get a color here in the form loop. Now, if I do this, I will say, I have red, green, blue and yellow to see in the output."
+    },
+    {
+      "chunk_number": 27,
+      "start": 350.86,
+      "end": 380.86,
+      "text": "So, this was a very straightforward thing. But, I can do something with this color, maybe I want to iterate color too. I understand, like red's already, because now, it is a string, it is a list, which has a lot of strings. Now, let me say, I will correct the indent, now, the indentation is in your hands, you see, I have sent it here, I have sent it here, Okay, I want to send it here, I will send it here, I will send it here, okay, now, look here, I wrote the print color."
+    },
+    {
+      "chunk_number": 28,
+      "start": 380.86,
+      "end": 414.86,
+      "text": "And after that, I wrote for I in color, and I will write for print I, So, what will happen, I will get all the values, just take one thing, take this value and this value, Okay, this color is taken, take this I, take this car, and use carry in it, okay, I will run it, if you want to write red print, then it is a green, green, green, yellow, blue, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow. So, you can iterate a list from this, if this is a tuple, if it is a dictionary, it is a lot of items that we have,"
+    },
+    {
+      "chunk_number": 29,
+      "start": 414.86,
+      "end": 445.86,
+      "text": "So, what we will talk about, we will talk about the 4 loop, we will use it a lot, in fact, I will say, there is no big project, 4 loop is needed, and yes, 4 loop is used, while it is used, it is used for a little more, I want to tell you this, from my own experience, okay, let's talk about the range, what is the range? I remember you called it 20,000, okay, that question is not enough, you have to go, it is fine, now you have to print, you have to print the colors in the list, how will the question of 20,000 be printed,"
+    },
+    {
+      "chunk_number": 30,
+      "start": 445.86,
+      "end": 476.86,
+      "text": "20,000 to less characters to print, number to print, sorry, how will it be? Let's talk about it, it is the range function, I want to print from 20,000 to 5, okay, so what does the range function do? I can write here something like this, that for K in range, I have taken 4K in range 5, that means, I will take 0,000 to 4, okay, range 5 means, I will take 0,000 to 4, range 7 means, I will take 0,000 to 6, so I will tell you, I will run it, I will take 0,000 to 4,"
+    },
+    {
+      "chunk_number": 31,
+      "start": 476.86,
+      "end": 498.86,
+      "text": "I will get K value, I will get 4, but I want to print from 1 to 5, no matter what, you print K plus 1, you have to print K plus 1, you have to print K plus 1, you have to print K plus 1, you will get 5 from 1 to 5, okay, so this is your use case, it depends on any size, no big rocket, you can print it from the rest, if you want to print from 2 to 6, then print it from 2 to 2,"
+    },
+    {
+      "chunk_number": 32,
+      "start": 498.86,
+      "end": 521.86,
+      "text": "but not only this much, you can give your arguments in the range function, you can tell how to start, how to finish, I mean, I want to start from 1 to 9, so from 1 to 8, you will get 9, you will have to remember that, this is a very important thing, from 1 to 9, because I have written K plus 1, I am confused,"
+    },
+    {
+      "chunk_number": 33,
+      "start": 521.86,
+      "end": 540.86,
+      "text": "what happened, so K value from 1 to 8, if you have printed K plus 1, K plus 2, then obviously, it will be the value of the current, for every value, and you have to get 2 from 10, whatever you have printed, you will get it, okay, so from this way, you can print the numbers from each of the numbers,"
+    },
+    {
+      "chunk_number": 34,
+      "start": 540.86,
+      "end": 561.86,
+      "text": "I had told you, I will write you 20,000, I don't know if this program will be too big, but still, I am doing it, from 1 to 2,000 to 20, and you will see, from 1 to 20, if you have already thought about it, then you will get it,"
+    },
+    {
+      "chunk_number": 35,
+      "start": 561.86,
+      "end": 581.86,
+      "text": "so how long will it take, I want to tell you, that you will get the clear of the console, it is 9,000, so the console is clear, but the program is ours, I wanted to tell you something, so you are doing it, this is actually 1 to 1, but the console is clear,"
+    },
+    {
+      "chunk_number": 36,
+      "start": 581.86,
+      "end": 597.86,
+      "text": "if you want to see this, then you will get it again, and you will get it, and the console will be clear, all the weight is 20,000, 20 is not a single print, because it is 1 to 1, if you write 1 to 1, then it is 1 to 1, okay,"
+    },
+    {
+      "chunk_number": 37,
+      "start": 597.86,
+      "end": 613.86,
+      "text": "I hope that it is clear, it is not visible, then you understand, that when we do the range function, then automatically Python will do this, 0 to 5, okay, this is for your convenience, okay, now look, there are three parameters in this,"
+    },
+    {
+      "chunk_number": 38,
+      "start": 613.86,
+      "end": 629.86,
+      "text": "range function, there is a start, a stop, and a step, step, what is the step? the step you are doing, in fact, I have given a quiz here, what is the step argument, you have to explore, okay, then what will you do, that you will omit,"
+    },
+    {
+      "chunk_number": 39,
+      "start": 629.86,
+      "end": 648.86,
+      "text": "how will you do it, you will do the trial and error, okay, it is very simple, because I want you to explore, but here, okay, when we are doing the range function, then automatically Python will do this, 0 to 5, okay, if we are doing this with 2, then we will start once,"
+    },
+    {
+      "chunk_number": 40,
+      "start": 648.86,
+      "end": 659.86,
+      "text": "Python will go to minus 1, okay, and if we are applying three arguments, then you will tell me, what will you do, what will you do with x, y, z, okay, then what will you do, okay, in fact, I will do randoms,"
+    },
+    {
+      "chunk_number": 41,
+      "start": 659.86,
+      "end": 673.86,
+      "text": "I will also explore, then I will do randoms, then what will I do, I will do 12, and here I will click, here I will click, here, okay, and I will do it, because I will do it, in fact, I have to comment on this, God, I did not comment on this,"
+    },
+    {
+      "chunk_number": 42,
+      "start": 673.86,
+      "end": 689.86,
+      "text": "no problem, now look, 1, 3, 5, 7, 9, 11, what if I do it 3, if I had to comment on this, I will do it, okay, you see, I have comment on this, 1, 4, 7, 10, do you understand?"
+    },
+    {
+      "chunk_number": 43,
+      "start": 689.86,
+      "end": 701.86,
+      "text": "Do you understand? Okay, 1, 4, 7, 10, you tell yourself, what is this, that is, for 2, that was 1, 3, 5, 7, now what is happening, you tell me,"
+    },
+    {
+      "chunk_number": 44,
+      "start": 701.86,
+      "end": 712.86,
+      "text": "okay, you have to tell, okay, now look at it, okay, what will you do, tell me, where will you tell me, you will tell me on Instagram, you will attack on the code, okay, at the rate, you will attack on the code,"
+    },
+    {
+      "chunk_number": 45,
+      "start": 712.86,
+      "end": 721.86,
+      "text": "you will put a story, you will attack me, and I will tell you, okay, this is the task, you have to do it, okay, I don't know, so do this quick quiz, explore about the parameter of range,"
+    },
+    {
+      "chunk_number": 46,
+      "start": 721.86,
+      "end": 730.86,
+      "text": "and answer my question on Instagram, and give everything, okay, code with Harry, Instagram handle, okay, you guys, attack me there, and tell me,"
+    },
+    {
+      "chunk_number": 47,
+      "start": 730.86,
+      "end": 735.86,
+      "text": "you have solved this, you explain me, is it true that this is not said, that if I have to explain it, it will be done 3,"
+    },
+    {
+      "chunk_number": 48,
+      "start": 735.86,
+      "end": 742.86,
+      "text": "then it will be done, and explain it in less words, this is also a color, it is less words, explain it in less words,"
+    },
+    {
+      "chunk_number": 49,
+      "start": 742.86,
+      "end": 751.86,
+      "text": "I hope you have understood, and I hope you will attack me on Instagram, after solving this question, if you haven't even done playlists yet, then you can do one of those,"
+    },
+    {
+      "chunk_number": 50,
+      "start": 751.86,
+      "end": 760.86,
+      "text": "do playlists quickly, because all the videos in this playlist are going to be added, also in future, thank you so much for watching this video, and I will see you next time."
+    }
+  ],
+  "text": "We need to repeat something in our life For example, daily we make food We do one thing daily Sometimes we need to do something like this Because we do it for a given client For example, if your mom gave you this You will keep the body of the water and fridge So you will do it for every bottle So we need to do something in the ramen We need to repeat it For example, we print every number 1, 2, 3, 4 all the natural numbers For natural numbers For a day or a day So if you are tired of the print statements Your program will be long And if you are tired Write it down You will write it down I am going to tell you that you will have to use the loops In today's video, I will introduce you to a introduction I will tell you about the loops How to work in the loop pattern This loop pattern is made of a lot of strong programming And the time of the program is saved a lot How to go to the computer screen And I will tell you So this is the first time we are talking about loops And first of all, I will tell you What happens in the loop? After that we will talk about the rest So sometimes the programmer wants to execute a group of statements A certain number of times I have told you I want to print the number of numbers from one to twenty You are going to be simple What is the future of the child? Come on So this time it's hard going to get difficult The early learning application will be introduced As if we understand much more There is a bit of error So this is what happens When you press the button This is how it begins Depending on the课 You can see that the score of this三 time score would be This capability kruthисьIs predisp funny So what happens If you can score? What if you call them and say, 20,000 only? Then what will they do? Then there will be a problem. 20,000 is a big number, okay. If I said 20,000 in 2,000, you have to print it, 1,2,3,4,7,9,9,9,9,9,9,9,9,8,5, then you might be noticed. And that is why I say, loop. Okay. If you are a little smart, you may use Excel, you may use Kat function, you may use another tool, but you know what? These are all tools behind the scenes. Loops. So basically you give me a command that I have to get 20 numbers and you get 20 numbers. So basically you are saying that I have to repeat this for each number. So you understand this. Based on implementation, loop is classified in for loop and while loop. I can get 2 types of loops from the loop and while loop. So we can also see nested loops, we can add 4 in while, we can add fold in while. We can do that. We can add 4 in while loop and while loop. We can add 4 in while loop. We can do that. We can do that. But we understand the basics of for loop. What is for loop? Can I trade over a sequence of pi-tribal objects in pi-tribal object? What is this? What is this? First of all, let's talk about sequence. Let's understand what is the sequence of pi-tribal objects in pi-tribal object. Look, there are some pi-tribal objects in pi-tribal object. We can loop them. Like we can loop the list. We can access the list of all elements. We can loop the string. We can access all elements. We can access all elements. We can access all objects. We can access all objects. We can access elements. If I write here for my I in name, I copy the program that I am going to do. I will copy it. I will write name is equal to a shape for I in name. I am going to print it. My I in name is equal to a shape for I in name. I put this in the end as I want to create a comma. If you are confused by this, I will have to write this in the end as if I am not. I will have to see the output of the case in the case of A, B, H, I, S, H, E, K, K. I will get this in the case of A, B, H, I, H, H, E, K, and K. Let's look at the problem here. What do we do? What do we do? For I in name, we have to write name for everySeong. Because it is a string, This string is for every character. For the list, For the list, For the list, For each element. It will be different for the objects from different elements. I have come in the form of the IV, if I come in the IF, I will write the print here, this is something special. I want to write in the name, whenever B is, this is something special, I will get to see it. So, here it is not for A, B will come, this is something special, this condition is match. Obviously, the program does not make any sense, I have written the random thing here, but this is equal to B, so print it. So, it has done it. I want to make the sense, I want to make this logic. What will the computer do, simply give it to you, whatever you say. So, this is for the string. So, we can iterate strings like this. What if it was a list? Now, look at the list for example, this is the list for example. You see, I am commenting on this, so that you can focus on the list here. We should take all the colors, I wrote for action colors. So, we will create a string, this one, this one, this one, this one, this one, this one, this one. In fact, we will create a little more readable, we will write color in colors. You are using whatever variable, you have to use the same variable here, then you will get a color here in the form loop. Now, if I do this, I will say, I have red, green, blue and yellow to see in the output. So, this was a very straightforward thing. But, I can do something with this color, maybe I want to iterate color too. I understand, like red's already, because now, it is a string, it is a list, which has a lot of strings. Now, let me say, I will correct the indent, now, the indentation is in your hands, you see, I have sent it here, I have sent it here, Okay, I want to send it here, I will send it here, I will send it here, okay, now, look here, I wrote the print color. And after that, I wrote for I in color, and I will write for print I, So, what will happen, I will get all the values, just take one thing, take this value and this value, Okay, this color is taken, take this I, take this car, and use carry in it, okay, I will run it, if you want to write red print, then it is a green, green, green, yellow, blue, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow. So, you can iterate a list from this, if this is a tuple, if it is a dictionary, it is a lot of items that we have, So, what we will talk about, we will talk about the 4 loop, we will use it a lot, in fact, I will say, there is no big project, 4 loop is needed, and yes, 4 loop is used, while it is used, it is used for a little more, I want to tell you this, from my own experience, okay, let's talk about the range, what is the range? I remember you called it 20,000, okay, that question is not enough, you have to go, it is fine, now you have to print, you have to print the colors in the list, how will the question of 20,000 be printed, 20,000 to less characters to print, number to print, sorry, how will it be? Let's talk about it, it is the range function, I want to print from 20,000 to 5, okay, so what does the range function do? I can write here something like this, that for K in range, I have taken 4K in range 5, that means, I will take 0,000 to 4, okay, range 5 means, I will take 0,000 to 4, range 7 means, I will take 0,000 to 6, so I will tell you, I will run it, I will take 0,000 to 4, I will get K value, I will get 4, but I want to print from 1 to 5, no matter what, you print K plus 1, you have to print K plus 1, you have to print K plus 1, you have to print K plus 1, you will get 5 from 1 to 5, okay, so this is your use case, it depends on any size, no big rocket, you can print it from the rest, if you want to print from 2 to 6, then print it from 2 to 2, but not only this much, you can give your arguments in the range function, you can tell how to start, how to finish, I mean, I want to start from 1 to 9, so from 1 to 8, you will get 9, you will have to remember that, this is a very important thing, from 1 to 9, because I have written K plus 1, I am confused, what happened, so K value from 1 to 8, if you have printed K plus 1, K plus 2, then obviously, it will be the value of the current, for every value, and you have to get 2 from 10, whatever you have printed, you will get it, okay, so from this way, you can print the numbers from each of the numbers, I had told you, I will write you 20,000, I don't know if this program will be too big, but still, I am doing it, from 1 to 2,000 to 20, and you will see, from 1 to 20, if you have already thought about it, then you will get it, so how long will it take, I want to tell you, that you will get the clear of the console, it is 9,000, so the console is clear, but the program is ours, I wanted to tell you something, so you are doing it, this is actually 1 to 1, but the console is clear, if you want to see this, then you will get it again, and you will get it, and the console will be clear, all the weight is 20,000, 20 is not a single print, because it is 1 to 1, if you write 1 to 1, then it is 1 to 1, okay, I hope that it is clear, it is not visible, then you understand, that when we do the range function, then automatically Python will do this, 0 to 5, okay, this is for your convenience, okay, now look, there are three parameters in this, range function, there is a start, a stop, and a step, step, what is the step? the step you are doing, in fact, I have given a quiz here, what is the step argument, you have to explore, okay, then what will you do, that you will omit, how will you do it, you will do the trial and error, okay, it is very simple, because I want you to explore, but here, okay, when we are doing the range function, then automatically Python will do this, 0 to 5, okay, if we are doing this with 2, then we will start once, Python will go to minus 1, okay, and if we are applying three arguments, then you will tell me, what will you do, what will you do with x, y, z, okay, then what will you do, okay, in fact, I will do randoms, I will also explore, then I will do randoms, then what will I do, I will do 12, and here I will click, here I will click, here, okay, and I will do it, because I will do it, in fact, I have to comment on this, God, I did not comment on this, no problem, now look, 1, 3, 5, 7, 9, 11, what if I do it 3, if I had to comment on this, I will do it, okay, you see, I have comment on this, 1, 4, 7, 10, do you understand? Do you understand? Okay, 1, 4, 7, 10, you tell yourself, what is this, that is, for 2, that was 1, 3, 5, 7, now what is happening, you tell me, okay, you have to tell, okay, now look at it, okay, what will you do, tell me, where will you tell me, you will tell me on Instagram, you will attack on the code, okay, at the rate, you will attack on the code, you will put a story, you will attack me, and I will tell you, okay, this is the task, you have to do it, okay, I don't know, so do this quick quiz, explore about the parameter of range, and answer my question on Instagram, and give everything, okay, code with Harry, Instagram handle, okay, you guys, attack me there, and tell me, you have solved this, you explain me, is it true that this is not said, that if I have to explain it, it will be done 3, then it will be done, and explain it in less words, this is also a color, it is less words, explain it in less words, I hope you have understood, and I hope you will attack me on Instagram, after solving this question, if you haven't even done playlists yet, then you can do one of those, do playlists quickly, because all the videos in this playlist are going to be added, also in future, thank you so much for watching this video, and I will see you next time."
+}

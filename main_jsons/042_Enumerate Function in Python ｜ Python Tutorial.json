@@ -1,0 +1,277 @@
+{
+  "video_number": 42,
+  "title": "Enumerate Function in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 12.700000000000001,
+      "text": "We are now applying for loop, so we need an index I am going to write a list and I need a variable which is the element of the console tell me which index is it is telling"
+    },
+    {
+      "chunk_number": 2,
+      "start": 12.700000000000001,
+      "end": 27.0,
+      "text": "In this way, I told you that we can use it by incrementing the temporary variable but today I will tell you about the enumerate function which will be easy to test how to start in the computer screen and let's get started"
+    },
+    {
+      "chunk_number": 3,
+      "start": 30.0,
+      "end": 51.0,
+      "text": "Today we will see the enumerate function how to save a lot of time how to do this simple I will tell you that I will iterate all the elements of the list and tell you which number"
+    },
+    {
+      "chunk_number": 4,
+      "start": 51.0,
+      "end": 63.0,
+      "text": "I will tell you when the fifth element is available then print this is the fifth element I will write here A is equal to I will write marks"
+    },
+    {
+      "chunk_number": 5,
+      "start": 63.0,
+      "end": 72.0,
+      "text": "which is the sum which is shown in the description this is the mark of the game I will also add it to the 98 mark and you know"
+    },
+    {
+      "chunk_number": 6,
+      "start": 72.0,
+      "end": 82.0,
+      "text": "the paper is difficult my 98 is the 2 marks so you know what other people will do so I will also come to a mark and this is the mark"
+    },
+    {
+      "chunk_number": 7,
+      "start": 82.0,
+      "end": 98.0,
+      "text": "I will put marks in the AD and now whenever the 98 index number is 0123 like index number 3 you will want to print here Harry Awesome"
+    },
+    {
+      "chunk_number": 8,
+      "start": 98.0,
+      "end": 108.0,
+      "text": "ok I will print it so I will do it for mark and marks I will say print and here mark ok I want to print it"
+    },
+    {
+      "chunk_number": 9,
+      "start": 108.0,
+      "end": 121.0,
+      "text": "and I want to say if index is equal to equal to 3 then what should I do? print here Harry Awesome"
+    },
+    {
+      "chunk_number": 10,
+      "start": 121.0,
+      "end": 129.0,
+      "text": "ok Harry I will put it in the comma if you know if you know that you will come to the syntax"
+    },
+    {
+      "chunk_number": 11,
+      "start": 129.0,
+      "end": 135.0,
+      "text": "in fact to see the syntax this program is not necessary to run the program syntax I have shown here"
+    },
+    {
+      "chunk_number": 12,
+      "start": 135.0,
+      "end": 143.0,
+      "text": "my lantern what is the lantern? it is not the lantern the lantern that we were dealing with it was called lantern"
+    },
+    {
+      "chunk_number": 13,
+      "start": 143.0,
+      "end": 150.0,
+      "text": "it is in the lantern but it is not the lantern this is the lantern it is the LINTER LINTER"
+    },
+    {
+      "chunk_number": 14,
+      "start": 150.0,
+      "end": 158.0,
+      "text": "I will google the lantern I want to see I know I have wasted time our machine for removing short fibres yes"
+    },
+    {
+      "chunk_number": 15,
+      "start": 158.0,
+      "end": 166.0,
+      "text": "this is the lantern what is the lantern in the lantern? the lantern is a process of identifying bugs and stylic errors in your code if error is obvious"
+    },
+    {
+      "chunk_number": 16,
+      "start": 166.0,
+      "end": 175.0,
+      "text": "then you will see here this is the lantern and what we will do here we will not run it because I know"
+    },
+    {
+      "chunk_number": 17,
+      "start": 175.0,
+      "end": 183.0,
+      "text": "I have to go out to loop index is equal to 0 index is equal to index plus 1"
+    },
+    {
+      "chunk_number": 18,
+      "start": 183.0,
+      "end": 191.0,
+      "text": "we have to write the end of the loop we have to write why we have to write e cost to 1 we have to do this"
+    },
+    {
+      "chunk_number": 19,
+      "start": 191.0,
+      "end": 201.0,
+      "text": "because as the loop is going to go we have to update the index value so how much pain is coming? it is not very simple we solve the problem in the numerator"
+    },
+    {
+      "chunk_number": 20,
+      "start": 201.0,
+      "end": 211.0,
+      "text": "by the way the problem will go and as soon as it is 98 I will write the happy and get it"
+    },
+    {
+      "chunk_number": 21,
+      "start": 211.0,
+      "end": 217.0,
+      "text": "you can see that the happy is achieved but what is happening? how did we get it? 1256"
+    },
+    {
+      "chunk_number": 22,
+      "start": 217.0,
+      "end": 225.0,
+      "text": "okay so this is the happy 98 so all values are printed 4 to 3 so if you want"
+    },
+    {
+      "chunk_number": 23,
+      "start": 225.0,
+      "end": 235.0,
+      "text": "you can do this easily copy the same code and I am commenting don't comment you can change the code"
+    },
+    {
+      "chunk_number": 24,
+      "start": 235.0,
+      "end": 245.0,
+      "text": "because I am not going to copy so I have written for market max I will write the index and write the same index"
+    },
+    {
+      "chunk_number": 25,
+      "start": 245.0,
+      "end": 255.0,
+      "text": "in numerate and in numerate function I have given index with the value of the value of the index or when the loop is iterating"
+    },
+    {
+      "chunk_number": 26,
+      "start": 255.0,
+      "end": 265.0,
+      "text": "I have given the value of the market 12 to 0 and index with the index 32 to 0.0.1.2 98 to 3.0.1.2"
+    },
+    {
+      "chunk_number": 27,
+      "start": 265.0,
+      "end": 275.0,
+      "text": "and so on and I will do this and you can see the same function in numerate function"
+    },
+    {
+      "chunk_number": 28,
+      "start": 275.0,
+      "end": 285.0,
+      "text": "is a built-in function allows you to loop and try to write the same program and get the index and value of each element"
+    },
+    {
+      "chunk_number": 29,
+      "start": 285.0,
+      "end": 295.0,
+      "text": "at the same time index will give you the value of the index as you want to make the apple and index with the index you can also use the numerate"
+    },
+    {
+      "chunk_number": 30,
+      "start": 295.0,
+      "end": 305.0,
+      "text": "so 0 to 0.1.2. and you can see this is what we have seen you can just return this thing"
+    },
+    {
+      "chunk_number": 31,
+      "start": 305.0,
+      "end": 315.0,
+      "text": "or print it and if you want to write the index and print it then you can use the index and print it"
+    },
+    {
+      "chunk_number": 32,
+      "start": 315.0,
+      "end": 325.0,
+      "text": "so what will happen if index is not written then you can get the index and the index will be the first value of the"
+    },
+    {
+      "chunk_number": 33,
+      "start": 325.0,
+      "end": 335.0,
+      "text": "index will be the first value of the index but now the index is given and the index will be"
+    },
+    {
+      "chunk_number": 34,
+      "start": 335.0,
+      "end": 345.0,
+      "text": "the second value of the index so you can use the fall loop to unpack these tuples and assign them to variables"
+    },
+    {
+      "chunk_number": 35,
+      "start": 345.0,
+      "end": 355.0,
+      "text": "as shown in the examples and you can also unpack the tuples here is an interesting use case in numerate"
+    },
+    {
+      "chunk_number": 36,
+      "start": 355.0,
+      "end": 365.0,
+      "text": "and we will also start from 0 to 0.2. but you can specify a different starting index and the argument to the numerate function"
+    },
+    {
+      "chunk_number": 37,
+      "start": 365.0,
+      "end": 375.0,
+      "text": "you can say you can start from 0 to 0.1 as i said I did not say the index I said the index"
+    },
+    {
+      "chunk_number": 38,
+      "start": 375.0,
+      "end": 385.0,
+      "text": "I said the index and when you have 2 then you have to print it and print it and then you have to print it"
+    },
+    {
+      "chunk_number": 39,
+      "start": 385.0,
+      "end": 395.0,
+      "text": "and then you have to print it and print it so it is very simple and it is very complicated and you can see"
+    },
+    {
+      "chunk_number": 40,
+      "start": 395.0,
+      "end": 405.0,
+      "text": "the numerate function is often used when you need to loop and you can see the index value and"
+    },
+    {
+      "chunk_number": 41,
+      "start": 405.0,
+      "end": 415.0,
+      "text": "you can also see that if you want to change the start value then you can do"
+    },
+    {
+      "chunk_number": 42,
+      "start": 415.0,
+      "end": 425.0,
+      "text": "the other way and then you can see the number of 100 days of"
+    },
+    {
+      "chunk_number": 43,
+      "start": 425.0,
+      "end": 435.0,
+      "text": "python and you can watch this video and you can watch this video"
+    },
+    {
+      "chunk_number": 44,
+      "start": 435.0,
+      "end": 453.0,
+      "text": "and i will see you next time i will see you next time i will see you"
+    },
+    {
+      "chunk_number": 45,
+      "start": 453.0,
+      "end": 457.0,
+      "text": "next time i will see you"
+    }
+  ],
+  "text": "We are now applying for loop, so we need an index I am going to write a list and I need a variable which is the element of the console tell me which index is it is telling In this way, I told you that we can use it by incrementing the temporary variable but today I will tell you about the enumerate function which will be easy to test how to start in the computer screen and let's get started Today we will see the enumerate function how to save a lot of time how to do this simple I will tell you that I will iterate all the elements of the list and tell you which number I will tell you when the fifth element is available then print this is the fifth element I will write here A is equal to I will write marks which is the sum which is shown in the description this is the mark of the game I will also add it to the 98 mark and you know the paper is difficult my 98 is the 2 marks so you know what other people will do so I will also come to a mark and this is the mark I will put marks in the AD and now whenever the 98 index number is 0123 like index number 3 you will want to print here Harry Awesome ok I will print it so I will do it for mark and marks I will say print and here mark ok I want to print it and I want to say if index is equal to equal to 3 then what should I do? print here Harry Awesome ok Harry I will put it in the comma if you know if you know that you will come to the syntax in fact to see the syntax this program is not necessary to run the program syntax I have shown here my lantern what is the lantern? it is not the lantern the lantern that we were dealing with it was called lantern it is in the lantern but it is not the lantern this is the lantern it is the LINTER LINTER I will google the lantern I want to see I know I have wasted time our machine for removing short fibres yes this is the lantern what is the lantern in the lantern? the lantern is a process of identifying bugs and stylic errors in your code if error is obvious then you will see here this is the lantern and what we will do here we will not run it because I know I have to go out to loop index is equal to 0 index is equal to index plus 1 we have to write the end of the loop we have to write why we have to write e cost to 1 we have to do this because as the loop is going to go we have to update the index value so how much pain is coming? it is not very simple we solve the problem in the numerator by the way the problem will go and as soon as it is 98 I will write the happy and get it you can see that the happy is achieved but what is happening? how did we get it? 1256 okay so this is the happy 98 so all values are printed 4 to 3 so if you want you can do this easily copy the same code and I am commenting don't comment you can change the code because I am not going to copy so I have written for market max I will write the index and write the same index in numerate and in numerate function I have given index with the value of the value of the index or when the loop is iterating I have given the value of the market 12 to 0 and index with the index 32 to 0.0.1.2 98 to 3.0.1.2 and so on and I will do this and you can see the same function in numerate function is a built-in function allows you to loop and try to write the same program and get the index and value of each element at the same time index will give you the value of the index as you want to make the apple and index with the index you can also use the numerate so 0 to 0.1.2. and you can see this is what we have seen you can just return this thing or print it and if you want to write the index and print it then you can use the index and print it so what will happen if index is not written then you can get the index and the index will be the first value of the index will be the first value of the index but now the index is given and the index will be the second value of the index so you can use the fall loop to unpack these tuples and assign them to variables as shown in the examples and you can also unpack the tuples here is an interesting use case in numerate and we will also start from 0 to 0.2. but you can specify a different starting index and the argument to the numerate function you can say you can start from 0 to 0.1 as i said I did not say the index I said the index I said the index and when you have 2 then you have to print it and print it and then you have to print it and then you have to print it and print it so it is very simple and it is very complicated and you can see the numerate function is often used when you need to loop and you can see the index value and you can also see that if you want to change the start value then you can do the other way and then you can see the number of 100 days of python and you can watch this video and you can watch this video and i will see you next time i will see you next time i will see you next time i will see you"
+}

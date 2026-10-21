@@ -1,0 +1,379 @@
+{
+  "video_number": 11,
+  "title": "Strings in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 17.0,
+      "text": "You guys have come back in 100 days of code and I am also a datta and you guys will tell us about the strengths. We saw a lot of things about the strengths. This is a very special related type. We have written our name, some poem, and some other stuff. We can write down the strengths in double codes and then write them down."
+    },
+    {
+      "chunk_number": 2,
+      "start": 17.0,
+      "end": 29.0,
+      "text": "We learnt so far. In today's video, I will tell you about the strengths of the strengths. And I will show you the way to make these strengths and which ones are better. So let's start without further ado. Let's get started in the computer screen."
+    },
+    {
+      "chunk_number": 3,
+      "start": 30.0,
+      "end": 57.0,
+      "text": "So I have already started with the quick update of the computer screen. Now let's see what we can do. Now let's open the wraplet. First of all, I will open the wraplet and I will open it in zero to zero to zero to five hundred crores. So before that, I would like to tell you about the main points."
+    },
+    {
+      "chunk_number": 4,
+      "start": 57.0,
+      "end": 71.0,
+      "text": "I would like to mention a lot of people on Insta. I would like to tell you that many people on Insta are doing a lot of things. I am rementioning all of them. I would like to tell you about the points. You want to join me on Insta."
+    },
+    {
+      "chunk_number": 5,
+      "start": 71.0,
+      "end": 84.0,
+      "text": "And attack your daily life. Day 6, day 7, it is fun. And my energy increases. I will tell you about the strengths of the strengths. And today we will go through some of the strengths."
+    },
+    {
+      "chunk_number": 6,
+      "start": 84.0,
+      "end": 101.0,
+      "text": "I saw that the strengths are very low. But what is the strength of the day? You can see that you are getting a double-coded strength in Python. I will write in the manual. Name is equal to double-coded in the Harry."
+    },
+    {
+      "chunk_number": 7,
+      "start": 101.0,
+      "end": 114.0,
+      "text": "So this is a strength. Let me write in the manual. Friend is equal to Rohan. So this is a more strength. If I write here, another friend is equal to Love-ish."
+    },
+    {
+      "chunk_number": 8,
+      "start": 114.0,
+      "end": 128.0,
+      "text": "So this is a more strength. I can make Love-ish in single-coded. Double-coded or single-coded. And we can make the strength of the double-coded and single-coded. I have written this."
+    },
+    {
+      "chunk_number": 9,
+      "start": 128.0,
+      "end": 142.0,
+      "text": "By the 90th, you can close it. We have seen single-coded marks as a strength. A strength is essentially a sequence of array of textual data. Strings are used when working with Unicode characters. This is a very important thing."
+    },
+    {
+      "chunk_number": 10,
+      "start": 142.0,
+      "end": 153.0,
+      "text": "I have given an example here. You can paste it and run it. If the name is equal to Harry, I have made it. And I will run this code. So here is a simple thing."
+    },
+    {
+      "chunk_number": 11,
+      "start": 153.0,
+      "end": 163.0,
+      "text": "Hello Harry. I will see the output. Okay. But you can see that it does not matter whether you include your strengths in single or double-coded. The output is exactly the same."
+    },
+    {
+      "chunk_number": 12,
+      "start": 163.0,
+      "end": 174.0,
+      "text": "Sometimes, the user has to make double-coded marks a strength. Now I will give you an example. If you have said to someone, Please print this thing and show it. Okay."
+    },
+    {
+      "chunk_number": 13,
+      "start": 174.0,
+      "end": 186.0,
+      "text": "He said that he said I want to eat an apple. Please print it and show it. I will show you a strength. It is okay. If I make a single-coded string in single-coded."
+    },
+    {
+      "chunk_number": 14,
+      "start": 186.0,
+      "end": 196.0,
+      "text": "And I will write it in double-coded. He wants to do whatever I want. I will do it. I will do it in this way. I will do it."
+    },
+    {
+      "chunk_number": 15,
+      "start": 196.0,
+      "end": 204.0,
+      "text": "I will paste it and run it. And show it. I thought that it will be printed exactly literally. But Harry is here. What is he saying?"
+    },
+    {
+      "chunk_number": 16,
+      "start": 204.0,
+      "end": 218.0,
+      "text": "He said that you cannot put double-coded or double-coded. We used to use the escape sequence. We will use the backslash and use it. We will use it. If we do not do double-coded,"
+    },
+    {
+      "chunk_number": 17,
+      "start": 218.0,
+      "end": 235.0,
+      "text": "we will do print and do apple. If we do not want to do double-coded work, we can do a single-coded string. Okay. We can do single-coded work in this way."
+    },
+    {
+      "chunk_number": 18,
+      "start": 235.0,
+      "end": 247.0,
+      "text": "We will do a string and this will work. Now I will tell you about multi-line strings. If I want to make a string in multiple lines. I want to make a string in this way. I am good."
+    },
+    {
+      "chunk_number": 19,
+      "start": 247.0,
+      "end": 256.0,
+      "text": "In multiple lines. I am showing you the chat. He said, Hi Harry. Hey I am good. I want to eat an apple."
+    },
+    {
+      "chunk_number": 20,
+      "start": 256.0,
+      "end": 269.0,
+      "text": "Here is a garter. This is called EOL while scanning string. When Python is scanning string, it is basically called that your Python will see that here start with string"
+    },
+    {
+      "chunk_number": 21,
+      "start": 269.0,
+      "end": 280.0,
+      "text": "and that will find the same line that the character is close to you. You will not get it through the wire. This is called EOL and of line while scanning string."
+    },
+    {
+      "chunk_number": 22,
+      "start": 280.0,
+      "end": 289.0,
+      "text": "Python is saying that I am scanning string. I am showing you the string. It is finished. But I do not see it. It is finished."
+    },
+    {
+      "chunk_number": 23,
+      "start": 289.0,
+      "end": 301.0,
+      "text": "So, let us solve this problem. Triple single-coded, triple double-coded. When we put triple single-coded, and we end here, triple single-coded. So, triple single-coded,"
+    },
+    {
+      "chunk_number": 24,
+      "start": 301.0,
+      "end": 310.0,
+      "text": "or triple double-coded. If you close any of these, I will run it. So, you will find someone here. Hello Harry."
+    },
+    {
+      "chunk_number": 25,
+      "start": 310.0,
+      "end": 316.0,
+      "text": "He said, Hi Harry. Hey I am good. Any string of this, you will find the print. It is simple."
+    },
+    {
+      "chunk_number": 26,
+      "start": 316.0,
+      "end": 324.0,
+      "text": "Now, why is this useful? Sometimes we have to write something like this. I will copy this and paste it. I will print it. I will say,"
+    },
+    {
+      "chunk_number": 27,
+      "start": 324.0,
+      "end": 332.0,
+      "text": "I am ST is equal to this. I am trying to write a triple-coded single-coded. I can make ST. I will print it. I will not get any error."
+    },
+    {
+      "chunk_number": 28,
+      "start": 332.0,
+      "end": 339.0,
+      "text": "I have paste all the spices. If there is a new line in it. If there is any new line, there will be a handle. Double-coded."
+    },
+    {
+      "chunk_number": 29,
+      "start": 339.0,
+      "end": 347.0,
+      "text": "It is very convenient. I will put it in the middle. You can see it. I have made ST string. It is made in the middle."
+    },
+    {
+      "chunk_number": 30,
+      "start": 347.0,
+      "end": 359.0,
+      "text": "It will be triple-coded. If you use it. So, this way you can make multi-line string. Now, let us see the name of the string. Let us work on the name of the string."
+    },
+    {
+      "chunk_number": 31,
+      "start": 359.0,
+      "end": 368.0,
+      "text": "If I type this print apple here. I will write something like this. I will write this hello-hary. Let us keep it. If I write this for a fall loop."
+    },
+    {
+      "chunk_number": 32,
+      "start": 368.0,
+      "end": 378.0,
+      "text": "I will tell you about indexing. If I write this name 0. So, what is this string? This is a sequence of characters. And these characters are on this position."
+    },
+    {
+      "chunk_number": 33,
+      "start": 378.0,
+      "end": 389.0,
+      "text": "0,1,2,3,4. So, this is a sequence of characters. And these characters are on this position. 0,1,2,3,4. So, the index in programming is in most of the programming languages."
+    },
+    {
+      "chunk_number": 34,
+      "start": 389.0,
+      "end": 401.0,
+      "text": "0 is the start. What does this mean? This means that if you get the name 0, then you will get h. If you get the name 0, then you will get the first element."
+    },
+    {
+      "chunk_number": 35,
+      "start": 401.0,
+      "end": 411.0,
+      "text": "If you get name 1, then you will get the second element. Because this is the start of the string. If you write something 0, I mean, you have 5 in your hand. 5 in your hand is 0."
+    },
+    {
+      "chunk_number": 36,
+      "start": 411.0,
+      "end": 418.0,
+      "text": "0,1,2,3,4. 5 in your hand is 0. index 0. The first element is 0. Okay?"
+    },
+    {
+      "chunk_number": 37,
+      "start": 418.0,
+      "end": 425.0,
+      "text": "Okay? Easy, easy. Easy, easy. If I run this, I will print h. Then I will print this name 1."
+    },
+    {
+      "chunk_number": 38,
+      "start": 425.0,
+      "end": 436.0,
+      "text": "Similarly, if I print this name 1. So, what will happen? This name 1 will be a print. And this will be a print of r and r. Okay?"
+    },
+    {
+      "chunk_number": 39,
+      "start": 436.0,
+      "end": 447.0,
+      "text": "So, this python string is like an array of characters. This is like an array of characters. Okay? I did not say exactly the array of characters. Tell me, remember, this is like an array of characters."
+    },
+    {
+      "chunk_number": 40,
+      "start": 447.0,
+      "end": 454.0,
+      "text": "What does it mean? Collection of items. Okay? Now, let me tell you. Name 0, name 1, name 2."
+    },
+    {
+      "chunk_number": 41,
+      "start": 454.0,
+      "end": 465.0,
+      "text": "Where can you go? 0,1,2,3,4. If you try to go to 5, then you will get the name 5. I will try to print h. If you try to go to 5, then you will get r."
+    },
+    {
+      "chunk_number": 42,
+      "start": 465.0,
+      "end": 473.0,
+      "text": "You will get r on name 3, and you will get 4. You will get 4. I can print name 5. I will see. Maybe something is wrong."
+    },
+    {
+      "chunk_number": 43,
+      "start": 473.0,
+      "end": 478.0,
+      "text": "No, nothing is wrong. You will get r. You will get r. So, you will get r. You will get r."
+    },
+    {
+      "chunk_number": 44,
+      "start": 478.0,
+      "end": 492.0,
+      "text": "We will get r. In this course, we will get r. It means that the object you want to iterate is what happened? The index you tried to access"
+    },
+    {
+      "chunk_number": 45,
+      "start": 492.0,
+      "end": 500.0,
+      "text": "was not there. Okay? This index is r. Now, we will do manually 0,1,2,3,5. In fact, I will add this."
+    },
+    {
+      "chunk_number": 46,
+      "start": 500.0,
+      "end": 509.0,
+      "text": "I will also give you a link that I don't use this. Okay? It will error. It will error. Because there is nothing on 5 index."
+    },
+    {
+      "chunk_number": 47,
+      "start": 509.0,
+      "end": 517.0,
+      "text": "Okay? So, this is what I have written. Now, what I will do? I have printed 5 characters. What about Apple?"
+    },
+    {
+      "chunk_number": 48,
+      "start": 517.0,
+      "end": 525.0,
+      "text": "If I want to see all the characters of Apple, then how will I see them? Yes, I know. 0,1,2,3. I can run the train. I have so many lines."
+    },
+    {
+      "chunk_number": 49,
+      "start": 525.0,
+      "end": 534.0,
+      "text": "There are two problems. I have to get rid of this. I have to get rid of the new line characters. I have to get rid of the spaces. I don't have any way to do this."
+    },
+    {
+      "chunk_number": 50,
+      "start": 534.0,
+      "end": 545.0,
+      "text": "I have to get rid of all the characters of this string. So, the answer is yes. And it is for loop with strings. Okay? If you see looping through this string"
+    },
+    {
+      "chunk_number": 51,
+      "start": 545.0,
+      "end": 557.0,
+      "text": "we can loop through strings using a for loop like this. You can use it like this. I will show you. And I want to do this. First, I will do name."
+    },
+    {
+      "chunk_number": 52,
+      "start": 557.0,
+      "end": 568.0,
+      "text": "I will do name. Here, I will get hr and y here. But I will do one thing. I will put a print here. Let's use a for loop."
+    },
+    {
+      "chunk_number": 53,
+      "start": 568.0,
+      "end": 580.0,
+      "text": "Then I will put black slash here. And I will run it like this. You can see here. Let's use a for loop and hr and y. You can see here."
+    },
+    {
+      "chunk_number": 54,
+      "start": 580.0,
+      "end": 589.0,
+      "text": "Okay? Now I want to do the same thing. For apple name. I can do same thing for apple name. I will do all the characters here."
+    },
+    {
+      "chunk_number": 55,
+      "start": 589.0,
+      "end": 598.0,
+      "text": "I will start here. Let's use a for loop h with e. Fiss space. Fiss set has this idea. Okay?"
+    },
+    {
+      "chunk_number": 56,
+      "start": 598.0,
+      "end": 612.0,
+      "text": "All the characters have scanned and printed. I hope you guys understood how to do this for loop. So, what is the character in it? All the characters are working together. And this loop is going on."
+    },
+    {
+      "chunk_number": 57,
+      "start": 612.0,
+      "end": 622.0,
+      "text": "But we haven't studied about loops yet. Okay? What is loop? You guys must have thought about it. It is not loop yet."
+    },
+    {
+      "chunk_number": 58,
+      "start": 622.0,
+      "end": 634.0,
+      "text": "I will read about loop. Now you guys understand. What is this black box? What is this black box? It helps all the characters in this string."
+    },
+    {
+      "chunk_number": 59,
+      "start": 634.0,
+      "end": 647.0,
+      "text": "And when we study about loops later, you will understand it very easily. If you are learning more programming, then you are getting a little easier to understand. You already know what is loop."
+    },
+    {
+      "chunk_number": 60,
+      "start": 647.0,
+      "end": 663.0,
+      "text": "Okay? So, in this video, I will tell you more about the string in the coming videos. And we will read about how we can do all these things. If you guys have not been able to access the video,"
+    },
+    {
+      "chunk_number": 61,
+      "start": 663.0,
+      "end": 673.0,
+      "text": "then you can access it right away. You can click here and read the bookmark. You can click on the same playlist. Now, don't forget to watch this video. Thank you so much guys for watching this video."
+    },
+    {
+      "chunk_number": 62,
+      "start": 673.0,
+      "end": 693.0,
+      "text": "And I will see you next time. Bye."
+    }
+  ],
+  "text": "You guys have come back in 100 days of code and I am also a datta and you guys will tell us about the strengths. We saw a lot of things about the strengths. This is a very special related type. We have written our name, some poem, and some other stuff. We can write down the strengths in double codes and then write them down. We learnt so far. In today's video, I will tell you about the strengths of the strengths. And I will show you the way to make these strengths and which ones are better. So let's start without further ado. Let's get started in the computer screen. So I have already started with the quick update of the computer screen. Now let's see what we can do. Now let's open the wraplet. First of all, I will open the wraplet and I will open it in zero to zero to zero to five hundred crores. So before that, I would like to tell you about the main points. I would like to mention a lot of people on Insta. I would like to tell you that many people on Insta are doing a lot of things. I am rementioning all of them. I would like to tell you about the points. You want to join me on Insta. And attack your daily life. Day 6, day 7, it is fun. And my energy increases. I will tell you about the strengths of the strengths. And today we will go through some of the strengths. I saw that the strengths are very low. But what is the strength of the day? You can see that you are getting a double-coded strength in Python. I will write in the manual. Name is equal to double-coded in the Harry. So this is a strength. Let me write in the manual. Friend is equal to Rohan. So this is a more strength. If I write here, another friend is equal to Love-ish. So this is a more strength. I can make Love-ish in single-coded. Double-coded or single-coded. And we can make the strength of the double-coded and single-coded. I have written this. By the 90th, you can close it. We have seen single-coded marks as a strength. A strength is essentially a sequence of array of textual data. Strings are used when working with Unicode characters. This is a very important thing. I have given an example here. You can paste it and run it. If the name is equal to Harry, I have made it. And I will run this code. So here is a simple thing. Hello Harry. I will see the output. Okay. But you can see that it does not matter whether you include your strengths in single or double-coded. The output is exactly the same. Sometimes, the user has to make double-coded marks a strength. Now I will give you an example. If you have said to someone, Please print this thing and show it. Okay. He said that he said I want to eat an apple. Please print it and show it. I will show you a strength. It is okay. If I make a single-coded string in single-coded. And I will write it in double-coded. He wants to do whatever I want. I will do it. I will do it in this way. I will do it. I will paste it and run it. And show it. I thought that it will be printed exactly literally. But Harry is here. What is he saying? He said that you cannot put double-coded or double-coded. We used to use the escape sequence. We will use the backslash and use it. We will use it. If we do not do double-coded, we will do print and do apple. If we do not want to do double-coded work, we can do a single-coded string. Okay. We can do single-coded work in this way. We will do a string and this will work. Now I will tell you about multi-line strings. If I want to make a string in multiple lines. I want to make a string in this way. I am good. In multiple lines. I am showing you the chat. He said, Hi Harry. Hey I am good. I want to eat an apple. Here is a garter. This is called EOL while scanning string. When Python is scanning string, it is basically called that your Python will see that here start with string and that will find the same line that the character is close to you. You will not get it through the wire. This is called EOL and of line while scanning string. Python is saying that I am scanning string. I am showing you the string. It is finished. But I do not see it. It is finished. So, let us solve this problem. Triple single-coded, triple double-coded. When we put triple single-coded, and we end here, triple single-coded. So, triple single-coded, or triple double-coded. If you close any of these, I will run it. So, you will find someone here. Hello Harry. He said, Hi Harry. Hey I am good. Any string of this, you will find the print. It is simple. Now, why is this useful? Sometimes we have to write something like this. I will copy this and paste it. I will print it. I will say, I am ST is equal to this. I am trying to write a triple-coded single-coded. I can make ST. I will print it. I will not get any error. I have paste all the spices. If there is a new line in it. If there is any new line, there will be a handle. Double-coded. It is very convenient. I will put it in the middle. You can see it. I have made ST string. It is made in the middle. It will be triple-coded. If you use it. So, this way you can make multi-line string. Now, let us see the name of the string. Let us work on the name of the string. If I type this print apple here. I will write something like this. I will write this hello-hary. Let us keep it. If I write this for a fall loop. I will tell you about indexing. If I write this name 0. So, what is this string? This is a sequence of characters. And these characters are on this position. 0,1,2,3,4. So, this is a sequence of characters. And these characters are on this position. 0,1,2,3,4. So, the index in programming is in most of the programming languages. 0 is the start. What does this mean? This means that if you get the name 0, then you will get h. If you get the name 0, then you will get the first element. If you get name 1, then you will get the second element. Because this is the start of the string. If you write something 0, I mean, you have 5 in your hand. 5 in your hand is 0. 0,1,2,3,4. 5 in your hand is 0. index 0. The first element is 0. Okay? Okay? Easy, easy. Easy, easy. If I run this, I will print h. Then I will print this name 1. Similarly, if I print this name 1. So, what will happen? This name 1 will be a print. And this will be a print of r and r. Okay? So, this python string is like an array of characters. This is like an array of characters. Okay? I did not say exactly the array of characters. Tell me, remember, this is like an array of characters. What does it mean? Collection of items. Okay? Now, let me tell you. Name 0, name 1, name 2. Where can you go? 0,1,2,3,4. If you try to go to 5, then you will get the name 5. I will try to print h. If you try to go to 5, then you will get r. You will get r on name 3, and you will get 4. You will get 4. I can print name 5. I will see. Maybe something is wrong. No, nothing is wrong. You will get r. You will get r. So, you will get r. You will get r. We will get r. In this course, we will get r. It means that the object you want to iterate is what happened? The index you tried to access was not there. Okay? This index is r. Now, we will do manually 0,1,2,3,5. In fact, I will add this. I will also give you a link that I don't use this. Okay? It will error. It will error. Because there is nothing on 5 index. Okay? So, this is what I have written. Now, what I will do? I have printed 5 characters. What about Apple? If I want to see all the characters of Apple, then how will I see them? Yes, I know. 0,1,2,3. I can run the train. I have so many lines. There are two problems. I have to get rid of this. I have to get rid of the new line characters. I have to get rid of the spaces. I don't have any way to do this. I have to get rid of all the characters of this string. So, the answer is yes. And it is for loop with strings. Okay? If you see looping through this string we can loop through strings using a for loop like this. You can use it like this. I will show you. And I want to do this. First, I will do name. I will do name. Here, I will get hr and y here. But I will do one thing. I will put a print here. Let's use a for loop. Then I will put black slash here. And I will run it like this. You can see here. Let's use a for loop and hr and y. You can see here. Okay? Now I want to do the same thing. For apple name. I can do same thing for apple name. I will do all the characters here. I will start here. Let's use a for loop h with e. Fiss space. Fiss set has this idea. Okay? All the characters have scanned and printed. I hope you guys understood how to do this for loop. So, what is the character in it? All the characters are working together. And this loop is going on. But we haven't studied about loops yet. Okay? What is loop? You guys must have thought about it. It is not loop yet. I will read about loop. Now you guys understand. What is this black box? What is this black box? It helps all the characters in this string. And when we study about loops later, you will understand it very easily. If you are learning more programming, then you are getting a little easier to understand. You already know what is loop. Okay? So, in this video, I will tell you more about the string in the coming videos. And we will read about how we can do all these things. If you guys have not been able to access the video, then you can access it right away. You can click here and read the bookmark. You can click on the same playlist. Now, don't forget to watch this video. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}

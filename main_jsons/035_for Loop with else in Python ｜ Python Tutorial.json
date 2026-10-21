@@ -1,0 +1,145 @@
+{
+  "video_number": 35,
+  "title": "for Loop with else in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 35.22,
+      "text": "Python programming has seen some forums in it, but you can use it with forums as well. Today's video is about this thing, let's go to the video screen and see how forums use it with forums. Let's get started. People justice to Android Nothing like these are allowed in interviews, and why are they used only"
+    },
+    {
+      "chunk_number": 2,
+      "start": 35.64,
+      "end": 67.58,
+      "text": "one way to show information so that we can use what else we can do with traps. If I write this in 4i in range 5 and then I write print i. And then I write else and print no i. If I don't go to the control of the fore loop, it will go in taboos. This is the same thing and that's about it."
+    },
+    {
+      "chunk_number": 3,
+      "start": 67.58,
+      "end": 87.58,
+      "text": "If I write in range 5, then I can't go to 0. I know all the people of this world. But after 0.1.2.3.4, I can't go to 5. Because we know that I write in range 0.1. So after that, I will execute else."
+    },
+    {
+      "chunk_number": 4,
+      "start": 87.58,
+      "end": 104.58,
+      "text": "If I write here, for i in an empty list, I will give an empty list. It doesn't matter. So it will go in L and I will give an empty list. So we can use Ls with the fore loop. So here I have written this."
+    },
+    {
+      "chunk_number": 5,
+      "start": 104.58,
+      "end": 121.58,
+      "text": "As you have learned before, the Ls clause is used along with the if statement. With the if statement, it is used with Ls clause. Python allows the Ls keyword to be used with the fore loops and while loops as well. You can use while loops as well with the Ls keyword. The Ls block appears after the body of the loop."
+    },
+    {
+      "chunk_number": 6,
+      "start": 121.58,
+      "end": 140.57999999999998,
+      "text": "The statements in the Ls block will be executed after all iterations are completed. The program exits the loop only after the Ls block is executed. If you are going to run a fore loop or a while loop, then at the end, when all the values are finished, what will happen here? The Ls will execute here."
+    },
+    {
+      "chunk_number": 7,
+      "start": 140.57999999999998,
+      "end": 162.58,
+      "text": "However, I ask you a question, which is a question for many people. If I equal to 0, break, I will do this. I will do this. If I equal to equal to 1, I will do 4 and I will do range from this. I will do 6."
+    },
+    {
+      "chunk_number": 8,
+      "start": 162.58,
+      "end": 181.58,
+      "text": "If I break the while loop and the fore loop, or if I break it, then tell me, whether the content of the Ls will execute or not. If you are feeling comfortable, then tell me in the comment section. If you are thinking about it, then tell me in the comment section,"
+    },
+    {
+      "chunk_number": 9,
+      "start": 181.58,
+      "end": 199.58,
+      "text": "whether you can use the Ls with fore loop or while loop. I will pause in the comment section. I hope you have shown this comment and I will run it and show you. The answer is, it does not execute. The meaning of the Ls is that the loop is not broken."
+    },
+    {
+      "chunk_number": 10,
+      "start": 199.58,
+      "end": 214.58,
+      "text": "The loop is finished. The loop is not broken. The loop is finished successfully. The last value is gone. The last value is finished."
+    },
+    {
+      "chunk_number": 11,
+      "start": 214.58,
+      "end": 226.58,
+      "text": "The last iteration is finished. This is the content of the Ls. This is very important. Super important. And the interview questions go to the question."
+    },
+    {
+      "chunk_number": 12,
+      "start": 226.58,
+      "end": 238.58,
+      "text": "I have many people, I have learned machine learning, data science, and I have learned the whole syntax. Where are the 1st and 1st? In the Ls, how do you use the Ls? I will ask the interviewer."
+    },
+    {
+      "chunk_number": 13,
+      "start": 238.58,
+      "end": 251.58,
+      "text": "He asks, is the loop broken? Tell me, whether the content of the Ls will not be printed or not. And the value will be gone. And this happens. Keep in mind that you can do the same thing with the loop."
+    },
+    {
+      "chunk_number": 14,
+      "start": 251.58,
+      "end": 269.58,
+      "text": "If this loop is while I is, say, 7 to 7. And I will do the same thing with the I plus. I plus 1 is exactly the same thing. Okay? I forgot to put the colon."
+    },
+    {
+      "chunk_number": 15,
+      "start": 269.58,
+      "end": 285.58,
+      "text": "And I forgot to put the indentation. If I do the same thing with the I plus, then I will not be able to break it. Then what will happen? Okay? You see, I have already put the I plus."
+    },
+    {
+      "chunk_number": 16,
+      "start": 285.58,
+      "end": 295.58,
+      "text": "So, you have to keep in mind. And exactly the same thing that I have told you. And I have used the dot format. Because I told you in the strength formatting chapter. Okay?"
+    },
+    {
+      "chunk_number": 17,
+      "start": 295.58,
+      "end": 305.58,
+      "text": "So, you can also do this program. And you will do it. So, you will see. I have written the iteration number 1. And then the end of the loop is the same."
+    },
+    {
+      "chunk_number": 18,
+      "start": 305.58,
+      "end": 315.58,
+      "text": "So, this thing is gone. When all the iterations are over for loop. And at the end, the loop is the loop. If you are printed, you will see. I hope that you guys have understood and understand."
+    },
+    {
+      "chunk_number": 19,
+      "start": 315.58,
+      "end": 327.58,
+      "text": "And you guys will never be able to break each other. You will meet a loop like this. You will never break each other. I hope. If you have not done the playlist with all this video,"
+    },
+    {
+      "chunk_number": 20,
+      "start": 327.58,
+      "end": 337.58,
+      "text": "then you should have done the entire playlist with all these. So, you have to do the entire playlist with all these. That you can write a comment in the 1st video. And how is this course like? You can write a comment in the 1st video."
+    },
+    {
+      "chunk_number": 21,
+      "start": 337.58,
+      "end": 347.58,
+      "text": "I have seen the pages of the pages of the pages. And I am telling you about the pages of the pages of the pages. I am telling you this from my experience. How did you feel? You can give me a rating."
+    },
+    {
+      "chunk_number": 22,
+      "start": 347.58,
+      "end": 359.58,
+      "text": "How many stars do you want to give to this course? Why do you want to give? What are your plans? You can write a video in your first video so that no new person can see this course. So I want to show you that review and see what good result you will take."
+    },
+    {
+      "chunk_number": 23,
+      "start": 359.58,
+      "end": 371.58,
+      "text": "I am not expecting you to write a good comment. But I want you to keep the reality in front of people. So, please go and give a review of your first video. Thank you so much for watching this video. And I will see you next time."
+    }
+  ],
+  "text": "Python programming has seen some forums in it, but you can use it with forums as well. Today's video is about this thing, let's go to the video screen and see how forums use it with forums. Let's get started. People justice to Android Nothing like these are allowed in interviews, and why are they used only one way to show information so that we can use what else we can do with traps. If I write this in 4i in range 5 and then I write print i. And then I write else and print no i. If I don't go to the control of the fore loop, it will go in taboos. This is the same thing and that's about it. If I write in range 5, then I can't go to 0. I know all the people of this world. But after 0.1.2.3.4, I can't go to 5. Because we know that I write in range 0.1. So after that, I will execute else. If I write here, for i in an empty list, I will give an empty list. It doesn't matter. So it will go in L and I will give an empty list. So we can use Ls with the fore loop. So here I have written this. As you have learned before, the Ls clause is used along with the if statement. With the if statement, it is used with Ls clause. Python allows the Ls keyword to be used with the fore loops and while loops as well. You can use while loops as well with the Ls keyword. The Ls block appears after the body of the loop. The statements in the Ls block will be executed after all iterations are completed. The program exits the loop only after the Ls block is executed. If you are going to run a fore loop or a while loop, then at the end, when all the values are finished, what will happen here? The Ls will execute here. However, I ask you a question, which is a question for many people. If I equal to 0, break, I will do this. I will do this. If I equal to equal to 1, I will do 4 and I will do range from this. I will do 6. If I break the while loop and the fore loop, or if I break it, then tell me, whether the content of the Ls will execute or not. If you are feeling comfortable, then tell me in the comment section. If you are thinking about it, then tell me in the comment section, whether you can use the Ls with fore loop or while loop. I will pause in the comment section. I hope you have shown this comment and I will run it and show you. The answer is, it does not execute. The meaning of the Ls is that the loop is not broken. The loop is finished. The loop is not broken. The loop is finished successfully. The last value is gone. The last value is finished. The last iteration is finished. This is the content of the Ls. This is very important. Super important. And the interview questions go to the question. I have many people, I have learned machine learning, data science, and I have learned the whole syntax. Where are the 1st and 1st? In the Ls, how do you use the Ls? I will ask the interviewer. He asks, is the loop broken? Tell me, whether the content of the Ls will not be printed or not. And the value will be gone. And this happens. Keep in mind that you can do the same thing with the loop. If this loop is while I is, say, 7 to 7. And I will do the same thing with the I plus. I plus 1 is exactly the same thing. Okay? I forgot to put the colon. And I forgot to put the indentation. If I do the same thing with the I plus, then I will not be able to break it. Then what will happen? Okay? You see, I have already put the I plus. So, you have to keep in mind. And exactly the same thing that I have told you. And I have used the dot format. Because I told you in the strength formatting chapter. Okay? So, you can also do this program. And you will do it. So, you will see. I have written the iteration number 1. And then the end of the loop is the same. So, this thing is gone. When all the iterations are over for loop. And at the end, the loop is the loop. If you are printed, you will see. I hope that you guys have understood and understand. And you guys will never be able to break each other. You will meet a loop like this. You will never break each other. I hope. If you have not done the playlist with all this video, then you should have done the entire playlist with all these. So, you have to do the entire playlist with all these. That you can write a comment in the 1st video. And how is this course like? You can write a comment in the 1st video. I have seen the pages of the pages of the pages. And I am telling you about the pages of the pages of the pages. I am telling you this from my experience. How did you feel? You can give me a rating. How many stars do you want to give to this course? Why do you want to give? What are your plans? You can write a video in your first video so that no new person can see this course. So I want to show you that review and see what good result you will take. I am not expecting you to write a good comment. But I want you to keep the reality in front of people. So, please go and give a review of your first video. Thank you so much for watching this video. And I will see you next time."
+}

@@ -1,0 +1,175 @@
+{
+  "video_number": 34,
+  "title": "Dictionary Methods in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 25.900000000000002,
+      "text": "In the last video we saw how Dishnary made Dishnary. Dishnary is the key importance of Python programming language. Today I would like to talk about Dishnary methods. Let's get started in the video screen. Dishnary methods are very useful."
+    },
+    {
+      "chunk_number": 2,
+      "start": 25.9,
+      "end": 44.9,
+      "text": "Dishnary is a method of update. Dishnary is used to update Dishnary. I have some employee IDs and their performances. I write EPE and make a very simple name. I have some employee IDs."
+    },
+    {
+      "chunk_number": 3,
+      "start": 44.9,
+      "end": 75.9,
+      "text": "I will not do it with names. I have 1,2,2 and 45 out of 100. I have 670 and 69 out of 100. I have a very good performance. I am a manager."
+    },
+    {
+      "chunk_number": 4,
+      "start": 75.9,
+      "end": 93.9,
+      "text": "I have some more employee IDs. I have some more employee IDs. I have some more employee IDs. Let's do one thing. EPE is a senior manager."
+    },
+    {
+      "chunk_number": 5,
+      "start": 93.9,
+      "end": 110.9,
+      "text": "EPE 2 is a senior manager. I will store all my ratings. EPE 1 is a senior manager. EPE 2 is a senior manager. EPE 2 is a senior manager."
+    },
+    {
+      "chunk_number": 6,
+      "start": 110.9,
+      "end": 126.9,
+      "text": "EPE 1 is a senior manager. EPE 1 will update your performance. I have some more work to do. I have some more work to do. I have some more work to do."
+    },
+    {
+      "chunk_number": 7,
+      "start": 126.9,
+      "end": 144.9,
+      "text": "I will print EPE 1. I will show you the performance. You can see the performance of EPE 2.2.2.2.2.2.2.3. The set is unordered in Python. The dictionary is a 3.7 onward."
+    },
+    {
+      "chunk_number": 8,
+      "start": 144.9,
+      "end": 163.9,
+      "text": "The dictionary is unordered in Python. Let's use the update method. We can use the clear method. EPE 1.clear is a key. EPE 1 will be empty."
+    },
+    {
+      "chunk_number": 9,
+      "start": 163.9,
+      "end": 182.9,
+      "text": "We will get the empty dictionary. How do we make empty dictionary? If I do EM-EMPT is equal to EPE 1. I will print EMPT if I do EM-EMPT. Similarly, we have a pop method."
+    },
+    {
+      "chunk_number": 10,
+      "start": 182.9,
+      "end": 206.9,
+      "text": "If I do EM-EMPT, I will show you the value of EPE 1.Pop. What I will do is remove the value of EPE 1.Pop. I will remove EPE 1.Pop. I will give you an update method. I have given you a comment."
+    },
+    {
+      "chunk_number": 11,
+      "start": 206.9,
+      "end": 222.9,
+      "text": "I can drop the value of EPE 1.Pop. What is the pop item? This is the last value of EPE 1. If you want EPE 1 to be empty. EPE 1.Pop."
+    },
+    {
+      "chunk_number": 12,
+      "start": 222.9,
+      "end": 238.9,
+      "text": "EPE 1.Pop. EPE 1.Pop. EPE 1.Pop. EPE 1.Pop. EPE 1.Pop."
+    },
+    {
+      "chunk_number": 13,
+      "start": 238.9,
+      "end": 262.9,
+      "text": "EPE 1.Pop. I will show you the last value of EPE 1. If you want to delete the value of EPE 1, then delete the value of EPE 1. If you want to delete the value of EPE 1,"
+    },
+    {
+      "chunk_number": 14,
+      "start": 262.9,
+      "end": 281.9,
+      "text": "then delete the value of EPE 1. I will give you an update method. I will comment this method in the next video. If you want to delete the value of EPE 1, then delete the value of EPE 1."
+    },
+    {
+      "chunk_number": 15,
+      "start": 281.9,
+      "end": 304.9,
+      "text": "If you want to delete the value of EPE 1, then delete the value of EPE 1. If you are giving a key, you will say that I have to delete 1-2-2. So, I will write 1-2-2 as an integer. So, I will write 1-2-2 as an integer."
+    },
+    {
+      "chunk_number": 16,
+      "start": 304.9,
+      "end": 325.9,
+      "text": "I will write this as a string. If I write 1-2-2, I will get an error. I am getting a key error. So, I am getting a key error. Because I am getting a key error."
+    },
+    {
+      "chunk_number": 17,
+      "start": 325.9,
+      "end": 344.9,
+      "text": "Because I am getting a key error. So, I will write this as an integer. I hope you have understood this. So, exactly the same thing that we have seen for the list, for the table, for the set, for the dictionary. There are some methods."
+    },
+    {
+      "chunk_number": 18,
+      "start": 344.9,
+      "end": 359.9,
+      "text": "There are some data types. When you create a mapping, you can do this on your own. Many times, when you work with database, with MongoDB, with Pi Mongo, there will be a lot of work with the dictionary. Because there is almost no dictionary."
+    },
+    {
+      "chunk_number": 19,
+      "start": 359.9,
+      "end": 382.9,
+      "text": "You will have to use the methods of dictionary. And when you solve real-world problems, you will have to go to the website. If you go to the NAPI in flask, you will know the things you will use. And now you can see the theory of things. You always work in some way, like Python, Dishnadi, Documentation."
+    },
+    {
+      "chunk_number": 20,
+      "start": 382.9,
+      "end": 399.9,
+      "text": "If you work in this way, you will do the latest documentation through. You can see all the methods here. This is the list of Dishnadi. You can see here, you will also get some of those methods. I have not mentioned that."
+    },
+    {
+      "chunk_number": 21,
+      "start": 399.9,
+      "end": 413.9,
+      "text": "So, here, the CAPI references are also made. We will see here, if we want to click on the Dishnadi, and you can study it. This is a source. This is a documentation."
+    },
+    {
+      "chunk_number": 22,
+      "start": 413.9,
+      "end": 426.9,
+      "text": "The Python that is made, then this is released. You can see that from here. So, how about reading this? And at least trying to read this. You can try it."
+    },
+    {
+      "chunk_number": 23,
+      "start": 426.9,
+      "end": 435.9,
+      "text": "You can try it. You can start reading this book from the middle. You can scroll through it. You can scale it. Do you know the methods I do not know?"
+    },
+    {
+      "chunk_number": 24,
+      "start": 435.9,
+      "end": 447.9,
+      "text": "Do you know the methods I do not know? Try it. See what is there. Okay, read about the Looping Techniques. Once you have come to the basic, read your information."
+    },
+    {
+      "chunk_number": 25,
+      "start": 447.9,
+      "end": 456.9,
+      "text": "You will get all the information you get about the Dishnadi. Okay, that is all. If you have not done the playlist access yet, then do not access it. Click here and read the book."
+    },
+    {
+      "chunk_number": 26,
+      "start": 456.9,
+      "end": 470.9,
+      "text": "And click here and save. If you have seen the course of the fourth day here, then I want to request you. That you go to the first video and leave your review comments. I will give you the start of the course five minutes."
+    },
+    {
+      "chunk_number": 27,
+      "start": 470.9,
+      "end": 484.9,
+      "text": "And honestly, you will give them the help of the people who are going to start this course. If you do this, then I will be very happy with the heart. Many people have left their comments. So, I thank them for watching this video. Thank you so much guys for watching this video."
+    },
+    {
+      "chunk_number": 28,
+      "start": 484.9,
+      "end": 506.9,
+      "text": "And I will see you next time. Bye."
+    }
+  ],
+  "text": "In the last video we saw how Dishnary made Dishnary. Dishnary is the key importance of Python programming language. Today I would like to talk about Dishnary methods. Let's get started in the video screen. Dishnary methods are very useful. Dishnary is a method of update. Dishnary is used to update Dishnary. I have some employee IDs and their performances. I write EPE and make a very simple name. I have some employee IDs. I will not do it with names. I have 1,2,2 and 45 out of 100. I have 670 and 69 out of 100. I have a very good performance. I am a manager. I have some more employee IDs. I have some more employee IDs. I have some more employee IDs. Let's do one thing. EPE is a senior manager. EPE 2 is a senior manager. I will store all my ratings. EPE 1 is a senior manager. EPE 2 is a senior manager. EPE 2 is a senior manager. EPE 1 is a senior manager. EPE 1 will update your performance. I have some more work to do. I have some more work to do. I have some more work to do. I will print EPE 1. I will show you the performance. You can see the performance of EPE 2.2.2.2.2.2.2.3. The set is unordered in Python. The dictionary is a 3.7 onward. The dictionary is unordered in Python. Let's use the update method. We can use the clear method. EPE 1.clear is a key. EPE 1 will be empty. We will get the empty dictionary. How do we make empty dictionary? If I do EM-EMPT is equal to EPE 1. I will print EMPT if I do EM-EMPT. Similarly, we have a pop method. If I do EM-EMPT, I will show you the value of EPE 1.Pop. What I will do is remove the value of EPE 1.Pop. I will remove EPE 1.Pop. I will give you an update method. I have given you a comment. I can drop the value of EPE 1.Pop. What is the pop item? This is the last value of EPE 1. If you want EPE 1 to be empty. EPE 1.Pop. EPE 1.Pop. EPE 1.Pop. EPE 1.Pop. EPE 1.Pop. EPE 1.Pop. EPE 1.Pop. I will show you the last value of EPE 1. If you want to delete the value of EPE 1, then delete the value of EPE 1. If you want to delete the value of EPE 1, then delete the value of EPE 1. I will give you an update method. I will comment this method in the next video. If you want to delete the value of EPE 1, then delete the value of EPE 1. If you want to delete the value of EPE 1, then delete the value of EPE 1. If you are giving a key, you will say that I have to delete 1-2-2. So, I will write 1-2-2 as an integer. So, I will write 1-2-2 as an integer. I will write this as a string. If I write 1-2-2, I will get an error. I am getting a key error. So, I am getting a key error. Because I am getting a key error. Because I am getting a key error. So, I will write this as an integer. I hope you have understood this. So, exactly the same thing that we have seen for the list, for the table, for the set, for the dictionary. There are some methods. There are some data types. When you create a mapping, you can do this on your own. Many times, when you work with database, with MongoDB, with Pi Mongo, there will be a lot of work with the dictionary. Because there is almost no dictionary. You will have to use the methods of dictionary. And when you solve real-world problems, you will have to go to the website. If you go to the NAPI in flask, you will know the things you will use. And now you can see the theory of things. You always work in some way, like Python, Dishnadi, Documentation. If you work in this way, you will do the latest documentation through. You can see all the methods here. This is the list of Dishnadi. You can see here, you will also get some of those methods. I have not mentioned that. So, here, the CAPI references are also made. We will see here, if we want to click on the Dishnadi, and you can study it. This is a source. This is a documentation. The Python that is made, then this is released. You can see that from here. So, how about reading this? And at least trying to read this. You can try it. You can try it. You can start reading this book from the middle. You can scroll through it. You can scale it. Do you know the methods I do not know? Do you know the methods I do not know? Try it. See what is there. Okay, read about the Looping Techniques. Once you have come to the basic, read your information. You will get all the information you get about the Dishnadi. Okay, that is all. If you have not done the playlist access yet, then do not access it. Click here and read the book. And click here and save. If you have seen the course of the fourth day here, then I want to request you. That you go to the first video and leave your review comments. I will give you the start of the course five minutes. And honestly, you will give them the help of the people who are going to start this course. If you do this, then I will be very happy with the heart. Many people have left their comments. So, I thank them for watching this video. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}

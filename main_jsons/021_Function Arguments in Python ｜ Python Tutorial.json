@@ -1,0 +1,109 @@
+{
+  "video_number": 21,
+  "title": "Function Arguments in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 20.88,
+      "text": "You've been back in hundreds of codes and I'll tell you about the function arguments. How can we pass arguments? We used the function code to separate the function. But there are many ways we can pass the function argument. We can pass the function as a tuple, or as a dictionary."
+    },
+    {
+      "chunk_number": 2,
+      "start": 20.88,
+      "end": 66.4,
+      "text": "We'll go to the video screen and see how we pass the default arguments. How can we pass the arguments in bulk? Today I'll talk about the action of capital out there. Now let me make a function and name it average. I will print the average and write this in the A plus B by 2."
+    },
+    {
+      "chunk_number": 3,
+      "start": 66.4,
+      "end": 107.4,
+      "text": "Now you should know that you should first do this calculation. If you want to do this in A plus B by 2, then I will do this in A plus B by 2. I will do this in A plus B by 2. I will do this in A plus B by 2. I will do this in A plus B by 2."
+    },
+    {
+      "chunk_number": 4,
+      "start": 107.4,
+      "end": 189.4,
+      "text": "Now I will do this in A plus B by 2. I will do this in A plus B by 2. Now I will do this in A plus B by 2. Now I will do this in B by 2. I will do this in B plus B by 2."
+    },
+    {
+      "chunk_number": 5,
+      "start": 189.4,
+      "end": 239.4,
+      "text": "I will write this in B plus B by 9. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2."
+    },
+    {
+      "chunk_number": 6,
+      "start": 239.4,
+      "end": 287.4,
+      "text": "Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2."
+    },
+    {
+      "chunk_number": 7,
+      "start": 287.4,
+      "end": 337.4,
+      "text": "Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2."
+    },
+    {
+      "chunk_number": 8,
+      "start": 337.4,
+      "end": 387.4,
+      "text": "Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2."
+    },
+    {
+      "chunk_number": 9,
+      "start": 387.4,
+      "end": 437.4,
+      "text": "Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will write a Dev average and write star numbers."
+    },
+    {
+      "chunk_number": 10,
+      "start": 437.4,
+      "end": 497.4,
+      "text": "Now I will write a number in Kiterable and write 4i in numbers. Now I will write a print and write a number in Average. Now I will initialize the number in Average. Now I will print a number in Average. Now I will write a number in Average."
+    },
+    {
+      "chunk_number": 11,
+      "start": 497.4,
+      "end": 547.4,
+      "text": "Now I will write a number in Average. Now I will write a number in Average. Now I will write a number in Average. Now I will write a number in Average. Now I will write a number in Average."
+    },
+    {
+      "chunk_number": 12,
+      "start": 547.4,
+      "end": 597.4,
+      "text": "Now I will write a name in Average. Now I will write a name in Average. Now I will write a name in Average. Now I will write a name in Average. Now I will write a name in Average."
+    },
+    {
+      "chunk_number": 13,
+      "start": 597.4,
+      "end": 647.4,
+      "text": "Now I will write a name in Average. Now I will write a name in Average. Now I will write a name in Average. Now I will write a value in Average. Now I will write a value in Average."
+    },
+    {
+      "chunk_number": 14,
+      "start": 647.4,
+      "end": 697.4,
+      "text": "Now I will write a return. Now I will print a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a return."
+    },
+    {
+      "chunk_number": 15,
+      "start": 697.4,
+      "end": 747.4,
+      "text": "Now I will write a return in Average. Now I will write a return in Average. Now I will write a return in Average. Now I will write a return in Average. Now I will write a return in Average."
+    },
+    {
+      "chunk_number": 16,
+      "start": 747.4,
+      "end": 793.4,
+      "text": "Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average."
+    },
+    {
+      "chunk_number": 17,
+      "start": 793.4,
+      "end": 843.4,
+      "text": "Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average."
+    }
+  ],
+  "text": "You've been back in hundreds of codes and I'll tell you about the function arguments. How can we pass arguments? We used the function code to separate the function. But there are many ways we can pass the function argument. We can pass the function as a tuple, or as a dictionary. We'll go to the video screen and see how we pass the default arguments. How can we pass the arguments in bulk? Today I'll talk about the action of capital out there. Now let me make a function and name it average. I will print the average and write this in the A plus B by 2. Now you should know that you should first do this calculation. If you want to do this in A plus B by 2, then I will do this in A plus B by 2. I will do this in A plus B by 2. I will do this in A plus B by 2. I will do this in A plus B by 2. Now I will do this in A plus B by 2. I will do this in A plus B by 2. Now I will do this in A plus B by 2. Now I will do this in B by 2. I will do this in B plus B by 2. I will write this in B plus B by 9. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will do this in B plus B by 2. Now I will write a Dev average and write star numbers. Now I will write a number in Kiterable and write 4i in numbers. Now I will write a print and write a number in Average. Now I will initialize the number in Average. Now I will print a number in Average. Now I will write a number in Average. Now I will write a number in Average. Now I will write a number in Average. Now I will write a number in Average. Now I will write a number in Average. Now I will write a number in Average. Now I will write a name in Average. Now I will write a name in Average. Now I will write a name in Average. Now I will write a name in Average. Now I will write a name in Average. Now I will write a name in Average. Now I will write a name in Average. Now I will write a name in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a return. Now I will print a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a return. Now I will write a return in Average. Now I will write a return in Average. Now I will write a return in Average. Now I will write a return in Average. Now I will write a return in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average. Now I will write a value in Average."
+}

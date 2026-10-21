@@ -1,0 +1,313 @@
+{
+  "video_number": 9,
+  "title": "Typecasting in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 13.200000000000001,
+      "text": "What a great day! Even in day 9, 100 days of good consistency is 1st day of good consistency. Today I will tell you about the type of casting. This term is very scary. I am hearing it in the type casting."
+    },
+    {
+      "chunk_number": 2,
+      "start": 13.200000000000001,
+      "end": 24.6,
+      "text": "But I will tell you that it is very simple. See we have made a single string variable. And it has been written in the 27th. We have closed the double codes. Because the string was in the 27th."
+    },
+    {
+      "chunk_number": 3,
+      "start": 24.6,
+      "end": 36.3,
+      "text": "But if we add it in the 3th, then it will not come in 30. Because it is the 27th string. And the 3th is a integer. So if we want to tell you the pattern. The number of double codes written in the double codes is a valid number."
+    },
+    {
+      "chunk_number": 4,
+      "start": 36.3,
+      "end": 47.0,
+      "text": "So we can type it. You and the integer by using end function. This is how all these works. We will see in this video in the video in the description. We will go to the video screen and let's get started."
+    },
+    {
+      "chunk_number": 5,
+      "start": 56.5,
+      "end": 67.5,
+      "text": "Let's see about the type casting. First of all, why is it important? I had a comment. I will tell you what it is. The comment was that I also made A plus B."
+    },
+    {
+      "chunk_number": 6,
+      "start": 67.5,
+      "end": 81.0,
+      "text": "I got 1 value, 1 value, 2 value and I got a result 12. So I understood that my cherifix is small. I said, this is what it looks like. Harry was also coming to the exam. And he was thinking like this."
+    },
+    {
+      "chunk_number": 7,
+      "start": 81.0,
+      "end": 90.0,
+      "text": "And today I will tell you why he came here. It looks like you are fine. Now see what happens. I am writing A is equal to 1. I am telling you the problem."
+    },
+    {
+      "chunk_number": 8,
+      "start": 90.0,
+      "end": 103.0,
+      "text": "The problem comes from Python developers. And developers are also from the state. Now if you say I will print A plus B. Now you are saying why are you writing things like this? Why are you writing things like this?"
+    },
+    {
+      "chunk_number": 9,
+      "start": 103.0,
+      "end": 115.0,
+      "text": "Because it is time to do this in this course. You are saying that it will be 13. Sorry, it will be 13. It will be 12. Now why I will tell you why I am 12?"
+    },
+    {
+      "chunk_number": 10,
+      "start": 115.0,
+      "end": 131.5,
+      "text": "A is a string, B is a string. Python does not know that your string contains a number. Python is one number when you get two strings. If you write Harry and brother here, you can write Harry and brother here."
+    },
+    {
+      "chunk_number": 11,
+      "start": 131.5,
+      "end": 142.0,
+      "text": "Let me show you. If you write Harry and brother, then there is no number detection. Harry is hiding inside the side. Because the string is like this."
+    },
+    {
+      "chunk_number": 12,
+      "start": 142.0,
+      "end": 153.5,
+      "text": "So if you write 1 or 2, then what will be hidden side by side? So I have arranged this one string. This one is a string. Convert it into integer."
+    },
+    {
+      "chunk_number": 13,
+      "start": 153.5,
+      "end": 163.5,
+      "text": "So all the shift and down arrow, I will replicate both lines. Okay? And I wrote this one and here B is equal to 2. I do not need to comment on these lines."
+    },
+    {
+      "chunk_number": 14,
+      "start": 163.5,
+      "end": 173.5,
+      "text": "Because the value of the string was first. Then I have numbered it once. But I will also comment on clarity. Control plus forward slash. I will use the short cut."
+    },
+    {
+      "chunk_number": 15,
+      "start": 173.5,
+      "end": 184.5,
+      "text": "People ask me what short cut is. Control plus forward slash. I will use it on the end. I will be using short cut again. And A1, B2 is fine."
+    },
+    {
+      "chunk_number": 16,
+      "start": 184.5,
+      "end": 195.5,
+      "text": "I will do it again. Because this time A was number. And B was number. They have written this one. Now it is fine."
+    },
+    {
+      "chunk_number": 17,
+      "start": 195.5,
+      "end": 206.5,
+      "text": "Now A1, B2 is fine. Now I have written this one. The conversion of one data type into the other data type is known as Typecasting and Python."
+    },
+    {
+      "chunk_number": 18,
+      "start": 206.5,
+      "end": 215.5,
+      "text": "Or type conversion is also called as Python. Both are functions. The function supports data types. And this is the function of the data types."
+    },
+    {
+      "chunk_number": 19,
+      "start": 215.5,
+      "end": 227.5,
+      "text": "And STR, ORD, Hex, Oct, Top, Set, List, Dict. These are all methods. These are all methods of the data type. These are all these. This is a function."
+    },
+    {
+      "chunk_number": 20,
+      "start": 227.5,
+      "end": 236.5,
+      "text": "It helps to convert one data type to another. In this type of language. Now it will be used to convert. Now you will say how to convert in a hairy in an integer."
+    },
+    {
+      "chunk_number": 21,
+      "start": 236.5,
+      "end": 242.5,
+      "text": "How to convert? No, no. How to do it? How to do it? It is a name that is written in a hairy."
+    },
+    {
+      "chunk_number": 22,
+      "start": 242.5,
+      "end": 254.5,
+      "text": "How to convert it in an integer. Yes, if you have written one in your string then you will understand that one string is not as a string and one is as a number."
+    },
+    {
+      "chunk_number": 23,
+      "start": 254.5,
+      "end": 262.5,
+      "text": "That is my understanding. Now what is this? Let me make a hairy. Python is also very frustrated. It is very angry."
+    },
+    {
+      "chunk_number": 24,
+      "start": 262.5,
+      "end": 273.5,
+      "text": "And it becomes angry. What does it say? You want to convert in a hairy. You cannot do it. It is a two-way type of casting."
+    },
+    {
+      "chunk_number": 25,
+      "start": 273.5,
+      "end": 283.5,
+      "text": "But before that I will tell you basic type casting. Now I know that I do not want to make a as a number. I want to do this. My A string will be B string. If I say so, it is said."
+    },
+    {
+      "chunk_number": 26,
+      "start": 283.5,
+      "end": 292.5,
+      "text": "So what I do? I use an int function. I say that int of A and int of B add it."
+    },
+    {
+      "chunk_number": 27,
+      "start": 292.5,
+      "end": 302.5,
+      "text": "So I did not come to 12. Then this is the first one. Then B is the second one. In one integer, in B is the second one. And one is the second one."
+    },
+    {
+      "chunk_number": 28,
+      "start": 302.5,
+      "end": 310.5,
+      "text": "The number will be 3. Okay? Something like this. If I do not do this int int, then I was going to be 1,2. Okay?"
+    },
+    {
+      "chunk_number": 29,
+      "start": 310.5,
+      "end": 320.5,
+      "text": "What will happen if I do this one hairy? This time it will be error. Python will say, I can convert it in 1. Because it is an integer entry. What is the hairy?"
+    },
+    {
+      "chunk_number": 30,
+      "start": 320.5,
+      "end": 328.5,
+      "text": "Okay? So Python. Error should be given. So your strings should be valid. If you convert it in any data type."
+    },
+    {
+      "chunk_number": 31,
+      "start": 328.5,
+      "end": 339.5,
+      "text": "Which is also converted in data type. If you convert it in an integer, then it should be valid integer. If you convert it in float, then it should be valid float. It should be valid."
+    },
+    {
+      "chunk_number": 32,
+      "start": 339.5,
+      "end": 346.5,
+      "text": "It should be valid. Python is your own. You can see Python in your own. Now look, there are two types of casting. One is explicit."
+    },
+    {
+      "chunk_number": 33,
+      "start": 346.5,
+      "end": 352.5,
+      "text": "One is explicit. I am doing it. I am doing it. What is implicit? Python automatically does it."
+    },
+    {
+      "chunk_number": 34,
+      "start": 352.5,
+      "end": 364.5,
+      "text": "I will tell you about both. Explosive conversion means I am doing it as a programmer. I am saying Python interpreter. This is Python interpreter. This data type is converted in this way."
+    },
+    {
+      "chunk_number": 35,
+      "start": 364.5,
+      "end": 375.5,
+      "text": "In this case, what I did? I said, convert the string in integer. In this case, I said Python. Python said, okay, I will do it. What Python said?"
+    },
+    {
+      "chunk_number": 36,
+      "start": 375.5,
+      "end": 385.5,
+      "text": "Okay, I will do it. And he did it in an integer. In an integer, we have connected both the two. It is not connected. Absolutely."
+    },
+    {
+      "chunk_number": 37,
+      "start": 385.5,
+      "end": 393.5,
+      "text": "So what is explicit conversion? We are doing it. What is implicit conversion? Python is doing it itself. Okay."
+    },
+    {
+      "chunk_number": 38,
+      "start": 393.5,
+      "end": 400.5,
+      "text": "I understood the explicit conversion. I am studying so much. I have studied the language of Python in the library. I am studying it. I am studying it."
+    },
+    {
+      "chunk_number": 39,
+      "start": 400.5,
+      "end": 406.5,
+      "text": "I am studying it. I am studying it. It can be easy. Python is building a function. It includes the main function."
+    },
+    {
+      "chunk_number": 40,
+      "start": 406.5,
+      "end": 415.5,
+      "text": "It includes the main function. So you can check the video. Don't worry about the onex. Let me give an example. If you do the same thing here."
+    },
+    {
+      "chunk_number": 41,
+      "start": 415.5,
+      "end": 422.5,
+      "text": "If you do it yourself. You have to do the exercise. Okay. Output, the sum of both the numbers. Look at the output."
+    },
+    {
+      "chunk_number": 42,
+      "start": 422.5,
+      "end": 434.5,
+      "text": "Let's talk about implicit typecasting. It means Python says, You should convert this data type. Let's do this. Let's do this."
+    },
+    {
+      "chunk_number": 43,
+      "start": 434.5,
+      "end": 450.5,
+      "text": "I'll tell you what happens. Data types are not the same in Python. Some of the data types have higher order and some lower order. So, when we perform operations in two variables, a small type of lower order is available."
+    },
+    {
+      "chunk_number": 44,
+      "start": 450.5,
+      "end": 468.5,
+      "text": "Higher order is converted. Let's write a comment here. Implicit typecasting. I'll write C is equal to 1.9. I'll write D is equal to 8."
+    },
+    {
+      "chunk_number": 45,
+      "start": 468.5,
+      "end": 480.5,
+      "text": "If I write C plus D, what will happen? C plus D will convert to an integer. I'll get this in the flow. I'll get this result in the flow."
+    },
+    {
+      "chunk_number": 46,
+      "start": 480.5,
+      "end": 492.5,
+      "text": "9.9. I'll get this in the flow. I'll get this in the flow. According to the level, 1 data type is converted to another"
+    },
+    {
+      "chunk_number": 47,
+      "start": 492.5,
+      "end": 504.5,
+      "text": "automatically by Python interpreter. This is called implicit type conversion. Python converts a smaller data type to a higher data type to prevent data loss. If it was converted to a sequence, it would have been 9."
+    },
+    {
+      "chunk_number": 48,
+      "start": 504.5,
+      "end": 514.5,
+      "text": "But it didn't do that. I'll get this in the flow. C plus D result is 9.9. So, this is the implicit typecasting. I've also kept an example of this."
+    },
+    {
+      "chunk_number": 49,
+      "start": 514.5,
+      "end": 524.5,
+      "text": "I've kept a similar example. What was this type? It was integer. It was a float. It's a float."
+    },
+    {
+      "chunk_number": 50,
+      "start": 524.5,
+      "end": 534.5,
+      "text": "You can use this type of function. I hope you enjoyed this video. If you haven't done playlists, please do it quickly. Go and book this playlist."
+    },
+    {
+      "chunk_number": 51,
+      "start": 534.5,
+      "end": 544.5,
+      "text": "You can also do it by clicking the link in the description. Click the link in the description. Click the link in the description. Thank you so much guys for watching this video. I will see you in day 10."
+    }
+  ],
+  "text": "What a great day! Even in day 9, 100 days of good consistency is 1st day of good consistency. Today I will tell you about the type of casting. This term is very scary. I am hearing it in the type casting. But I will tell you that it is very simple. See we have made a single string variable. And it has been written in the 27th. We have closed the double codes. Because the string was in the 27th. But if we add it in the 3th, then it will not come in 30. Because it is the 27th string. And the 3th is a integer. So if we want to tell you the pattern. The number of double codes written in the double codes is a valid number. So we can type it. You and the integer by using end function. This is how all these works. We will see in this video in the video in the description. We will go to the video screen and let's get started. Let's see about the type casting. First of all, why is it important? I had a comment. I will tell you what it is. The comment was that I also made A plus B. I got 1 value, 1 value, 2 value and I got a result 12. So I understood that my cherifix is small. I said, this is what it looks like. Harry was also coming to the exam. And he was thinking like this. And today I will tell you why he came here. It looks like you are fine. Now see what happens. I am writing A is equal to 1. I am telling you the problem. The problem comes from Python developers. And developers are also from the state. Now if you say I will print A plus B. Now you are saying why are you writing things like this? Why are you writing things like this? Because it is time to do this in this course. You are saying that it will be 13. Sorry, it will be 13. It will be 12. Now why I will tell you why I am 12? A is a string, B is a string. Python does not know that your string contains a number. Python is one number when you get two strings. If you write Harry and brother here, you can write Harry and brother here. Let me show you. If you write Harry and brother, then there is no number detection. Harry is hiding inside the side. Because the string is like this. So if you write 1 or 2, then what will be hidden side by side? So I have arranged this one string. This one is a string. Convert it into integer. So all the shift and down arrow, I will replicate both lines. Okay? And I wrote this one and here B is equal to 2. I do not need to comment on these lines. Because the value of the string was first. Then I have numbered it once. But I will also comment on clarity. Control plus forward slash. I will use the short cut. People ask me what short cut is. Control plus forward slash. I will use it on the end. I will be using short cut again. And A1, B2 is fine. I will do it again. Because this time A was number. And B was number. They have written this one. Now it is fine. Now A1, B2 is fine. Now I have written this one. The conversion of one data type into the other data type is known as Typecasting and Python. Or type conversion is also called as Python. Both are functions. The function supports data types. And this is the function of the data types. And STR, ORD, Hex, Oct, Top, Set, List, Dict. These are all methods. These are all methods of the data type. These are all these. This is a function. It helps to convert one data type to another. In this type of language. Now it will be used to convert. Now you will say how to convert in a hairy in an integer. How to convert? No, no. How to do it? How to do it? It is a name that is written in a hairy. How to convert it in an integer. Yes, if you have written one in your string then you will understand that one string is not as a string and one is as a number. That is my understanding. Now what is this? Let me make a hairy. Python is also very frustrated. It is very angry. And it becomes angry. What does it say? You want to convert in a hairy. You cannot do it. It is a two-way type of casting. But before that I will tell you basic type casting. Now I know that I do not want to make a as a number. I want to do this. My A string will be B string. If I say so, it is said. So what I do? I use an int function. I say that int of A and int of B add it. So I did not come to 12. Then this is the first one. Then B is the second one. In one integer, in B is the second one. And one is the second one. The number will be 3. Okay? Something like this. If I do not do this int int, then I was going to be 1,2. Okay? What will happen if I do this one hairy? This time it will be error. Python will say, I can convert it in 1. Because it is an integer entry. What is the hairy? Okay? So Python. Error should be given. So your strings should be valid. If you convert it in any data type. Which is also converted in data type. If you convert it in an integer, then it should be valid integer. If you convert it in float, then it should be valid float. It should be valid. It should be valid. Python is your own. You can see Python in your own. Now look, there are two types of casting. One is explicit. One is explicit. I am doing it. I am doing it. What is implicit? Python automatically does it. I will tell you about both. Explosive conversion means I am doing it as a programmer. I am saying Python interpreter. This is Python interpreter. This data type is converted in this way. In this case, what I did? I said, convert the string in integer. In this case, I said Python. Python said, okay, I will do it. What Python said? Okay, I will do it. And he did it in an integer. In an integer, we have connected both the two. It is not connected. Absolutely. So what is explicit conversion? We are doing it. What is implicit conversion? Python is doing it itself. Okay. I understood the explicit conversion. I am studying so much. I have studied the language of Python in the library. I am studying it. I am studying it. I am studying it. I am studying it. It can be easy. Python is building a function. It includes the main function. It includes the main function. So you can check the video. Don't worry about the onex. Let me give an example. If you do the same thing here. If you do it yourself. You have to do the exercise. Okay. Output, the sum of both the numbers. Look at the output. Let's talk about implicit typecasting. It means Python says, You should convert this data type. Let's do this. Let's do this. I'll tell you what happens. Data types are not the same in Python. Some of the data types have higher order and some lower order. So, when we perform operations in two variables, a small type of lower order is available. Higher order is converted. Let's write a comment here. Implicit typecasting. I'll write C is equal to 1.9. I'll write D is equal to 8. If I write C plus D, what will happen? C plus D will convert to an integer. I'll get this in the flow. I'll get this result in the flow. 9.9. I'll get this in the flow. I'll get this in the flow. According to the level, 1 data type is converted to another automatically by Python interpreter. This is called implicit type conversion. Python converts a smaller data type to a higher data type to prevent data loss. If it was converted to a sequence, it would have been 9. But it didn't do that. I'll get this in the flow. C plus D result is 9.9. So, this is the implicit typecasting. I've also kept an example of this. I've kept a similar example. What was this type? It was integer. It was a float. It's a float. You can use this type of function. I hope you enjoyed this video. If you haven't done playlists, please do it quickly. Go and book this playlist. You can also do it by clicking the link in the description. Click the link in the description. Click the link in the description. Thank you so much guys for watching this video. I will see you in day 10."
+}

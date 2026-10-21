@@ -1,0 +1,427 @@
+{
+  "video_number": 48,
+  "title": "Local vs Global Variables in Python｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 15.32,
+      "text": "Welcome to 100 Days of Code We are looking at the 10th of the code But in 100 Days of Code, our time is going to be high And we will see what is local variable What is global variable"
+    },
+    {
+      "chunk_number": 2,
+      "start": 15.32,
+      "end": 39.92,
+      "text": "And what is the global variable using the global keyword in Python Let's go to the computer screen and let's get started So, let's get started with a variable And I have created a function Can I use it from outside?"
+    },
+    {
+      "chunk_number": 3,
+      "start": 39.92,
+      "end": 48.6,
+      "text": "I can't do it That's why it is local variable On the other hand, let's get a variable Which I have created in a function But it is outside the function"
+    },
+    {
+      "chunk_number": 4,
+      "start": 48.6,
+      "end": 61.760000000000005,
+      "text": "I can also use it in the function As long as it is in the function, it is not the variable This is the global variable So here So now let's write a function"
+    },
+    {
+      "chunk_number": 5,
+      "start": 61.760000000000005,
+      "end": 70.60000000000001,
+      "text": "Let's write a simple side program I will write x is equal to 4 Okay, I will print What are you doing? I am saying 4"
+    },
+    {
+      "chunk_number": 6,
+      "start": 70.60000000000001,
+      "end": 84.36,
+      "text": "But if I make a function called HelloHairi What will happen? And I will call this function HelloHairi will print with 4 Don't waste time"
+    },
+    {
+      "chunk_number": 7,
+      "start": 84.36,
+      "end": 97.4,
+      "text": "I didn't waste time But I am not wasting time I will try to print it here If I want to do it like this, I will print it What if I make a case of this"
+    },
+    {
+      "chunk_number": 8,
+      "start": 97.4,
+      "end": 106.12,
+      "text": "Okay, I will say that x is equal to 5 So what will you print? 4 or 5? Definitely, you will print it in the function No surprises there"
+    },
+    {
+      "chunk_number": 9,
+      "start": 106.12,
+      "end": 118.2,
+      "text": "Okay, so you will print it in the function Now let's understand one thing That I want That I will change my global variable 4 Because if I print here"
+    },
+    {
+      "chunk_number": 10,
+      "start": 118.2,
+      "end": 128.92,
+      "text": "The global x is And I will write here like this x and I will definitely make it f string So what will happen? I want it to change"
+    },
+    {
+      "chunk_number": 11,
+      "start": 128.92,
+      "end": 138.68,
+      "text": "Hello function is changing So I will show you one more thing I will do one thing Here it will be local x Okay, let's do it local x value"
+    },
+    {
+      "chunk_number": 12,
+      "start": 138.68,
+      "end": 145.0,
+      "text": "So local x is here 5 print Okay Because it is local x Here x is equal to 5 Okay"
+    },
+    {
+      "chunk_number": 13,
+      "start": 145.04,
+      "end": 153.68,
+      "text": "I will try to do this And you can see what happened here The number of global x was 4 Then I did the hello x is equal to 5"
+    },
+    {
+      "chunk_number": 14,
+      "start": 153.68,
+      "end": 162.24,
+      "text": "Many people Many beginner programmers confuse each other And they think that this x is equal to 5 From here it will change it Global is different"
+    },
+    {
+      "chunk_number": 15,
+      "start": 162.24,
+      "end": 171.04,
+      "text": "Local is different Local variables are destroyed Like the function returns Local variables are destroyed Global variables are not destroyed"
+    },
+    {
+      "chunk_number": 16,
+      "start": 171.04,
+      "end": 179.16,
+      "text": "People are making it in the program Okay Now you will say that I want That x is equal to 5 Change this global variable"
+    },
+    {
+      "chunk_number": 17,
+      "start": 179.16,
+      "end": 189.51999999999998,
+      "text": "So what should I do inside the hello Which is here global axis 5 Here before global axis 4 Then global axis 5 What should I do inside the hello"
+    },
+    {
+      "chunk_number": 18,
+      "start": 189.51999999999998,
+      "end": 198.35999999999999,
+      "text": "I can do it outside I will do x is equal to 5 And this will change Global axis will change But how should I change from hello to hello"
+    },
+    {
+      "chunk_number": 19,
+      "start": 198.35999999999999,
+      "end": 207.04,
+      "text": "Now you can understand the local variable So we will re-itrate it quickly We will understand it from the beginning I have given a sneak peak No, I understand it till now"
+    },
+    {
+      "chunk_number": 20,
+      "start": 207.04,
+      "end": 213.04,
+      "text": "That's fine I am telling you Look here You can read the local global variables What is this"
+    },
+    {
+      "chunk_number": 21,
+      "start": 213.04,
+      "end": 223.04,
+      "text": "Before we dive into the defensive We will recall What is the variable It is simply a name location in memory In your computer's memory"
+    },
+    {
+      "chunk_number": 22,
+      "start": 223.04,
+      "end": 229.04,
+      "text": "In the name location You have given the name It is x But inside the memory It is a number store"
+    },
+    {
+      "chunk_number": 23,
+      "start": 229.04,
+      "end": 236.04,
+      "text": "So x is equal to 4 I have told you It is a 4 store in memory It is fine Now x is equal to 5"
+    },
+    {
+      "chunk_number": 24,
+      "start": 236.04,
+      "end": 243.04,
+      "text": "Y is equal to hello In this way If you do this without any function Then this will become globally X is equal to 5"
+    },
+    {
+      "chunk_number": 25,
+      "start": 243.04,
+      "end": 250.04,
+      "text": "And Y is equal to hello This will be the way Now let's talk about local and global variables What is local variable Which is defined in function"
+    },
+    {
+      "chunk_number": 26,
+      "start": 250.04,
+      "end": 261.03999999999996,
+      "text": "And is accessible in this function You can't access the function outside If I want to make Y is equal to 1 Or try to print here after this Then I can't do it"
+    },
+    {
+      "chunk_number": 27,
+      "start": 261.04,
+      "end": 268.04,
+      "text": "I can't do it I can't do it I can't do print Y Because if I try to do something I can't do Y"
+    },
+    {
+      "chunk_number": 28,
+      "start": 268.04,
+      "end": 275.04,
+      "text": "How can I print Y I can't do it Because the story is Y is equal to 1 Only in hello"
+    },
+    {
+      "chunk_number": 29,
+      "start": 275.04,
+      "end": 282.04,
+      "text": "And Y is equal to 1 I can't do it outside I will print it outside So if I want to add error Then I will add backspace"
+    },
+    {
+      "chunk_number": 30,
+      "start": 282.04,
+      "end": 291.04,
+      "text": "This is the local variable It is only the property of hello It will not work outside So here the story is all I hope On the other hand"
+    },
+    {
+      "chunk_number": 31,
+      "start": 291.04,
+      "end": 300.04,
+      "text": "Global variable is a variable That is defined outside of a function And is accessible from Or outside or from within a function You can access the function inside"
+    },
+    {
+      "chunk_number": 32,
+      "start": 300.04,
+      "end": 309.04,
+      "text": "As long as It has to be a local variable And you can access it outside Okay, we will know Okay, so I will do this work"
+    },
+    {
+      "chunk_number": 33,
+      "start": 309.04,
+      "end": 318.04,
+      "text": "I will copy this example here And I will print it after copying it And if I don't write something like this Then I will remove it You guys can type it"
+    },
+    {
+      "chunk_number": 34,
+      "start": 318.04,
+      "end": 325.04,
+      "text": "And here you guys can see What happened? I have defined variable Y This will cause an error Because Y is local"
+    },
+    {
+      "chunk_number": 35,
+      "start": 325.04,
+      "end": 330.04,
+      "text": "Look what is happening X is equal to 10 It is a local variable Okay, then I said I will make a function in Y"
+    },
+    {
+      "chunk_number": 36,
+      "start": 330.04,
+      "end": 335.04,
+      "text": "In this function In Y The value of the variable Which will be 5 And it is a local variable"
+    },
+    {
+      "chunk_number": 37,
+      "start": 335.04,
+      "end": 342.04,
+      "text": "Okay Y is a local variable So I will print it out Okay And in Y function"
+    },
+    {
+      "chunk_number": 38,
+      "start": 342.04,
+      "end": 349.04,
+      "text": "I will run So the content inside the function So here we have We have done X and print it And it will be a global variable"
+    },
+    {
+      "chunk_number": 39,
+      "start": 349.04,
+      "end": 359.04,
+      "text": "And we have printed Y So it will be 1 minute by 1 Y is the property of my function My function is local variable And this is the local variable"
+    },
+    {
+      "chunk_number": 40,
+      "start": 359.04,
+      "end": 370.04,
+      "text": "So you can't use it outside You can say that I want to go to the US with the local train of West Bengal How you can go to West Bengal You can't go to the US with local train"
+    },
+    {
+      "chunk_number": 41,
+      "start": 370.04,
+      "end": 377.04,
+      "text": "Okay Similarly You can't access the property You can't access the property of the city Okay"
+    },
+    {
+      "chunk_number": 42,
+      "start": 377.04,
+      "end": 382.04,
+      "text": "So you should know this Okay So this is the example I explained this to you Now you say"
+    },
+    {
+      "chunk_number": 43,
+      "start": 382.04,
+      "end": 389.04,
+      "text": "What I do in this function It is the exchange of my function So first of all You say Global X"
+    },
+    {
+      "chunk_number": 44,
+      "start": 389.04,
+      "end": 396.04,
+      "text": "What do you do with global keyword? Global keyword It says Now I want to use global variable X Okay"
+    },
+    {
+      "chunk_number": 45,
+      "start": 396.04,
+      "end": 404.04,
+      "text": "I want to use global variable X And I will say X is equal to 4 Okay Now because I have created X is equal to 4 So X is the global variable"
+    },
+    {
+      "chunk_number": 46,
+      "start": 404.04,
+      "end": 414.04,
+      "text": "So it says that I will use global variable And change the global variable Okay So I will run this So here you can see"
+    },
+    {
+      "chunk_number": 47,
+      "start": 414.04,
+      "end": 423.04,
+      "text": "From global to 5 And 4 So here you can see When I have created a function The value of Y is 5"
+    },
+    {
+      "chunk_number": 48,
+      "start": 423.04,
+      "end": 433.04,
+      "text": "It is the simple thing And then I have done the print I have done 4 print And I have not done 10 print And this is the error I can't do in Y"
+    },
+    {
+      "chunk_number": 49,
+      "start": 433.04,
+      "end": 439.04,
+      "text": "I run it twice Because this is the error I am giving So what happened here Let me start I have done the function of my function"
+    },
+    {
+      "chunk_number": 50,
+      "start": 439.04,
+      "end": 447.04,
+      "text": "In the print Y The one I printed Which was very natural So now when I have done the print X Then what will happen"
+    },
+    {
+      "chunk_number": 51,
+      "start": 447.04,
+      "end": 454.04,
+      "text": "To do the print X This is not X But this is the X It is equal to 4 Here"
+    },
+    {
+      "chunk_number": 52,
+      "start": 454.04,
+      "end": 462.04,
+      "text": "I have changed the global variable It will be the print Now global X is equal to 4 What did the lines I selected They have changed the global variable"
+    },
+    {
+      "chunk_number": 53,
+      "start": 462.04,
+      "end": 471.04,
+      "text": "Okay They have changed the global variable X is equal to 10 And here the global X is equal to 4 Okay"
+    },
+    {
+      "chunk_number": 54,
+      "start": 471.04,
+      "end": 481.04,
+      "text": "I hope that you have understood something And I hope that you have understood It is completely different You have no problem Now the global variable is understood"
+    },
+    {
+      "chunk_number": 55,
+      "start": 481.04,
+      "end": 489.04,
+      "text": "The global value is understood Now what do we want to modify a global variable From within a function This is where the global keyword comes in The global keyword is used to declare that"
+    },
+    {
+      "chunk_number": 56,
+      "start": 489.04,
+      "end": 498.04,
+      "text": "A variable is a global variable And should be accessed from the global scope Here is an example What is the example here X is equal to 10"
+    },
+    {
+      "chunk_number": 57,
+      "start": 498.04,
+      "end": 505.04,
+      "text": "And I have written in my function And here my function is done Print X Print Y Okay"
+    },
+    {
+      "chunk_number": 58,
+      "start": 505.04,
+      "end": 515.04,
+      "text": "This example is exactly what I have done I have explained to you Now here in this example We use the global keyword to declare That we want to modify the global variable"
+    },
+    {
+      "chunk_number": 59,
+      "start": 515.04,
+      "end": 525.04,
+      "text": "X from within the function I want to change the global variable in the function And I have explained to you the python Python has given me this thing So I hope that you have understood"
+    },
+    {
+      "chunk_number": 60,
+      "start": 525.04,
+      "end": 531.04,
+      "text": "Now see here The value of X has changed 2.5 Okay This change is 2.5"
+    },
+    {
+      "chunk_number": 61,
+      "start": 531.04,
+      "end": 538.04,
+      "text": "4.5 So let's do 5 as well Okay This example is the second I will paste this example here"
+    },
+    {
+      "chunk_number": 62,
+      "start": 538.04,
+      "end": 546.04,
+      "text": "And it will error through So let's do a comment Okay We don't need to show it here I have not used this Y"
+    },
+    {
+      "chunk_number": 63,
+      "start": 546.04,
+      "end": 554.04,
+      "text": "So I have shown you the underline That Y has not been used It's important in note that it is generally considered Good practice to avoid modifying global variable From within functions"
+    },
+    {
+      "chunk_number": 64,
+      "start": 554.04,
+      "end": 563.04,
+      "text": "Now see what happens You can do this But you need to think about it You need to do something like this You need to modify the global variable"
+    },
+    {
+      "chunk_number": 65,
+      "start": 563.04,
+      "end": 572.04,
+      "text": "To modify the function Why? Try You can write the whole logic in a function And design your programs like this"
+    },
+    {
+      "chunk_number": 66,
+      "start": 572.04,
+      "end": 582.04,
+      "text": "You need to do this But the fact is that I am a divider I am giving you the way to do this By creating a global variable But you are making your own responsibility"
+    },
+    {
+      "chunk_number": 67,
+      "start": 582.04,
+      "end": 592.04,
+      "text": "By making your own responsibility You will do the same in the confusion program Because if you do this You can write a code that you can't understand Or after 5 years"
+    },
+    {
+      "chunk_number": 68,
+      "start": 592.04,
+      "end": 600.04,
+      "text": "After 5 years You understand it So that is also problematic So I have written this As it can lead to unexpected behavior"
+    },
+    {
+      "chunk_number": 69,
+      "start": 600.04,
+      "end": 609.04,
+      "text": "And make your code harder to debug Your code will be difficult to debug You don't want it I hope you all understood And you guys did not do the same"
+    },
+    {
+      "chunk_number": 70,
+      "start": 609.04,
+      "end": 630.04,
+      "text": "So please do not do the same Thanks for watching this video And I will see you next time Thanks for watching this video"
+    }
+  ],
+  "text": "Welcome to 100 Days of Code We are looking at the 10th of the code But in 100 Days of Code, our time is going to be high And we will see what is local variable What is global variable And what is the global variable using the global keyword in Python Let's go to the computer screen and let's get started So, let's get started with a variable And I have created a function Can I use it from outside? I can't do it That's why it is local variable On the other hand, let's get a variable Which I have created in a function But it is outside the function I can also use it in the function As long as it is in the function, it is not the variable This is the global variable So here So now let's write a function Let's write a simple side program I will write x is equal to 4 Okay, I will print What are you doing? I am saying 4 But if I make a function called HelloHairi What will happen? And I will call this function HelloHairi will print with 4 Don't waste time I didn't waste time But I am not wasting time I will try to print it here If I want to do it like this, I will print it What if I make a case of this Okay, I will say that x is equal to 5 So what will you print? 4 or 5? Definitely, you will print it in the function No surprises there Okay, so you will print it in the function Now let's understand one thing That I want That I will change my global variable 4 Because if I print here The global x is And I will write here like this x and I will definitely make it f string So what will happen? I want it to change Hello function is changing So I will show you one more thing I will do one thing Here it will be local x Okay, let's do it local x value So local x is here 5 print Okay Because it is local x Here x is equal to 5 Okay I will try to do this And you can see what happened here The number of global x was 4 Then I did the hello x is equal to 5 Many people Many beginner programmers confuse each other And they think that this x is equal to 5 From here it will change it Global is different Local is different Local variables are destroyed Like the function returns Local variables are destroyed Global variables are not destroyed People are making it in the program Okay Now you will say that I want That x is equal to 5 Change this global variable So what should I do inside the hello Which is here global axis 5 Here before global axis 4 Then global axis 5 What should I do inside the hello I can do it outside I will do x is equal to 5 And this will change Global axis will change But how should I change from hello to hello Now you can understand the local variable So we will re-itrate it quickly We will understand it from the beginning I have given a sneak peak No, I understand it till now That's fine I am telling you Look here You can read the local global variables What is this Before we dive into the defensive We will recall What is the variable It is simply a name location in memory In your computer's memory In the name location You have given the name It is x But inside the memory It is a number store So x is equal to 4 I have told you It is a 4 store in memory It is fine Now x is equal to 5 Y is equal to hello In this way If you do this without any function Then this will become globally X is equal to 5 And Y is equal to hello This will be the way Now let's talk about local and global variables What is local variable Which is defined in function And is accessible in this function You can't access the function outside If I want to make Y is equal to 1 Or try to print here after this Then I can't do it I can't do it I can't do it I can't do print Y Because if I try to do something I can't do Y How can I print Y I can't do it Because the story is Y is equal to 1 Only in hello And Y is equal to 1 I can't do it outside I will print it outside So if I want to add error Then I will add backspace This is the local variable It is only the property of hello It will not work outside So here the story is all I hope On the other hand Global variable is a variable That is defined outside of a function And is accessible from Or outside or from within a function You can access the function inside As long as It has to be a local variable And you can access it outside Okay, we will know Okay, so I will do this work I will copy this example here And I will print it after copying it And if I don't write something like this Then I will remove it You guys can type it And here you guys can see What happened? I have defined variable Y This will cause an error Because Y is local Look what is happening X is equal to 10 It is a local variable Okay, then I said I will make a function in Y In this function In Y The value of the variable Which will be 5 And it is a local variable Okay Y is a local variable So I will print it out Okay And in Y function I will run So the content inside the function So here we have We have done X and print it And it will be a global variable And we have printed Y So it will be 1 minute by 1 Y is the property of my function My function is local variable And this is the local variable So you can't use it outside You can say that I want to go to the US with the local train of West Bengal How you can go to West Bengal You can't go to the US with local train Okay Similarly You can't access the property You can't access the property of the city Okay So you should know this Okay So this is the example I explained this to you Now you say What I do in this function It is the exchange of my function So first of all You say Global X What do you do with global keyword? Global keyword It says Now I want to use global variable X Okay I want to use global variable X And I will say X is equal to 4 Okay Now because I have created X is equal to 4 So X is the global variable So it says that I will use global variable And change the global variable Okay So I will run this So here you can see From global to 5 And 4 So here you can see When I have created a function The value of Y is 5 It is the simple thing And then I have done the print I have done 4 print And I have not done 10 print And this is the error I can't do in Y I run it twice Because this is the error I am giving So what happened here Let me start I have done the function of my function In the print Y The one I printed Which was very natural So now when I have done the print X Then what will happen To do the print X This is not X But this is the X It is equal to 4 Here I have changed the global variable It will be the print Now global X is equal to 4 What did the lines I selected They have changed the global variable Okay They have changed the global variable X is equal to 10 And here the global X is equal to 4 Okay I hope that you have understood something And I hope that you have understood It is completely different You have no problem Now the global variable is understood The global value is understood Now what do we want to modify a global variable From within a function This is where the global keyword comes in The global keyword is used to declare that A variable is a global variable And should be accessed from the global scope Here is an example What is the example here X is equal to 10 And I have written in my function And here my function is done Print X Print Y Okay This example is exactly what I have done I have explained to you Now here in this example We use the global keyword to declare That we want to modify the global variable X from within the function I want to change the global variable in the function And I have explained to you the python Python has given me this thing So I hope that you have understood Now see here The value of X has changed 2.5 Okay This change is 2.5 4.5 So let's do 5 as well Okay This example is the second I will paste this example here And it will error through So let's do a comment Okay We don't need to show it here I have not used this Y So I have shown you the underline That Y has not been used It's important in note that it is generally considered Good practice to avoid modifying global variable From within functions Now see what happens You can do this But you need to think about it You need to do something like this You need to modify the global variable To modify the function Why? Try You can write the whole logic in a function And design your programs like this You need to do this But the fact is that I am a divider I am giving you the way to do this By creating a global variable But you are making your own responsibility By making your own responsibility You will do the same in the confusion program Because if you do this You can write a code that you can't understand Or after 5 years After 5 years You understand it So that is also problematic So I have written this As it can lead to unexpected behavior And make your code harder to debug Your code will be difficult to debug You don't want it I hope you all understood And you guys did not do the same So please do not do the same Thanks for watching this video And I will see you next time Thanks for watching this video"
+}

@@ -1,0 +1,517 @@
+{
+  "video_number": 12,
+  "title": "Strings Slicing and Operations on Strings in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 11.44,
+      "text": "100 days of code is the best time for us to go to the top of the topic and today's topic is how string slicing is done remember we saw a lot of things about string it's a very big data type but you can make a user data type"
+    },
+    {
+      "chunk_number": 2,
+      "start": 11.44,
+      "end": 21.68,
+      "text": "and make a project as well and you can use string in some way or other ways today I will tell you about string slicing and tell you about string some other things"
+    },
+    {
+      "chunk_number": 3,
+      "start": 21.68,
+      "end": 36.0,
+      "text": "which you can play with string and make it easier and let's get started in the computer screen so today we are going to see the last topic of string slicing so first I will open this wrap"
+    },
+    {
+      "chunk_number": 4,
+      "start": 36.0,
+      "end": 50.0,
+      "text": "in my strings and today we will see how to slice string first I will open this wrap in my strings and today we will see how to slice string"
+    },
+    {
+      "chunk_number": 5,
+      "start": 50.0,
+      "end": 60.0,
+      "text": "I will have string with me and H-A-R-R-Y-5 I will make it with H-A-R-R-Y-5 you can access it and you can use it with R-R-R-Y-5"
+    },
+    {
+      "chunk_number": 6,
+      "start": 60.0,
+      "end": 70.0,
+      "text": "if you don't like this example I know that you have a string which has 5 names I will explain in my wrap and tell you about it"
+    },
+    {
+      "chunk_number": 7,
+      "start": 70.0,
+      "end": 82.0,
+      "text": "I have a name I will explain it here H-A-R-R-Y-S-H-U-B-H-A-M I will name this pack I want only Harry"
+    },
+    {
+      "chunk_number": 8,
+      "start": 82.0,
+      "end": 93.0,
+      "text": "so I can do something like this print I will start with 5 characters how I will do it? I will specify the starting index"
+    },
+    {
+      "chunk_number": 9,
+      "start": 93.0,
+      "end": 109.0,
+      "text": "and then I will specify the ending index I will say that I have started with 0 I will start with 1 I will start with 1 I will start with 1, 2, 3, 4, 5"
+    },
+    {
+      "chunk_number": 10,
+      "start": 109.0,
+      "end": 119.0,
+      "text": "I will start with 5 I will start with 1 I will start with 0 I will start with 0 I will start with 0"
+    },
+    {
+      "chunk_number": 11,
+      "start": 119.0,
+      "end": 129.0,
+      "text": "because most of the programming languages start with 0 I will start with 0 and I will write 6 I will write 5"
+    },
+    {
+      "chunk_number": 12,
+      "start": 129.0,
+      "end": 141.0,
+      "text": "I will write 5 I will write 5 I will get 5 characters I will get 4 if you go over here"
+    },
+    {
+      "chunk_number": 13,
+      "start": 141.0,
+      "end": 153.08,
+      "text": "then you will see that your template is tell tell a few more Now please explain what is working from Take 0 to n-1"
+    },
+    {
+      "chunk_number": 14,
+      "start": 153.08,
+      "end": 165.0,
+      "text": "n value is 5 Bring your index and print as thesmith made 0 as the client made 2 fourth"
+    },
+    {
+      "chunk_number": 15,
+      "start": 165.0,
+      "end": 183.0,
+      "text": "fourth 5 is working First of all, I want to tell you that if you don't have any string of length, like name, name and string, I have length, so I use length function, and I will use string, you can see the length of the string,"
+    },
+    {
+      "chunk_number": 16,
+      "start": 183.0,
+      "end": 202.0,
+      "text": "2, 2, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, and 1, ok, 13, 13 characters have come here, ok, so this is how you can take out the length, I have given an example, we can try it, mango is a 5 character word,"
+    },
+    {
+      "chunk_number": 17,
+      "start": 202.0,
+      "end": 215.0,
+      "text": "ok, so we have 5 letters in mango, mango is a 5 letter word, ok, so this is how you can get it, now string is basically like an area, sequence of characters, we saw in the video, because we can access any element of the string,"
+    },
+    {
+      "chunk_number": 18,
+      "start": 215.0,
+      "end": 231.0,
+      "text": "now look here, I will explain you the slicing, now leave it and listen to me, I have fruit is equal to mango, I have printed the length, or mango length, I can also keep it here,"
+    },
+    {
+      "chunk_number": 19,
+      "start": 231.0,
+      "end": 243.0,
+      "text": "ok, I have given mango length, so I will get 5 prints, now I know that I will start with 2 characters, I will write fruit, and then I will write print fruit,"
+    },
+    {
+      "chunk_number": 20,
+      "start": 243.0,
+      "end": 254.0,
+      "text": "and I will write this square bracket, make sure that you do not use parenthesis, for functions we use parenthesis, but for slicing we use square brackets, square brackets are on your keyboard,"
+    },
+    {
+      "chunk_number": 21,
+      "start": 254.0,
+      "end": 266.0,
+      "text": "on the right side of the P, you can see in your keyboard, and I will write 4 to 0, so I will start with 4 characters, basically I am telling this line,"
+    },
+    {
+      "chunk_number": 22,
+      "start": 266.0,
+      "end": 274.0,
+      "text": "give me 0 prints, give me 1 prints, 2nd prints, 3rd prints, you will not see 4 prints,"
+    },
+    {
+      "chunk_number": 23,
+      "start": 274.0,
+      "end": 282.0,
+      "text": "4 prints you will not see, you will see 3 to 0, 1, 2, 3, 4 characters, I will show you, m a n g,"
+    },
+    {
+      "chunk_number": 24,
+      "start": 282.0,
+      "end": 291.0,
+      "text": "which is its output, what happens if I do not write 0, I can skip 0, if I do not write 0, then what will Python do,"
+    },
+    {
+      "chunk_number": 25,
+      "start": 291.0,
+      "end": 300.0,
+      "text": "that automatically write 0, if I skip it, so Python is very good, now what happens if I start with 1, and I need index 1,"
+    },
+    {
+      "chunk_number": 26,
+      "start": 300.0,
+      "end": 309.0,
+      "text": "then I will write 1, 4, so I will get A, N, and G, now see here, A, N, and G, ok, now I will write something like this,"
+    },
+    {
+      "chunk_number": 27,
+      "start": 309.0,
+      "end": 317.0,
+      "text": "I will write that, index, and here colon, and 4, so this automatically Python is very good, this 0 will be applied,"
+    },
+    {
+      "chunk_number": 28,
+      "start": 317.0,
+      "end": 324.0,
+      "text": "ok, so here 0 will be applied, and you will get a mang, from the second, if I give 4, then what will Python do,"
+    },
+    {
+      "chunk_number": 29,
+      "start": 324.0,
+      "end": 330.0,
+      "text": "here will be applied to this line, will be applied to the line of fruit, ok, what is the line of fruit, the line of fruit 5, then I will apply 5,"
+    },
+    {
+      "chunk_number": 30,
+      "start": 330.0,
+      "end": 337.0,
+      "text": "so if I do not apply 5, then I am getting a mang, and if I apply 5, then I will get a mang, ok,"
+    },
+    {
+      "chunk_number": 31,
+      "start": 337.0,
+      "end": 346.0,
+      "text": "so this is how the slicing is done, now I want to tell you about slicing, you have to do negative slicing, ok, if I do minus 1, I will do 0 again,"
+    },
+    {
+      "chunk_number": 32,
+      "start": 346.0,
+      "end": 353.0,
+      "text": "because I will not write anything, then I will get a 0 automatically, and if I write minus 3 here, then what will happen, ok, what will happen,"
+    },
+    {
+      "chunk_number": 33,
+      "start": 353.0,
+      "end": 362.0,
+      "text": "and I will tell you why the output is, M A output, now why the output is, see, how it will interpret,"
+    },
+    {
+      "chunk_number": 34,
+      "start": 362.0,
+      "end": 371.0,
+      "text": "what is the minus 3, here, the line of fruit, it is applied, it is the Python interpreter,"
+    },
+    {
+      "chunk_number": 35,
+      "start": 371.0,
+      "end": 379.0,
+      "text": "ok, the length of fruit, how many are the lines of fruit 5, ok, we saw that it is 5, ok, the line of fruit 5, and the number of 5 is minus 3,"
+    },
+    {
+      "chunk_number": 36,
+      "start": 379.0,
+      "end": 386.0,
+      "text": "2, so 2 means, 0, M, of 1, that is, A,"
+    },
+    {
+      "chunk_number": 37,
+      "start": 386.0,
+      "end": 392.0,
+      "text": "ok, 0, M is on index, it is on 1st index, A, so M A is going to be printed, it will also be printed,"
+    },
+    {
+      "chunk_number": 38,
+      "start": 392.0,
+      "end": 399.0,
+      "text": "ok, I will tell you the clarity of the class, and I will write this, here, this is the one to write, it is going to be printed,"
+    },
+    {
+      "chunk_number": 39,
+      "start": 399.0,
+      "end": 407.0,
+      "text": "M A is printed, because Python automatically is applied here, what about negative slicing here, if I want to write minus 1,"
+    },
+    {
+      "chunk_number": 40,
+      "start": 407.0,
+      "end": 416.0,
+      "text": "then what will be printed, I write a new line, so that you do not get confused, if I do not write anything, then this and this is equivalent,"
+    },
+    {
+      "chunk_number": 41,
+      "start": 416.0,
+      "end": 424.0,
+      "text": "because Python automatically is applied here, and I will write minus 1, then what will happen, then you see,"
+    },
+    {
+      "chunk_number": 42,
+      "start": 424.0,
+      "end": 431.0,
+      "text": "here I do a work, I will comment on this, so that you will know, exactly what is going on, then I have done something like this,"
+    },
+    {
+      "chunk_number": 43,
+      "start": 431.0,
+      "end": 438.0,
+      "text": "and I have done minus 1, then you see, 5 minutes and nothing is printed here, now I will explain what is this, ok,"
+    },
+    {
+      "chunk_number": 44,
+      "start": 438.0,
+      "end": 443.0,
+      "text": "here I have written a line of fruit minus 3, and here I have written, here I have written minus 1, ok,"
+    },
+    {
+      "chunk_number": 45,
+      "start": 443.0,
+      "end": 448.0,
+      "text": "so what happens, Python automatically is applied here, then it will be applied here, ok, so Python interpreter,"
+    },
+    {
+      "chunk_number": 46,
+      "start": 448.0,
+      "end": 453.0,
+      "text": "it will be interpreted in some way, it will be interpreted, then it will be applied, then it will be 5, then it will be 5 minus 1,"
+    },
+    {
+      "chunk_number": 47,
+      "start": 453.0,
+      "end": 459.0,
+      "text": "4, and 5 minus 3, 2, so it will not be a sense of 2 from 4, ok, however,"
+    },
+    {
+      "chunk_number": 48,
+      "start": 459.0,
+      "end": 466.0,
+      "text": "if I do it, that is, I do it 3, and here I do it 1, then what will happen,"
+    },
+    {
+      "chunk_number": 49,
+      "start": 466.0,
+      "end": 474.0,
+      "text": "and I do not need to write a line of fruit, ok, I was telling you that Python automatically is applied here, I will do it,"
+    },
+    {
+      "chunk_number": 50,
+      "start": 474.0,
+      "end": 479.0,
+      "text": "then you will see here, that NG is coming, how does this NG decode, ok, first of all,"
+    },
+    {
+      "chunk_number": 51,
+      "start": 479.0,
+      "end": 485.0,
+      "text": "I will show you this line of fruit minus 3, which will be 5 minus 3, 2, so this will be 2,"
+    },
+    {
+      "chunk_number": 52,
+      "start": 485.0,
+      "end": 490.0,
+      "text": "and here, 4 will be, so, I will start from the second index, and then it will be 3,"
+    },
+    {
+      "chunk_number": 53,
+      "start": 490.0,
+      "end": 496.0,
+      "text": "remember that, Python starts from here, and this is minus 1, so 0, 1,"
+    },
+    {
+      "chunk_number": 54,
+      "start": 496.0,
+      "end": 502.0,
+      "text": "2, that is, N will be, then 3 will be, that is, NG and the fourth index,"
+    },
+    {
+      "chunk_number": 55,
+      "start": 502.0,
+      "end": 507.0,
+      "text": "that is ignored, I told you, including this, but not including this, ok,"
+    },
+    {
+      "chunk_number": 56,
+      "start": 507.0,
+      "end": 513.0,
+      "text": "I will write now, ok, I want to write, that, including 0,"
+    },
+    {
+      "chunk_number": 57,
+      "start": 513.0,
+      "end": 518.0,
+      "text": "but not, 4, in fact, in this case, I will write here,"
+    },
+    {
+      "chunk_number": 58,
+      "start": 518.0,
+      "end": 524.0,
+      "text": "here, this is not possible, if it is 0, then there is no special case, there is no special case,"
+    },
+    {
+      "chunk_number": 59,
+      "start": 524.0,
+      "end": 529.0,
+      "text": "I will show you, and it will be same for 1, ok, now you can see, if it is 4 from 0,"
+    },
+    {
+      "chunk_number": 60,
+      "start": 529.0,
+      "end": 534.0,
+      "text": "then including 0, but not 4, including 1, but not 4, that is,"
+    },
+    {
+      "chunk_number": 61,
+      "start": 534.0,
+      "end": 539.0,
+      "text": "1 from 1 to 3, and this is the index, that is, the number of numbers, if you start from 0,"
+    },
+    {
+      "chunk_number": 62,
+      "start": 539.0,
+      "end": 544.0,
+      "text": "then what is the number of numbers, in this case, 1, 2, N,"
+    },
+    {
+      "chunk_number": 63,
+      "start": 544.0,
+      "end": 551.0,
+      "text": "3, and 4, ok, then this is the string slicing, all the examples are given here,"
+    },
+    {
+      "chunk_number": 64,
+      "start": 551.0,
+      "end": 558.0,
+      "text": "now many people think that, they say, do it, do it, but I don't think it is a good explanation,"
+    },
+    {
+      "chunk_number": 65,
+      "start": 558.0,
+      "end": 564.0,
+      "text": "you can write here, and that is about it, you have to do it, ok, now I saw,"
+    },
+    {
+      "chunk_number": 66,
+      "start": 564.0,
+      "end": 572.0,
+      "text": "how to loop through this string, and this was what you did, in the last video, and in the coming videos, we will see,"
+    },
+    {
+      "chunk_number": 67,
+      "start": 572.0,
+      "end": 577.0,
+      "text": "that I want to see, in the string methods, in the content, that you solve a quick quiz, and"
+    },
+    {
+      "chunk_number": 68,
+      "start": 577.0,
+      "end": 583.0,
+      "text": "don't tell me in the comment section, this time, you guys, do it on Instagram, answer this quiz,"
+    },
+    {
+      "chunk_number": 69,
+      "start": 583.0,
+      "end": 588.0,
+      "text": "ok, so, you have to do it, you have to, you have to,"
+    },
+    {
+      "chunk_number": 70,
+      "start": 588.0,
+      "end": 594.0,
+      "text": "output this program, and explain it to me, ok, I am writing a very simple program, ok,"
+    },
+    {
+      "chunk_number": 71,
+      "start": 594.0,
+      "end": 602.0,
+      "text": "I have given it a quick quiz, you have to do it, and don't do cheating, ok, don't do cheating,"
+    },
+    {
+      "chunk_number": 72,
+      "start": 602.0,
+      "end": 607.0,
+      "text": "and tell me, output, this is RRY, ok, if I will print,"
+    },
+    {
+      "chunk_number": 73,
+      "start": 607.0,
+      "end": 617.0,
+      "text": "NM, and I am writing here, minus 2, or minus 4, minus 2,"
+    },
+    {
+      "chunk_number": 74,
+      "start": 617.0,
+      "end": 623.0,
+      "text": "then you have to tell me, what you will print, ok, you will tell me, ok,"
+    },
+    {
+      "chunk_number": 75,
+      "start": 623.0,
+      "end": 630.0,
+      "text": "minus 4 is to get, minus 2, what you will print, and the challenge is, you will have to attack me on Instagram,"
+    },
+    {
+      "chunk_number": 76,
+      "start": 630.0,
+      "end": 636.0,
+      "text": "you will have to call me, you will not do it after running, don't do this, you will not do this, you will not do this,"
+    },
+    {
+      "chunk_number": 77,
+      "start": 636.0,
+      "end": 641.0,
+      "text": "so, I will also comment on this, so that you guys, do this, and output, you will not come,"
+    },
+    {
+      "chunk_number": 78,
+      "start": 641.0,
+      "end": 646.0,
+      "text": "output, if you guys have commented, ok, and after that, you guys,"
+    },
+    {
+      "chunk_number": 79,
+      "start": 646.0,
+      "end": 652.0,
+      "text": "understand what I have told you, and I will not tell you, what is the length of this program, what is the length of this program, you can see it once,"
+    },
+    {
+      "chunk_number": 80,
+      "start": 652.0,
+      "end": 657.0,
+      "text": "but, it is correct when you want to answer me, and this is the reason, correct answer should be made, ok,"
+    },
+    {
+      "chunk_number": 81,
+      "start": 657.0,
+      "end": 663.0,
+      "text": "and if you have explained, the explanation is optional, now I will answer you, explanation is optional, ok,"
+    },
+    {
+      "chunk_number": 82,
+      "start": 663.0,
+      "end": 669.0,
+      "text": "if you want, you can give a very quick explanation, I will be fine, if you have not done the playlist yet, then,"
+    },
+    {
+      "chunk_number": 83,
+      "start": 669.0,
+      "end": 676.0,
+      "text": "do the access, and Instagram handle code with Harry, I want to tell you, ok, then you can search the code with Harry,"
+    },
+    {
+      "chunk_number": 84,
+      "start": 676.0,
+      "end": 682.0,
+      "text": "you can find it in Instagram, you can click the playlist, you can access it, click the playlist, or click the playlist,"
+    },
+    {
+      "chunk_number": 85,
+      "start": 682.0,
+      "end": 689.0,
+      "text": "or save it, then, you can find it in the playlist, thank you so much guys for watching this video, and I will see you, next time."
+    }
+  ],
+  "text": "100 days of code is the best time for us to go to the top of the topic and today's topic is how string slicing is done remember we saw a lot of things about string it's a very big data type but you can make a user data type and make a project as well and you can use string in some way or other ways today I will tell you about string slicing and tell you about string some other things which you can play with string and make it easier and let's get started in the computer screen so today we are going to see the last topic of string slicing so first I will open this wrap in my strings and today we will see how to slice string first I will open this wrap in my strings and today we will see how to slice string I will have string with me and H-A-R-R-Y-5 I will make it with H-A-R-R-Y-5 you can access it and you can use it with R-R-R-Y-5 if you don't like this example I know that you have a string which has 5 names I will explain in my wrap and tell you about it I have a name I will explain it here H-A-R-R-Y-S-H-U-B-H-A-M I will name this pack I want only Harry so I can do something like this print I will start with 5 characters how I will do it? I will specify the starting index and then I will specify the ending index I will say that I have started with 0 I will start with 1 I will start with 1 I will start with 1, 2, 3, 4, 5 I will start with 5 I will start with 1 I will start with 0 I will start with 0 I will start with 0 because most of the programming languages start with 0 I will start with 0 and I will write 6 I will write 5 I will write 5 I will write 5 I will get 5 characters I will get 4 if you go over here then you will see that your template is tell tell a few more Now please explain what is working from Take 0 to n-1 n value is 5 Bring your index and print as thesmith made 0 as the client made 2 fourth fourth 5 is working First of all, I want to tell you that if you don't have any string of length, like name, name and string, I have length, so I use length function, and I will use string, you can see the length of the string, 2, 2, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, and 1, ok, 13, 13 characters have come here, ok, so this is how you can take out the length, I have given an example, we can try it, mango is a 5 character word, ok, so we have 5 letters in mango, mango is a 5 letter word, ok, so this is how you can get it, now string is basically like an area, sequence of characters, we saw in the video, because we can access any element of the string, now look here, I will explain you the slicing, now leave it and listen to me, I have fruit is equal to mango, I have printed the length, or mango length, I can also keep it here, ok, I have given mango length, so I will get 5 prints, now I know that I will start with 2 characters, I will write fruit, and then I will write print fruit, and I will write this square bracket, make sure that you do not use parenthesis, for functions we use parenthesis, but for slicing we use square brackets, square brackets are on your keyboard, on the right side of the P, you can see in your keyboard, and I will write 4 to 0, so I will start with 4 characters, basically I am telling this line, give me 0 prints, give me 1 prints, 2nd prints, 3rd prints, you will not see 4 prints, 4 prints you will not see, you will see 3 to 0, 1, 2, 3, 4 characters, I will show you, m a n g, which is its output, what happens if I do not write 0, I can skip 0, if I do not write 0, then what will Python do, that automatically write 0, if I skip it, so Python is very good, now what happens if I start with 1, and I need index 1, then I will write 1, 4, so I will get A, N, and G, now see here, A, N, and G, ok, now I will write something like this, I will write that, index, and here colon, and 4, so this automatically Python is very good, this 0 will be applied, ok, so here 0 will be applied, and you will get a mang, from the second, if I give 4, then what will Python do, here will be applied to this line, will be applied to the line of fruit, ok, what is the line of fruit, the line of fruit 5, then I will apply 5, so if I do not apply 5, then I am getting a mang, and if I apply 5, then I will get a mang, ok, so this is how the slicing is done, now I want to tell you about slicing, you have to do negative slicing, ok, if I do minus 1, I will do 0 again, because I will not write anything, then I will get a 0 automatically, and if I write minus 3 here, then what will happen, ok, what will happen, and I will tell you why the output is, M A output, now why the output is, see, how it will interpret, what is the minus 3, here, the line of fruit, it is applied, it is the Python interpreter, ok, the length of fruit, how many are the lines of fruit 5, ok, we saw that it is 5, ok, the line of fruit 5, and the number of 5 is minus 3, 2, so 2 means, 0, M, of 1, that is, A, ok, 0, M is on index, it is on 1st index, A, so M A is going to be printed, it will also be printed, ok, I will tell you the clarity of the class, and I will write this, here, this is the one to write, it is going to be printed, M A is printed, because Python automatically is applied here, what about negative slicing here, if I want to write minus 1, then what will be printed, I write a new line, so that you do not get confused, if I do not write anything, then this and this is equivalent, because Python automatically is applied here, and I will write minus 1, then what will happen, then you see, here I do a work, I will comment on this, so that you will know, exactly what is going on, then I have done something like this, and I have done minus 1, then you see, 5 minutes and nothing is printed here, now I will explain what is this, ok, here I have written a line of fruit minus 3, and here I have written, here I have written minus 1, ok, so what happens, Python automatically is applied here, then it will be applied here, ok, so Python interpreter, it will be interpreted in some way, it will be interpreted, then it will be applied, then it will be 5, then it will be 5 minus 1, 4, and 5 minus 3, 2, so it will not be a sense of 2 from 4, ok, however, if I do it, that is, I do it 3, and here I do it 1, then what will happen, and I do not need to write a line of fruit, ok, I was telling you that Python automatically is applied here, I will do it, then you will see here, that NG is coming, how does this NG decode, ok, first of all, I will show you this line of fruit minus 3, which will be 5 minus 3, 2, so this will be 2, and here, 4 will be, so, I will start from the second index, and then it will be 3, remember that, Python starts from here, and this is minus 1, so 0, 1, 2, that is, N will be, then 3 will be, that is, NG and the fourth index, that is ignored, I told you, including this, but not including this, ok, I will write now, ok, I want to write, that, including 0, but not, 4, in fact, in this case, I will write here, here, this is not possible, if it is 0, then there is no special case, there is no special case, I will show you, and it will be same for 1, ok, now you can see, if it is 4 from 0, then including 0, but not 4, including 1, but not 4, that is, 1 from 1 to 3, and this is the index, that is, the number of numbers, if you start from 0, then what is the number of numbers, in this case, 1, 2, N, 3, and 4, ok, then this is the string slicing, all the examples are given here, now many people think that, they say, do it, do it, but I don't think it is a good explanation, you can write here, and that is about it, you have to do it, ok, now I saw, how to loop through this string, and this was what you did, in the last video, and in the coming videos, we will see, that I want to see, in the string methods, in the content, that you solve a quick quiz, and don't tell me in the comment section, this time, you guys, do it on Instagram, answer this quiz, ok, so, you have to do it, you have to, you have to, output this program, and explain it to me, ok, I am writing a very simple program, ok, I have given it a quick quiz, you have to do it, and don't do cheating, ok, don't do cheating, and tell me, output, this is RRY, ok, if I will print, NM, and I am writing here, minus 2, or minus 4, minus 2, then you have to tell me, what you will print, ok, you will tell me, ok, minus 4 is to get, minus 2, what you will print, and the challenge is, you will have to attack me on Instagram, you will have to call me, you will not do it after running, don't do this, you will not do this, you will not do this, so, I will also comment on this, so that you guys, do this, and output, you will not come, output, if you guys have commented, ok, and after that, you guys, understand what I have told you, and I will not tell you, what is the length of this program, what is the length of this program, you can see it once, but, it is correct when you want to answer me, and this is the reason, correct answer should be made, ok, and if you have explained, the explanation is optional, now I will answer you, explanation is optional, ok, if you want, you can give a very quick explanation, I will be fine, if you have not done the playlist yet, then, do the access, and Instagram handle code with Harry, I want to tell you, ok, then you can search the code with Harry, you can find it in Instagram, you can click the playlist, you can access it, click the playlist, or click the playlist, or save it, then, you can find it in the playlist, thank you so much guys for watching this video, and I will see you, next time."
+}

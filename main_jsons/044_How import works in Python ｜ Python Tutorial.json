@@ -1,0 +1,439 @@
+{
+  "video_number": 44,
+  "title": "How import works in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 12.5,
+      "text": "Exactly how import Python works in this way How do you import the same package So that functions will be applied in your program Today we are going to see this thing Let's go to the middle screen and let's get started"
+    },
+    {
+      "chunk_number": 2,
+      "start": 21.900000000000002,
+      "end": 34.5,
+      "text": "So whenever we import something in Python program We have imported a module We have imported something So all the codes we have imported from our program Let's see how I am talking about my people"
+    },
+    {
+      "chunk_number": 3,
+      "start": 34.5,
+      "end": 53.0,
+      "text": "First of all, let me show you how import is done in the Rappl Importing in Python is a process of loading code from a Python module into the current script Current script is like my main.py Okay I have written import pandas"
+    },
+    {
+      "chunk_number": 4,
+      "start": 53.0,
+      "end": 71.0,
+      "text": "Pandas import All the methods and classes are used in pandas. I can write pandas.readcsm And I can use this function in the function I can use the excel.read function in pandas.read"
+    },
+    {
+      "chunk_number": 5,
+      "start": 71.0,
+      "end": 81.0,
+      "text": "And so on So I can do this And after reading csm, if I do something like csm file argument What does it do? It reads on the data frame"
+    },
+    {
+      "chunk_number": 6,
+      "start": 81.0,
+      "end": 92.0,
+      "text": "It is about the word But I want to tell you that I want to import pandas I have to do it in the name of pandas Okay Now look at any additional module"
+    },
+    {
+      "chunk_number": 7,
+      "start": 92.0,
+      "end": 103.0,
+      "text": "That is the imported module If pandas is dependent on the data details Then the data details will be applied Pandas Now look at the things"
+    },
+    {
+      "chunk_number": 8,
+      "start": 103.0,
+      "end": 113.0,
+      "text": "To import a module in Python You can use import statement Followed by the name of the module For example, we have made the map module Which contains a variety of mathematical functions"
+    },
+    {
+      "chunk_number": 9,
+      "start": 113.0,
+      "end": 120.0,
+      "text": "Now import math Let's take a look at math's example Because it is a little easy Okay Now import math"
+    },
+    {
+      "chunk_number": 10,
+      "start": 120.0,
+      "end": 129.0,
+      "text": "And I will write here Math dot And here I have all the functions in math Okay If you are using decent editor, then you will have suggestions"
+    },
+    {
+      "chunk_number": 11,
+      "start": 129.0,
+      "end": 140.0,
+      "text": "If you are using the app, then you will have suggestions Okay So if I do this, then I can use the function in the flow of the math I can use it In fact, in math, there is a function"
+    },
+    {
+      "chunk_number": 12,
+      "start": 140.0,
+      "end": 151.0,
+      "text": "Which is in math, I can use it in math dot syntax Okay So this is the only thing Now I will tell you the next story Once the module is imported, you can use any of the functions"
+    },
+    {
+      "chunk_number": 13,
+      "start": 151.0,
+      "end": 161.0,
+      "text": "In the function, you will have to find in the module using the dot notation As you have seen the SQRT I have used it Math dot SQRT9 Which will return three"
+    },
+    {
+      "chunk_number": 14,
+      "start": 161.0,
+      "end": 169.0,
+      "text": "So let's take a look at this example And I will show it to you So three print will be done No surprises there I have imported it twice"
+    },
+    {
+      "chunk_number": 15,
+      "start": 169.0,
+      "end": 178.0,
+      "text": "Now what is the form keyword Now I only want to import one function SQRT9 So I will write From Math"
+    },
+    {
+      "chunk_number": 16,
+      "start": 178.0,
+      "end": 187.0,
+      "text": "From Math Import From Math Import SQRT"
+    },
+    {
+      "chunk_number": 17,
+      "start": 187.0,
+      "end": 194.0,
+      "text": "Appi Okay SQRT and Pi Now I will not dot Now I can use SQRT directly"
+    },
+    {
+      "chunk_number": 18,
+      "start": 194.0,
+      "end": 202.0,
+      "text": "And I can use Pi So I have not done SQRT And I have not done Pi Okay So I can do this"
+    },
+    {
+      "chunk_number": 19,
+      "start": 202.0,
+      "end": 209.0,
+      "text": "Multiply by Pi Which is 3.14 something And you can see here"
+    },
+    {
+      "chunk_number": 20,
+      "start": 209.0,
+      "end": 217.0,
+      "text": "I had given 9.4 3.14 Multiply by 3 Which is 9.4 something Okay"
+    },
+    {
+      "chunk_number": 21,
+      "start": 217.0,
+      "end": 224.0,
+      "text": "So I have done this Pi also used the value of SQRT And I have used it So let's import Now one more thing"
+    },
+    {
+      "chunk_number": 22,
+      "start": 224.0,
+      "end": 234.0,
+      "text": "You can do is From Math Import Start Import Start What will be done"
+    },
+    {
+      "chunk_number": 23,
+      "start": 234.0,
+      "end": 244.0,
+      "text": "Math.py Again Belt Module Go inside it And all the functions And variables"
+    },
+    {
+      "chunk_number": 24,
+      "start": 244.0,
+      "end": 254.0,
+      "text": "Now you can see I have seen a lot of things It says Actually the landing is not possible Because many things"
+    },
+    {
+      "chunk_number": 25,
+      "start": 254.0,
+      "end": 264.0,
+      "text": "Import is coming But I can use SQRT and Pi This is not a recommended approach Why not Because we are importing everything"
+    },
+    {
+      "chunk_number": 26,
+      "start": 264.0,
+      "end": 274.0,
+      "text": "And we are bringing everything From Math So it is also possible to import all functions And variables from a module using the start-wild cut However, this is generally not recommended"
+    },
+    {
+      "chunk_number": 27,
+      "start": 274.0,
+      "end": 284.0,
+      "text": "Because it can lead to confusion And make it harder to understand Where specific functions And variables are coming from So if you are open"
+    },
+    {
+      "chunk_number": 28,
+      "start": 284.0,
+      "end": 294.0,
+      "text": "You start from Math Import Start And we call it a Harry Namco module From Harry Import Start And both of them are Pi Namco Function"
+    },
+    {
+      "chunk_number": 29,
+      "start": 294.0,
+      "end": 304.0,
+      "text": "Or Pi Namco Constantly So you will see So you don't want this So you need to import This is recommended"
+    },
+    {
+      "chunk_number": 30,
+      "start": 304.0,
+      "end": 314.0,
+      "text": "I won't do this I won't do this I won't do this It is recommended approach If you are not a beginner"
+    },
+    {
+      "chunk_number": 31,
+      "start": 314.0,
+      "end": 324.0,
+      "text": "So you From Math Import Start From Math Import Whatever function like SQRT Or whatever variable"
+    },
+    {
+      "chunk_number": 32,
+      "start": 324.0,
+      "end": 334.0,
+      "text": "You want to use As keyword What is As keyword Import Pandas is a PD Or Import NumPy is NP"
+    },
+    {
+      "chunk_number": 33,
+      "start": 334.0,
+      "end": 344.0,
+      "text": "So you can write in short form So that you can write in short form PD.Read C-S-V And do this From Math Import"
+    },
+    {
+      "chunk_number": 34,
+      "start": 344.0,
+      "end": 354.0,
+      "text": "I can do this SQRT Pi And as I will do SQRT"
+    },
+    {
+      "chunk_number": 35,
+      "start": 354.0,
+      "end": 364.0,
+      "text": "S I can import I can do something Import Pi And SQRT as S"
+    },
+    {
+      "chunk_number": 36,
+      "start": 364.0,
+      "end": 374.0,
+      "text": "So SQRT is as S Import And Pi as it is Import Similarly I can do this"
+    },
+    {
+      "chunk_number": 37,
+      "start": 374.0,
+      "end": 384.0,
+      "text": "Import Math as And then I will do M.SQRT And M.Py I will comment this M.Py"
+    },
+    {
+      "chunk_number": 38,
+      "start": 384.0,
+      "end": 394.0,
+      "text": "From this M.Py From my point of view From my point of view So I can use As keyword"
+    },
+    {
+      "chunk_number": 39,
+      "start": 394.0,
+      "end": 404.0,
+      "text": "So that I can write in big name If I will do Import Tensor Flow as TF Then I will not write in big name Then I will not write in big name Then I can refer to TF.C-Tensor Flow"
+    },
+    {
+      "chunk_number": 40,
+      "start": 404.0,
+      "end": 414.0,
+      "text": "So here There is a lot of good application As keyword When the model name is big I hope that helps"
+    },
+    {
+      "chunk_number": 41,
+      "start": 414.0,
+      "end": 424.0,
+      "text": "If you want to import it Then you want to import it Because your function is You want to make an Explanatory"
+    },
+    {
+      "chunk_number": 42,
+      "start": 424.0,
+      "end": 434.0,
+      "text": "I hope that you can understand this program And I can explain Import Math as Math Pilton Python"
+    },
+    {
+      "chunk_number": 43,
+      "start": 434.0,
+      "end": 444.0,
+      "text": "So I want to explain this Math Modula Which is built in Python So you can use it That will also work"
+    },
+    {
+      "chunk_number": 44,
+      "start": 444.0,
+      "end": 454.0,
+      "text": "Now I will show you the function of DIR I will show you the function of DIR I don't know about the model I will comment on this And I will import Math"
+    },
+    {
+      "chunk_number": 45,
+      "start": 454.0,
+      "end": 464.0,
+      "text": "So I will import Math So I will import Math All the functions of Math And what are the things in this I can print it"
+    },
+    {
+      "chunk_number": 46,
+      "start": 464.0,
+      "end": 474.0,
+      "text": "By using DIR I will do DIR Math So what is happening I am telling you Which functions"
+    },
+    {
+      "chunk_number": 47,
+      "start": 474.0,
+      "end": 484.0,
+      "text": "You will get the pie This pie You will get all the functions And the things that are going to export And the things that are going to import"
+    },
+    {
+      "chunk_number": 48,
+      "start": 484.0,
+      "end": 494.0,
+      "text": "You will get the whole thing You will get the whole thing So you can see What functions What variables"
+    },
+    {
+      "chunk_number": 49,
+      "start": 494.0,
+      "end": 504.0,
+      "text": "I want to see If I want to print I can print it So I will print it Type of Math"
+    },
+    {
+      "chunk_number": 50,
+      "start": 504.0,
+      "end": 514.0,
+      "text": "Don't lend What type is it? Is it a string? What is this? It is a class float"
+    },
+    {
+      "chunk_number": 51,
+      "start": 514.0,
+      "end": 524.0,
+      "text": "So I hope you guys understood That this is a different function And the methods in Math model I can see it Similarly, I can install TensorFlow"
+    },
+    {
+      "chunk_number": 52,
+      "start": 524.0,
+      "end": 534.0,
+      "text": "And I can see TensorFlow Similarly, I can install Flask And so on So I will do something like this I will show you one more"
+    },
+    {
+      "chunk_number": 53,
+      "start": 534.0,
+      "end": 544.0,
+      "text": "I want to see a file I will see the name of this file Harry.py I will write a function I will write a welcome name"
+    },
+    {
+      "chunk_number": 54,
+      "start": 544.0,
+      "end": 556.0,
+      "text": "And I will print it Hey you are welcome my friend And I will write a variable Harry is equal to A good boy"
+    },
+    {
+      "chunk_number": 55,
+      "start": 556.0,
+      "end": 566.0,
+      "text": "Now I will do I will say From Harry Import Welcome"
+    },
+    {
+      "chunk_number": 56,
+      "start": 566.0,
+      "end": 576.0,
+      "text": "And what else I will import Harry. I will import these two things What I am saying here I will say Harry.val.com is important"
+    },
+    {
+      "chunk_number": 57,
+      "start": 576.0,
+      "end": 586.0,
+      "text": "We will use it I will use And I will print it Harry And you will see"
+    },
+    {
+      "chunk_number": 58,
+      "start": 586.0,
+      "end": 596.0,
+      "text": "That this is my model I used it You will see You are welcome my friend And I have done this"
+    },
+    {
+      "chunk_number": 59,
+      "start": 596.0,
+      "end": 606.0,
+      "text": "Print Harry I have done this I can print it If I write from Harry Import Start"
+    },
+    {
+      "chunk_number": 60,
+      "start": 606.0,
+      "end": 616.0,
+      "text": "I will go From Harry Import Start What is happening in this process Harry is importing the file Harry is importing it"
+    },
+    {
+      "chunk_number": 61,
+      "start": 616.0,
+      "end": 626.0,
+      "text": "Harry is importing it Harry is importing it Harry is importing it Harry.py I will use it"
+    },
+    {
+      "chunk_number": 62,
+      "start": 626.0,
+      "end": 640.0,
+      "text": "I hope you have understood Hey you are welcome my friend And I am printing both these two things But if I import Start I will do this"
+    },
+    {
+      "chunk_number": 63,
+      "start": 640.0,
+      "end": 650.0,
+      "text": "I will not do this I will import it I will not do this From Harry Import"
+    },
+    {
+      "chunk_number": 64,
+      "start": 650.0,
+      "end": 660.0,
+      "text": "Harry as HR I can use it I cannot do this I will have to import it I have done this"
+    },
+    {
+      "chunk_number": 65,
+      "start": 660.0,
+      "end": 672.0,
+      "text": "Harry is importing it Harry is importing it Harry is importing it Harry is importing it Oh that makes sense"
+    },
+    {
+      "chunk_number": 66,
+      "start": 672.0,
+      "end": 682.0,
+      "text": "I will show you This is the imported file In this class I hope you have understood And I hope you have understood"
+    },
+    {
+      "chunk_number": 67,
+      "start": 682.0,
+      "end": 694.0,
+      "text": "And I hope you have understood And I hope you have understood And I do not think this is a big rocket science Such as you are planning to write Python You will have to write more things"
+    },
+    {
+      "chunk_number": 68,
+      "start": 694.0,
+      "end": 706.0,
+      "text": "And I hope you will follow So that you can do debugging properly. So that you can do importing properly. I hope you all enjoyed. I hope you all enjoyed."
+    },
+    {
+      "chunk_number": 69,
+      "start": 706.0,
+      "end": 716.0,
+      "text": "I will tell you one thing. But I don't want to do playlist access. And then do one thing. Go to the first video and open the video. And comment your review."
+    },
+    {
+      "chunk_number": 70,
+      "start": 716.0,
+      "end": 726.0,
+      "text": "Like you see here. They have made a review. I really appreciate from deep inside of my heart that I want to thank you."
+    },
+    {
+      "chunk_number": 71,
+      "start": 726.0,
+      "end": 738.0,
+      "text": "And I want to request you all to make a review of the first video. So that those people who have not seen this course yet started and who are thinking that they will start this course"
+    },
+    {
+      "chunk_number": 72,
+      "start": 738.0,
+      "end": 756.0,
+      "text": "and start this course. So thank you so much guys for watching this video. And I will see you next time. Bye."
+    }
+  ],
+  "text": "Exactly how import Python works in this way How do you import the same package So that functions will be applied in your program Today we are going to see this thing Let's go to the middle screen and let's get started So whenever we import something in Python program We have imported a module We have imported something So all the codes we have imported from our program Let's see how I am talking about my people First of all, let me show you how import is done in the Rappl Importing in Python is a process of loading code from a Python module into the current script Current script is like my main.py Okay I have written import pandas Pandas import All the methods and classes are used in pandas. I can write pandas.readcsm And I can use this function in the function I can use the excel.read function in pandas.read And so on So I can do this And after reading csm, if I do something like csm file argument What does it do? It reads on the data frame It is about the word But I want to tell you that I want to import pandas I have to do it in the name of pandas Okay Now look at any additional module That is the imported module If pandas is dependent on the data details Then the data details will be applied Pandas Now look at the things To import a module in Python You can use import statement Followed by the name of the module For example, we have made the map module Which contains a variety of mathematical functions Now import math Let's take a look at math's example Because it is a little easy Okay Now import math And I will write here Math dot And here I have all the functions in math Okay If you are using decent editor, then you will have suggestions If you are using the app, then you will have suggestions Okay So if I do this, then I can use the function in the flow of the math I can use it In fact, in math, there is a function Which is in math, I can use it in math dot syntax Okay So this is the only thing Now I will tell you the next story Once the module is imported, you can use any of the functions In the function, you will have to find in the module using the dot notation As you have seen the SQRT I have used it Math dot SQRT9 Which will return three So let's take a look at this example And I will show it to you So three print will be done No surprises there I have imported it twice Now what is the form keyword Now I only want to import one function SQRT9 So I will write From Math From Math Import From Math Import SQRT Appi Okay SQRT and Pi Now I will not dot Now I can use SQRT directly And I can use Pi So I have not done SQRT And I have not done Pi Okay So I can do this Multiply by Pi Which is 3.14 something And you can see here I had given 9.4 3.14 Multiply by 3 Which is 9.4 something Okay So I have done this Pi also used the value of SQRT And I have used it So let's import Now one more thing You can do is From Math Import Start Import Start What will be done Math.py Again Belt Module Go inside it And all the functions And variables Now you can see I have seen a lot of things It says Actually the landing is not possible Because many things Import is coming But I can use SQRT and Pi This is not a recommended approach Why not Because we are importing everything And we are bringing everything From Math So it is also possible to import all functions And variables from a module using the start-wild cut However, this is generally not recommended Because it can lead to confusion And make it harder to understand Where specific functions And variables are coming from So if you are open You start from Math Import Start And we call it a Harry Namco module From Harry Import Start And both of them are Pi Namco Function Or Pi Namco Constantly So you will see So you don't want this So you need to import This is recommended I won't do this I won't do this I won't do this It is recommended approach If you are not a beginner So you From Math Import Start From Math Import Whatever function like SQRT Or whatever variable You want to use As keyword What is As keyword Import Pandas is a PD Or Import NumPy is NP So you can write in short form So that you can write in short form PD.Read C-S-V And do this From Math Import I can do this SQRT Pi And as I will do SQRT S I can import I can do something Import Pi And SQRT as S So SQRT is as S Import And Pi as it is Import Similarly I can do this Import Math as And then I will do M.SQRT And M.Py I will comment this M.Py From this M.Py From my point of view From my point of view So I can use As keyword So that I can write in big name If I will do Import Tensor Flow as TF Then I will not write in big name Then I will not write in big name Then I can refer to TF.C-Tensor Flow So here There is a lot of good application As keyword When the model name is big I hope that helps If you want to import it Then you want to import it Because your function is You want to make an Explanatory I hope that you can understand this program And I can explain Import Math as Math Pilton Python So I want to explain this Math Modula Which is built in Python So you can use it That will also work Now I will show you the function of DIR I will show you the function of DIR I don't know about the model I will comment on this And I will import Math So I will import Math So I will import Math All the functions of Math And what are the things in this I can print it By using DIR I will do DIR Math So what is happening I am telling you Which functions You will get the pie This pie You will get all the functions And the things that are going to export And the things that are going to import You will get the whole thing You will get the whole thing So you can see What functions What variables I want to see If I want to print I can print it So I will print it Type of Math Don't lend What type is it? Is it a string? What is this? It is a class float So I hope you guys understood That this is a different function And the methods in Math model I can see it Similarly, I can install TensorFlow And I can see TensorFlow Similarly, I can install Flask And so on So I will do something like this I will show you one more I want to see a file I will see the name of this file Harry.py I will write a function I will write a welcome name And I will print it Hey you are welcome my friend And I will write a variable Harry is equal to A good boy Now I will do I will say From Harry Import Welcome And what else I will import Harry. I will import these two things What I am saying here I will say Harry.val.com is important We will use it I will use And I will print it Harry And you will see That this is my model I used it You will see You are welcome my friend And I have done this Print Harry I have done this I can print it If I write from Harry Import Start I will go From Harry Import Start What is happening in this process Harry is importing the file Harry is importing it Harry is importing it Harry is importing it Harry is importing it Harry.py I will use it I hope you have understood Hey you are welcome my friend And I am printing both these two things But if I import Start I will do this I will not do this I will import it I will not do this From Harry Import Harry as HR I can use it I cannot do this I will have to import it I have done this Harry is importing it Harry is importing it Harry is importing it Harry is importing it Oh that makes sense I will show you This is the imported file In this class I hope you have understood And I hope you have understood And I hope you have understood And I hope you have understood And I do not think this is a big rocket science Such as you are planning to write Python You will have to write more things And I hope you will follow So that you can do debugging properly. So that you can do importing properly. I hope you all enjoyed. I hope you all enjoyed. I will tell you one thing. But I don't want to do playlist access. And then do one thing. Go to the first video and open the video. And comment your review. Like you see here. They have made a review. I really appreciate from deep inside of my heart that I want to thank you. And I want to request you all to make a review of the first video. So that those people who have not seen this course yet started and who are thinking that they will start this course and start this course. So thank you so much guys for watching this video. And I will see you next time. Bye."
+}

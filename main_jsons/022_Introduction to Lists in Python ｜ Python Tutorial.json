@@ -1,0 +1,655 @@
+{
+  "video_number": 22,
+  "title": "Introduction to Lists in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 16.44,
+      "text": "Python programming is a very important area type. If you want to store 10 things in a particular and particular entity, then you can make a list of it. You can make a list of marks of students of class 8. Or you can make a list of people living in Europe."
+    },
+    {
+      "chunk_number": 2,
+      "start": 16.44,
+      "end": 30.959999999999997,
+      "text": "Or you can make a list of people enrolled in 100 days of code Python. So you can make all these lists and perform some operations on them. You can iterate them. And then you can make them one by one. So you can make a list of marks of class 10."
+    },
+    {
+      "chunk_number": 3,
+      "start": 30.959999999999997,
+      "end": 42.36,
+      "text": "And you can make a list of all people. Class 11, Science Marks of class 10. We can collect one entity from the list to make a list. And it is very easy to refer to them. Let's go to the video screen and see the list."
+    },
+    {
+      "chunk_number": 4,
+      "start": 42.36,
+      "end": 64.8,
+      "text": "And then we will see the list with what operations can be done. So how can you help the list by the programming? Let's get started. Today's topic is very special because we are going to talk about the list. It is a very good data type."
+    },
+    {
+      "chunk_number": 5,
+      "start": 64.8,
+      "end": 76.4,
+      "text": "It is a very useful data type in the sense of good use. And you guys don't have to understand the list carefully. If you are not focusing on it, then you should focus on the list. Because this is the most important topic. What is the list?"
+    },
+    {
+      "chunk_number": 6,
+      "start": 76.4,
+      "end": 86.4,
+      "text": "First of all, let me tell you what is the list. I will write L is equal to. I have written it in square bracket in this way. And I have written it in square bracket in this way. So this is a list."
+    },
+    {
+      "chunk_number": 7,
+      "start": 86.4,
+      "end": 98.4,
+      "text": "This is a valid Python program. Because I am doing it here. I don't have a error here. If I want to print it, I will just tell you the list. And I will write it in 3, 5, 6."
+    },
+    {
+      "chunk_number": 8,
+      "start": 98.4,
+      "end": 112.4,
+      "text": "If I print it, then I will tell you the list. And you guys see, I will find the list. So far, so good. We have understood the list. Why do you want to make the list?"
+    },
+    {
+      "chunk_number": 9,
+      "start": 112.4,
+      "end": 123.4,
+      "text": "Let me tell you the list in one name. In one name, you want to keep multiple things. You want to keep them in one name. You want to keep them in one name. I will say, these were 3 students."
+    },
+    {
+      "chunk_number": 10,
+      "start": 123.4,
+      "end": 130.4,
+      "text": "They used to come to the tuition class. These were 3 marks. From 10 to 1. They are 1, 3, 1, 5, 1, 6. So what we have done?"
+    },
+    {
+      "chunk_number": 11,
+      "start": 130.4,
+      "end": 146.4,
+      "text": "We have kept a lot of values under one name. In this case, we have kept 3, 5 and 6 values under the marks. If I want to display all the marks, I can display them in some way. Mark 0 means,"
+    },
+    {
+      "chunk_number": 12,
+      "start": 146.4,
+      "end": 160.4,
+      "text": "we saw the first marks. We saw in the string of the dictionary. We saw that the string is our. If we use 0, we get the first character. And we get the second character."
+    },
+    {
+      "chunk_number": 13,
+      "start": 160.4,
+      "end": 174.4,
+      "text": "And so on, we get the index from 0. So the index starts from 0 in Python. So if I write the print mark 0, I will only get 3. If I write the marks 1,"
+    },
+    {
+      "chunk_number": 14,
+      "start": 174.4,
+      "end": 189.4,
+      "text": "I will get 5. And if I write the print mark 2, I will get 6. So mark 0, mark 1, mark 2, 3, 5 and 6. So I hope you all have understood this."
+    },
+    {
+      "chunk_number": 15,
+      "start": 189.4,
+      "end": 200.4,
+      "text": "So if I get the notes, I will write the list of ordered collections of data items. So the order is maintained. The first 3 is 5, then the order is maintained."
+    },
+    {
+      "chunk_number": 16,
+      "start": 200.4,
+      "end": 209.4,
+      "text": "If you print, then the order is maintained. If you do indexing, then the order is maintained. So the store multiple items from single variables, as we saw in the mark name,"
+    },
+    {
+      "chunk_number": 17,
+      "start": 209.4,
+      "end": 221.4,
+      "text": "multiple values stored. List items are separated by commas and enclosed within square brackets. So they are separated by commas and enclosed within square brackets."
+    },
+    {
+      "chunk_number": 18,
+      "start": 221.4,
+      "end": 235.4,
+      "text": "So the square brackets start from the start and the square brackets end. So I hope you all have understood this. List items are separated by commas. So this is list of changeable meaning weekend alter them after creation. So after making marks,"
+    },
+    {
+      "chunk_number": 19,
+      "start": 235.4,
+      "end": 245.4,
+      "text": "then there is another value. So I thought that there was another child edition. He said, I should also have a sample test. He said, I also want to give test."
+    },
+    {
+      "chunk_number": 20,
+      "start": 245.4,
+      "end": 254.4,
+      "text": "I want to see how much water I want. So Master will say, you should have a sample. So I will add marks to the mark name variable. So I can add it in list."
+    },
+    {
+      "chunk_number": 21,
+      "start": 254.4,
+      "end": 263.4,
+      "text": "We will see how the list method is done. But if we talk about the top, then it is not changeable. I will tell you before. The top is not changeable."
+    },
+    {
+      "chunk_number": 22,
+      "start": 263.4,
+      "end": 272.4,
+      "text": "It is a list change. We can add some methods from the method of the method. We can add the method from the side of the list. So this is the thing. Now,"
+    },
+    {
+      "chunk_number": 23,
+      "start": 272.4,
+      "end": 283.4,
+      "text": "you can print the list in this way. I have seen that there is a string data type here. There is a list of one list. There is a second data type."
+    },
+    {
+      "chunk_number": 24,
+      "start": 283.4,
+      "end": 293.4,
+      "text": "There is a string of the number. There is a Boolean. The answer is A. It is not possible. It is not possible."
+    },
+    {
+      "chunk_number": 25,
+      "start": 293.4,
+      "end": 303.4,
+      "text": "It is not possible. But the second is that if you make a variable in which you want to store your marks, you will not want to do it. But it is A."
+    },
+    {
+      "chunk_number": 26,
+      "start": 303.4,
+      "end": 309.4,
+      "text": "You can see here. Here is the 3, 5, 6, and the true. You can see here. Now I can print marks 2 and 7 marks 3."
+    },
+    {
+      "chunk_number": 27,
+      "start": 309.4,
+      "end": 319.4,
+      "text": "I can print marks 4 and 4. I can print marks 5 and 6. I can print 6 and 6. I can print marks 0, 1, 2, 3, 4, 5. Actually, if I print this program here,"
+    },
+    {
+      "chunk_number": 28,
+      "start": 319.4,
+      "end": 330.4,
+      "text": "then I will come here. Because 0, 1, 2, 3, 4. It is not marks 5. It is a list out of index out of range. You will try to access marks 5."
+    },
+    {
+      "chunk_number": 29,
+      "start": 330.4,
+      "end": 338.4,
+      "text": "It is not a marks 5. So this is the way. So this is the way. If you see the string data, you will get the value of the string."
+    },
+    {
+      "chunk_number": 30,
+      "start": 338.4,
+      "end": 348.4,
+      "text": "Because 0, 1, 2, 3, 4. I have printed. You can do it like this. You can find the list in the description. We have seen this."
+    },
+    {
+      "chunk_number": 31,
+      "start": 348.4,
+      "end": 358.4,
+      "text": "Let's talk about the list index. We have already done it. It is not like any other string index. If you print the color 0, then it will be red."
+    },
+    {
+      "chunk_number": 32,
+      "start": 358.4,
+      "end": 368.4,
+      "text": "If you print the color 0, then you will get the error. This is the list. The first item has index 0, second item has index 1, and third item has index 2,"
+    },
+    {
+      "chunk_number": 33,
+      "start": 368.4,
+      "end": 378.4,
+      "text": "and so on. It starts from the ginti 0. People are confused. Here, the first item is not found from 1. Or the last item,"
+    },
+    {
+      "chunk_number": 34,
+      "start": 378.4,
+      "end": 388.4,
+      "text": "if you see the length of the mark, you will get the last item from the 5th item. But the last item is the 4th item. Because the ginti 0 is starting from the hands. If you start from the hands,"
+    },
+    {
+      "chunk_number": 35,
+      "start": 388.4,
+      "end": 398.4,
+      "text": "then your 5th item is also found from the hands. So you will get the first item from the hands. So you will get the 5th item from the hands. You will get the 4th item from the hands. 0, 1, 2, 3, 4."
+    },
+    {
+      "chunk_number": 36,
+      "start": 398.4,
+      "end": 408.4,
+      "text": "You will get the first item from the hands. So the ginti 0 is starting from the hands. So don't get the wrong number of items. If you print the green one from the hands, then you will get the 3th item from the hands."
+    },
+    {
+      "chunk_number": 37,
+      "start": 408.4,
+      "end": 418.4,
+      "text": "This is the 3th item. I believe it is the 4th item. But the ginti 0 is starting from the hands. So it is index 3. I hope it is clear."
+    },
+    {
+      "chunk_number": 38,
+      "start": 418.4,
+      "end": 428.4,
+      "text": "Many people are confused. So don't say it is 4th item. Because the ginti 0 is starting from the hands. If it is 1st item, then you will get the 5th item from the hands. So the index is different."
+    },
+    {
+      "chunk_number": 39,
+      "start": 428.4,
+      "end": 438.4,
+      "text": "The length is different. The length is 5th. But the index is the first item from the hands. So you should know this. Now we can access the items."
+    },
+    {
+      "chunk_number": 40,
+      "start": 438.4,
+      "end": 448.4,
+      "text": "We have given the items from the square bracket. We have given the items from square bracket. We have given the items from square bracket. We have given the items from square bracket. If I want to comment on this item."
+    },
+    {
+      "chunk_number": 41,
+      "start": 448.4,
+      "end": 458.4,
+      "text": "Instead of a proposition, please comment on this comment. I have given the item from square bracket. And here is a fresh weather moment. If I want to comment on thiston you will get the 4th item. What will you get from square bracket?"
+    },
+    {
+      "chunk_number": 42,
+      "start": 458.4,
+      "end": 469.12,
+      "text": "I will tell you this is the closest item. You can also teletium token from the hands. The safest item is, that if you want to comment on Warènjthini which I am adding in passes here."
+    },
+    {
+      "chunk_number": 43,
+      "start": 469.12,
+      "end": 478.96,
+      "text": "And first i will add a fresh thre였 variables in 9th page. So let me express the results of this comment. You have given the items from square bracket. but why is it not Rcht code of striнопome? How to convert it into positive index?"
+    },
+    {
+      "chunk_number": 44,
+      "start": 478.96,
+      "end": 488.96,
+      "text": "What will you do here? Length of marks. How much is length of marks? How much is length of marks? How much is length of marks?"
+    },
+    {
+      "chunk_number": 45,
+      "start": 488.96,
+      "end": 498.96,
+      "text": "5. Yes, 5. So how much is 5 minus 3? How much is 5 minus 3? 2."
+    },
+    {
+      "chunk_number": 46,
+      "start": 498.96,
+      "end": 508.96,
+      "text": "So the positive index is converted. Now, you have to tell the marks to 6. So, you have to explain this as well. You will have to explain this as well. You will have to explain this as well."
+    },
+    {
+      "chunk_number": 47,
+      "start": 508.96,
+      "end": 518.96,
+      "text": "So, 4x6 can be expected. And, I will not be able to see 4x6. So, you will also get negative indexing. First, convert it into positive indexing. Now, you have to convert it into positive indexing."
+    },
+    {
+      "chunk_number": 48,
+      "start": 518.96,
+      "end": 528.96,
+      "text": "If you are not confident about the length of marks. You will have to tell the people like this. How much is length of marks? Okay, 0, 1, 2, or even more. How much is length of marks?"
+    },
+    {
+      "chunk_number": 49,
+      "start": 528.96,
+      "end": 540.96,
+      "text": "3. So, you should remember the rules. Okay, I am not saying that you will not get the right answer. But, I am saying that you will get the right answer. But, in my life, the easiest way is to do this."
+    },
+    {
+      "chunk_number": 50,
+      "start": 540.96,
+      "end": 553.96,
+      "text": "In your personal projects, I never use negative indexing. I am confused, Duraaza. So, if I want to see more things in your projects. Sometimes, some scenarios are made that you have to use negative indexing. Okay, in that case,"
+    },
+    {
+      "chunk_number": 51,
+      "start": 553.96,
+      "end": 563.96,
+      "text": "Yes, I am using it. In that case, I am making sense. I have written the third item into positive indexing. But, you will be able to do all that. When you will be a little advanced in development."
+    },
+    {
+      "chunk_number": 52,
+      "start": 563.96,
+      "end": 574.96,
+      "text": "If you are asking the output of the program in exam. You are asking that, This is the negative indexing. You will get positive indexing. Okay, positive indexing will be good."
+    },
+    {
+      "chunk_number": 53,
+      "start": 574.96,
+      "end": 584.96,
+      "text": "Then, you will get the right answer. Okay, I hope you understand everything. Now, look here. We have seen negative indexing. Okay, I have told you how to do it."
+    },
+    {
+      "chunk_number": 54,
+      "start": 584.96,
+      "end": 595.96,
+      "text": "If I want to know that I am not in an element list. I want to know whether it is in 7th list or not. So, what I will write here? If I will write"
+    },
+    {
+      "chunk_number": 55,
+      "start": 595.96,
+      "end": 604.96,
+      "text": "7 in marks In marks Print Yes. Else print no."
+    },
+    {
+      "chunk_number": 56,
+      "start": 604.96,
+      "end": 614.96,
+      "text": "Okay, I will write here. Else print no. Okay, I will do it. Obviously, no print. So, use this word."
+    },
+    {
+      "chunk_number": 57,
+      "start": 614.96,
+      "end": 626.96,
+      "text": "You can see that 7th list is not in 7th list. Okay, I will show you the same thing in string. Example of this word. How to use it in string. But, if I write here,"
+    },
+    {
+      "chunk_number": 58,
+      "start": 626.96,
+      "end": 636.96,
+      "text": "Then what will happen? You will get a comment before you know. Wait for the comment. And the answer is, yes, I will come. Because, it is in marks."
+    },
+    {
+      "chunk_number": 59,
+      "start": 636.96,
+      "end": 646.96,
+      "text": "Okay, so, you will get this. Okay, I hope that this is clear. I hope that everyone understood everything. If you write 6th, then you will get 6th. Then you will get 6th."
+    },
+    {
+      "chunk_number": 60,
+      "start": 646.96,
+      "end": 656.96,
+      "text": "But, I will show you one thing. If I write 6th, then you will get 6th. So, I will write 6th. So, you will get this. Comment below."
+    },
+    {
+      "chunk_number": 61,
+      "start": 656.96,
+      "end": 666.96,
+      "text": "Write it in 6th. I will write here. I am writing here. And I will not get 6th. Because, 6th is not in the 6th list."
+    },
+    {
+      "chunk_number": 62,
+      "start": 666.96,
+      "end": 678.96,
+      "text": "So, you can do it with this word. Now, one thing that happens is, The jump index concept. But, before that, I want to tell you that I will write, if"
+    },
+    {
+      "chunk_number": 63,
+      "start": 678.96,
+      "end": 690.96,
+      "text": "A R R Y in Harry. So, what happens? In string, you can do something like this. You can see, I wrote here, A R R Y is in Harry."
+    },
+    {
+      "chunk_number": 64,
+      "start": 690.96,
+      "end": 704.96,
+      "text": "And yes, I will get print. If A R Y is in Harry, then I will not get this print. Here, I will only get this one. And if I write here, if H A in Harry, Then I will get this one."
+    },
+    {
+      "chunk_number": 65,
+      "start": 704.96,
+      "end": 716.96,
+      "text": "I will not get this one. So, you can see, I will write here, Same thing can be applied for string. I will write here. Same thing applies for strings as well."
+    },
+    {
+      "chunk_number": 66,
+      "start": 716.96,
+      "end": 726.96,
+      "text": "Same thing applies for string. But, it is great. It is great. Now, you can see here, If you do all the elements of the string,"
+    },
+    {
+      "chunk_number": 67,
+      "start": 726.96,
+      "end": 736.96,
+      "text": "Then how will you do it? If I want to print all the marks, Then I will comment on this. So, you can print all the marks. Or, I can do this."
+    },
+    {
+      "chunk_number": 68,
+      "start": 736.96,
+      "end": 746.96,
+      "text": "Or, if I do this, I have left the starting, I have left the ending. So, I will see, I will get this one."
+    },
+    {
+      "chunk_number": 69,
+      "start": 746.96,
+      "end": 756.96,
+      "text": "Okay, marks. So, I will write here, So, you can see, This index will start from 1, So, I will write here,"
+    },
+    {
+      "chunk_number": 70,
+      "start": 756.96,
+      "end": 768.96,
+      "text": "I will write here, First, I will do the math. Firstly, I will convert it into positive indexing. First, I will not print it. What is the length of marks?"
+    },
+    {
+      "chunk_number": 71,
+      "start": 768.96,
+      "end": 778.96,
+      "text": "5 is 5. So, what is the 5 minus 1? 4. So, I will do 1 to 4 here. I have done 1 to 4."
+    },
+    {
+      "chunk_number": 72,
+      "start": 778.96,
+      "end": 788.96,
+      "text": "If I do 1 to 4, Then it will start from 1 and it will not be included. So, I will get 5, 6 and Harry. You will see, you will see, I will get 5, 6 and Harry."
+    },
+    {
+      "chunk_number": 73,
+      "start": 788.96,
+      "end": 800.96,
+      "text": "So, we can do the slicing in the string. I will do a jump index concept. If I do jump index, I will do 2. I will do 1, 4, 2."
+    },
+    {
+      "chunk_number": 74,
+      "start": 800.96,
+      "end": 812.96,
+      "text": "What will happen? I will start the values of this one. So, first, I will do the slicing. First, I will do the 1, 5, 6 and Harry."
+    },
+    {
+      "chunk_number": 75,
+      "start": 812.96,
+      "end": 824.96,
+      "text": "What will happen? First, I will get the first value. Then, I will do 1 to 1 to 1. After doing 1 to 2, it is finished. So, I will do the 1 and 5."
+    },
+    {
+      "chunk_number": 76,
+      "start": 824.96,
+      "end": 834.96,
+      "text": "I will explain it in detail. Let me tell you better. You can see, I have increased the values a little bit. If I do this,"
+    },
+    {
+      "chunk_number": 77,
+      "start": 834.96,
+      "end": 844.96,
+      "text": "I will get marks first. I will get marks first. I will get marks 1 minus 1, I will get marks 1 and 4. I have changed the length."
+    },
+    {
+      "chunk_number": 78,
+      "start": 844.96,
+      "end": 858.96,
+      "text": "So, the length of this is minus 1. I will do the same. I will do 1 to 8. 0, 1, 2, 3, 4, 5, 6, 7, 8. Yes, it is done."
+    },
+    {
+      "chunk_number": 79,
+      "start": 858.96,
+      "end": 868.96,
+      "text": "Now, I will do the first 1 to 8. I will do the marks 1 to 8. I will do the next one. I will get marks 1 to 8. Okay?"
+    },
+    {
+      "chunk_number": 80,
+      "start": 868.96,
+      "end": 878.96,
+      "text": "I will speed it up. Marks 1 to 8. I have given jump index 2. First, I will print 5. Then, 1 to 2."
+    },
+    {
+      "chunk_number": 81,
+      "start": 878.96,
+      "end": 888.96,
+      "text": "Then, 1 to 6. Then, 2 to 2. If I do 3 in jump index, I will do 3 times. I will show you."
+    },
+    {
+      "chunk_number": 82,
+      "start": 888.96,
+      "end": 898.96,
+      "text": "First, I will get marks 1 and 8. I will get marks 1 and 8. I will get marks 1 and 8. First, you do the slicing. Marks 1 to 8."
+    },
+    {
+      "chunk_number": 83,
+      "start": 898.96,
+      "end": 908.96,
+      "text": "I will do this. Marks 1 to 8. I will do one thing. I will get marks 1 to 8. First, I will get marks 1 and 8."
+    },
+    {
+      "chunk_number": 84,
+      "start": 908.96,
+      "end": 917.96,
+      "text": "Okay? I will get marks 1 to 2. Then, I will get marks 1 to 2. I can get marks 1. I can get marks 1."
+    },
+    {
+      "chunk_number": 85,
+      "start": 917.96,
+      "end": 927.96,
+      "text": "That is why, I will not get marks 1. If I do 9 too, I will show you 9. I will show you 9. What will be the value of 1?"
+    },
+    {
+      "chunk_number": 86,
+      "start": 927.96,
+      "end": 937.96,
+      "text": "Marks 1 to 9. Now, jump index is 3. First, I will get 5. 1, 2, 3. 2, 3."
+    },
+    {
+      "chunk_number": 87,
+      "start": 937.96,
+      "end": 947.96,
+      "text": "I will stop in 2. That is why, I will get marks 1. Jump index is done. I hope you all understood. I have told you."
+    },
+    {
+      "chunk_number": 88,
+      "start": 947.96,
+      "end": 958.96,
+      "text": "Go through it. If you keep this positive index then convert it into negative positive. If you drop the colon, Marks, colon, and so on,"
+    },
+    {
+      "chunk_number": 89,
+      "start": 958.96,
+      "end": 970.96,
+      "text": "then you will get 5th automatically 0. And you will get the length of marks here. The length of marks. If you write only this, Marks 1 colon,"
+    },
+    {
+      "chunk_number": 90,
+      "start": 970.96,
+      "end": 980.96,
+      "text": "so you will get 5th automatically. Marks 1 to 9. If you keep this in mind, Marks 1 colon 7, or if you write this,"
+    },
+    {
+      "chunk_number": 91,
+      "start": 980.96,
+      "end": 990.96,
+      "text": "if you write empty colon 7, then automatically 0 will be applied here. If you want to see this, then you will get 0 in starting. Then you will get the length of the marks."
+    },
+    {
+      "chunk_number": 92,
+      "start": 990.96,
+      "end": 999.96,
+      "text": "I hope that is not confusing. You are understanding. I have given many examples. You all, see, negative indices,"
+    },
+    {
+      "chunk_number": 93,
+      "start": 999.96,
+      "end": 1008.96,
+      "text": "confusing, because questions are asked. What do you want to do? Do you want to convert it into negative positive? And after that,"
+    },
+    {
+      "chunk_number": 94,
+      "start": 1008.96,
+      "end": 1019.96,
+      "text": "you have to do your own career. Now, see, you all, try to give these examples. Now, I will tell you about the list comprehension."
+    },
+    {
+      "chunk_number": 95,
+      "start": 1019.96,
+      "end": 1030.96,
+      "text": "I hope that today's video is not going to take longer. But, I want all the concepts that we will learn directly today. What is the list comprehension? What is the list comprehension?"
+    },
+    {
+      "chunk_number": 96,
+      "start": 1030.96,
+      "end": 1040.96,
+      "text": "You are doing on the fly-clist. What are you doing? We will do it here. We will write here, print and"
+    },
+    {
+      "chunk_number": 97,
+      "start": 1040.96,
+      "end": 1050.96,
+      "text": "I have put a list comprehension here. I am doing on the fly-list. In fact, let's not print. Let's write a name. I want to make a list of LSTs."
+    },
+    {
+      "chunk_number": 98,
+      "start": 1050.96,
+      "end": 1062.96,
+      "text": "I want to make LSTs equal to square brackets. I for i in range 45. I will write 4. 4."
+    },
+    {
+      "chunk_number": 99,
+      "start": 1062.96,
+      "end": 1072.96,
+      "text": "What will be the list comprehension? What will be the list comprehension? 4. 4. 4."
+    },
+    {
+      "chunk_number": 100,
+      "start": 1072.96,
+      "end": 1082.96,
+      "text": "0. 1. 2. 3. I want to make it i."
+    },
+    {
+      "chunk_number": 101,
+      "start": 1082.96,
+      "end": 1092.96,
+      "text": "I will make it i. 0. 1. I can write anything here. I will make a list of LSTs."
+    },
+    {
+      "chunk_number": 102,
+      "start": 1092.96,
+      "end": 1104.96,
+      "text": "Okay? I want to make another list of LSTs too. I can make a list of LSTs and iterate. I have already written a list comprehension. I will say that I want to go to 10th."
+    },
+    {
+      "chunk_number": 103,
+      "start": 1104.96,
+      "end": 1116.96,
+      "text": "I can write a condition here. I will write the condition here. I will write the condition here. I will write the condition here. If i percent"
+    },
+    {
+      "chunk_number": 104,
+      "start": 1116.96,
+      "end": 1135.96,
+      "text": "2 is equal to 0. i.e. 5 is divisible by 2 then only i want i to be in the list. i want to keep this expression in list when it is condition true. ok when it is condition true and if i run it, you will see that only the even numbers will come here."
+    },
+    {
+      "chunk_number": 105,
+      "start": 1135.96,
+      "end": 1155.96,
+      "text": "0, 2, 4, 6, 6, 8, 7, 7, 5, 3, 1 is not here. so i will put the condition in list and go to the list of the conditions. i can change it to some selective values. ok. i hope you have cleared this."
+    },
+    {
+      "chunk_number": 106,
+      "start": 1155.96,
+      "end": 1169.96,
+      "text": "go through this. there are two examples. you should see that you will enjoy this, i will be in this video. i know this video is a bit long but i want to give you a very good introduction. i have kept this video for a while."
+    },
+    {
+      "chunk_number": 107,
+      "start": 1169.96,
+      "end": 1181.96,
+      "text": "i hope you guys are not tired today. but it is a little bit long but it is very big. it is very big and exercise. but you guys are ready to come here for a long time. so don't worry."
+    },
+    {
+      "chunk_number": 108,
+      "start": 1181.96,
+      "end": 1201.96,
+      "text": "ok. for now, i will see you in this video. please do not access the playlist. and i will see you next time. bye."
+    }
+  ],
+  "text": "Python programming is a very important area type. If you want to store 10 things in a particular and particular entity, then you can make a list of it. You can make a list of marks of students of class 8. Or you can make a list of people living in Europe. Or you can make a list of people enrolled in 100 days of code Python. So you can make all these lists and perform some operations on them. You can iterate them. And then you can make them one by one. So you can make a list of marks of class 10. And you can make a list of all people. Class 11, Science Marks of class 10. We can collect one entity from the list to make a list. And it is very easy to refer to them. Let's go to the video screen and see the list. And then we will see the list with what operations can be done. So how can you help the list by the programming? Let's get started. Today's topic is very special because we are going to talk about the list. It is a very good data type. It is a very useful data type in the sense of good use. And you guys don't have to understand the list carefully. If you are not focusing on it, then you should focus on the list. Because this is the most important topic. What is the list? First of all, let me tell you what is the list. I will write L is equal to. I have written it in square bracket in this way. And I have written it in square bracket in this way. So this is a list. This is a valid Python program. Because I am doing it here. I don't have a error here. If I want to print it, I will just tell you the list. And I will write it in 3, 5, 6. If I print it, then I will tell you the list. And you guys see, I will find the list. So far, so good. We have understood the list. Why do you want to make the list? Let me tell you the list in one name. In one name, you want to keep multiple things. You want to keep them in one name. You want to keep them in one name. I will say, these were 3 students. They used to come to the tuition class. These were 3 marks. From 10 to 1. They are 1, 3, 1, 5, 1, 6. So what we have done? We have kept a lot of values under one name. In this case, we have kept 3, 5 and 6 values under the marks. If I want to display all the marks, I can display them in some way. Mark 0 means, we saw the first marks. We saw in the string of the dictionary. We saw that the string is our. If we use 0, we get the first character. And we get the second character. And so on, we get the index from 0. So the index starts from 0 in Python. So if I write the print mark 0, I will only get 3. If I write the marks 1, I will get 5. And if I write the print mark 2, I will get 6. So mark 0, mark 1, mark 2, 3, 5 and 6. So I hope you all have understood this. So if I get the notes, I will write the list of ordered collections of data items. So the order is maintained. The first 3 is 5, then the order is maintained. If you print, then the order is maintained. If you do indexing, then the order is maintained. So the store multiple items from single variables, as we saw in the mark name, multiple values stored. List items are separated by commas and enclosed within square brackets. So they are separated by commas and enclosed within square brackets. So the square brackets start from the start and the square brackets end. So I hope you all have understood this. List items are separated by commas. So this is list of changeable meaning weekend alter them after creation. So after making marks, then there is another value. So I thought that there was another child edition. He said, I should also have a sample test. He said, I also want to give test. I want to see how much water I want. So Master will say, you should have a sample. So I will add marks to the mark name variable. So I can add it in list. We will see how the list method is done. But if we talk about the top, then it is not changeable. I will tell you before. The top is not changeable. It is a list change. We can add some methods from the method of the method. We can add the method from the side of the list. So this is the thing. Now, you can print the list in this way. I have seen that there is a string data type here. There is a list of one list. There is a second data type. There is a string of the number. There is a Boolean. The answer is A. It is not possible. It is not possible. It is not possible. But the second is that if you make a variable in which you want to store your marks, you will not want to do it. But it is A. You can see here. Here is the 3, 5, 6, and the true. You can see here. Now I can print marks 2 and 7 marks 3. I can print marks 4 and 4. I can print marks 5 and 6. I can print 6 and 6. I can print marks 0, 1, 2, 3, 4, 5. Actually, if I print this program here, then I will come here. Because 0, 1, 2, 3, 4. It is not marks 5. It is a list out of index out of range. You will try to access marks 5. It is not a marks 5. So this is the way. So this is the way. If you see the string data, you will get the value of the string. Because 0, 1, 2, 3, 4. I have printed. You can do it like this. You can find the list in the description. We have seen this. Let's talk about the list index. We have already done it. It is not like any other string index. If you print the color 0, then it will be red. If you print the color 0, then you will get the error. This is the list. The first item has index 0, second item has index 1, and third item has index 2, and so on. It starts from the ginti 0. People are confused. Here, the first item is not found from 1. Or the last item, if you see the length of the mark, you will get the last item from the 5th item. But the last item is the 4th item. Because the ginti 0 is starting from the hands. If you start from the hands, then your 5th item is also found from the hands. So you will get the first item from the hands. So you will get the 5th item from the hands. You will get the 4th item from the hands. 0, 1, 2, 3, 4. You will get the first item from the hands. So the ginti 0 is starting from the hands. So don't get the wrong number of items. If you print the green one from the hands, then you will get the 3th item from the hands. This is the 3th item. I believe it is the 4th item. But the ginti 0 is starting from the hands. So it is index 3. I hope it is clear. Many people are confused. So don't say it is 4th item. Because the ginti 0 is starting from the hands. If it is 1st item, then you will get the 5th item from the hands. So the index is different. The length is different. The length is 5th. But the index is the first item from the hands. So you should know this. Now we can access the items. We have given the items from the square bracket. We have given the items from square bracket. We have given the items from square bracket. We have given the items from square bracket. If I want to comment on this item. Instead of a proposition, please comment on this comment. I have given the item from square bracket. And here is a fresh weather moment. If I want to comment on thiston you will get the 4th item. What will you get from square bracket? I will tell you this is the closest item. You can also teletium token from the hands. The safest item is, that if you want to comment on Warènjthini which I am adding in passes here. And first i will add a fresh thre였 variables in 9th page. So let me express the results of this comment. You have given the items from square bracket. but why is it not Rcht code of striнопome? How to convert it into positive index? What will you do here? Length of marks. How much is length of marks? How much is length of marks? How much is length of marks? 5. Yes, 5. So how much is 5 minus 3? How much is 5 minus 3? 2. So the positive index is converted. Now, you have to tell the marks to 6. So, you have to explain this as well. You will have to explain this as well. You will have to explain this as well. So, 4x6 can be expected. And, I will not be able to see 4x6. So, you will also get negative indexing. First, convert it into positive indexing. Now, you have to convert it into positive indexing. If you are not confident about the length of marks. You will have to tell the people like this. How much is length of marks? Okay, 0, 1, 2, or even more. How much is length of marks? 3. So, you should remember the rules. Okay, I am not saying that you will not get the right answer. But, I am saying that you will get the right answer. But, in my life, the easiest way is to do this. In your personal projects, I never use negative indexing. I am confused, Duraaza. So, if I want to see more things in your projects. Sometimes, some scenarios are made that you have to use negative indexing. Okay, in that case, Yes, I am using it. In that case, I am making sense. I have written the third item into positive indexing. But, you will be able to do all that. When you will be a little advanced in development. If you are asking the output of the program in exam. You are asking that, This is the negative indexing. You will get positive indexing. Okay, positive indexing will be good. Then, you will get the right answer. Okay, I hope you understand everything. Now, look here. We have seen negative indexing. Okay, I have told you how to do it. If I want to know that I am not in an element list. I want to know whether it is in 7th list or not. So, what I will write here? If I will write 7 in marks In marks Print Yes. Else print no. Okay, I will write here. Else print no. Okay, I will do it. Obviously, no print. So, use this word. You can see that 7th list is not in 7th list. Okay, I will show you the same thing in string. Example of this word. How to use it in string. But, if I write here, Then what will happen? You will get a comment before you know. Wait for the comment. And the answer is, yes, I will come. Because, it is in marks. Okay, so, you will get this. Okay, I hope that this is clear. I hope that everyone understood everything. If you write 6th, then you will get 6th. Then you will get 6th. But, I will show you one thing. If I write 6th, then you will get 6th. So, I will write 6th. So, you will get this. Comment below. Write it in 6th. I will write here. I am writing here. And I will not get 6th. Because, 6th is not in the 6th list. So, you can do it with this word. Now, one thing that happens is, The jump index concept. But, before that, I want to tell you that I will write, if A R R Y in Harry. So, what happens? In string, you can do something like this. You can see, I wrote here, A R R Y is in Harry. And yes, I will get print. If A R Y is in Harry, then I will not get this print. Here, I will only get this one. And if I write here, if H A in Harry, Then I will get this one. I will not get this one. So, you can see, I will write here, Same thing can be applied for string. I will write here. Same thing applies for strings as well. Same thing applies for string. But, it is great. It is great. Now, you can see here, If you do all the elements of the string, Then how will you do it? If I want to print all the marks, Then I will comment on this. So, you can print all the marks. Or, I can do this. Or, if I do this, I have left the starting, I have left the ending. So, I will see, I will get this one. Okay, marks. So, I will write here, So, you can see, This index will start from 1, So, I will write here, I will write here, First, I will do the math. Firstly, I will convert it into positive indexing. First, I will not print it. What is the length of marks? 5 is 5. So, what is the 5 minus 1? 4. So, I will do 1 to 4 here. I have done 1 to 4. If I do 1 to 4, Then it will start from 1 and it will not be included. So, I will get 5, 6 and Harry. You will see, you will see, I will get 5, 6 and Harry. So, we can do the slicing in the string. I will do a jump index concept. If I do jump index, I will do 2. I will do 1, 4, 2. What will happen? I will start the values of this one. So, first, I will do the slicing. First, I will do the 1, 5, 6 and Harry. What will happen? First, I will get the first value. Then, I will do 1 to 1 to 1. After doing 1 to 2, it is finished. So, I will do the 1 and 5. I will explain it in detail. Let me tell you better. You can see, I have increased the values a little bit. If I do this, I will get marks first. I will get marks first. I will get marks 1 minus 1, I will get marks 1 and 4. I have changed the length. So, the length of this is minus 1. I will do the same. I will do 1 to 8. 0, 1, 2, 3, 4, 5, 6, 7, 8. Yes, it is done. Now, I will do the first 1 to 8. I will do the marks 1 to 8. I will do the next one. I will get marks 1 to 8. Okay? I will speed it up. Marks 1 to 8. I have given jump index 2. First, I will print 5. Then, 1 to 2. Then, 1 to 6. Then, 2 to 2. If I do 3 in jump index, I will do 3 times. I will show you. First, I will get marks 1 and 8. I will get marks 1 and 8. I will get marks 1 and 8. First, you do the slicing. Marks 1 to 8. I will do this. Marks 1 to 8. I will do one thing. I will get marks 1 to 8. First, I will get marks 1 and 8. Okay? I will get marks 1 to 2. Then, I will get marks 1 to 2. I can get marks 1. I can get marks 1. That is why, I will not get marks 1. If I do 9 too, I will show you 9. I will show you 9. What will be the value of 1? Marks 1 to 9. Now, jump index is 3. First, I will get 5. 1, 2, 3. 2, 3. I will stop in 2. That is why, I will get marks 1. Jump index is done. I hope you all understood. I have told you. Go through it. If you keep this positive index then convert it into negative positive. If you drop the colon, Marks, colon, and so on, then you will get 5th automatically 0. And you will get the length of marks here. The length of marks. If you write only this, Marks 1 colon, so you will get 5th automatically. Marks 1 to 9. If you keep this in mind, Marks 1 colon 7, or if you write this, if you write empty colon 7, then automatically 0 will be applied here. If you want to see this, then you will get 0 in starting. Then you will get the length of the marks. I hope that is not confusing. You are understanding. I have given many examples. You all, see, negative indices, confusing, because questions are asked. What do you want to do? Do you want to convert it into negative positive? And after that, you have to do your own career. Now, see, you all, try to give these examples. Now, I will tell you about the list comprehension. I hope that today's video is not going to take longer. But, I want all the concepts that we will learn directly today. What is the list comprehension? What is the list comprehension? You are doing on the fly-clist. What are you doing? We will do it here. We will write here, print and I have put a list comprehension here. I am doing on the fly-list. In fact, let's not print. Let's write a name. I want to make a list of LSTs. I want to make LSTs equal to square brackets. I for i in range 45. I will write 4. 4. What will be the list comprehension? What will be the list comprehension? 4. 4. 4. 0. 1. 2. 3. I want to make it i. I will make it i. 0. 1. I can write anything here. I will make a list of LSTs. Okay? I want to make another list of LSTs too. I can make a list of LSTs and iterate. I have already written a list comprehension. I will say that I want to go to 10th. I can write a condition here. I will write the condition here. I will write the condition here. I will write the condition here. If i percent 2 is equal to 0. i.e. 5 is divisible by 2 then only i want i to be in the list. i want to keep this expression in list when it is condition true. ok when it is condition true and if i run it, you will see that only the even numbers will come here. 0, 2, 4, 6, 6, 8, 7, 7, 5, 3, 1 is not here. so i will put the condition in list and go to the list of the conditions. i can change it to some selective values. ok. i hope you have cleared this. go through this. there are two examples. you should see that you will enjoy this, i will be in this video. i know this video is a bit long but i want to give you a very good introduction. i have kept this video for a while. i hope you guys are not tired today. but it is a little bit long but it is very big. it is very big and exercise. but you guys are ready to come here for a long time. so don't worry. ok. for now, i will see you in this video. please do not access the playlist. and i will see you next time. bye."
+}

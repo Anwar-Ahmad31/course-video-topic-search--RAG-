@@ -1,0 +1,487 @@
+{
+  "video_number": 6,
+  "title": "Variables and Data Types ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 25.88,
+      "text": "Hey, what's up friends? You've come to Day 6, I wanted to share 100 days of code Today I'll tell you how to use variables like a container Like you guys have containers in the kitchen, which have a lot of things in it Variables are also available in the programming language, this analogy is fit and fit If you have a container here, and you have a container inside, put it inside"
+    },
+    {
+      "chunk_number": 2,
+      "start": 25.88,
+      "end": 47.879999999999995,
+      "text": "I've changed the container's container On the other hand, if I take another container and put it inside, I'll put it in the water I can change the container's container By the way, it's absolutely the same that you make containers and store it in it This data is stored in the memory"
+    },
+    {
+      "chunk_number": 3,
+      "start": 47.879999999999995,
+      "end": 67.08,
+      "text": "You can call it RAM, it's stored in it What's the type of data? It can be a container, it can be a liquid, solid, or a sheet It can be a thing that can't be eaten, like it has a lot of things to eat It's not a food that's used to eat, it's a snack"
+    },
+    {
+      "chunk_number": 4,
+      "start": 67.08,
+      "end": 94.48,
+      "text": "This way, even in Python, it's a snack, data types, data types Let's go to the computer screen and see what exactly are the data types and how to do it Let's get started So, exactly what's the variable in this? It's a variable container, which I already told you"
+    },
+    {
+      "chunk_number": 5,
+      "start": 94.48,
+      "end": 124.88,
+      "text": "But it's a container like this, it's a container in the memory If you're confused, then come here and see what I'm doing in the main.py And you'll know exactly how to make Python variable and why Python variable is necessary If I wrote a is equal to 1, I need to print it So, basically, I'm saying in memory, write one in the computer's RAM"
+    },
+    {
+      "chunk_number": 6,
+      "start": 124.88,
+      "end": 147.68,
+      "text": "Write one in the actual memory, and where is the store? Let me give you an address, now it's a little complex You'll hear it, but I'll use it whenever I want to refer to the value of this I'll print it If you go to A is equal to 1, I don't directly print 1"
+    },
+    {
+      "chunk_number": 7,
+      "start": 147.68,
+      "end": 163.68,
+      "text": "Why do I do this program? How about this? If I do this, you'll make a program to save a number You'll get a save and it's printing So, A is equal to this, A is equal to this, A is equal to this, and print is equal to this"
+    },
+    {
+      "chunk_number": 8,
+      "start": 163.68,
+      "end": 178.68,
+      "text": "Can I do something like this? B is equal to Harry The answer is yes, I can do it But if I do run, I'll just get this number and print And if I do print Then you'll see that I'll get this Harry print"
+    },
+    {
+      "chunk_number": 9,
+      "start": 178.68,
+      "end": 197.68,
+      "text": "Which is great, because this is a different type Now you'll see that when you wrote this in Harry 1, 2, 3, 4, 4, 4, but you didn't write double quotes But when you write Harry, then why didn't you write it like this? Because it won't be written like this, why won't it be written? Now why won't it be written? You can write Harry directly"
+    },
+    {
+      "chunk_number": 10,
+      "start": 197.68,
+      "end": 215.68,
+      "text": "But we have to write double quotes Sometimes we represent a string-rated type So that if you keep doing this, it can be said that Harry is equal to 9 Now if someone says B is equal to Harry Now how will you know that you want to print Harry string or you want to print 9"
+    },
+    {
+      "chunk_number": 11,
+      "start": 215.68,
+      "end": 231.68,
+      "text": "And I'll run this program, then I'll get 9 print and you'll see that it'll be 9 print So it seems that you want to print this Harry literally But print 9, that's why there are some rules in Python I'll give it a bit of a bit B is equal to double quotes, I'll write Harry directly in double quotes"
+    },
+    {
+      "chunk_number": 12,
+      "start": 231.68,
+      "end": 243.68,
+      "text": "Whatever you'll print, you can see here Now I've written here for you people, I'll tell you So what's the variable? Variable is like a container that holds data A container that holds data"
+    },
+    {
+      "chunk_number": 13,
+      "start": 243.68,
+      "end": 258.68,
+      "text": "Very similar to how or containers in kitchen holds sugar Like in your kitchen, salt, sugar, salt, all these things To hold it, it gets used to double quotes The reading variable is just like the reading of the placeholder In memory, signing it somewhere you"
+    },
+    {
+      "chunk_number": 14,
+      "start": 258.68,
+      "end": 273.68,
+      "text": "And here I've also shown you these four variables I've shown you clearly Now these four different types of variables They have different types, like the people who believe that you are a Jew It's a doggy, it's a Jew"
+    },
+    {
+      "chunk_number": 15,
+      "start": 273.68,
+      "end": 292.68,
+      "text": "It's a Jew, but we are different types of Jews Similarly, A is equal to 1, one variable, B is equal to 2, one variable, And C is equal to Harry, one variable, D is equal to one variable Ok, you'll see this video for the next one Now if A is equal to 1, then 1 is stored in one container"
+    },
+    {
+      "chunk_number": 16,
+      "start": 292.68,
+      "end": 307.68,
+      "text": "B is equal to true, B is a Boolean store C is equal to Harry, the string, and D is equal to none type The name of the name is D is equal to none type Variable is like a tree that has become a tree Ok, so four different types of data types"
+    },
+    {
+      "chunk_number": 17,
+      "start": 307.68,
+      "end": 315.68,
+      "text": "What is the data type? And why do we need data types? Now you see why do we need data types? So I've told you here That we need data types"
+    },
+    {
+      "chunk_number": 18,
+      "start": 315.68,
+      "end": 333.68,
+      "text": "So that we can store different types of values in memory Ok, this is what we know Data types specify type of values that can be used This is required in programming to perform operations Like I'll write here if I choose print A plus B"
+    },
+    {
+      "chunk_number": 19,
+      "start": 333.68,
+      "end": 347.68,
+      "text": "Ok, so will Harry be connected here? You'll see here it will be said You'll see that one is your DJ, the other is your string How do you connect? I mean what do you want? If I add a small number to this, how do you connect in 133?"
+    },
+    {
+      "chunk_number": 20,
+      "start": 347.68,
+      "end": 364.68,
+      "text": "I mean what do you want? You want your plan? What is the name of the name? Ok, and we want to concatenate the name of the name So what do you want to concatenate? I mean how do you know that you want to concatenate the name of the name?"
+    },
+    {
+      "chunk_number": 21,
+      "start": 364.68,
+      "end": 381.68,
+      "text": "Ok, so what do we do here? If we do A plus B, we should do two same types of data types So I'll do this I'll make one name of A, and I'll write 9 If I do A plus A, then this operation will be performed right away"
+    },
+    {
+      "chunk_number": 22,
+      "start": 381.68,
+      "end": 395.68,
+      "text": "And you'll see here, it will be written in 133 Ok, so this is very simple You'll see that we need a data type So that we can do various operations without causing And without causing and error"
+    },
+    {
+      "chunk_number": 23,
+      "start": 395.68,
+      "end": 410.68,
+      "text": "In Python we can print the type of operator using type function And we have a variable And I want to know what type is it So I can say this way I can write the type of A as"
+    },
+    {
+      "chunk_number": 24,
+      "start": 410.68,
+      "end": 423.68,
+      "text": "Type of A Ok, so I have created this bracket And I have created this bracket And this is the opening parenthesis If I do this, then you'll see"
+    },
+    {
+      "chunk_number": 25,
+      "start": 423.68,
+      "end": 436.68,
+      "text": "The type of A is a class A So A is an integer Let's see if we can do this with B Or not And you'll see here"
+    },
+    {
+      "chunk_number": 26,
+      "start": 436.68,
+      "end": 448.68,
+      "text": "Type of B is class STR And I'll do the same thing here Type of C is And you'll see here C type What is C?"
+    },
+    {
+      "chunk_number": 27,
+      "start": 448.68,
+      "end": 455.68,
+      "text": "What is the type? I'll do A Or I'll do a work Or I'll make C Because I'll make C Because I'll make 4 variables"
+    },
+    {
+      "chunk_number": 28,
+      "start": 455.68,
+      "end": 466.68,
+      "text": "Ok, so all the variables are same And I have 4 variables Now if I do this, then I'll write C type of C And I have C And this one is not defined"
+    },
+    {
+      "chunk_number": 29,
+      "start": 466.68,
+      "end": 478.68,
+      "text": "And I've written print A plus A1 I'll also define this one Because this program is also for you You guys also need to understand So you guys have to do 1, 2, 10"
+    },
+    {
+      "chunk_number": 30,
+      "start": 478.68,
+      "end": 486.68,
+      "text": "Type of A is same Type of B is bold Type of C is string And I've printed these 3 types So let's see here"
+    },
+    {
+      "chunk_number": 31,
+      "start": 486.68,
+      "end": 497.68,
+      "text": "The story of this is very interesting Now let's talk about Python's built-in data types First built-in data type is We have a number Which I've told you"
+    },
+    {
+      "chunk_number": 32,
+      "start": 497.68,
+      "end": 510.68,
+      "text": "Ok, int float complex If I wanted to show you this type of A I was showing this type of A If I wanted to show this type of A I'll show you this type of A"
+    },
+    {
+      "chunk_number": 33,
+      "start": 510.68,
+      "end": 520.6800000000001,
+      "text": "If I want to write this type of A I'll write this 8 plus 2i So this is a complex number Actually I have to make this complex number"
+    },
+    {
+      "chunk_number": 34,
+      "start": 520.6800000000001,
+      "end": 532.6800000000001,
+      "text": "To make this type of A I'll do 8, 2 And if I do this, then this is a complex number And you guys can see here That 8 plus 2j number of J name is formed"
+    },
+    {
+      "chunk_number": 35,
+      "start": 532.6800000000001,
+      "end": 545.68,
+      "text": "If you don't know about complex numbers That's totally fine I don't expect you to know complex numbers You can also make complex numbers in Python This is basically a real part of the imaginary part"
+    },
+    {
+      "chunk_number": 36,
+      "start": 545.68,
+      "end": 561.68,
+      "text": "If you read this class 12, then complex numbers are good for you If you don't read this class 11, 12 is in complex number 11 But unlike the boards, unlike the labors So it's in a class 12 and 11 Anyways, class is showing here"
+    },
+    {
+      "chunk_number": 37,
+      "start": 561.68,
+      "end": 570.68,
+      "text": "I want to show you this type of complex number So now let's see I can write this type of A It's floating point number It's a complex type"
+    },
+    {
+      "chunk_number": 38,
+      "start": 570.68,
+      "end": 579.68,
+      "text": "If you talk about string So hello world double code is closed Hello world double code is closed Python programming is all string Okay"
+    },
+    {
+      "chunk_number": 39,
+      "start": 579.68,
+      "end": 590.68,
+      "text": "Then after that you talk about Boolean data So you can also choose the true or false Now why we want to use this You guys write a function And you want to return it"
+    },
+    {
+      "chunk_number": 40,
+      "start": 590.68,
+      "end": 602.68,
+      "text": "That you can drive it or not If you don't know what function I'll tell you You can say that you can't drive it or not So you can only give me a small information Yes or no"
+    },
+    {
+      "chunk_number": 41,
+      "start": 602.68,
+      "end": 613.68,
+      "text": "This Boolean is the same way that you do this You don't have to say directly Yes, I can drive it You don't have to give all the information Yes or no"
+    },
+    {
+      "chunk_number": 42,
+      "start": 613.68,
+      "end": 624.68,
+      "text": "Yes, that means true or false Like string has a lot of information It's a small A, R, R, Y And all the characters But you can also say that you can't drive it"
+    },
+    {
+      "chunk_number": 43,
+      "start": 624.68,
+      "end": 633.68,
+      "text": "You can say yes or no And you should be good So this is just Boolean data type Okay What we use"
+    },
+    {
+      "chunk_number": 44,
+      "start": 633.68,
+      "end": 643.68,
+      "text": "When we will use it We will see it in time Then there is a sequence data Okay, I'll talk about list and tuple And we don't have complex or list or tuple"
+    },
+    {
+      "chunk_number": 45,
+      "start": 643.68,
+      "end": 650.68,
+      "text": "I just want to tell you That list or tuple is also existing What is list? A common collection Data types"
+    },
+    {
+      "chunk_number": 46,
+      "start": 650.68,
+      "end": 658.68,
+      "text": "And we will go to the next one So I won't tell you about it Okay If you want to know about list Do it all"
+    },
+    {
+      "chunk_number": 47,
+      "start": 658.68,
+      "end": 669.68,
+      "text": "I'll tell you about list Okay, what is list? So list is basically collection of different data elements Which can be different data types This is the integer, this is the float"
+    },
+    {
+      "chunk_number": 48,
+      "start": 669.68,
+      "end": 680.68,
+      "text": "This is the list in the list, put one list in the list So list is basically list of items Which can be different data types I'll tell you about list and not tell you about list Okay, and we can change this list"
+    },
+    {
+      "chunk_number": 49,
+      "start": 680.68,
+      "end": 687.68,
+      "text": "What is tuple? Exactly the same thing I'm telling you in simple language Exactly the same thing Except that it is immutable"
+    },
+    {
+      "chunk_number": 50,
+      "start": 687.68,
+      "end": 699.68,
+      "text": "It means that it can't change Now this immutable immutable people confuse a lot Like many people say to me I'm telling you from my experience Many people say that"
+    },
+    {
+      "chunk_number": 51,
+      "start": 699.68,
+      "end": 710.68,
+      "text": "Brother, we can't remember That we can change the immutable or immutable I'll tell you in the problem How do you remember? It's immutable"
+    },
+    {
+      "chunk_number": 52,
+      "start": 710.68,
+      "end": 719.68,
+      "text": "You'll learn mutation What does mutation mean? It means changes Like in theory It says that if a human had a tail"
+    },
+    {
+      "chunk_number": 53,
+      "start": 719.68,
+      "end": 729.68,
+      "text": "And then it's mutation And the tail of the human has a tail So it says Now I'm not reading the biology I'm telling you the stuff"
+    },
+    {
+      "chunk_number": 54,
+      "start": 729.68,
+      "end": 737.68,
+      "text": "But what does mutation mean? Change Okay, I'm saying this If you read the genetic algorithm If you read the biology"
+    },
+    {
+      "chunk_number": 55,
+      "start": 737.68,
+      "end": 745.68,
+      "text": "In class 10th In class 9th Come on, you'll learn it It means that it changes It was closed before"
+    },
+    {
+      "chunk_number": 56,
+      "start": 745.68,
+      "end": 752.68,
+      "text": "Then it was closed Now it's mutation So mutable means It can change Immutable means"
+    },
+    {
+      "chunk_number": 57,
+      "start": 752.68,
+      "end": 758.68,
+      "text": "It can't change So remember You can remember this You can remember this I remember"
+    },
+    {
+      "chunk_number": 58,
+      "start": 758.68,
+      "end": 763.68,
+      "text": "You'll tell me That you'll tell me Come on bro You'll tell me That you'll remember"
+    },
+    {
+      "chunk_number": 59,
+      "start": 763.68,
+      "end": 770.68,
+      "text": "That you'll remember That you'll remember Now look I made a list The list of collection of items"
+    },
+    {
+      "chunk_number": 60,
+      "start": 770.68,
+      "end": 776.68,
+      "text": "It's also a double Collection of items Except the fact You can't change this If you change this"
+    },
+    {
+      "chunk_number": 61,
+      "start": 776.68,
+      "end": 785.68,
+      "text": "It's a double Then it'll give you an error Now how will we change We'll keep all these things for the video Now I won't tell you"
+    },
+    {
+      "chunk_number": 62,
+      "start": 785.68,
+      "end": 791.68,
+      "text": "Then there's a more data type Map data Dishnary What is this? Dishnary"
+    },
+    {
+      "chunk_number": 63,
+      "start": 791.68,
+      "end": 796.68,
+      "text": "You'll be in your house No I don't know What's your dictionary? Dishnary"
+    },
+    {
+      "chunk_number": 64,
+      "start": 796.68,
+      "end": 805.68,
+      "text": "Collection of key value pairs Now you want to see the abundance The abundance is a key It'll be a value You want to see food"
+    },
+    {
+      "chunk_number": 65,
+      "start": 805.68,
+      "end": 811.68,
+      "text": "Food is a key It'll be a value Food Everyone knows Now after that"
+    },
+    {
+      "chunk_number": 66,
+      "start": 811.68,
+      "end": 817.68,
+      "text": "One more thing You want to see I don't want to see a single comment You want to see mutable Mutable"
+    },
+    {
+      "chunk_number": 67,
+      "start": 817.68,
+      "end": 829.68,
+      "text": "It'll be a value Mutable means you won't get mutable So key value pairs I can store something on the top of the key value pairs I can store this on the top of the key value pairs"
+    },
+    {
+      "chunk_number": 68,
+      "start": 829.68,
+      "end": 838.68,
+      "text": "How many marks are there? How many marks are there? The name of the child is there Okay This information can be stored"
+    },
+    {
+      "chunk_number": 69,
+      "start": 838.68,
+      "end": 846.68,
+      "text": "You can just tell Now you guys go there And here you can see I have dictated the name of the name of the child H20"
+    },
+    {
+      "chunk_number": 70,
+      "start": 846.68,
+      "end": 854.68,
+      "text": "I'll show you the name of the child Namesakshi H20 CAN VOTOROIT I'll tell you more about this"
+    },
+    {
+      "chunk_number": 71,
+      "start": 854.68,
+      "end": 864.68,
+      "text": "You'll see this The name of the child is MAP data I've mapped it to one of these things The name of the child is MAP How many marks are there?"
+    },
+    {
+      "chunk_number": 72,
+      "start": 864.68,
+      "end": 887.68,
+      "text": "How many marks are there? How many marks are there? How much is the behavior of the child? You can also add all the ingredients and the dish will be just a total list of dishes. I hope you have understood."
+    },
+    {
+      "chunk_number": 73,
+      "start": 887.68,
+      "end": 899.68,
+      "text": "I will tell you one thing. Maybe you will have to cover your mind with a lid. You will have to cover your mind with a lid. Maybe you will not be able to cover your mind with a lid. But you will have to think about it."
+    },
+    {
+      "chunk_number": 74,
+      "start": 899.68,
+      "end": 913.68,
+      "text": "Everything is a subject in Python. All the dishes are a subject. If you are not a dish, you are the only one. If you are not a bullion, you are the only one. Endager is an object."
+    },
+    {
+      "chunk_number": 75,
+      "start": 913.68,
+      "end": 931.68,
+      "text": "So, when we printed it, we saw that we have printed it. Type of A is class complex. So, class is written. Class is an object. What is the class object?"
+    },
+    {
+      "chunk_number": 76,
+      "start": 931.68,
+      "end": 948.68,
+      "text": "I will tell you all in the coming videos. I will tell you all in the coming videos. I will remember all the objects in Python. You will remember all the objects in Python. If you remember, I will remember all the objects."
+    },
+    {
+      "chunk_number": 77,
+      "start": 948.68,
+      "end": 960.68,
+      "text": "But forget about this. I have not said anything about this. But when we will do an object in the class, You should remember. I told you that I will explain everything in Python."
+    },
+    {
+      "chunk_number": 78,
+      "start": 960.68,
+      "end": 971.68,
+      "text": "Now, you can grasp the concept of a created time. It is different that you are a new type. You are a big person. That's it. I hope you enjoyed this video."
+    },
+    {
+      "chunk_number": 79,
+      "start": 971.68,
+      "end": 982.68,
+      "text": "If you haven't done playlists, then do it. So, access the playlist. Click here and I have made a book. Click here and save it. Thank you so much for watching this video."
+    },
+    {
+      "chunk_number": 80,
+      "start": 982.68,
+      "end": 985.68,
+      "text": "And I will see you next time."
+    }
+  ],
+  "text": "Hey, what's up friends? You've come to Day 6, I wanted to share 100 days of code Today I'll tell you how to use variables like a container Like you guys have containers in the kitchen, which have a lot of things in it Variables are also available in the programming language, this analogy is fit and fit If you have a container here, and you have a container inside, put it inside I've changed the container's container On the other hand, if I take another container and put it inside, I'll put it in the water I can change the container's container By the way, it's absolutely the same that you make containers and store it in it This data is stored in the memory You can call it RAM, it's stored in it What's the type of data? It can be a container, it can be a liquid, solid, or a sheet It can be a thing that can't be eaten, like it has a lot of things to eat It's not a food that's used to eat, it's a snack This way, even in Python, it's a snack, data types, data types Let's go to the computer screen and see what exactly are the data types and how to do it Let's get started So, exactly what's the variable in this? It's a variable container, which I already told you But it's a container like this, it's a container in the memory If you're confused, then come here and see what I'm doing in the main.py And you'll know exactly how to make Python variable and why Python variable is necessary If I wrote a is equal to 1, I need to print it So, basically, I'm saying in memory, write one in the computer's RAM Write one in the actual memory, and where is the store? Let me give you an address, now it's a little complex You'll hear it, but I'll use it whenever I want to refer to the value of this I'll print it If you go to A is equal to 1, I don't directly print 1 Why do I do this program? How about this? If I do this, you'll make a program to save a number You'll get a save and it's printing So, A is equal to this, A is equal to this, A is equal to this, and print is equal to this Can I do something like this? B is equal to Harry The answer is yes, I can do it But if I do run, I'll just get this number and print And if I do print Then you'll see that I'll get this Harry print Which is great, because this is a different type Now you'll see that when you wrote this in Harry 1, 2, 3, 4, 4, 4, but you didn't write double quotes But when you write Harry, then why didn't you write it like this? Because it won't be written like this, why won't it be written? Now why won't it be written? You can write Harry directly But we have to write double quotes Sometimes we represent a string-rated type So that if you keep doing this, it can be said that Harry is equal to 9 Now if someone says B is equal to Harry Now how will you know that you want to print Harry string or you want to print 9 And I'll run this program, then I'll get 9 print and you'll see that it'll be 9 print So it seems that you want to print this Harry literally But print 9, that's why there are some rules in Python I'll give it a bit of a bit B is equal to double quotes, I'll write Harry directly in double quotes Whatever you'll print, you can see here Now I've written here for you people, I'll tell you So what's the variable? Variable is like a container that holds data A container that holds data Very similar to how or containers in kitchen holds sugar Like in your kitchen, salt, sugar, salt, all these things To hold it, it gets used to double quotes The reading variable is just like the reading of the placeholder In memory, signing it somewhere you And here I've also shown you these four variables I've shown you clearly Now these four different types of variables They have different types, like the people who believe that you are a Jew It's a doggy, it's a Jew It's a Jew, but we are different types of Jews Similarly, A is equal to 1, one variable, B is equal to 2, one variable, And C is equal to Harry, one variable, D is equal to one variable Ok, you'll see this video for the next one Now if A is equal to 1, then 1 is stored in one container B is equal to true, B is a Boolean store C is equal to Harry, the string, and D is equal to none type The name of the name is D is equal to none type Variable is like a tree that has become a tree Ok, so four different types of data types What is the data type? And why do we need data types? Now you see why do we need data types? So I've told you here That we need data types So that we can store different types of values in memory Ok, this is what we know Data types specify type of values that can be used This is required in programming to perform operations Like I'll write here if I choose print A plus B Ok, so will Harry be connected here? You'll see here it will be said You'll see that one is your DJ, the other is your string How do you connect? I mean what do you want? If I add a small number to this, how do you connect in 133? I mean what do you want? You want your plan? What is the name of the name? Ok, and we want to concatenate the name of the name So what do you want to concatenate? I mean how do you know that you want to concatenate the name of the name? Ok, so what do we do here? If we do A plus B, we should do two same types of data types So I'll do this I'll make one name of A, and I'll write 9 If I do A plus A, then this operation will be performed right away And you'll see here, it will be written in 133 Ok, so this is very simple You'll see that we need a data type So that we can do various operations without causing And without causing and error In Python we can print the type of operator using type function And we have a variable And I want to know what type is it So I can say this way I can write the type of A as Type of A Ok, so I have created this bracket And I have created this bracket And this is the opening parenthesis If I do this, then you'll see The type of A is a class A So A is an integer Let's see if we can do this with B Or not And you'll see here Type of B is class STR And I'll do the same thing here Type of C is And you'll see here C type What is C? What is the type? I'll do A Or I'll do a work Or I'll make C Because I'll make C Because I'll make 4 variables Ok, so all the variables are same And I have 4 variables Now if I do this, then I'll write C type of C And I have C And this one is not defined And I've written print A plus A1 I'll also define this one Because this program is also for you You guys also need to understand So you guys have to do 1, 2, 10 Type of A is same Type of B is bold Type of C is string And I've printed these 3 types So let's see here The story of this is very interesting Now let's talk about Python's built-in data types First built-in data type is We have a number Which I've told you Ok, int float complex If I wanted to show you this type of A I was showing this type of A If I wanted to show this type of A I'll show you this type of A If I want to write this type of A I'll write this 8 plus 2i So this is a complex number Actually I have to make this complex number To make this type of A I'll do 8, 2 And if I do this, then this is a complex number And you guys can see here That 8 plus 2j number of J name is formed If you don't know about complex numbers That's totally fine I don't expect you to know complex numbers You can also make complex numbers in Python This is basically a real part of the imaginary part If you read this class 12, then complex numbers are good for you If you don't read this class 11, 12 is in complex number 11 But unlike the boards, unlike the labors So it's in a class 12 and 11 Anyways, class is showing here I want to show you this type of complex number So now let's see I can write this type of A It's floating point number It's a complex type If you talk about string So hello world double code is closed Hello world double code is closed Python programming is all string Okay Then after that you talk about Boolean data So you can also choose the true or false Now why we want to use this You guys write a function And you want to return it That you can drive it or not If you don't know what function I'll tell you You can say that you can't drive it or not So you can only give me a small information Yes or no This Boolean is the same way that you do this You don't have to say directly Yes, I can drive it You don't have to give all the information Yes or no Yes, that means true or false Like string has a lot of information It's a small A, R, R, Y And all the characters But you can also say that you can't drive it You can say yes or no And you should be good So this is just Boolean data type Okay What we use When we will use it We will see it in time Then there is a sequence data Okay, I'll talk about list and tuple And we don't have complex or list or tuple I just want to tell you That list or tuple is also existing What is list? A common collection Data types And we will go to the next one So I won't tell you about it Okay If you want to know about list Do it all I'll tell you about list Okay, what is list? So list is basically collection of different data elements Which can be different data types This is the integer, this is the float This is the list in the list, put one list in the list So list is basically list of items Which can be different data types I'll tell you about list and not tell you about list Okay, and we can change this list What is tuple? Exactly the same thing I'm telling you in simple language Exactly the same thing Except that it is immutable It means that it can't change Now this immutable immutable people confuse a lot Like many people say to me I'm telling you from my experience Many people say that Brother, we can't remember That we can change the immutable or immutable I'll tell you in the problem How do you remember? It's immutable You'll learn mutation What does mutation mean? It means changes Like in theory It says that if a human had a tail And then it's mutation And the tail of the human has a tail So it says Now I'm not reading the biology I'm telling you the stuff But what does mutation mean? Change Okay, I'm saying this If you read the genetic algorithm If you read the biology In class 10th In class 9th Come on, you'll learn it It means that it changes It was closed before Then it was closed Now it's mutation So mutable means It can change Immutable means It can't change So remember You can remember this You can remember this I remember You'll tell me That you'll tell me Come on bro You'll tell me That you'll remember That you'll remember That you'll remember Now look I made a list The list of collection of items It's also a double Collection of items Except the fact You can't change this If you change this It's a double Then it'll give you an error Now how will we change We'll keep all these things for the video Now I won't tell you Then there's a more data type Map data Dishnary What is this? Dishnary You'll be in your house No I don't know What's your dictionary? Dishnary Collection of key value pairs Now you want to see the abundance The abundance is a key It'll be a value You want to see food Food is a key It'll be a value Food Everyone knows Now after that One more thing You want to see I don't want to see a single comment You want to see mutable Mutable It'll be a value Mutable means you won't get mutable So key value pairs I can store something on the top of the key value pairs I can store this on the top of the key value pairs How many marks are there? How many marks are there? The name of the child is there Okay This information can be stored You can just tell Now you guys go there And here you can see I have dictated the name of the name of the child H20 I'll show you the name of the child Namesakshi H20 CAN VOTOROIT I'll tell you more about this You'll see this The name of the child is MAP data I've mapped it to one of these things The name of the child is MAP How many marks are there? How many marks are there? How many marks are there? How much is the behavior of the child? You can also add all the ingredients and the dish will be just a total list of dishes. I hope you have understood. I will tell you one thing. Maybe you will have to cover your mind with a lid. You will have to cover your mind with a lid. Maybe you will not be able to cover your mind with a lid. But you will have to think about it. Everything is a subject in Python. All the dishes are a subject. If you are not a dish, you are the only one. If you are not a bullion, you are the only one. Endager is an object. So, when we printed it, we saw that we have printed it. Type of A is class complex. So, class is written. Class is an object. What is the class object? I will tell you all in the coming videos. I will tell you all in the coming videos. I will remember all the objects in Python. You will remember all the objects in Python. If you remember, I will remember all the objects. But forget about this. I have not said anything about this. But when we will do an object in the class, You should remember. I told you that I will explain everything in Python. Now, you can grasp the concept of a created time. It is different that you are a new type. You are a big person. That's it. I hope you enjoyed this video. If you haven't done playlists, then do it. So, access the playlist. Click here and I have made a book. Click here and save it. Thank you so much for watching this video. And I will see you next time."
+}

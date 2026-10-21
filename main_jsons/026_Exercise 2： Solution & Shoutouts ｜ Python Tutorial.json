@@ -1,0 +1,259 @@
+{
+  "video_number": 26,
+  "title": "Exercise 2： Solution & Shoutouts ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 23.0,
+      "text": "In today's video, I will tell you about the solution of the exercise 2 and we will give some people a shout out that they have solved the exercise 2 Let's get started in the video screen So guys, this exercise has come to an end So first thing I am going to do"
+    },
+    {
+      "chunk_number": 2,
+      "start": 23.0,
+      "end": 35.2,
+      "text": "is I will use this hint that I gave you guys Okay, I have given you the hint, you guys are fine But after that, it is a little bit less And many people have come to complain about it You guys are doing wrong to see your hint"
+    },
+    {
+      "chunk_number": 3,
+      "start": 35.2,
+      "end": 48.2,
+      "text": "So we will increase the difficulty level So the exercise will increase by 3 to 5 And the exercise will be very fun I am going to tell you very fun Now you see, the time time is equal to time dot"
+    },
+    {
+      "chunk_number": 4,
+      "start": 48.2,
+      "end": 64.2,
+      "text": "So I have done this, this or this or this or this or this Now look, this is going to the U.S. So the time is giving me the U.S. So you guys have to keep in mind If you go to your local computer, your time zone will be saved"
+    },
+    {
+      "chunk_number": 5,
+      "start": 64.2,
+      "end": 76.2,
+      "text": "Okay For this, I will show you something Look, there is no more problem You are doing your program But I am showing you that if I"
+    },
+    {
+      "chunk_number": 6,
+      "start": 78.2,
+      "end": 89.2,
+      "text": "You see, I have shown you two minutes of 9 to 9 Okay I hope you guys are understanding what I am doing Look here, I have done the print time I have found an hour and a minute of second"
+    },
+    {
+      "chunk_number": 7,
+      "start": 89.2,
+      "end": 99.2,
+      "text": "I will do it And I will say this, this is the hour Okay, I don't want to do it for a minute I had to confuse you Okay"
+    },
+    {
+      "chunk_number": 8,
+      "start": 99.2,
+      "end": 108.2,
+      "text": "Now look what I have done here I will only print the R I will not print the time I will print the R Okay, I will print the R"
+    },
+    {
+      "chunk_number": 9,
+      "start": 108.2,
+      "end": 116.2,
+      "text": "And I will do one thing I will give it a time And I will print the R I will only tell you what it is I am telling you 15"
+    },
+    {
+      "chunk_number": 10,
+      "start": 116.2,
+      "end": 130.2,
+      "text": "Okay, now I will use my EVE condition Now I will say if the hour is greater than 0 And the hour is less than 12 Then what do you want to do? Greater than 0"
+    },
+    {
+      "chunk_number": 11,
+      "start": 130.2,
+      "end": 140.2,
+      "text": "Less than 12 is good morning So you have to write Good morning sir, print What to print? Good morning sir"
+    },
+    {
+      "chunk_number": 12,
+      "start": 140.2,
+      "end": 151.2,
+      "text": "Good morning sir Okay Now what to do after this? Write here else if And after this if the hour is greater than 12"
+    },
+    {
+      "chunk_number": 13,
+      "start": 151.2,
+      "end": 161.2,
+      "text": "And less than say It is 19 Okay, here is less than 16 So what do you want to do? I will do 17"
+    },
+    {
+      "chunk_number": 14,
+      "start": 161.2,
+      "end": 174.2,
+      "text": "So you have to write good afternoon sir And after this if the hour is greater than Then let us say 17 And less than equal to 0 Less than or equal to 0"
+    },
+    {
+      "chunk_number": 15,
+      "start": 174.2,
+      "end": 183.2,
+      "text": "So I just want to see How all the cases are covered Greater than equal to 12 And less than 17 And greater than equal to this"
+    },
+    {
+      "chunk_number": 16,
+      "start": 183.2,
+      "end": 194.2,
+      "text": "And I will write here equal to this Because I want to keep you here And here is good night sir Okay Now I will do this"
+    },
+    {
+      "chunk_number": 17,
+      "start": 194.2,
+      "end": 205.2,
+      "text": "And I will write here What is this? So I have written here if hour is greater than In fact, we have to write this way in Python A and D"
+    },
+    {
+      "chunk_number": 18,
+      "start": 205.2,
+      "end": 214.2,
+      "text": "Okay, if you write this in C Then we write double ampers from the end But in Python, we write this way A and D So I will write a user friendly"
+    },
+    {
+      "chunk_number": 19,
+      "start": 214.2,
+      "end": 223.2,
+      "text": "And a very understandable language in Python And I am really going to make many mistakes I don't know what will happen today What else is written here? In Python"
+    },
+    {
+      "chunk_number": 20,
+      "start": 223.2,
+      "end": 234.2,
+      "text": "You were in the video So see, I have done it And this is what I will tell you Good morning, good afternoon Now it is invalid syntax"
+    },
+    {
+      "chunk_number": 21,
+      "start": 234.2,
+      "end": 242.2,
+      "text": "Okay, so I have actually To become a bracket What is happening today? I am going with it I don't know what is going on"
+    },
+    {
+      "chunk_number": 22,
+      "start": 242.2,
+      "end": 249.2,
+      "text": "But good afternoon sir I am telling you that it is 15 Okay, I will do work I will take input In fact, I will do this"
+    },
+    {
+      "chunk_number": 23,
+      "start": 249.2,
+      "end": 258.2,
+      "text": "I will do input Enter And I will test it for some hours Just see what I want to see If I have done hour 12"
+    },
+    {
+      "chunk_number": 24,
+      "start": 258.2,
+      "end": 268.2,
+      "text": "Then what will happen? I have done 12 Then what will happen? Good afternoon sir Cool If I have done 5 hours"
+    },
+    {
+      "chunk_number": 25,
+      "start": 268.2,
+      "end": 277.2,
+      "text": "Then I will say good morning Yes, good morning sir So this is our logic And I will do another work I will also do it"
+    },
+    {
+      "chunk_number": 26,
+      "start": 277.2,
+      "end": 287.2,
+      "text": "And after doing this Our program will be very good So I will do it to test And I will comment this And my program is done"
+    },
+    {
+      "chunk_number": 27,
+      "start": 287.2,
+      "end": 297.2,
+      "text": "I hope you have enjoyed But I will not go any further I will show you The one who has solved Exercise 2"
+    },
+    {
+      "chunk_number": 28,
+      "start": 297.2,
+      "end": 307.2,
+      "text": "Where did the exercise 2 go? This is right Now I will come to the cover of this And see who has commented It is very difficult for me"
+    },
+    {
+      "chunk_number": 29,
+      "start": 307.2,
+      "end": 318.2,
+      "text": "Give all the shoutouts But if you have solved Then I will definitely give you shoutout Okay? So I am not using this as a scroll"
+    },
+    {
+      "chunk_number": 30,
+      "start": 318.2,
+      "end": 328.2,
+      "text": "So first of all I want to give you shoutout And make it unique So in the year of the unique You will have a very big shoutout Then I will close this wrap-up"
+    },
+    {
+      "chunk_number": 31,
+      "start": 328.2,
+      "end": 338.2,
+      "text": "And then I will give you a big shoutout But I will also show you The unique program So here I will do I am doing it"
+    },
+    {
+      "chunk_number": 32,
+      "start": 338.2,
+      "end": 346.2,
+      "text": "And after doing it Enter your name Okay Good afternoon Wow"
+    },
+    {
+      "chunk_number": 33,
+      "start": 346.2,
+      "end": 356.2,
+      "text": "Because this wrap-up is 15 It is 15 It is hour 15 Now let's see the new response This is pretty easy"
+    },
+    {
+      "chunk_number": 34,
+      "start": 356.2,
+      "end": 365.2,
+      "text": "Now you can see who has done this From 4 to 12 Okay Now this exact timing It does not bother me"
+    },
+    {
+      "chunk_number": 35,
+      "start": 365.2,
+      "end": 372.2,
+      "text": "I do not know exactly what is wrong with you Okay I will call you after 2pm Good morning I am not sure"
+    },
+    {
+      "chunk_number": 36,
+      "start": 372.2,
+      "end": 382.2,
+      "text": "I will have to check the truth But again you got the point Okay that is possible that I could receive your wrap-up I could do it The new response has given me a second reason"
+    },
+    {
+      "chunk_number": 37,
+      "start": 382.2,
+      "end": 392.2,
+      "text": "The program is this is cheating Now here is the Shoria The Shoria is the Washi oil I did not miss it The shoutout was omratan"
+    },
+    {
+      "chunk_number": 38,
+      "start": 392.2,
+      "end": 403.2,
+      "text": "Kunal Panchal, Hamza, Niyazi Niyashivashtav has done it twice No one has taken the shoutout twice Washi oil, Astroji, Legend, Vibhu, Astroji, Astroji It will be 2-2"
+    },
+    {
+      "chunk_number": 39,
+      "start": 403.2,
+      "end": 414.2,
+      "text": "It is not the same So I will see all the wrap-up And I think Definitely it was pretty easy and straight forward So everything will be right"
+    },
+    {
+      "chunk_number": 40,
+      "start": 414.2,
+      "end": 425.2,
+      "text": "And if you did not do this without any chance I think it was difficult for you So you will definitely do it The exercises will be a little challenging So you will get a little tired"
+    },
+    {
+      "chunk_number": 41,
+      "start": 425.2,
+      "end": 437.2,
+      "text": "So you will have to focus a little bit on it And you will have to watch the time and focus on it You will have to watch the time and focus on it If you do not have any playlists So you will definitely do it"
+    },
+    {
+      "chunk_number": 42,
+      "start": 437.2,
+      "end": 449.2,
+      "text": "And you will receive the bookmark Thank you so much guys for watching this video And I will see you next time Bye"
+    }
+  ],
+  "text": "In today's video, I will tell you about the solution of the exercise 2 and we will give some people a shout out that they have solved the exercise 2 Let's get started in the video screen So guys, this exercise has come to an end So first thing I am going to do is I will use this hint that I gave you guys Okay, I have given you the hint, you guys are fine But after that, it is a little bit less And many people have come to complain about it You guys are doing wrong to see your hint So we will increase the difficulty level So the exercise will increase by 3 to 5 And the exercise will be very fun I am going to tell you very fun Now you see, the time time is equal to time dot So I have done this, this or this or this or this or this Now look, this is going to the U.S. So the time is giving me the U.S. So you guys have to keep in mind If you go to your local computer, your time zone will be saved Okay For this, I will show you something Look, there is no more problem You are doing your program But I am showing you that if I You see, I have shown you two minutes of 9 to 9 Okay I hope you guys are understanding what I am doing Look here, I have done the print time I have found an hour and a minute of second I will do it And I will say this, this is the hour Okay, I don't want to do it for a minute I had to confuse you Okay Now look what I have done here I will only print the R I will not print the time I will print the R Okay, I will print the R And I will do one thing I will give it a time And I will print the R I will only tell you what it is I am telling you 15 Okay, now I will use my EVE condition Now I will say if the hour is greater than 0 And the hour is less than 12 Then what do you want to do? Greater than 0 Less than 12 is good morning So you have to write Good morning sir, print What to print? Good morning sir Good morning sir Okay Now what to do after this? Write here else if And after this if the hour is greater than 12 And less than say It is 19 Okay, here is less than 16 So what do you want to do? I will do 17 So you have to write good afternoon sir And after this if the hour is greater than Then let us say 17 And less than equal to 0 Less than or equal to 0 So I just want to see How all the cases are covered Greater than equal to 12 And less than 17 And greater than equal to this And I will write here equal to this Because I want to keep you here And here is good night sir Okay Now I will do this And I will write here What is this? So I have written here if hour is greater than In fact, we have to write this way in Python A and D Okay, if you write this in C Then we write double ampers from the end But in Python, we write this way A and D So I will write a user friendly And a very understandable language in Python And I am really going to make many mistakes I don't know what will happen today What else is written here? In Python You were in the video So see, I have done it And this is what I will tell you Good morning, good afternoon Now it is invalid syntax Okay, so I have actually To become a bracket What is happening today? I am going with it I don't know what is going on But good afternoon sir I am telling you that it is 15 Okay, I will do work I will take input In fact, I will do this I will do input Enter And I will test it for some hours Just see what I want to see If I have done hour 12 Then what will happen? I have done 12 Then what will happen? Good afternoon sir Cool If I have done 5 hours Then I will say good morning Yes, good morning sir So this is our logic And I will do another work I will also do it And after doing this Our program will be very good So I will do it to test And I will comment this And my program is done I hope you have enjoyed But I will not go any further I will show you The one who has solved Exercise 2 Where did the exercise 2 go? This is right Now I will come to the cover of this And see who has commented It is very difficult for me Give all the shoutouts But if you have solved Then I will definitely give you shoutout Okay? So I am not using this as a scroll So first of all I want to give you shoutout And make it unique So in the year of the unique You will have a very big shoutout Then I will close this wrap-up And then I will give you a big shoutout But I will also show you The unique program So here I will do I am doing it And after doing it Enter your name Okay Good afternoon Wow Because this wrap-up is 15 It is 15 It is hour 15 Now let's see the new response This is pretty easy Now you can see who has done this From 4 to 12 Okay Now this exact timing It does not bother me I do not know exactly what is wrong with you Okay I will call you after 2pm Good morning I am not sure I will have to check the truth But again you got the point Okay that is possible that I could receive your wrap-up I could do it The new response has given me a second reason The program is this is cheating Now here is the Shoria The Shoria is the Washi oil I did not miss it The shoutout was omratan Kunal Panchal, Hamza, Niyazi Niyashivashtav has done it twice No one has taken the shoutout twice Washi oil, Astroji, Legend, Vibhu, Astroji, Astroji It will be 2-2 It is not the same So I will see all the wrap-up And I think Definitely it was pretty easy and straight forward So everything will be right And if you did not do this without any chance I think it was difficult for you So you will definitely do it The exercises will be a little challenging So you will get a little tired So you will have to focus a little bit on it And you will have to watch the time and focus on it You will have to watch the time and focus on it If you do not have any playlists So you will definitely do it And you will receive the bookmark Thank you so much guys for watching this video And I will see you next time Bye"
+}

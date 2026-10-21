@@ -1,0 +1,223 @@
+{
+  "video_number": 24,
+  "title": "Tuples in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 15.6,
+      "text": "In 100 days of code, you guys are also coming. I know that. In today's video, we will read about the top of the list. Look, the list we read was very useful. We saw many methods and we saw this too. This list is with what we can do."
+    },
+    {
+      "chunk_number": 2,
+      "start": 15.6,
+      "end": 32.0,
+      "text": "Now, there is a coordinated type of python which is called top. And it is equally useful because you guys can't change the top. And there are some important methods to tell you about the engine. Let's go to the middle screen and let's get started. We saw it in the list."
+    },
+    {
+      "chunk_number": 3,
+      "start": 32.0,
+      "end": 45.0,
+      "text": "It was very similar to the top. It is a different way to change the top. Okay. I will explain what I will do to make the top. I will write a TUP equal to this."
+    },
+    {
+      "chunk_number": 4,
+      "start": 45.0,
+      "end": 56.0,
+      "text": "And I will use the brackets like this. I will write the values here. I will use the brackets like this. I will write the values here. I will write the values here."
+    },
+    {
+      "chunk_number": 5,
+      "start": 56.0,
+      "end": 71.0,
+      "text": "I will write the values here. 156. If I print the type of TUP, and I will print the TUP together, I will get the values from both the values."
+    },
+    {
+      "chunk_number": 6,
+      "start": 71.0,
+      "end": 85.0,
+      "text": "I will get a class table. If there are two elements. I will get 1 or 5 and I will get the same. What about if there was only one element? Then you will see that our confusion will be gone."
+    },
+    {
+      "chunk_number": 7,
+      "start": 85.0,
+      "end": 94.0,
+      "text": "And this class is empty. Now you have made a table. This is an element. Why is this being shown? This is the biggest confusion."
+    },
+    {
+      "chunk_number": 8,
+      "start": 94.0,
+      "end": 108.0,
+      "text": "If you are making a table of one element, you will have to leave a common and confuse it. You will only write one value in the bracket. You are making a new table. Python will be confused."
+    },
+    {
+      "chunk_number": 9,
+      "start": 108.0,
+      "end": 119.0,
+      "text": "So, you have to write one comma. Run it like this. And you will see the class table. This is the table of one element. Here we will see the TUPs are audit collection of data items."
+    },
+    {
+      "chunk_number": 10,
+      "start": 119.0,
+      "end": 131.0,
+      "text": "These two multiple items are single variable. TUPs are separated by commas and enclosed within the brackets. TUPs are unchangeable. You cannot change the TUPs. It is less."
+    },
+    {
+      "chunk_number": 11,
+      "start": 131.0,
+      "end": 143.0,
+      "text": "You can do something like this. TUP 0 is equal to 90. And then the TUPs change. The zero value is changed. But you can see that the type error is coming."
+    },
+    {
+      "chunk_number": 12,
+      "start": 143.0,
+      "end": 157.0,
+      "text": "TUPs object does not support item assignment. If we run it in other values, you can see that the same error is coming. But how about if this is a list? It has written a list of the names."
+    },
+    {
+      "chunk_number": 13,
+      "start": 157.0,
+      "end": 167.0,
+      "text": "But this is a list. I have written here. The type of TUP will also be a list. So, the first value is change. I can do it in list."
+    },
+    {
+      "chunk_number": 14,
+      "start": 167.0,
+      "end": 177.0,
+      "text": "I cannot change the TUP. You can use this in TUP. I can change the list. Everything can be changed. It is not a lot of work."
+    },
+    {
+      "chunk_number": 15,
+      "start": 177.0,
+      "end": 188.0,
+      "text": "It is possible that you cannot change the TUPs intentionally. You want to make a constant. You want to make a constant list. You want to change the TUPs. And you are working on a very complex program."
+    },
+    {
+      "chunk_number": 16,
+      "start": 188.0,
+      "end": 198.0,
+      "text": "You want to change the mistake. You can change the mistake. You can use the TUP. I have given an example of the TUP. It is a same thing in TUP."
+    },
+    {
+      "chunk_number": 17,
+      "start": 198.0,
+      "end": 210.0,
+      "text": "If I add a value of TUP, I will add a string. It will also be a string. You can see that the last TUP is here. But this is a print."
+    },
+    {
+      "chunk_number": 18,
+      "start": 210.0,
+      "end": 224.0,
+      "text": "I hope you all understand. And the rest is almost the same. I can't change the fact that you cannot change it. You can add some values. The second type of the type will also work."
+    },
+    {
+      "chunk_number": 19,
+      "start": 224.0,
+      "end": 239.0,
+      "text": "But you can't change it. If I print the TUP 0, I will print the TUP 0. And I will do TUP 1, TUP 2,"
+    },
+    {
+      "chunk_number": 20,
+      "start": 239.0,
+      "end": 249.0,
+      "text": "TUP 34. I will do 34. I will do 34. I hope you all understand. We can do TUP indexing."
+    },
+    {
+      "chunk_number": 21,
+      "start": 249.0,
+      "end": 259.0,
+      "text": "Positive indexing and negative indexing are the same in TUP. If you write TUP 1, you will not process the TUP 1. You will see the length of TUP 5."
+    },
+    {
+      "chunk_number": 22,
+      "start": 259.0,
+      "end": 269.0,
+      "text": "The TUP 4 is 4. The TUP 4 is 4. The TUP 4 is 4. The TUP 4 is 4. The TUP 4 is 4."
+    },
+    {
+      "chunk_number": 23,
+      "start": 269.0,
+      "end": 279.0,
+      "text": "The TUP 4 is 4. The TUP 4 is 4. The TUP 4 is 4. TUP 4 is 4. TUP 4 is 3."
+    },
+    {
+      "chunk_number": 24,
+      "start": 279.0,
+      "end": 289.0,
+      "text": "You can do 35. I did not change the length. I will print the length. When I print the length, I will print the length in the middle first."
+    },
+    {
+      "chunk_number": 25,
+      "start": 289.0,
+      "end": 341.0,
+      "text": "For example I will print the length. It is 7. So it is 7 minus 6. If I do 3.421, then this will not be the same as the condition of the default. So, check whether the item is present or not."
+    },
+    {
+      "chunk_number": 26,
+      "start": 341.0,
+      "end": 356.0,
+      "text": "Similarly, we talked about slicing. Similarly, we can talk about slicing here. Slicing can be done, but you can slice it now. You can change it. It is not like that. Slicing is a new type of return."
+    },
+    {
+      "chunk_number": 27,
+      "start": 356.0,
+      "end": 373.0,
+      "text": "So, the TUP is not changing. It is a new type of return. If I do 2 is equal to TUP and I do 1 is equal to 4. So, if I do 2, then I will return the return. So, if I do 1, then I will return the return."
+    },
+    {
+      "chunk_number": 28,
+      "start": 373.0,
+      "end": 382.0,
+      "text": "So, the return will start from 2. And the return will start from 3.4212. So, this is minus 1 index. 0,1,2,3. So, 2,76,342."
+    },
+    {
+      "chunk_number": 29,
+      "start": 382.0,
+      "end": 395.0,
+      "text": "We talked about slicing from the list. Similarly, we can slice the TUP. Similarly, we have printed the list. We can do all the elements here. There are many similar things."
+    },
+    {
+      "chunk_number": 30,
+      "start": 395.0,
+      "end": 410.0,
+      "text": "We can convert negative indices into positive indices. You can see some of the things you have seen. So, here you can write blank. If you write blank, then you can write length of this TUP. So, if you write something like this,"
+    },
+    {
+      "chunk_number": 31,
+      "start": 410.0,
+      "end": 424.0,
+      "text": "then it will be 0 to blank. So, you write length of TUP on blank. If you write something like this, then this is 4. So, if I write this to 3, then it will be 0."
+    },
+    {
+      "chunk_number": 32,
+      "start": 424.0,
+      "end": 438.0,
+      "text": "If I write this, then what would this be? I will write length of this TUP. I was telling you that I have a list of things in my list. So, I hope you all understood. I want TUP to try all the methods."
+    },
+    {
+      "chunk_number": 33,
+      "start": 438.0,
+      "end": 453.0,
+      "text": "How to do the list of the list of the division? You can do slicing, the division of slicing, the list is in the type of a tuple. After that, use the keyword in the list, the type of a tuple. The difference is that you cannot change the tuple. You cannot change the value of the tuple."
+    },
+    {
+      "chunk_number": 34,
+      "start": 453.0,
+      "end": 464.0,
+      "text": "You cannot change the length of the tuple. If you make a tuple or a new tuple, you cannot change the existing tuple. Tuples are immutable. The strings are immutable."
+    },
+    {
+      "chunk_number": 35,
+      "start": 464.0,
+      "end": 471.0,
+      "text": "List are immutable. Remember this. You cannot access the tuple. So, you must be sure to access it. Now, let's watch this video."
+    },
+    {
+      "chunk_number": 36,
+      "start": 471.0,
+      "end": 476.0,
+      "text": "Thank you so much for watching this video. And I will see you next time."
+    }
+  ],
+  "text": "In 100 days of code, you guys are also coming. I know that. In today's video, we will read about the top of the list. Look, the list we read was very useful. We saw many methods and we saw this too. This list is with what we can do. Now, there is a coordinated type of python which is called top. And it is equally useful because you guys can't change the top. And there are some important methods to tell you about the engine. Let's go to the middle screen and let's get started. We saw it in the list. It was very similar to the top. It is a different way to change the top. Okay. I will explain what I will do to make the top. I will write a TUP equal to this. And I will use the brackets like this. I will write the values here. I will use the brackets like this. I will write the values here. I will write the values here. I will write the values here. 156. If I print the type of TUP, and I will print the TUP together, I will get the values from both the values. I will get a class table. If there are two elements. I will get 1 or 5 and I will get the same. What about if there was only one element? Then you will see that our confusion will be gone. And this class is empty. Now you have made a table. This is an element. Why is this being shown? This is the biggest confusion. If you are making a table of one element, you will have to leave a common and confuse it. You will only write one value in the bracket. You are making a new table. Python will be confused. So, you have to write one comma. Run it like this. And you will see the class table. This is the table of one element. Here we will see the TUPs are audit collection of data items. These two multiple items are single variable. TUPs are separated by commas and enclosed within the brackets. TUPs are unchangeable. You cannot change the TUPs. It is less. You can do something like this. TUP 0 is equal to 90. And then the TUPs change. The zero value is changed. But you can see that the type error is coming. TUPs object does not support item assignment. If we run it in other values, you can see that the same error is coming. But how about if this is a list? It has written a list of the names. But this is a list. I have written here. The type of TUP will also be a list. So, the first value is change. I can do it in list. I cannot change the TUP. You can use this in TUP. I can change the list. Everything can be changed. It is not a lot of work. It is possible that you cannot change the TUPs intentionally. You want to make a constant. You want to make a constant list. You want to change the TUPs. And you are working on a very complex program. You want to change the mistake. You can change the mistake. You can use the TUP. I have given an example of the TUP. It is a same thing in TUP. If I add a value of TUP, I will add a string. It will also be a string. You can see that the last TUP is here. But this is a print. I hope you all understand. And the rest is almost the same. I can't change the fact that you cannot change it. You can add some values. The second type of the type will also work. But you can't change it. If I print the TUP 0, I will print the TUP 0. And I will do TUP 1, TUP 2, TUP 34. I will do 34. I will do 34. I hope you all understand. We can do TUP indexing. Positive indexing and negative indexing are the same in TUP. If you write TUP 1, you will not process the TUP 1. You will see the length of TUP 5. The TUP 4 is 4. The TUP 4 is 4. The TUP 4 is 4. The TUP 4 is 4. The TUP 4 is 4. The TUP 4 is 4. The TUP 4 is 4. The TUP 4 is 4. TUP 4 is 4. TUP 4 is 3. You can do 35. I did not change the length. I will print the length. When I print the length, I will print the length in the middle first. For example I will print the length. It is 7. So it is 7 minus 6. If I do 3.421, then this will not be the same as the condition of the default. So, check whether the item is present or not. Similarly, we talked about slicing. Similarly, we can talk about slicing here. Slicing can be done, but you can slice it now. You can change it. It is not like that. Slicing is a new type of return. So, the TUP is not changing. It is a new type of return. If I do 2 is equal to TUP and I do 1 is equal to 4. So, if I do 2, then I will return the return. So, if I do 1, then I will return the return. So, the return will start from 2. And the return will start from 3.4212. So, this is minus 1 index. 0,1,2,3. So, 2,76,342. We talked about slicing from the list. Similarly, we can slice the TUP. Similarly, we have printed the list. We can do all the elements here. There are many similar things. We can convert negative indices into positive indices. You can see some of the things you have seen. So, here you can write blank. If you write blank, then you can write length of this TUP. So, if you write something like this, then it will be 0 to blank. So, you write length of TUP on blank. If you write something like this, then this is 4. So, if I write this to 3, then it will be 0. If I write this, then what would this be? I will write length of this TUP. I was telling you that I have a list of things in my list. So, I hope you all understood. I want TUP to try all the methods. How to do the list of the list of the division? You can do slicing, the division of slicing, the list is in the type of a tuple. After that, use the keyword in the list, the type of a tuple. The difference is that you cannot change the tuple. You cannot change the value of the tuple. You cannot change the length of the tuple. If you make a tuple or a new tuple, you cannot change the existing tuple. Tuples are immutable. The strings are immutable. List are immutable. Remember this. You cannot access the tuple. So, you must be sure to access it. Now, let's watch this video. Thank you so much for watching this video. And I will see you next time."
+}

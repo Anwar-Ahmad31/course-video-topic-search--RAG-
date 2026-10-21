@@ -1,0 +1,415 @@
+{
+  "video_number": 20,
+  "title": "Functions in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 20.88,
+      "text": "Today's video we will talk about functions. What are the functions that we should use for our code, logic and multiple times. We want to print the 15th of our program and the code of the 10 lines. We should not repeat the 10 lines in our program. If we repeat the lines,"
+    },
+    {
+      "chunk_number": 2,
+      "start": 20.88,
+      "end": 37.24,
+      "text": "If we change the code in these lines, we should repeat the lines in 15th of our program. If we repeat the lines in this program, we should repeat the lines in this program. With this, we should be more active and we will increase the number of lines."
+    },
+    {
+      "chunk_number": 3,
+      "start": 37.24,
+      "end": 53.32,
+      "text": "If I separate this logic from my main program, I will add a different entity to it. To update this, I will only use 10 places. Without increasing the number of lines. So how will I do this?"
+    },
+    {
+      "chunk_number": 4,
+      "start": 53.32,
+      "end": 65.02,
+      "text": "I will separate the logic from functions. I will add a function. I will add a function to the average. I will add a function to the geometric mean. The logic of functions is complicated."
+    },
+    {
+      "chunk_number": 5,
+      "start": 65.02,
+      "end": 78.16,
+      "text": "It can be a given number multiplication table. It can be a function to add 10 numbers. It can be a function to the average. It can be a function to the median mode. After separating logic, we will refer to the mean numbers."
+    },
+    {
+      "chunk_number": 6,
+      "start": 78.16,
+      "end": 90.06,
+      "text": "We will not see the entity as a function. We will make a function and then we will use this function. I have not understood the value of the function. No problems. We are still running in computer screen."
+    },
+    {
+      "chunk_number": 7,
+      "start": 90.06,
+      "end": 114.16,
+      "text": "I will explain this concept to you all. Let's get started. So the function is basically a way to write a code. You can use a block of code in your program for 10-50 times. You can use it for 10-50 times."
+    },
+    {
+      "chunk_number": 8,
+      "start": 114.16,
+      "end": 131.35999999999999,
+      "text": "The block of code is from 50 lines, from 100 lines, from 7 lines, from 7 lines. You can't use it for 10-10 times. You can use it for a function. I will show you how this function is made. And then we will talk about the things."
+    },
+    {
+      "chunk_number": 9,
+      "start": 131.35999999999999,
+      "end": 144.16,
+      "text": "What I will do here? I will open a new file. Min.py. I will take this console. If you want to do something big, you can use it for a function."
+    },
+    {
+      "chunk_number": 10,
+      "start": 144.16,
+      "end": 155.16,
+      "text": "The function is a block of code. It performs a specific task whenever it is called. I will tell you the basic language. Let me see what I have written. I will write you a def."
+    },
+    {
+      "chunk_number": 11,
+      "start": 155.16,
+      "end": 170.16,
+      "text": "I will start it very simple. I have a program which is called geometric mean. G mean is equal to... I will take 2 numbers. A is equal to 9."
+    },
+    {
+      "chunk_number": 12,
+      "start": 170.16,
+      "end": 182.16,
+      "text": "B is equal to 8. What would be geometric mean? A is divided by A plus B. I will do 9. I will write A multiplied by B."
+    },
+    {
+      "chunk_number": 13,
+      "start": 182.16,
+      "end": 199.16,
+      "text": "I will write A plus B. I will do it in bracket. So that our geometric mean is correct. I will print the geometric mean. I will run it."
+    },
+    {
+      "chunk_number": 14,
+      "start": 199.16,
+      "end": 212.16,
+      "text": "It will get a calculation and output. I know that. I don't want to tell you. I will take 2 numbers. C or D."
+    },
+    {
+      "chunk_number": 15,
+      "start": 212.16,
+      "end": 227.16,
+      "text": "I want C equal to 8. D is equal to 7. I want to take G mean from 12th to 12th. I will write something like this. C multiplied by D divided by C plus D."
+    },
+    {
+      "chunk_number": 16,
+      "start": 227.16,
+      "end": 240.16,
+      "text": "I will do G mean 2. I can write overwrite the variable. Let's keep it simple. A is divided by A plus B. C is divided by C plus D."
+    },
+    {
+      "chunk_number": 17,
+      "start": 240.16,
+      "end": 250.16,
+      "text": "This is the geometric mean of 9. This is the geometric mean of 8. So far so what? Everything is running on the plane. This is the function of 1 line."
+    },
+    {
+      "chunk_number": 18,
+      "start": 250.16,
+      "end": 264.15999999999997,
+      "text": "The code is the geometric mean of 10 lines. I know that it was a bit complex. A is divided by A plus B. This is the code of 10 lines. I have to write 10 lines."
+    },
+    {
+      "chunk_number": 19,
+      "start": 264.15999999999997,
+      "end": 284.16,
+      "text": "I will write the code already. I will put this in a function. I will write a definition of depth. G mean. I will write this in G mean and A."
+    },
+    {
+      "chunk_number": 20,
+      "start": 284.16,
+      "end": 300.16,
+      "text": "I will write this in G. The mean is equal to this. I will write this logic in this way. I will write print. The word I wrote after the word of depth is called."
+    },
+    {
+      "chunk_number": 21,
+      "start": 300.16,
+      "end": 316.16,
+      "text": "This is the name of this function. A and B are doing the function of arguments. No arguments can accept this function. This function will accept all the arguments. I can print this thing in A and B."
+    },
+    {
+      "chunk_number": 22,
+      "start": 316.16,
+      "end": 330.16,
+      "text": "Instead of doing this, I can calculate G mean 1. Instead of doing this, I will write down the comment. I can do something like this."
+    },
+    {
+      "chunk_number": 23,
+      "start": 330.16,
+      "end": 344.16,
+      "text": "I will write this in Cd. I will write this code in this way. I will write this code in Cd. I will restore it. B, A, B, B."
+    },
+    {
+      "chunk_number": 24,
+      "start": 344.16,
+      "end": 358.16,
+      "text": "I will do this. If the print of 9 and 8 is written in the print. The print of this code will be written in 8 and 7. The results will be the same. This is the result."
+    },
+    {
+      "chunk_number": 25,
+      "start": 358.16,
+      "end": 370.16,
+      "text": "We can separate the logic. I can write another function. In this program, which number is greater? I am not sure what to do."
+    },
+    {
+      "chunk_number": 26,
+      "start": 370.16,
+      "end": 382.16,
+      "text": "I am not sure what number is greater. I will write this simply. If A is greater than B, Print. First is greater."
+    },
+    {
+      "chunk_number": 27,
+      "start": 382.16,
+      "end": 394.16,
+      "text": "First number is greater. I will write else. I will print second number. I will write this as well. I will print second number."
+    },
+    {
+      "chunk_number": 28,
+      "start": 394.16,
+      "end": 406.16,
+      "text": "I will print second number. This is a simple thing. You have to read many times. You can do this. You can do this as well."
+    },
+    {
+      "chunk_number": 29,
+      "start": 406.16,
+      "end": 416.16,
+      "text": "I will do this as well. I will not comment. I know that people can do this. You have done this properly. I have also calculated the same."
+    },
+    {
+      "chunk_number": 30,
+      "start": 416.16,
+      "end": 430.16,
+      "text": "I will write this as well. I know that the number is greater than 2. I have to print the same as me. If C is greater than C, then the first number will be greater."
+    },
+    {
+      "chunk_number": 31,
+      "start": 430.16,
+      "end": 444.16,
+      "text": "Now, what will happen here? I will run this code. I will get the first number. The first number is greater. If I want to get 2nd number not so much,"
+    },
+    {
+      "chunk_number": 32,
+      "start": 444.16,
+      "end": 458.16,
+      "text": "then I get 2nd number as you can see. So far and so good. I will withdrawceed, here is a big advantage. The same thing there."
+    },
+    {
+      "chunk_number": 33,
+      "start": 458.16,
+      "end": 481.16,
+      "text": "I want to repeat the code 150 and 이쁠 properties. I want to write a function啊. First, let's write a function for the function. Then I will write this greater a comma b. A and b are variable functions of the function."
+    },
+    {
+      "chunk_number": 34,
+      "start": 481.16,
+      "end": 499.16,
+      "text": "I will shape the same code here. I will cut it from here. I will paste it here and call this function. Now, I will follow the rules of indentation. I will have to put the rules in the tab."
+    },
+    {
+      "chunk_number": 35,
+      "start": 499.16,
+      "end": 528.16,
+      "text": "I have given this function here. Now, let's see the indentation. If I want to give the same level of indentation in the if condition. I have given this element in the else. I will write this greater a comma b."
+    },
+    {
+      "chunk_number": 36,
+      "start": 528.16,
+      "end": 549.16,
+      "text": "I will write this greater a comma b. I have given this short form. I have given this to the short form. I will have to add this to the lunch time. I will write this in the chat."
+    },
+    {
+      "chunk_number": 37,
+      "start": 549.16,
+      "end": 569.16,
+      "text": "The two friends who do this daily basis. They decided that we will call this a big statement. I will eat and eat in the chat. Let's make a code word. What is the code word?"
+    },
+    {
+      "chunk_number": 38,
+      "start": 569.16,
+      "end": 595.16,
+      "text": "I will tell you that you can eat in the chat. Instead of saying that I have to eat in the house. The friend who is the first one will call the friend Binoed. I will understand that he will eat in the chat. I will understand this function."
+    },
+    {
+      "chunk_number": 39,
+      "start": 595.16,
+      "end": 627.16,
+      "text": "I will define the code word. I will write this greater a comma b. I have written this for the same COD. This is my function. I hope you understood what function is."
+    },
+    {
+      "chunk_number": 40,
+      "start": 627.16,
+      "end": 654.16,
+      "text": "I will tell you one more thing. I am planning a big program. I am thinking that I can make this greater a comma b. I will write this for the next step. I will write this for the next step."
+    },
+    {
+      "chunk_number": 41,
+      "start": 654.16,
+      "end": 685.16,
+      "text": "I will write this for the next step. I will write this for the next step. I will find the function body in the next step. I will write this for the next step. If I write it in the next step, I will write it in this function."
+    },
+    {
+      "chunk_number": 42,
+      "start": 685.16,
+      "end": 703.16,
+      "text": "I have written this function name and this argument is written here and here the pass means I will come back and complete this function I mean go ahead and process the program ok, I understood I will run now, so I will not give this error"
+    },
+    {
+      "chunk_number": 43,
+      "start": 703.16,
+      "end": 713.16,
+      "text": "I will execute the program successfully ok, so this was the pass now come here the function is a block of code that performs specific tasks I told you in bigger programs"
+    },
+    {
+      "chunk_number": 44,
+      "start": 713.16,
+      "end": 727.16,
+      "text": "there is a lot of code that is advisable you break down your logic in functions so that your logic is separate sometimes you have to do some programming like we are making a big program"
+    },
+    {
+      "chunk_number": 45,
+      "start": 727.16,
+      "end": 739.16,
+      "text": "we are making a website we are making a e-commerce website which has been processed in order one function is to check whether the user login is not one function is to check"
+    },
+    {
+      "chunk_number": 46,
+      "start": 739.16,
+      "end": 752.16,
+      "text": "the user can be delivered on the pin code so these are the functions 4-5 programmers can write the word I told my friend what should I do?"
+    },
+    {
+      "chunk_number": 47,
+      "start": 752.16,
+      "end": 761.16,
+      "text": "I am talking about the function of the pin code so I am talking about the function so I am parallelizing I have left this function I have left this lesser function"
+    },
+    {
+      "chunk_number": 48,
+      "start": 761.16,
+      "end": 771.16,
+      "text": "and I told my fellow programmer to do this I will use this lesser so it should print whichever number is greater or lesser"
+    },
+    {
+      "chunk_number": 49,
+      "start": 771.16,
+      "end": 779.16,
+      "text": "okay? whatever work is done so I have finished the burden I will write the body of this function I will use it"
+    },
+    {
+      "chunk_number": 50,
+      "start": 779.16,
+      "end": 786.16,
+      "text": "okay? this is also a function of a big user you can also use both functions I told you in starting built-in functions"
+    },
+    {
+      "chunk_number": 51,
+      "start": 786.16,
+      "end": 794.16,
+      "text": "and user defined functions built-in functions are the functions that we do not have to define the word user defined functions are the functions"
+    },
+    {
+      "chunk_number": 52,
+      "start": 794.16,
+      "end": 800.16,
+      "text": "which we have to define and we make the user we make the user okay? the user defined user"
+    },
+    {
+      "chunk_number": 53,
+      "start": 800.16,
+      "end": 811.16,
+      "text": "is defined functions okay? there are some examples of built-in functions min, max, lans, type, range, take, list, double set, print many other functions"
+    },
+    {
+      "chunk_number": 54,
+      "start": 811.16,
+      "end": 817.16,
+      "text": "like range okay? all of them are all there okay? you can google"
+    },
+    {
+      "chunk_number": 55,
+      "start": 817.16,
+      "end": 825.16,
+      "text": "list of all list of all built-in functions okay? they are all there"
+    },
+    {
+      "chunk_number": 56,
+      "start": 825.16,
+      "end": 832.16,
+      "text": "they are all there they are all there okay? you can use them but the point is"
+    },
+    {
+      "chunk_number": 57,
+      "start": 832.16,
+      "end": 841.16,
+      "text": "we can write some user defined functions now I have written past and I will tell you what is the past okay?"
+    },
+    {
+      "chunk_number": 58,
+      "start": 841.16,
+      "end": 847.16,
+      "text": "I will write past okay? this is not a error in the program now create a function using the dev keyword"
+    },
+    {
+      "chunk_number": 59,
+      "start": 847.16,
+      "end": 852.16,
+      "text": "followed by a function name followed by parentheses and colon okay? this is syntax"
+    },
+    {
+      "chunk_number": 60,
+      "start": 852.16,
+      "end": 856.68,
+      "text": "so m própria normalちょっと scripts normally works"
+    },
+    {
+      "chunk_number": 61,
+      "start": 856.68,
+      "end": 880.6,
+      "text": "for an im in mirrored so this is stump I know I should PCB"
+    },
+    {
+      "chunk_number": 62,
+      "start": 880.6,
+      "end": 896.6,
+      "text": "I will show you simple things. Any parameter should be placed in the first instance. Rules to naming a function are similar to that of naming variables. We have talked about the variables as to how to name them. Here we are exactly the same."
+    },
+    {
+      "chunk_number": 63,
+      "start": 896.6,
+      "end": 910.6,
+      "text": "Any statements and other code with the function should be indented. Indented means this space should come. If we use it, if there is anything inside, it will be more indented. And so on. How to call a function?"
+    },
+    {
+      "chunk_number": 64,
+      "start": 910.6,
+      "end": 924.6,
+      "text": "Call it in a way that you can call this grater. What will be done here? And execute this logic for the Indo Valley. This is the node and the Rt. So the node and Rt will execute here."
+    },
+    {
+      "chunk_number": 65,
+      "start": 924.6,
+      "end": 932.6,
+      "text": "Okay? Simple thing. This is the basic function. I hope you understood. If you understood, then comment on it."
+    },
+    {
+      "chunk_number": 66,
+      "start": 932.6,
+      "end": 944.6,
+      "text": "If you have not seen and haven't seen it, then comment on it. I know that you have not seen it. If you have not seen it, then comment on it. See it again. If you have seen it with me, then you can see it."
+    },
+    {
+      "chunk_number": 67,
+      "start": 944.6,
+      "end": 956.6,
+      "text": "And if you have seen it with me, then see it with me. So, see it with me. Okay? If you have already seen this video, then do access to the playlist. Thank you so much for watching this video."
+    },
+    {
+      "chunk_number": 68,
+      "start": 956.6,
+      "end": 968.6,
+      "text": "And I will see you next time. Bye."
+    }
+  ],
+  "text": "Today's video we will talk about functions. What are the functions that we should use for our code, logic and multiple times. We want to print the 15th of our program and the code of the 10 lines. We should not repeat the 10 lines in our program. If we repeat the lines, If we change the code in these lines, we should repeat the lines in 15th of our program. If we repeat the lines in this program, we should repeat the lines in this program. With this, we should be more active and we will increase the number of lines. If I separate this logic from my main program, I will add a different entity to it. To update this, I will only use 10 places. Without increasing the number of lines. So how will I do this? I will separate the logic from functions. I will add a function. I will add a function to the average. I will add a function to the geometric mean. The logic of functions is complicated. It can be a given number multiplication table. It can be a function to add 10 numbers. It can be a function to the average. It can be a function to the median mode. After separating logic, we will refer to the mean numbers. We will not see the entity as a function. We will make a function and then we will use this function. I have not understood the value of the function. No problems. We are still running in computer screen. I will explain this concept to you all. Let's get started. So the function is basically a way to write a code. You can use a block of code in your program for 10-50 times. You can use it for 10-50 times. The block of code is from 50 lines, from 100 lines, from 7 lines, from 7 lines. You can't use it for 10-10 times. You can use it for a function. I will show you how this function is made. And then we will talk about the things. What I will do here? I will open a new file. Min.py. I will take this console. If you want to do something big, you can use it for a function. The function is a block of code. It performs a specific task whenever it is called. I will tell you the basic language. Let me see what I have written. I will write you a def. I will start it very simple. I have a program which is called geometric mean. G mean is equal to... I will take 2 numbers. A is equal to 9. B is equal to 8. What would be geometric mean? A is divided by A plus B. I will do 9. I will write A multiplied by B. I will write A plus B. I will do it in bracket. So that our geometric mean is correct. I will print the geometric mean. I will run it. It will get a calculation and output. I know that. I don't want to tell you. I will take 2 numbers. C or D. I want C equal to 8. D is equal to 7. I want to take G mean from 12th to 12th. I will write something like this. C multiplied by D divided by C plus D. I will do G mean 2. I can write overwrite the variable. Let's keep it simple. A is divided by A plus B. C is divided by C plus D. This is the geometric mean of 9. This is the geometric mean of 8. So far so what? Everything is running on the plane. This is the function of 1 line. The code is the geometric mean of 10 lines. I know that it was a bit complex. A is divided by A plus B. This is the code of 10 lines. I have to write 10 lines. I will write the code already. I will put this in a function. I will write a definition of depth. G mean. I will write this in G mean and A. I will write this in G. The mean is equal to this. I will write this logic in this way. I will write print. The word I wrote after the word of depth is called. This is the name of this function. A and B are doing the function of arguments. No arguments can accept this function. This function will accept all the arguments. I can print this thing in A and B. Instead of doing this, I can calculate G mean 1. Instead of doing this, I will write down the comment. I can do something like this. I will write this in Cd. I will write this code in this way. I will write this code in Cd. I will restore it. B, A, B, B. I will do this. If the print of 9 and 8 is written in the print. The print of this code will be written in 8 and 7. The results will be the same. This is the result. We can separate the logic. I can write another function. In this program, which number is greater? I am not sure what to do. I am not sure what number is greater. I will write this simply. If A is greater than B, Print. First is greater. First number is greater. I will write else. I will print second number. I will write this as well. I will print second number. I will print second number. This is a simple thing. You have to read many times. You can do this. You can do this as well. I will do this as well. I will not comment. I know that people can do this. You have done this properly. I have also calculated the same. I will write this as well. I know that the number is greater than 2. I have to print the same as me. If C is greater than C, then the first number will be greater. Now, what will happen here? I will run this code. I will get the first number. The first number is greater. If I want to get 2nd number not so much, then I get 2nd number as you can see. So far and so good. I will withdrawceed, here is a big advantage. The same thing there. I want to repeat the code 150 and 이쁠 properties. I want to write a function啊. First, let's write a function for the function. Then I will write this greater a comma b. A and b are variable functions of the function. I will shape the same code here. I will cut it from here. I will paste it here and call this function. Now, I will follow the rules of indentation. I will have to put the rules in the tab. I have given this function here. Now, let's see the indentation. If I want to give the same level of indentation in the if condition. I have given this element in the else. I will write this greater a comma b. I will write this greater a comma b. I have given this short form. I have given this to the short form. I will have to add this to the lunch time. I will write this in the chat. The two friends who do this daily basis. They decided that we will call this a big statement. I will eat and eat in the chat. Let's make a code word. What is the code word? I will tell you that you can eat in the chat. Instead of saying that I have to eat in the house. The friend who is the first one will call the friend Binoed. I will understand that he will eat in the chat. I will understand this function. I will define the code word. I will write this greater a comma b. I have written this for the same COD. This is my function. I hope you understood what function is. I will tell you one more thing. I am planning a big program. I am thinking that I can make this greater a comma b. I will write this for the next step. I will write this for the next step. I will write this for the next step. I will write this for the next step. I will find the function body in the next step. I will write this for the next step. If I write it in the next step, I will write it in this function. I have written this function name and this argument is written here and here the pass means I will come back and complete this function I mean go ahead and process the program ok, I understood I will run now, so I will not give this error I will execute the program successfully ok, so this was the pass now come here the function is a block of code that performs specific tasks I told you in bigger programs there is a lot of code that is advisable you break down your logic in functions so that your logic is separate sometimes you have to do some programming like we are making a big program we are making a website we are making a e-commerce website which has been processed in order one function is to check whether the user login is not one function is to check the user can be delivered on the pin code so these are the functions 4-5 programmers can write the word I told my friend what should I do? I am talking about the function of the pin code so I am talking about the function so I am parallelizing I have left this function I have left this lesser function and I told my fellow programmer to do this I will use this lesser so it should print whichever number is greater or lesser okay? whatever work is done so I have finished the burden I will write the body of this function I will use it okay? this is also a function of a big user you can also use both functions I told you in starting built-in functions and user defined functions built-in functions are the functions that we do not have to define the word user defined functions are the functions which we have to define and we make the user we make the user okay? the user defined user is defined functions okay? there are some examples of built-in functions min, max, lans, type, range, take, list, double set, print many other functions like range okay? all of them are all there okay? you can google list of all list of all built-in functions okay? they are all there they are all there they are all there okay? you can use them but the point is we can write some user defined functions now I have written past and I will tell you what is the past okay? I will write past okay? this is not a error in the program now create a function using the dev keyword followed by a function name followed by parentheses and colon okay? this is syntax so m própria normalちょっと scripts normally works for an im in mirrored so this is stump I know I should PCB I will show you simple things. Any parameter should be placed in the first instance. Rules to naming a function are similar to that of naming variables. We have talked about the variables as to how to name them. Here we are exactly the same. Any statements and other code with the function should be indented. Indented means this space should come. If we use it, if there is anything inside, it will be more indented. And so on. How to call a function? Call it in a way that you can call this grater. What will be done here? And execute this logic for the Indo Valley. This is the node and the Rt. So the node and Rt will execute here. Okay? Simple thing. This is the basic function. I hope you understood. If you understood, then comment on it. If you have not seen and haven't seen it, then comment on it. I know that you have not seen it. If you have not seen it, then comment on it. See it again. If you have seen it with me, then you can see it. And if you have seen it with me, then see it with me. So, see it with me. Okay? If you have already seen this video, then do access to the playlist. Thank you so much for watching this video. And I will see you next time. Bye."
+}

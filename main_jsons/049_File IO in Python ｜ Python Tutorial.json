@@ -1,0 +1,445 @@
+{
+  "video_number": 49,
+  "title": "File IO in Python ｜ Python Tutorial",
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "start": 0.0,
+      "end": 14.34,
+      "text": "So, if we don't see a lot of things about Python programming Today I will tell you that it was sent to a file Because in a very important concept of Python How to open a file? How to do it in the right way? How to do it in the text file?"
+    },
+    {
+      "chunk_number": 2,
+      "start": 14.34,
+      "end": 24.94,
+      "text": "That text file? It can be a binary file In that case, I will tell you all about it today Let's go to the video screen And let's get started"
+    },
+    {
+      "chunk_number": 3,
+      "start": 30.0,
+      "end": 53.5,
+      "text": "So, Python's file is built in the method of filing You can see that I will make a Python file So that you can understand it very easily Then we will see how to open a file in Python When we talk about the file, the first thing that we ask for is a text file"
+    },
+    {
+      "chunk_number": 4,
+      "start": 53.5,
+      "end": 69.68,
+      "text": "It can be a binary file, a text file, and a text file Which can be a textual content But for now, we see a very simple way To see how to do a file handling in Python So, Python provides several waste manblade files"
+    },
+    {
+      "chunk_number": 5,
+      "start": 69.68,
+      "end": 83.36,
+      "text": "Today we will discuss about a file To open a file, you can use open method So, you can simply say F is equal to open my file.txt Now, I will run the file.txt"
+    },
+    {
+      "chunk_number": 6,
+      "start": 83.36,
+      "end": 94.24000000000001,
+      "text": "So, I will see the error here You can see here that How to open my file.txt? How to open a file? So, Python is going to say this"
+    },
+    {
+      "chunk_number": 7,
+      "start": 94.24000000000001,
+      "end": 102.48,
+      "text": "Now, look here Python provides open function to open a file It takes two arguments What is the name of the file? And the second argument is the mode"
+    },
+    {
+      "chunk_number": 8,
+      "start": 102.48,
+      "end": 112.32000000000001,
+      "text": "In which the file wants to open The mode can be R for reading W for writing And A for appending That is, you can read a file"
+    },
+    {
+      "chunk_number": 9,
+      "start": 112.32000000000001,
+      "end": 122.72,
+      "text": "You can write it from W And you can append it in that file So, you can add additional content in that file At the end of the file You can do it from Append mode"
+    },
+    {
+      "chunk_number": 10,
+      "start": 122.72,
+      "end": 132.92000000000002,
+      "text": "Here, write this Okay, so, all these things will be done I will tell you one more thing If I want to open this file, I can make it Okay, so, I will do one thing here"
+    },
+    {
+      "chunk_number": 11,
+      "start": 132.92000000000002,
+      "end": 143.72,
+      "text": "I will make a new file In this name, I will put my file.txt In this, I will write content in it Hey, Harry, awesome man Okay, I will write this"
+    },
+    {
+      "chunk_number": 12,
+      "start": 143.72,
+      "end": 156.52,
+      "text": "And here, I will open the main.py from the second And I will run this program This program will not do an error Why not? Hey, I have my file.txt"
+    },
+    {
+      "chunk_number": 13,
+      "start": 156.52,
+      "end": 167.12,
+      "text": "But I have made a variable here And I have opened the file I have not printed anything I have not done anything Let me print the file and see what scene it is"
+    },
+    {
+      "chunk_number": 14,
+      "start": 167.12,
+      "end": 178.12,
+      "text": "So, if I print the file Then see, there is something here Print is right, text is right Now, I will not remove this file's content How to read content"
+    },
+    {
+      "chunk_number": 15,
+      "start": 178.12,
+      "end": 187.12,
+      "text": "So, what will I do here? I will say text is equal to F.read And after that, F.close What I have done I want to tell you"
+    },
+    {
+      "chunk_number": 16,
+      "start": 187.12,
+      "end": 196.12,
+      "text": "So, I will print it quickly I will print it instead of printing F There is no point in printing it I want to print it I will print the text file content"
+    },
+    {
+      "chunk_number": 17,
+      "start": 196.12,
+      "end": 206.12,
+      "text": "Because I have done it You can see, in this scene, Harry, awesome man This is the same content that I have My file.txt So, you have seen"
+    },
+    {
+      "chunk_number": 18,
+      "start": 206.12,
+      "end": 220.12,
+      "text": "F.read and I have extracted the text file content If I opened it in the right mode Then I would extract the content of this file Absolutely not You can say, you cannot read it"
+    },
+    {
+      "chunk_number": 19,
+      "start": 220.12,
+      "end": 228.12,
+      "text": "You have opened it in the right mode Remember, I will write it in the first And then you have to read it It is wrong So, this is the thing"
+    },
+    {
+      "chunk_number": 20,
+      "start": 228.12,
+      "end": 238.12,
+      "text": "So, if you want to read it, then Or use it Write it and use it in W And then, you have to write it in your own words It is not that you have opened it in the right mode"
+    },
+    {
+      "chunk_number": 21,
+      "start": 238.12,
+      "end": 248.12,
+      "text": "And read it and then you have to write it in the right mode And then you have to write it in the right mode No, sir, this will not work I will print it again So, you can see here, Harry, awesome man"
+    },
+    {
+      "chunk_number": 22,
+      "start": 248.12,
+      "end": 257.12,
+      "text": "It is written here So, this is the same content It is correct Now, we have seen the first argument of the file I have understood it"
+    },
+    {
+      "chunk_number": 23,
+      "start": 257.12,
+      "end": 267.12,
+      "text": "Yes, Harry, it is correct It is a bit crazy But this is the second argument What is the story of the mode? It means, you are saying R"
+    },
+    {
+      "chunk_number": 24,
+      "start": 267.12,
+      "end": 274.12,
+      "text": "You are saying W You are saying R R, tell me about it So, let me tell you Read mode Open the file for reading only in Gaves and Error"
+    },
+    {
+      "chunk_number": 25,
+      "start": 274.12,
+      "end": 284.12,
+      "text": "If the file does not exist If you saw it, we did not do the TXT We were trying to open it But error came Now, if you say"
+    },
+    {
+      "chunk_number": 26,
+      "start": 284.12,
+      "end": 294.12,
+      "text": "I will open the door of the house So, you will not do the TXT How will you open the door? How will you open it? So, this file also exists"
+    },
+    {
+      "chunk_number": 27,
+      "start": 294.12,
+      "end": 304.12,
+      "text": "Okay, then we will do it We have made a new file What happens in the next file? It will be the same But, Philharl will not do the TXT"
+    },
+    {
+      "chunk_number": 28,
+      "start": 304.12,
+      "end": 313.12,
+      "text": "This is the default mode If no mode is passed as a parameter This is very interesting, y'all If I try to do it like this And try to run it"
+    },
+    {
+      "chunk_number": 29,
+      "start": 313.12,
+      "end": 323.12,
+      "text": "Interestingly, this program works Why? Because R mode defaults Okay So, I will do the TXT Because I want to keep the specify"
+    },
+    {
+      "chunk_number": 30,
+      "start": 323.12,
+      "end": 331.12,
+      "text": "I am opening the read mode Okay Okay, we have done the right mode If we want to do the right, we will open it in a file In the right mode"
+    },
+    {
+      "chunk_number": 31,
+      "start": 331.12,
+      "end": 341.12,
+      "text": "Or if we want to create a new file We can do it too Okay, if I do the W here I will run it My file 2 will be turned here"
+    },
+    {
+      "chunk_number": 32,
+      "start": 341.12,
+      "end": 353.12,
+      "text": "Okay, then you should know If you have opened a file in the right mode Which does not exist Then it will be turned Okay, awesome"
+    },
+    {
+      "chunk_number": 33,
+      "start": 353.12,
+      "end": 363.12,
+      "text": "What is the app mode? You want to append You want to write in the end of the file And make the content of the file Like I said"
+    },
+    {
+      "chunk_number": 34,
+      "start": 363.12,
+      "end": 376.12,
+      "text": "If the file is turned in the right mode And it will break the content I don't want I want to add content in the end of the file So, what I will do to do is"
+    },
+    {
+      "chunk_number": 35,
+      "start": 376.12,
+      "end": 385.12,
+      "text": "Open the app and mode What is the create mode? This is X mode There is a file created And if the file is already present"
+    },
+    {
+      "chunk_number": 36,
+      "start": 385.12,
+      "end": 394.12,
+      "text": "Then it will be error Okay, then I will explain about T and B Apart from these modes We have already seen We specify this"
+    },
+    {
+      "chunk_number": 37,
+      "start": 394.12,
+      "end": 404.12,
+      "text": "How the file reads Like if I do RT I will say T It means that I want to open the text file Which is by default"
+    },
+    {
+      "chunk_number": 38,
+      "start": 404.12,
+      "end": 412.12,
+      "text": "I need to apply T If I apply B Then I am saying that Open it when it is binary This is a binary file"
+    },
+    {
+      "chunk_number": 39,
+      "start": 412.12,
+      "end": 421.12,
+      "text": "So, the content will be binary You can see that it is coming from the form of bytes Okay So, I will also use RB When I open a binary file"
+    },
+    {
+      "chunk_number": 40,
+      "start": 421.12,
+      "end": 431.12,
+      "text": "Like JPG file I will open it Or PDF or EXC file But I need to read it Similarly, we have already read it"
+    },
+    {
+      "chunk_number": 41,
+      "start": 431.12,
+      "end": 443.12,
+      "text": "We can also write it I have told you about the file object And use various methods to read from the file I have also told you about the content of the text content in the file"
+    },
+    {
+      "chunk_number": 42,
+      "start": 443.12,
+      "end": 454.12,
+      "text": "Read lines will be in the next video But now we will talk about the file How to write it I want to write it in a file I will comment on this"
+    },
+    {
+      "chunk_number": 43,
+      "start": 454.12,
+      "end": 464.12,
+      "text": "I will write a comment here Reading a file I will write it here I will write it here I will write it here"
+    },
+    {
+      "chunk_number": 44,
+      "start": 464.12,
+      "end": 474.12,
+      "text": "I will write it here It will be a clarity I will close the caps lock And you can see that I have opened a file And after opening it"
+    },
+    {
+      "chunk_number": 45,
+      "start": 474.12,
+      "end": 484.12,
+      "text": "I want to add some textual component I want to say I will run it You can see here I want to add it"
+    },
+    {
+      "chunk_number": 46,
+      "start": 484.12,
+      "end": 494.12,
+      "text": "My file.Txt In fact, it was a file I wanted to add it in 2.Txt But now it is time I have already opened the content"
+    },
+    {
+      "chunk_number": 47,
+      "start": 494.12,
+      "end": 504.12,
+      "text": "Let me see what is visible here I have written in my file.Txt So I wrote it I wrote it in my file.Txt I have written it in W mode"
+    },
+    {
+      "chunk_number": 48,
+      "start": 504.12,
+      "end": 514.12,
+      "text": "I tried to write it But I did not write it Why is it being closed I have opened the right mode Keep in mind the writing"
+    },
+    {
+      "chunk_number": 49,
+      "start": 514.12,
+      "end": 524.12,
+      "text": "To a file will overwrite its content If you want to append it But what is happening here I have already explained the file.Txt Which is empty"
+    },
+    {
+      "chunk_number": 50,
+      "start": 524.12,
+      "end": 534.12,
+      "text": "I am trying to write it And I have also written it But after writing You can see that It is not in the content"
+    },
+    {
+      "chunk_number": 51,
+      "start": 534.12,
+      "end": 544.12,
+      "text": "Now it is important to write it in F.Close I will also write it in F.Close And now I will see it In F.Close, it is in Hello world If I open this file in Append mode"
+    },
+    {
+      "chunk_number": 52,
+      "start": 544.12,
+      "end": 554.12,
+      "text": "I will run it Just like this I will run it again I will run it again I will run it again"
+    },
+    {
+      "chunk_number": 53,
+      "start": 554.12,
+      "end": 564.12,
+      "text": "And it will be in Hello world I will run it again I will run it again I will run it again I will run it again"
+    },
+    {
+      "chunk_number": 54,
+      "start": 564.12,
+      "end": 576.12,
+      "text": "How to write the file You should know all these things If you want to handle a file If you want to learn in Python Now in another interesting way"
+    },
+    {
+      "chunk_number": 55,
+      "start": 576.12,
+      "end": 586.12,
+      "text": "Many people will argue In fact, they will argue That this method is boring First, make a F After that, what will you do"
+    },
+    {
+      "chunk_number": 56,
+      "start": 586.12,
+      "end": 596.12,
+      "text": "Write it in App.write And keep in mind the closing If you want to close You can use any fridge Whenever you use it"
+    },
+    {
+      "chunk_number": 57,
+      "start": 596.12,
+      "end": 606.12,
+      "text": "You can use cold water You can use cold water You can use many people You can use cold water But the good things are that"
+    },
+    {
+      "chunk_number": 58,
+      "start": 606.12,
+      "end": 616.12,
+      "text": "Close the fridge Close the fridge Open the fridge No Close the file"
+    },
+    {
+      "chunk_number": 59,
+      "start": 616.12,
+      "end": 626.12,
+      "text": "But in a way Open My file.txt I am doing exactly the same I can do it"
+    },
+    {
+      "chunk_number": 60,
+      "start": 626.12,
+      "end": 636.12,
+      "text": "And if I write it in the inside Like F.rite I am inside with If I write it in this way You will know"
+    },
+    {
+      "chunk_number": 61,
+      "start": 636.12,
+      "end": 646.12,
+      "text": "I don't need to close the app Use it with a bit statement And automatically close the file All the files should be used All the modes here"
+    },
+    {
+      "chunk_number": 62,
+      "start": 646.12,
+      "end": 656.12,
+      "text": "You can do it I am using my file.txt Open it in App mode And say, F.rite it in the inside"
+    },
+    {
+      "chunk_number": 63,
+      "start": 656.12,
+      "end": 666.12,
+      "text": "How do you see my file.txt? We all know If I run this program I will add a hello word And then"
+    },
+    {
+      "chunk_number": 64,
+      "start": 666.12,
+      "end": 676.12,
+      "text": "I am inside with But what is happening here I have an operation on closed file I will comment it I will add it"
+    },
+    {
+      "chunk_number": 65,
+      "start": 676.12,
+      "end": 686.12,
+      "text": "And here F is not defined So I have to add as I will also add it I didn't write as F"
+    },
+    {
+      "chunk_number": 66,
+      "start": 686.12,
+      "end": 696.12,
+      "text": "I can do this I closed it And then I will add it And then"
+    },
+    {
+      "chunk_number": 67,
+      "start": 696.12,
+      "end": 706.12,
+      "text": "I will add it And then I will add it And then I will add it"
+    },
+    {
+      "chunk_number": 68,
+      "start": 706.12,
+      "end": 716.68,
+      "text": "If you know how File handling can be done And then You can save it For File"
+    },
+    {
+      "chunk_number": 69,
+      "start": 716.68,
+      "end": 727.36,
+      "text": "You can over Write it in the inside You can use a temp You can use a LambdaData ADamn You can space for Pay Metaphor"
+    },
+    {
+      "chunk_number": 70,
+      "start": 727.36,
+      "end": 734.42,
+      "text": "You can use a gordet Just for page You can use the word Not families So it is a handy thing."
+    },
+    {
+      "chunk_number": 71,
+      "start": 734.42,
+      "end": 744.42,
+      "text": "So I hope you all understood How to do basic file in python In the next video I will tell you about more road check functions How to file handling"
+    },
+    {
+      "chunk_number": 72,
+      "start": 744.42,
+      "end": 754.42,
+      "text": "If you haven't yet So if you haven't yet So please do Thank you so much for watching this video And I will see you next time"
+    },
+    {
+      "chunk_number": 73,
+      "start": 762.42,
+      "end": 764.42,
+      "text": "Thanks for watching"
+    }
+  ],
+  "text": "So, if we don't see a lot of things about Python programming Today I will tell you that it was sent to a file Because in a very important concept of Python How to open a file? How to do it in the right way? How to do it in the text file? That text file? It can be a binary file In that case, I will tell you all about it today Let's go to the video screen And let's get started So, Python's file is built in the method of filing You can see that I will make a Python file So that you can understand it very easily Then we will see how to open a file in Python When we talk about the file, the first thing that we ask for is a text file It can be a binary file, a text file, and a text file Which can be a textual content But for now, we see a very simple way To see how to do a file handling in Python So, Python provides several waste manblade files Today we will discuss about a file To open a file, you can use open method So, you can simply say F is equal to open my file.txt Now, I will run the file.txt So, I will see the error here You can see here that How to open my file.txt? How to open a file? So, Python is going to say this Now, look here Python provides open function to open a file It takes two arguments What is the name of the file? And the second argument is the mode In which the file wants to open The mode can be R for reading W for writing And A for appending That is, you can read a file You can write it from W And you can append it in that file So, you can add additional content in that file At the end of the file You can do it from Append mode Here, write this Okay, so, all these things will be done I will tell you one more thing If I want to open this file, I can make it Okay, so, I will do one thing here I will make a new file In this name, I will put my file.txt In this, I will write content in it Hey, Harry, awesome man Okay, I will write this And here, I will open the main.py from the second And I will run this program This program will not do an error Why not? Hey, I have my file.txt But I have made a variable here And I have opened the file I have not printed anything I have not done anything Let me print the file and see what scene it is So, if I print the file Then see, there is something here Print is right, text is right Now, I will not remove this file's content How to read content So, what will I do here? I will say text is equal to F.read And after that, F.close What I have done I want to tell you So, I will print it quickly I will print it instead of printing F There is no point in printing it I want to print it I will print the text file content Because I have done it You can see, in this scene, Harry, awesome man This is the same content that I have My file.txt So, you have seen F.read and I have extracted the text file content If I opened it in the right mode Then I would extract the content of this file Absolutely not You can say, you cannot read it You have opened it in the right mode Remember, I will write it in the first And then you have to read it It is wrong So, this is the thing So, if you want to read it, then Or use it Write it and use it in W And then, you have to write it in your own words It is not that you have opened it in the right mode And read it and then you have to write it in the right mode And then you have to write it in the right mode No, sir, this will not work I will print it again So, you can see here, Harry, awesome man It is written here So, this is the same content It is correct Now, we have seen the first argument of the file I have understood it Yes, Harry, it is correct It is a bit crazy But this is the second argument What is the story of the mode? It means, you are saying R You are saying W You are saying R R, tell me about it So, let me tell you Read mode Open the file for reading only in Gaves and Error If the file does not exist If you saw it, we did not do the TXT We were trying to open it But error came Now, if you say I will open the door of the house So, you will not do the TXT How will you open the door? How will you open it? So, this file also exists Okay, then we will do it We have made a new file What happens in the next file? It will be the same But, Philharl will not do the TXT This is the default mode If no mode is passed as a parameter This is very interesting, y'all If I try to do it like this And try to run it Interestingly, this program works Why? Because R mode defaults Okay So, I will do the TXT Because I want to keep the specify I am opening the read mode Okay Okay, we have done the right mode If we want to do the right, we will open it in a file In the right mode Or if we want to create a new file We can do it too Okay, if I do the W here I will run it My file 2 will be turned here Okay, then you should know If you have opened a file in the right mode Which does not exist Then it will be turned Okay, awesome What is the app mode? You want to append You want to write in the end of the file And make the content of the file Like I said If the file is turned in the right mode And it will break the content I don't want I want to add content in the end of the file So, what I will do to do is Open the app and mode What is the create mode? This is X mode There is a file created And if the file is already present Then it will be error Okay, then I will explain about T and B Apart from these modes We have already seen We specify this How the file reads Like if I do RT I will say T It means that I want to open the text file Which is by default I need to apply T If I apply B Then I am saying that Open it when it is binary This is a binary file So, the content will be binary You can see that it is coming from the form of bytes Okay So, I will also use RB When I open a binary file Like JPG file I will open it Or PDF or EXC file But I need to read it Similarly, we have already read it We can also write it I have told you about the file object And use various methods to read from the file I have also told you about the content of the text content in the file Read lines will be in the next video But now we will talk about the file How to write it I want to write it in a file I will comment on this I will write a comment here Reading a file I will write it here I will write it here I will write it here I will write it here It will be a clarity I will close the caps lock And you can see that I have opened a file And after opening it I want to add some textual component I want to say I will run it You can see here I want to add it My file.Txt In fact, it was a file I wanted to add it in 2.Txt But now it is time I have already opened the content Let me see what is visible here I have written in my file.Txt So I wrote it I wrote it in my file.Txt I have written it in W mode I tried to write it But I did not write it Why is it being closed I have opened the right mode Keep in mind the writing To a file will overwrite its content If you want to append it But what is happening here I have already explained the file.Txt Which is empty I am trying to write it And I have also written it But after writing You can see that It is not in the content Now it is important to write it in F.Close I will also write it in F.Close And now I will see it In F.Close, it is in Hello world If I open this file in Append mode I will run it Just like this I will run it again I will run it again I will run it again And it will be in Hello world I will run it again I will run it again I will run it again I will run it again How to write the file You should know all these things If you want to handle a file If you want to learn in Python Now in another interesting way Many people will argue In fact, they will argue That this method is boring First, make a F After that, what will you do Write it in App.write And keep in mind the closing If you want to close You can use any fridge Whenever you use it You can use cold water You can use cold water You can use many people You can use cold water But the good things are that Close the fridge Close the fridge Open the fridge No Close the file But in a way Open My file.txt I am doing exactly the same I can do it And if I write it in the inside Like F.rite I am inside with If I write it in this way You will know I don't need to close the app Use it with a bit statement And automatically close the file All the files should be used All the modes here You can do it I am using my file.txt Open it in App mode And say, F.rite it in the inside How do you see my file.txt? We all know If I run this program I will add a hello word And then I am inside with But what is happening here I have an operation on closed file I will comment it I will add it And here F is not defined So I have to add as I will also add it I didn't write as F I can do this I closed it And then I will add it And then I will add it And then I will add it And then I will add it If you know how File handling can be done And then You can save it For File You can over Write it in the inside You can use a temp You can use a LambdaData ADamn You can space for Pay Metaphor You can use a gordet Just for page You can use the word Not families So it is a handy thing. So I hope you all understood How to do basic file in python In the next video I will tell you about more road check functions How to file handling If you haven't yet So if you haven't yet So please do Thank you so much for watching this video And I will see you next time Thanks for watching"
+}
