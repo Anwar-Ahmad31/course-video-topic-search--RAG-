@@ -1,0 +1,1088 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PyTutor AI — Autonomous Video Knowledge Engine</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-primary: #0a0c10;
+      --bg-secondary: #0f141c;
+      --bg-card: #151b26;
+      --bg-sidebar: #0c1017;
+      --bg-input: #121822;
+      --border: #222b3a;
+      --border-hover: #3b475c;
+      --accent: #3b82f6;
+      --accent-hover: #2563eb;
+      --accent-glow: rgba(59, 130, 246, 0.2);
+      --text-primary: #f3f4f6;
+      --text-secondary: #9ca3af;
+      --text-muted: #6b7280;
+      --success: #10b981;
+      --danger: #ef4444;
+      --user-bubble: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+      --bot-bubble: #151b26;
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    html, body {
+      height: 100%;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      overflow: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #263142; border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: #37455c; }
+
+    .app-layout {
+      display: flex;
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    /* ══════════════════════════════════════════════════════════════════
+       SIDEBAR
+    ══════════════════════════════════════════════════════════════════ */
+    .sidebar {
+      width: 320px;
+      min-width: 320px;
+      background: var(--bg-sidebar);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      transition: var(--transition);
+      z-index: 20;
+    }
+
+    .sidebar.collapsed {
+      width: 0;
+      min-width: 0;
+      overflow: hidden;
+      border-right: none;
+    }
+
+    .sidebar-brand {
+      padding: 20px 24px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .brand-logo {
+      width: 38px;
+      height: 38px;
+      border-radius: var(--radius-sm);
+      background: linear-gradient(135deg, #3b82f6 0%, #1e40af 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      font-weight: 700;
+      color: #ffffff;
+      box-shadow: 0 4px 12px var(--accent-glow);
+    }
+
+    .brand-meta h1 {
+      font-size: 15px;
+      font-weight: 700;
+      letter-spacing: -0.2px;
+    }
+
+    .brand-meta p {
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-top: 2px;
+      font-weight: 500;
+    }
+
+    .sidebar-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .sidebar-section-title {
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+    }
+
+    .stats-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    .stat-box {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 14px 12px;
+      text-align: center;
+      transition: var(--transition);
+    }
+
+    .stat-box:hover {
+      border-color: var(--border-hover);
+    }
+
+    .stat-value {
+      font-size: 22px;
+      font-weight: 700;
+      color: #ffffff;
+      font-feature-settings: "tnum";
+    }
+
+    .stat-label {
+      font-size: 11px;
+      color: var(--text-secondary);
+      margin-top: 4px;
+      font-weight: 500;
+    }
+
+    .control-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .control-row:last-child {
+      border-bottom: none;
+    }
+
+    .control-label {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+
+    .range-input {
+      width: 90px;
+      accent-color: var(--accent);
+      cursor: pointer;
+    }
+
+    .toggle-switch {
+      position: relative;
+      width: 36px;
+      height: 20px;
+      display: inline-block;
+    }
+
+    .toggle-switch input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+
+    .toggle-slider {
+      position: absolute;
+      cursor: pointer;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-color: var(--border);
+      transition: var(--transition);
+      border-radius: 20px;
+    }
+
+    .toggle-slider::before {
+      position: absolute;
+      content: "";
+      height: 14px;
+      width: 14px;
+      left: 3px;
+      bottom: 3px;
+      background-color: white;
+      transition: var(--transition);
+      border-radius: 50%;
+    }
+
+    .toggle-switch input:checked + .toggle-slider {
+      background-color: var(--accent);
+    }
+
+    .toggle-switch input:checked + .toggle-slider::before {
+      transform: translateX(16px);
+    }
+
+    .prompt-presets {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .preset-button {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 10px 12px;
+      font-size: 12px;
+      color: var(--text-secondary);
+      cursor: pointer;
+      text-align: left;
+      transition: var(--transition);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      line-height: 1.4;
+    }
+
+    .preset-button:hover {
+      background: var(--border);
+      color: var(--text-primary);
+      border-color: var(--border-hover);
+    }
+
+    .sidebar-footer {
+      padding: 16px 24px;
+      border-top: 1px solid var(--border);
+    }
+
+    .btn-reset {
+      width: 100%;
+      padding: 10px;
+      background: rgba(239, 68, 68, 0.08);
+      border: 1px solid rgba(239, 68, 68, 0.25);
+      border-radius: var(--radius-sm);
+      color: #f87171;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+
+    .btn-reset:hover {
+      background: rgba(239, 68, 68, 0.16);
+      border-color: rgba(239, 68, 68, 0.4);
+    }
+
+    /* ══════════════════════════════════════════════════════════════════
+       MAIN CONTENT
+    ══════════════════════════════════════════════════════════════════ */
+    .main-stage {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      min-width: 0;
+      background: var(--bg-primary);
+    }
+
+    .top-navbar {
+      height: 60px;
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: var(--bg-secondary);
+      flex-shrink: 0;
+    }
+
+    .nav-left {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .icon-button {
+      width: 34px;
+      height: 34px;
+      border-radius: var(--radius-sm);
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: var(--transition);
+    }
+
+    .icon-button:hover {
+      border-color: var(--border-hover);
+      color: var(--text-primary);
+    }
+
+    .nav-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .status-badge {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12px;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .pulse-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--success);
+      box-shadow: 0 0 10px rgba(16, 185, 129, 0.5);
+    }
+
+    /* ══════════════════════════════════════════════════════════════════
+       CHAT VIEWPORT
+    ══════════════════════════════════════════════════════════════════ */
+    .chat-scrollview {
+      flex: 1;
+      overflow-y: auto;
+      padding: 32px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .conversation-container {
+      max-width: 860px;
+      width: 100%;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .welcome-panel {
+      text-align: center;
+      padding: 60px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .welcome-logo-badge {
+      width: 64px;
+      height: 64px;
+      border-radius: var(--radius-lg);
+      background: linear-gradient(135deg, #1e40af 0%, #3b82f6 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 30px;
+      box-shadow: 0 12px 32px var(--accent-glow);
+    }
+
+    .welcome-panel h2 {
+      font-size: 26px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+    }
+
+    .welcome-panel p {
+      font-size: 14px;
+      color: var(--text-secondary);
+      max-width: 520px;
+      line-height: 1.6;
+    }
+
+    .capabilities-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+      max-width: 720px;
+      width: 100%;
+      margin-top: 10px;
+    }
+
+    .cap-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 18px 14px;
+      text-align: left;
+    }
+
+    .cap-card h4 {
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 6px;
+      color: #ffffff;
+    }
+
+    .cap-card p {
+      font-size: 12px;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    /* ══════════════════════════════════════════════════════════════════
+       MESSAGES
+    ══════════════════════════════════════════════════════════════════ */
+    .message-row {
+      display: flex;
+      gap: 14px;
+      width: 100%;
+    }
+
+    .message-row.user {
+      flex-direction: row-reverse;
+    }
+
+    .avatar-icon {
+      width: 34px;
+      height: 34px;
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      font-weight: 600;
+      flex-shrink: 0;
+    }
+
+    .message-row.user .avatar-icon {
+      background: var(--accent);
+      color: #ffffff;
+    }
+
+    .message-row.bot .avatar-icon {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+    }
+
+    .message-body {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      max-width: 80%;
+    }
+
+    .message-bubble {
+      padding: 14px 18px;
+      border-radius: var(--radius-md);
+      font-size: 14px;
+      line-height: 1.65;
+      word-break: break-word;
+    }
+
+    .message-row.user .message-bubble {
+      background: var(--user-bubble);
+      color: #ffffff;
+      border-bottom-right-radius: 4px;
+    }
+
+    .message-row.bot .message-bubble {
+      background: var(--bot-bubble);
+      border: 1px solid var(--border);
+      color: var(--text-primary);
+      border-bottom-left-radius: 4px;
+    }
+
+    .message-bubble code {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12.5px;
+      background: rgba(0, 0, 0, 0.3);
+      padding: 2px 6px;
+      border-radius: 4px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .message-bubble pre {
+      background: #080a0e;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 14px 16px;
+      overflow-x: auto;
+      margin: 10px 0;
+    }
+
+    .message-bubble pre code {
+      background: none;
+      padding: 0;
+      border: none;
+      font-size: 13px;
+    }
+
+    .meta-timestamp {
+      font-size: 11px;
+      color: var(--text-muted);
+      padding: 0 4px;
+    }
+
+    .message-row.user .meta-timestamp {
+      text-align: right;
+    }
+
+    /* ══════════════════════════════════════════════════════════════════
+       SOURCE ACCORDION
+    ══════════════════════════════════════════════════════════════════ */
+    .sources-wrapper {
+      margin-top: 4px;
+    }
+
+    .sources-trigger {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      border-radius: 20px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      font-size: 12px;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: var(--transition);
+      font-weight: 500;
+    }
+
+    .sources-trigger:hover {
+      border-color: var(--accent);
+      color: var(--text-primary);
+    }
+
+    .sources-container {
+      display: none;
+      flex-direction: column;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .sources-container.expanded {
+      display: flex;
+    }
+
+    .source-item {
+      background: #0e121a;
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--accent);
+      border-radius: var(--radius-sm);
+      padding: 12px 14px;
+    }
+
+    .source-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 12.5px;
+      font-weight: 600;
+      color: #ffffff;
+      margin-bottom: 4px;
+    }
+
+    .match-pill {
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 10px;
+      background: rgba(59, 130, 246, 0.15);
+      color: #60a5fa;
+      font-weight: 500;
+    }
+
+    .source-timestamp {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .source-snippet {
+      font-size: 12px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+      margin-top: 8px;
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
+      padding-top: 6px;
+    }
+
+    /* ══════════════════════════════════════════════════════════════════
+       TYPING INDICATOR
+    ══════════════════════════════════════════════════════════════════ */
+    .typing-indicator {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      padding: 14px 18px;
+    }
+
+    .typing-circle {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--text-muted);
+      animation: bounce 1.4s infinite ease-in-out;
+    }
+
+    .typing-circle:nth-child(2) { animation-delay: 0.2s; }
+    .typing-circle:nth-child(3) { animation-delay: 0.4s; }
+
+    @keyframes bounce {
+      0%, 80%, 100% { transform: scale(0.6); opacity: 0.3; }
+      40% { transform: scale(1); opacity: 1; }
+    }
+
+    /* ══════════════════════════════════════════════════════════════════
+       INPUT DOCK
+    ══════════════════════════════════════════════════════════════════ */
+    .dock-container {
+      padding: 16px 24px 20px;
+      background: var(--bg-secondary);
+      border-top: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+
+    .dock-form {
+      max-width: 860px;
+      margin: 0 auto;
+      display: flex;
+      gap: 10px;
+      align-items: flex-end;
+    }
+
+    .input-wrapper {
+      flex: 1;
+      background: var(--bg-input);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 12px 16px;
+      transition: var(--transition);
+      display: flex;
+      align-items: flex-end;
+    }
+
+    .input-wrapper:focus-within {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+
+    .chat-textarea {
+      width: 100%;
+      background: transparent;
+      border: none;
+      outline: none;
+      color: var(--text-primary);
+      font-size: 14px;
+      font-family: inherit;
+      resize: none;
+      line-height: 1.5;
+      max-height: 140px;
+    }
+
+    .chat-textarea::placeholder {
+      color: var(--text-muted);
+    }
+
+    .btn-send {
+      width: 44px;
+      height: 44px;
+      background: var(--accent);
+      border: none;
+      border-radius: var(--radius-md);
+      color: #ffffff;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: var(--transition);
+      flex-shrink: 0;
+    }
+
+    .btn-send:hover {
+      background: var(--accent-hover);
+    }
+
+    .btn-send:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    .dock-footnote {
+      text-align: center;
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-top: 8px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .sidebar { position: fixed; height: 100%; }
+      .capabilities-grid { grid-template-columns: 1fr; }
+      .message-body { max-width: 90%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-layout">
+    <!-- SIDEBAR -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-brand">
+        <div class="brand-logo">&#955;</div>
+        <div class="brand-meta">
+          <h1>PyTutor AI</h1>
+          <p>Lecture Knowledge Engine</p>
+        </div>
+      </div>
+
+      <div class="sidebar-content">
+        <section>
+          <div class="sidebar-section-title">Knowledge Base Telemetry</div>
+          <div class="stats-container">
+            <div class="stat-box">
+              <div class="stat-value" id="val-modules">--</div>
+              <div class="stat-label">Modules</div>
+            </div>
+            <div class="stat-box">
+              <div class="stat-value" id="val-chunks">--</div>
+              <div class="stat-label">Chunks</div>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <div class="sidebar-section-title">Retrieval Controls</div>
+          <div class="control-row">
+            <span class="control-label">Search Depth (Top K)</span>
+            <input type="range" class="range-input" id="cfg-topk" min="1" max="8" value="4" />
+            <span class="control-label" id="val-topk" style="width: 20px; text-align: right;">4</span>
+          </div>
+          <div class="control-row">
+            <span class="control-label">Display Citations</span>
+            <label class="toggle-switch">
+              <input type="checkbox" id="cfg-sources" checked />
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+          <div class="control-row">
+            <span class="control-label">Transcript Snippets</span>
+            <label class="toggle-switch">
+              <input type="checkbox" id="cfg-preview" />
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+        </section>
+
+        <section>
+          <div class="sidebar-section-title">Recommended Inquiries</div>
+          <div class="prompt-presets" id="preset-list"></div>
+        </section>
+      </div>
+
+      <div class="sidebar-footer">
+        <button class="btn-reset" onclick="resetConversation()">Clear Conversation History</button>
+      </div>
+    </aside>
+
+    <!-- MAIN VIEWPORT -->
+    <main class="main-stage">
+      <header class="top-navbar">
+        <div class="nav-left">
+          <button class="icon-button" onclick="toggleSidebar()" aria-label="Toggle Sidebar">&#9776;</button>
+          <span class="nav-title">Python Technical Assistant</span>
+        </div>
+        <div class="nav-right">
+          <div class="status-badge">
+            <span class="pulse-dot" id="system-dot"></span>
+            <span id="system-status">Connected</span>
+          </div>
+        </div>
+      </header>
+
+      <div class="chat-scrollview" id="chat-viewport">
+        <div class="conversation-container" id="conversation-stage">
+          <!-- Dynamic Conversation Stream -->
+        </div>
+      </div>
+
+      <div class="dock-container">
+        <div class="dock-form">
+          <div class="input-wrapper">
+            <textarea
+              id="prompt-input"
+              class="chat-textarea"
+              rows="1"
+              placeholder="Ask an inquiry regarding the Python lecture course..."
+              onkeydown="handleKeyNavigation(event)"
+            ></textarea>
+          </div>
+          <button class="btn-send" id="submit-btn" onclick="submitQuery()" aria-label="Submit Question">&#10148;</button>
+        </div>
+        <div class="dock-footnote">
+          Press <b>Enter</b> to transmit &bull; <b>Shift + Enter</b> for line wrap
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    const API_BASE = window.location.origin;
+    let isProcessing = false;
+
+    const PRESET_INQUIRIES = [
+      "What is string immutability in Python?",
+      "Explain the operational mechanics of recursion.",
+      "What distinguishes a list from a tuple?",
+      "How are custom exceptions structured and raised?",
+      "How do decorators modify function execution?",
+      "Describe the role and behavior of lambda functions."
+    ];
+
+    document.addEventListener("DOMContentLoaded", () => {
+      fetchCorpusTelemetry();
+      renderPresetInquiries();
+      mountWelcomeView();
+      bindInputDynamicResize(document.getElementById("prompt-input"));
+
+      document.getElementById("cfg-topk").addEventListener("input", (e) => {
+        document.getElementById("val-topk").textContent = e.target.value;
+      });
+    });
+
+    async function fetchCorpusTelemetry() {
+      try {
+        const response = await fetch(`${API_BASE}/corpus/stats`);
+        const data = await response.json();
+        document.getElementById("val-modules").textContent = data.total_videos || "--";
+        document.getElementById("val-chunks").textContent = data.total_chunks || "--";
+        updateSystemHealth(true);
+      } catch {
+        updateSystemHealth(false);
+      }
+    }
+
+    function updateSystemHealth(isHealthy) {
+      const dot = document.getElementById("system-dot");
+      const label = document.getElementById("system-status");
+      if (isHealthy) {
+        dot.style.background = "var(--success)";
+        dot.style.boxShadow = "0 0 10px rgba(16, 185, 129, 0.5)";
+        label.textContent = "Service Online";
+      } else {
+        dot.style.background = "var(--danger)";
+        dot.style.boxShadow = "0 0 10px rgba(239, 68, 68, 0.5)";
+        label.textContent = "Service Offline";
+      }
+    }
+
+    function mountWelcomeView() {
+      const stage = document.getElementById("conversation-stage");
+      stage.innerHTML = `
+        <div class="welcome-panel">
+          <div class="welcome-logo-badge">&#955;</div>
+          <h2>Enterprise Lecture Knowledge Assistant</h2>
+          <p>Context-grounded technical Q&A synthesizing indexed lecture transcripts with source timestamp traceability.</p>
+          <div class="capabilities-grid">
+            <div class="cap-card">
+              <h4>Context-Grounded</h4>
+              <p>Strictly bounded to lecture transcripts with zero hallucinations.</p>
+            </div>
+            <div class="cap-card">
+              <h4>Citation Tracing</h4>
+              <p>Exact module numbers and runtime second markers for each answer.</p>
+            </div>
+            <div class="cap-card">
+              <h4>Semantic Search</h4>
+              <p>1024-dimensional normalized vector retrieval via BGE-M3.</p>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    function renderPresetInquiries() {
+      const list = document.getElementById("preset-list");
+      list.innerHTML = PRESET_INQUIRIES.map((item) => `
+        <button class="preset-button" onclick="executePreset('${item.replace(/'/g, "\\'")}')">
+          <span>&rsaquo;</span> ${item}
+        </button>
+      `).join("");
+    }
+
+    function executePreset(inquiry) {
+      document.getElementById("prompt-input").value = inquiry;
+      submitQuery();
+    }
+
+    function toggleSidebar() {
+      document.getElementById("sidebar").classList.toggle("collapsed");
+    }
+
+    function resetConversation() {
+      mountWelcomeView();
+    }
+
+    async function submitQuery() {
+      const input = document.getElementById("prompt-input");
+      const query = input.value.trim();
+      if (!query || isProcessing) return;
+
+      isProcessing = true;
+      input.value = "";
+      input.style.height = "auto";
+      document.getElementById("submit-btn").disabled = true;
+
+      const welcome = document.querySelector(".welcome-panel");
+      if (welcome) welcome.remove();
+
+      const stage = document.getElementById("conversation-stage");
+      stage.innerHTML += renderMessageRow("user", query);
+
+      const placeholderId = `loading-${Date.now()}`;
+      stage.innerHTML += `
+        <div class="message-row bot" id="${placeholderId}">
+          <div class="avatar-icon">&#955;</div>
+          <div class="message-body">
+            <div class="message-bubble">
+              <div class="typing-indicator">
+                <div class="typing-circle"></div>
+                <div class="typing-circle"></div>
+                <div class="typing-circle"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      `;
+      autoScrollToBottom();
+
+      try {
+        const topK = parseInt(document.getElementById("cfg-topk").value, 10);
+        const res = await fetch(`${API_BASE}/ask`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ question: query, top_k: topK })
+        });
+        const payload = await res.json();
+
+        const indicator = document.getElementById(placeholderId);
+        if (indicator) indicator.remove();
+
+        const showCitations = document.getElementById("cfg-sources").checked;
+        const showPreview = document.getElementById("cfg-preview").checked;
+        stage.innerHTML += renderMessageRow("bot", payload.answer, showCitations ? payload.sources : null, showPreview);
+        updateSystemHealth(true);
+      } catch (err) {
+        const indicator = document.getElementById(placeholderId);
+        if (indicator) indicator.remove();
+        stage.innerHTML += renderMessageRow("bot", "Unable to complete request. Please verify network connectivity to the knowledge service.");
+        updateSystemHealth(false);
+      }
+
+      autoScrollToBottom();
+      isProcessing = false;
+      document.getElementById("submit-btn").disabled = false;
+      input.focus();
+    }
+
+    function renderMessageRow(role, content, sources, showPreview) {
+      const timestamp = new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+      const avatar = role === "user" ? "U" : "&#955;";
+
+      let formatted = escapeHTML(content);
+      formatted = formatted.replace(/```(\w*)\n([\s\S]*?)```/g, "<pre><code>$2</code></pre>");
+      formatted = formatted.replace(/`([^`]+)`/g, "<code>$1</code>");
+      formatted = formatted.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+      formatted = formatted.replace(/\n/g, "<br>");
+
+      let citationsHTML = "";
+      if (sources && sources.length > 0) {
+        const cid = `cite-${Date.now()}`;
+        const items = sources.map((s) => {
+          const startMin = Math.floor(s.start / 60);
+          const startSec = String(Math.floor(s.start % 60)).padStart(2, "0");
+          const endMin = Math.floor(s.end / 60);
+          const endSec = String(Math.floor(s.end % 60)).padStart(2, "0");
+          const timeRange = `${startMin}:${startSec} - ${endMin}:${endSec}`;
+          const snippetHTML = showPreview && s.text ? `<div class="source-snippet">${escapeHTML(s.text)}</div>` : "";
+
+          return `
+            <div class="source-item">
+              <div class="source-head">
+                <span>Module ${s.video_number}: ${escapeHTML(s.title)}</span>
+                <span class="match-pill">${Math.round(s.score * 100)}% Match</span>
+              </div>
+              <div class="source-timestamp">Interval: ${timeRange}</div>
+              ${snippetHTML}
+            </div>
+          `;
+        }).join("");
+
+        citationsHTML = `
+          <div class="sources-wrapper">
+            <button class="sources-trigger" onclick="toggleCitations('${cid}', this)">
+              <span>&#9776;</span> ${sources.length} Referenced Citations
+            </button>
+            <div class="sources-container" id="${cid}">${items}</div>
+          </div>
+        `;
+      }
+
+      return `
+        <div class="message-row ${role}">
+          <div class="avatar-icon">${avatar}</div>
+          <div class="message-body">
+            <div class="message-bubble">${formatted}</div>
+            ${role === "bot" ? citationsHTML : ""}
+            <div class="meta-timestamp">${timestamp}</div>
+          </div>
+        </div>
+      `;
+    }
+
+    function toggleCitations(id, btn) {
+      const container = document.getElementById(id);
+      container.classList.toggle("expanded");
+    }
+
+    function autoScrollToBottom() {
+      const viewport = document.getElementById("chat-viewport");
+      requestAnimationFrame(() => {
+        viewport.scrollTop = viewport.scrollHeight;
+      });
+    }
+
+    function handleKeyNavigation(event) {
+      if (event.key === "Enter" && !event.shiftKey) {
+        event.preventDefault();
+        submitQuery();
+      }
+    }
+
+    function bindInputDynamicResize(textarea) {
+      textarea.addEventListener("input", () => {
+        textarea.style.height = "auto";
+        textarea.style.height = `${Math.min(textarea.scrollHeight, 140)}px`;
+      });
+    }
+
+    function escapeHTML(str) {
+      const p = document.createElement("p");
+      p.textContent = str;
+      return p.innerHTML;
+    }
+  </script>
+</body>
+</html>

@@ -1,13 +1,22 @@
-# ─── Large binary / media files ───────────────────────────────────────────────
+# ─── Large media files (Not needed in deployment) ───────────────────────────────
 videos/
 audios/
+*.mp4
+*.mp3
+*.part
 
-# ─── Generated data (too large for Git — regenerate by running the notebooks) ─
-jsons/
-main_embedded_jsons/
-
-# ─── Prototype / archive folder ───────────────────────────────────────────────
+# ─── Prototype / archive / personal files ──────────────────────────────────────
 un_use_file/
+jsons/
+RAG_Interview_Questions_Master_Guide.pdf
+start.bat
+requirements_app.txt
+frontend/streamlit_app.py
+DEPLOYMENT_GUIDE.md
+
+# ─── Environment & Secrets ───────────────────────────────────────────────────
+.env
+*.env.local
 
 # ─── Jupyter internals ────────────────────────────────────────────────────────
 .ipynb_checkpoints/
@@ -24,16 +33,9 @@ __pycache__/
 venv/
 env/
 
-# ─── Partially downloaded files ───────────────────────────────────────────────
-*.part
-
-# ─── OS files ─────────────────────────────────────────────────────────────────
+# ─── OS & IDE ─────────────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# ─── Editor / IDE ─────────────────────────────────────────────────────────────
 .vscode/
 .idea/
-*.swp
-*.swo
