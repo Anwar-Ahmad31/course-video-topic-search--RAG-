@@ -336,9 +336,11 @@ def split_questions(question: str) -> List[str]:
 
 def generate_with_groq(context: str, question: str) -> str:
     """Execute high-throughput inference via Groq Cloud API."""
-    api_key = os.getenv("GROQ_API_KEY", GROQ_API_KEY).strip()
+    api_key = os.getenv("GROQ_API_KEY", "").strip() or GROQ_API_KEY.strip()
     if not api_key:
         raise ValueError("GROQ_API_KEY environment variable is not defined.")
+
+    model_name = os.getenv("GROQ_MODEL", "").strip() or "llama-3.3-70b-versatile"
 
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {
@@ -346,7 +348,7 @@ def generate_with_groq(context: str, question: str) -> str:
         "Content-Type": "application/json",
     }
     payload = {
-        "model": os.getenv("GROQ_MODEL", GROQ_MODEL),
+        "model": model_name,
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": USER_PROMPT.format(context=context, question=question)},
@@ -356,7 +358,10 @@ def generate_with_groq(context: str, question: str) -> str:
     }
 
     resp = requests.post(url, headers=headers, json=payload, timeout=30)
-    resp.raise_for_status()
+    if not resp.ok:
+        logger.error("Groq API error response: %s %s", resp.status_code, resp.text)
+        raise RuntimeError(f"Groq API returned status {resp.status_code}: {resp.text}")
+
     return resp.json()["choices"][0]["message"]["content"]
 
 
@@ -377,17 +382,21 @@ def generate_with_ollama(context: str, question: str) -> str:
 
 def generate(context: str, question: str) -> str:
     """Dispatch generation to primary cloud provider with local daemon fallback."""
-    api_key = os.getenv("GROQ_API_KEY", GROQ_API_KEY).strip()
+    api_key = os.getenv("GROQ_API_KEY", "").strip() or GROQ_API_KEY.strip()
+    
+    # In cloud environments, prioritize Groq and report Groq errors directly
     if api_key:
         try:
             return generate_with_groq(context, question)
         except Exception as err:
-            logger.warning("Groq inference failure: %s. Attempting fallback...", err)
+            logger.error("Groq inference failure: %s", err)
+            return f"Error with AI generation service: {err}"
 
+    # Only attempt local Ollama if NO Groq API key is configured (local offline dev)
     try:
         return generate_with_ollama(context, question)
     except Exception as err:
-        return f"Service unavailable: Unable to communicate with language model runtime. ({err})"
+        return f"Service unavailable: No cloud API key configured and local Ollama daemon is offline. ({err})"
 
 
 # ══════════════════════════════════════════════════════════════════════════════
