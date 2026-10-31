@@ -39,7 +39,7 @@ BASE_DIR: Path = Path(__file__).resolve().parent.parent
 EMBEDDINGS_DIR: Path = BASE_DIR / "main_embedded_jsons"
 
 GROQ_API_KEY: str = os.getenv("GROQ_API_KEY", "")
-GROQ_MODEL: str = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+GROQ_MODEL: str = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
 
 OLLAMA_URL: str = os.getenv("OLLAMA_URL", "http://localhost:11434")
 EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "bge-m3")
@@ -340,7 +340,7 @@ def generate_with_groq(context: str, question: str) -> str:
     if not api_key:
         raise ValueError("GROQ_API_KEY environment variable is not defined.")
 
-    model_name = os.getenv("GROQ_MODEL", "").strip() or "llama-3.3-70b-versatile"
+    model_name = os.getenv("GROQ_MODEL", "").strip() or "llama-3.1-8b-instant"
 
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {
