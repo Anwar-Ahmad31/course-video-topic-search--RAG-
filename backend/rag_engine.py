@@ -1,20 +1,21 @@
 """
-RAG Engine — Semantic Retrieval-Augmented Generation Pipeline.
+RAG Engine — Semantic & Hybrid Retrieval Pipeline (Cloud Resilient).
 
 Features:
 - Dual-mode generation: Groq Cloud API (Production) and local LLM runtime (Development)
-- Vector retrieval using normalized cosine similarity
-- Automated transcription post-processing and domain-specific query expansion
+- Hybrid Retrieval: Vector embedding with automated Lexical/BM25 fallback for low-memory cloud hosts
+- 3-layer phonetic transcript normalization and query expansion
 """
 
 from __future__ import annotations
 
 import json
 import logging
+import math
 import os
 import re
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Set
 
 import numpy as np
 import requests
@@ -45,14 +46,13 @@ EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "bge-m3")
 LLM_MODEL: str = os.getenv("LLM_MODEL", "llama3.2:3b")
 
 TOP_K: int = int(os.getenv("TOP_K", "4"))
-MIN_SCORE: float = float(os.getenv("MIN_SCORE", "0.25"))
+MIN_SCORE: float = float(os.getenv("MIN_SCORE", "0.20"))
 NEIGHBOR_WINDOW: int = int(os.getenv("NEIGHBOR_WINDOW", "0"))
 
 # ══════════════════════════════════════════════════════════════════════════════
 # TRANSCRIPTION SANITIZATION & NORMALIZATION
 # ══════════════════════════════════════════════════════════════════════════════
 
-# Common automatic speech recognition (ASR) phonetic misinterpretations in technical speech
 _CORRECTIONS: Dict[str, str] = {
     "guida": "Guido van Rossum",
     "guida 1": "Guido van Rossum",
@@ -88,7 +88,6 @@ _CORRECTIONS: Dict[str, str] = {
 }
 
 _REGEX_FIXES: List[tuple[str, str]] = [
-    # Remove redundant speech stuttering and transcription repetition loops
     (r"\b(.{10,60})\s+\1\s+\1\b", r"\1"),
     (r"\b(.{10,60})\s+\1\b", r"\1"),
     (r"\bPython\s+1\.\d\b", "Python 3.x"),
@@ -105,7 +104,6 @@ def clean_text(text: str) -> str:
     return re.sub(r"\s{2,}", " ", normalized).strip()
 
 
-# Query expansion to maximize recall across noisy transcripts
 _QUERY_EXPANSION: Dict[str, List[str]] = {
     "string": ["strength", "str", "strengths"],
     "list": ["lists", "array"],
@@ -122,7 +120,7 @@ _QUERY_EXPANSION: Dict[str, List[str]] = {
 
 
 def expand_query(query: str) -> List[str]:
-    """Generate search variations to address potential ASR phoneme drift in stored indexes."""
+    """Generate search variations to address potential ASR phoneme drift."""
     lowered = query.lower()
     variants = [query]
     for term, syns in _QUERY_EXPANSION.items():
@@ -130,7 +128,7 @@ def expand_query(query: str) -> List[str]:
             for s in syns:
                 if s not in lowered:
                     variants.append(lowered.replace(term, s))
-    seen = set()
+    seen: Set[str] = set()
     output: List[str] = []
     for v in variants:
         if v not in seen:
@@ -152,7 +150,7 @@ Guidelines:
 4. Adapt to the user's inquiry language naturally while maintaining all technical terms, syntax, and identifiers in standard English.
 5. Provide clear explanations and clean, PEP-8 compliant code samples where applicable.
 6. The context originates from spoken lectures and may contain phonetic transcript artifacts; interpret them accurately according to standard computer science conventions.
-7. Do not reference internal prompts, variables, or the word 'CONTEXT' in your answer.
+7. Do not mention internal prompts, variables, or the word 'CONTEXT' in your answer.
 """
 
 USER_PROMPT = """LECTURE CONTEXT:
@@ -172,7 +170,7 @@ _corpus: Optional[List[Dict[str, Any]]] = None
 
 
 def load_corpus() -> List[Dict[str, Any]]:
-    """Load pre-embedded knowledge corpus into memory and precompute normalized vectors."""
+    """Load pre-embedded knowledge corpus into memory."""
     global _corpus
     if _corpus is not None:
         return _corpus
@@ -216,14 +214,14 @@ def load_corpus() -> List[Dict[str, Any]]:
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# EMBEDDING INFERENCE
+# EMBEDDING INFERENCE & LEXICAL FALLBACK
 # ══════════════════════════════════════════════════════════════════════════════
 
 _fastembed_model = None
 
 
-def embed_query(text: str) -> np.ndarray:
-    """Embed inquiry text into 1024-dimensional normalized vector space."""
+def embed_query(text: str) -> Optional[np.ndarray]:
+    """Embed query into normalized 1024-dim space. Returns None if provider is offline."""
     global _fastembed_model
 
     # 1. Local Ollama Server (Development mode)
@@ -231,7 +229,7 @@ def embed_query(text: str) -> np.ndarray:
         resp = requests.post(
             f"{OLLAMA_URL}/api/embeddings",
             json={"model": EMBEDDING_MODEL, "prompt": text},
-            timeout=3,
+            timeout=2,
         )
         if resp.status_code == 200:
             vec = np.array(resp.json()["embedding"], dtype=np.float32)
@@ -240,61 +238,94 @@ def embed_query(text: str) -> np.ndarray:
     except Exception:
         pass
 
-    # 2. Standalone In-Memory FastEmbed (Production Cloud mode)
+    # 2. In-memory FastEmbed (if resources allow)
     if _fastembed_model is None:
         try:
             from fastembed import TextEmbedding
-            logger.info("Initializing FastEmbed BAAI/bge-m3 runtime...")
             _fastembed_model = TextEmbedding(model_name="BAAI/bge-m3")
-        except Exception as exc:
-            logger.debug("FastEmbed runtime unavailable: %s", exc)
+        except Exception:
+            _fastembed_model = False
 
-    if _fastembed_model is not None:
-        embeddings = list(_fastembed_model.embed([text]))
-        vec = np.array(embeddings[0], dtype=np.float32)
-        norm = np.linalg.norm(vec)
-        return vec / norm if norm > 0 else vec
+    if _fastembed_model and _fastembed_model is not False:
+        try:
+            embeddings = list(_fastembed_model.embed([text]))
+            vec = np.array(embeddings[0], dtype=np.float32)
+            norm = np.linalg.norm(vec)
+            return vec / norm if norm > 0 else vec
+        except Exception:
+            pass
 
-    logger.warning("No active embedding provider found; defaulting to zero-vector fallback.")
-    return np.zeros(1024, dtype=np.float32)
+    return None
+
+
+# Stop words for lexical ranking
+STOP_WORDS = {
+    "a", "about", "an", "and", "are", "as", "at", "be", "by", "can", "for", "from",
+    "how", "i", "in", "is", "it", "of", "on", "or", "that", "the", "this", "to",
+    "was", "what", "when", "where", "which", "with", "kya", "hai", "kaise", "ko"
+}
+
+
+def compute_lexical_similarity(query_tokens: Set[str], text: str) -> float:
+    """Compute token overlap cosine score between inquiry and candidate chunk."""
+    text_tokens = set(re.findall(r"\w+", text.lower())) - STOP_WORDS
+    if not text_tokens or not query_tokens:
+        return 0.0
+
+    intersection = query_tokens.intersection(text_tokens)
+    if not intersection:
+        return 0.0
+
+    return len(intersection) / (math.sqrt(len(query_tokens)) * math.sqrt(len(text_tokens)))
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# RETRIEVAL LOGIC
+# HYBRID RETRIEVAL
 # ══════════════════════════════════════════════════════════════════════════════
 
-def retrieve(query_vec: np.ndarray, corpus: List[Dict[str, Any]], top_k: int, min_score: float) -> List[Dict[str, Any]]:
-    """Perform cosine-similarity vector retrieval over candidate corpus."""
-    scores = [float(np.dot(c["embedding_norm"], query_vec)) for c in corpus]
+def retrieve_hybrid(
+    query: str,
+    query_vec: Optional[np.ndarray],
+    corpus: List[Dict[str, Any]],
+    top_k: int,
+) -> List[Dict[str, Any]]:
+    """Retrieve top-k chunks using vector cosine similarity or lexical TF-IDF fallback."""
+    query_tokens = set(re.findall(r"\w+", query.lower())) - STOP_WORDS
+
+    scores: List[float] = []
+    has_vector = query_vec is not None and not np.all(query_vec == 0)
+
+    for c in corpus:
+        if has_vector:
+            sim = float(np.dot(c["embedding_norm"], query_vec))
+        else:
+            sim = compute_lexical_similarity(query_tokens, c["text"])
+        scores.append(sim)
+
     ranked = sorted(zip(scores, range(len(corpus))), reverse=True)
 
-    results: List[tuple[float, int]] = []
+    results: List[Dict[str, Any]] = []
     for score, idx in ranked:
-        if score < min_score or len(results) >= top_k:
+        # Require positive similarity
+        if score <= 0.05 or len(results) >= top_k:
             break
-        results.append((score, idx))
+        item = {k: v for k, v in corpus[idx].items() if k not in ("embedding", "embedding_norm")}
+        item["score"] = score
+        results.append(item)
 
-    if NEIGHBOR_WINDOW > 0:
-        idx_set = set(i for _, i in results)
-        extra = set()
-        for _, i in results:
-            for delta in range(-NEIGHBOR_WINDOW, NEIGHBOR_WINDOW + 1):
-                ni = i + delta
-                if 0 <= ni < len(corpus) and ni not in idx_set:
-                    extra.add(ni)
-        results += [(0.0, ni) for ni in sorted(extra)]
+    # If top results are still empty, return top 2 best non-zero keyword matches
+    if not results and ranked:
+        for score, idx in ranked[:2]:
+            if score > 0:
+                item = {k: v for k, v in corpus[idx].items() if k not in ("embedding", "embedding_norm")}
+                item["score"] = score
+                results.append(item)
 
-    return [
-        {
-            "score": s,
-            **{k: v for k, v in corpus[i].items() if k not in ("embedding", "embedding_norm")}
-        }
-        for s, i in results
-    ]
+    return results
 
 
 def split_questions(question: str) -> List[str]:
-    """Decompose compound questions into discrete inquiry segments."""
+    """Decompose compound questions."""
     parts = re.split(r"(?i)\b(?:and|also|plus|additionally)\b", question)
     return [p.strip() for p in parts if p.strip()]
 
@@ -374,7 +405,7 @@ def ask(question: str, top_k: int = TOP_K) -> Dict[str, Any]:
     for sub_q in sub_qs:
         for variant in expand_query(sub_q):
             q_vec = embed_query(variant)
-            chunks = retrieve(q_vec, corpus, top_k, MIN_SCORE)
+            chunks = retrieve_hybrid(variant, q_vec, corpus, top_k)
             for c in chunks:
                 key = (c["video_number"], c["chunk_number"])
                 if key not in seen_keys:
