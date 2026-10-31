@@ -39,7 +39,7 @@ BASE_DIR: Path = Path(__file__).resolve().parent.parent
 EMBEDDINGS_DIR: Path = BASE_DIR / "main_embedded_jsons"
 
 GROQ_API_KEY: str = os.getenv("GROQ_API_KEY", "")
-GROQ_MODEL: str = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
+GROQ_MODEL: str = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
 OLLAMA_URL: str = os.getenv("OLLAMA_URL", "http://localhost:11434")
 EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "bge-m3")
@@ -340,29 +340,46 @@ def generate_with_groq(context: str, question: str) -> str:
     if not api_key:
         raise ValueError("GROQ_API_KEY environment variable is not defined.")
 
-    model_name = os.getenv("GROQ_MODEL", "").strip() or "llama-3.1-8b-instant"
+    candidate_models = [
+        os.getenv("GROQ_MODEL", "").strip(),
+        "openai/gpt-oss-120b",
+        "openai/gpt-oss-20b",
+        "qwen/qwen3.8-27b",
+    ]
+    # Filter non-empty unique models in order
+    models_to_try = []
+    for m in candidate_models:
+        if m and m not in models_to_try:
+            models_to_try.append(m)
 
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
     }
-    payload = {
-        "model": model_name,
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": USER_PROMPT.format(context=context, question=question)},
-        ],
-        "temperature": 0.2,
-        "max_tokens": 1024,
-    }
 
-    resp = requests.post(url, headers=headers, json=payload, timeout=30)
-    if not resp.ok:
-        logger.error("Groq API error response: %s %s", resp.status_code, resp.text)
-        raise RuntimeError(f"Groq API returned status {resp.status_code}: {resp.text}")
+    last_error = ""
+    for model_name in models_to_try:
+        payload = {
+            "model": model_name,
+            "messages": [
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": USER_PROMPT.format(context=context, question=question)},
+            ],
+            "temperature": 0.2,
+            "max_tokens": 1024,
+        }
 
-    return resp.json()["choices"][0]["message"]["content"]
+        try:
+            resp = requests.post(url, headers=headers, json=payload, timeout=30)
+            if resp.ok:
+                return resp.json()["choices"][0]["message"]["content"]
+            last_error = f"{resp.status_code}: {resp.text}"
+            logger.warning("Model %s failed (%s). Trying next available model...", model_name, resp.status_code)
+        except Exception as err:
+            last_error = str(err)
+
+    raise RuntimeError(f"All Groq models failed. Last error: {last_error}")
 
 
 def generate_with_ollama(context: str, question: str) -> str:
