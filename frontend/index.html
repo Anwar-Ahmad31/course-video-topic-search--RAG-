@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <title>PyTutor AI — Autonomous Video Knowledge Engine</title>
+  <title>Course Video Topic Search — RAG Knowledge Engine</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
@@ -582,85 +582,202 @@
     }
 
     /* ══════════════════════════════════════════════════════════════════
-       SOURCE ACCORDION
+       MARKDOWN STYLING INSIDE BUBBLE
     ══════════════════════════════════════════════════════════════════ */
-    .sources-wrapper {
-      margin-top: 4px;
+    .message-bubble h2, .message-bubble h3, .message-bubble .md-h2, .message-bubble .md-h3 {
+      font-size: 14.5px;
+      font-weight: 700;
+      color: #93c5fd;
+      margin: 12px 0 6px 0;
+      padding-bottom: 4px;
+      border-bottom: 1px solid rgba(147, 197, 253, 0.15);
+      letter-spacing: -0.2px;
+    }
+    .message-bubble h2:first-child, .message-bubble h3:first-child,
+    .message-bubble .md-h2:first-child, .message-bubble .md-h3:first-child {
+      margin-top: 0;
+    }
+    .message-bubble p {
+      margin-bottom: 6px;
+      line-height: 1.55;
+    }
+    .message-bubble p:last-child {
+      margin-bottom: 0;
+    }
+    .message-bubble ul {
+      margin: 6px 0 8px 18px;
+    }
+    .message-bubble li {
+      margin-bottom: 4px;
+      line-height: 1.5;
     }
 
-    .sources-trigger {
+    /* ══════════════════════════════════════════════════════════════════
+       RELATED VIDEO LECTURES PANEL
+    ══════════════════════════════════════════════════════════════════ */
+    .video-panel-wrapper {
+      margin-top: 12px;
+      width: 100%;
+    }
+
+    .video-panel-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 9px 14px;
+      background: rgba(15, 23, 42, 0.85);
+      border: 1px solid rgba(59, 130, 246, 0.28);
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      user-select: none;
+      transition: var(--transition);
+    }
+    .video-panel-header:hover {
+      border-color: rgba(59, 130, 246, 0.55);
+      background: rgba(30, 58, 138, 0.2);
+    }
+
+    .video-header-left {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+    }
+
+    .video-play-badge {
       display: inline-flex;
       align-items: center;
-      gap: 6px;
-      padding: 6px 12px;
-      border-radius: 20px;
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      font-size: 11.5px;
-      color: var(--text-secondary);
-      cursor: pointer;
-      transition: var(--transition);
+      justify-content: center;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+      color: #ffffff;
+      font-size: 10px;
+      font-weight: 700;
+      box-shadow: 0 2px 6px rgba(59, 130, 246, 0.4);
+    }
+
+    .video-header-title {
+      font-size: 12.5px;
+      font-weight: 600;
+      color: #f1f5f9;
+      letter-spacing: -0.2px;
+    }
+
+    .video-header-count {
+      font-size: 11px;
+      color: #93c5fd;
+      background: rgba(59, 130, 246, 0.15);
+      padding: 2px 8px;
+      border-radius: 12px;
       font-weight: 500;
     }
 
-    .sources-trigger:hover, .sources-trigger:active {
-      border-color: var(--accent);
-      color: var(--text-primary);
+    .video-toggle-indicator {
+      font-size: 12px;
+      color: var(--text-muted);
+      transition: transform 0.25s ease;
+    }
+    .video-panel-wrapper.open .video-toggle-indicator {
+      transform: rotate(180deg);
     }
 
-    .sources-container {
-      display: none;
+    .video-cards-list {
+      display: flex;
       flex-direction: column;
       gap: 8px;
       margin-top: 8px;
     }
 
-    .sources-container.expanded {
-      display: flex;
+    .video-panel-wrapper:not(.open) .video-cards-list {
+      display: none;
     }
 
-    .source-item {
-      background: #0e121a;
-      border: 1px solid var(--border);
-      border-left: 3px solid var(--accent);
+    .video-lecture-card {
+      background: #0f141d;
+      border: 1px solid #1e293b;
+      border-left: 3px solid #3b82f6;
       border-radius: var(--radius-sm);
-      padding: 10px 12px;
+      padding: 11px 14px;
+      transition: var(--transition);
+    }
+    .video-lecture-card:hover {
+      border-color: #334155;
+      border-left-color: #60a5fa;
+      background: #141b27;
     }
 
-    .source-head {
+    .video-card-top {
       display: flex;
-      justify-content: space-between;
       align-items: center;
-      font-size: 12px;
-      font-weight: 600;
-      color: #ffffff;
-      margin-bottom: 3px;
-      gap: 6px;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 6px;
     }
 
-    .match-pill {
+    .video-title-group {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      flex-wrap: wrap;
+    }
+
+    .mod-badge {
+      display: inline-block;
+      font-size: 10.5px;
+      font-weight: 700;
+      background: rgba(59, 130, 246, 0.2);
+      color: #60a5fa;
+      padding: 2px 7px;
+      border-radius: 4px;
+      letter-spacing: 0.2px;
+    }
+
+    .mod-title {
+      font-size: 12.5px;
+      font-weight: 600;
+      color: #f8fafc;
+    }
+
+    .match-tag {
       font-size: 10.5px;
       padding: 2px 7px;
-      border-radius: 8px;
-      background: rgba(59, 130, 246, 0.15);
-      color: #60a5fa;
-      font-weight: 500;
+      border-radius: 6px;
+      background: rgba(16, 185, 129, 0.15);
+      color: #34d399;
+      font-weight: 600;
       white-space: nowrap;
     }
 
-    .source-timestamp {
+    .video-time-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11.5px;
+      color: #cbd5e1;
+    }
+
+    .time-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: #1e293b;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-family: 'JetBrains Mono', monospace;
       font-size: 11px;
-      color: var(--text-muted);
+      color: #38bdf8;
       font-weight: 500;
     }
 
-    .source-snippet {
+    .video-snippet-box {
       font-size: 11.5px;
-      color: var(--text-secondary);
+      color: #94a3b8;
       line-height: 1.45;
       margin-top: 6px;
-      border-top: 1px solid rgba(255, 255, 255, 0.05);
       padding-top: 6px;
+      border-top: 1px dashed rgba(255, 255, 255, 0.08);
+      font-style: italic;
     }
 
     /* ══════════════════════════════════════════════════════════════════
@@ -850,10 +967,10 @@
     <aside class="sidebar" id="sidebar">
       <div class="sidebar-brand">
         <div class="brand-group">
-          <div class="brand-logo">&#955;</div>
+          <div class="brand-logo">&#9654;</div>
           <div class="brand-meta">
-            <h1>PyTutor AI</h1>
-            <p>Lecture Knowledge Engine</p>
+            <h1>Video Topic Search</h1>
+            <p>52 Lecture Modules Indexed</p>
           </div>
         </div>
         <button class="sidebar-close-btn" onclick="closeSidebar()" aria-label="Close Sidebar">&times;</button>
@@ -913,7 +1030,7 @@
       <header class="top-navbar">
         <div class="nav-left">
           <button class="icon-button" onclick="toggleSidebar()" aria-label="Toggle Sidebar">&#9776;</button>
-          <span class="nav-title">Python Technical Assistant</span>
+          <span class="nav-title">Course Video Topic Search — RAG Engine</span>
         </div>
         <div class="nav-right">
           <div class="status-badge">
@@ -954,12 +1071,12 @@
     let isProcessing = false;
 
     const PRESET_INQUIRIES = [
-      "What is string immutability in Python?",
-      "Explain the operational mechanics of recursion.",
+      "What is set and tuple?",
       "What distinguishes a list from a tuple?",
-      "How are custom exceptions structured and raised?",
-      "How do decorators modify function execution?",
-      "Describe the role and behavior of lambda functions."
+      "How does recursion work with base cases?",
+      "What are lambda functions in Python?",
+      "How does exception handling and try-except work?",
+      "What is the Kaun Banega Crorepati (KBC) exercise?"
     ];
 
     document.addEventListener("DOMContentLoaded", () => {
@@ -1003,21 +1120,21 @@
       const stage = document.getElementById("conversation-stage");
       stage.innerHTML = `
         <div class="welcome-panel">
-          <div class="welcome-logo-badge">&#955;</div>
-          <h2>Enterprise Lecture Knowledge Assistant</h2>
-          <p>Context-grounded technical Q&A synthesizing indexed lecture transcripts with source timestamp traceability.</p>
+          <div class="welcome-logo-badge">&#9654;</div>
+          <h2>Course Video Topic Search</h2>
+          <p>Instant, direct explanations and exact second-by-second video citations across 52 Python lecture modules.</p>
           <div class="capabilities-grid">
             <div class="cap-card">
-              <h4>Context-Grounded</h4>
-              <p>Strictly bounded to lecture transcripts with zero hallucinations.</p>
+              <h4>Direct & Simple</h4>
+              <p>Crisp explanations focused on key concepts without unnecessary filler or bloated examples.</p>
             </div>
             <div class="cap-card">
-              <h4>Citation Tracing</h4>
-              <p>Exact module numbers and runtime second markers for each answer.</p>
+              <h4>Exact Video Timestamps</h4>
+              <p>Direct module numbers and exact start/end second intervals for every topic.</p>
             </div>
             <div class="cap-card">
-              <h4>Semantic Search</h4>
-              <p>1024-dimensional normalized vector retrieval via BGE-M3.</p>
+              <h4>Multi-Topic Queries</h4>
+              <p>Handles compound questions (e.g., 'What is set and tuple?') with balanced coverage.</p>
             </div>
           </div>
         </div>
@@ -1132,43 +1249,72 @@
 
     function renderMessageRow(role, content, sources, showPreview) {
       const timestamp = new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
-      const avatar = role === "user" ? "U" : "&#955;";
+      const avatar = role === "user" ? "U" : "&#9654;";
 
       let formatted = escapeHTML(content);
-      formatted = formatted.replace(/```(\w*)\n([\s\S]*?)```/g, "<pre><code>$2</code></pre>");
+      // Code blocks
+      formatted = formatted.replace(/```(\w*)\n([\s\S]*?)```/g, "<pre><code class='$1'>$2</code></pre>");
+      // Inline code
       formatted = formatted.replace(/`([^`]+)`/g, "<code>$1</code>");
+      // Headings
+      formatted = formatted.replace(/^### (.*$)/gim, "<h4 class='md-h3'>$1</h4>");
+      formatted = formatted.replace(/^## (.*$)/gim, "<h3 class='md-h2'>$1</h3>");
+      formatted = formatted.replace(/^# (.*$)/gim, "<h2 class='md-h2'>$1</h2>");
+      // Bold
       formatted = formatted.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
-      formatted = formatted.replace(/\n/g, "<br>");
+      // Lists
+      formatted = formatted.replace(/^\s*[-*]\s+(.*$)/gim, "<li>$1</li>");
+      formatted = formatted.replace(/(<li>.*<\/li>)/s, "<ul>$1</ul>");
+      // Line breaks
+      formatted = formatted.replace(/\n\n/g, "<br><br>").replace(/\n/g, "<br>");
 
       let citationsHTML = "";
       if (sources && sources.length > 0) {
-        const cid = `cite-${Date.now()}`;
+        const cid = `vid-${Date.now()}`;
+        const isPreviewEnabled = showPreview || (document.getElementById("cfg-preview") && document.getElementById("cfg-preview").checked);
+
         const items = sources.map((s) => {
           const startMin = Math.floor(s.start / 60);
           const startSec = String(Math.floor(s.start % 60)).padStart(2, "0");
           const endMin = Math.floor(s.end / 60);
           const endSec = String(Math.floor(s.end % 60)).padStart(2, "0");
           const timeRange = `${startMin}:${startSec} - ${endMin}:${endSec}`;
-          const snippetHTML = showPreview && s.text ? `<div class="source-snippet">${escapeHTML(s.text)}</div>` : "";
+
+          // Clean title boilerplate
+          let cleanTitle = s.title.replace(/\s*[\uff5c|?]\s*Python\s+Tutorial.*$/i, "").trim();
+          cleanTitle = cleanTitle.replace(/\s+in\s+Python\b/i, "").trim();
+
+          const snippetHTML = isPreviewEnabled && s.text ? `<div class="video-snippet-box">"${escapeHTML(s.text)}"</div>` : "";
 
           return `
-            <div class="source-item">
-              <div class="source-head">
-                <span>Module ${s.video_number}: ${escapeHTML(s.title)}</span>
-                <span class="match-pill">${Math.round(s.score * 100)}% Match</span>
+            <div class="video-lecture-card">
+              <div class="video-card-top">
+                <div class="video-title-group">
+                  <span class="mod-badge">Module ${s.video_number}</span>
+                  <span class="mod-title">${escapeHTML(cleanTitle)}</span>
+                </div>
+                <span class="match-tag">${Math.round(s.score * 100)}% Match</span>
               </div>
-              <div class="source-timestamp">Interval: ${timeRange}</div>
+              <div class="video-time-row">
+                <span class="time-chip">&#9654; ${timeRange}</span>
+                <span>(${Math.max(1, Math.round(s.end - s.start))}s clip)</span>
+              </div>
               ${snippetHTML}
             </div>
           `;
         }).join("");
 
         citationsHTML = `
-          <div class="sources-wrapper">
-            <button class="sources-trigger" onclick="toggleCitations('${cid}', this)">
-              <span>&#9776;</span> ${sources.length} Referenced Citations
-            </button>
-            <div class="sources-container" id="${cid}">${items}</div>
+          <div class="video-panel-wrapper open" id="${cid}-wrap">
+            <div class="video-panel-header" onclick="toggleVideoPanel('${cid}-wrap')">
+              <div class="video-header-left">
+                <span class="video-play-badge">&#9654;</span>
+                <span class="video-header-title">Related Video Lectures</span>
+                <span class="video-header-count">${sources.length} Clips</span>
+              </div>
+              <span class="video-toggle-indicator">&#9660;</span>
+            </div>
+            <div class="video-cards-list" id="${cid}">${items}</div>
           </div>
         `;
       }
@@ -1185,9 +1331,14 @@
       `;
     }
 
+    function toggleVideoPanel(wrapId) {
+      const wrap = document.getElementById(wrapId);
+      if (wrap) wrap.classList.toggle("open");
+    }
+
     function toggleCitations(id, btn) {
       const container = document.getElementById(id);
-      container.classList.toggle("expanded");
+      if (container) container.classList.toggle("expanded");
     }
 
     function autoScrollToBottom() {
